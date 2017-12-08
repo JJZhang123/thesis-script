@@ -1,0 +1,5 @@
+met de space traveller slaat lg de bal volledig mis .
+deze nieuwe versie werd ontworpen met het oog op betere en snellere werking van videogesprekken .
+op papier lijkt dit allemaal wel te kloppen, maar in de werkelijkheid is dit maar schijn .
+bij testing van het nieuwe product blijkt dat videogesprekken enkel snel zijn als je belt naar een nummer met dezelfde gsmoperator .
+bij andere operatoren blijft het beeld continu hangen en valt de klank meermaals weg .
