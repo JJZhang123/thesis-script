@@ -1,0 +1,66 @@
+ben/[1,2]|verb|-- / --|!/[9,10]|punct|1
+ben/[1,2]|verb|hd/mod|er/[0,1]|adv|1
+ben/[1,2]|verb|hd/predc|en/[7,8]|vg|1
+ben/[1,2]|verb|hd/su|film_DIM/[4,5]|noun|1
+en/[7,8]|vg|crd/cnj|licht/[8,9]|adj|1
+en/[7,8]|vg|crd/cnj|stroeperig/[6,7]|adj|1
+film_DIM/[4,5]|noun|hd/det|een/[2,3]|det|1
+film_DIM/[4,5]|noun|hd/mod|vreselijk/[3,4]|adj|1
+licht/[8,9]|adj|hd/mod|heel/[5,6]|adv|1
+stroeperig/[6,7]|adj|hd/mod|heel/[5,6]|adv|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+over/[4,5]|prep|hd/obj1|overal/[0,1]|adv|1
+top/top|top|top/hd|zie/[1,2]|verb|1
+zie/[1,2]|verb|-- / --|./[7,8]|punct|1
+zie/[1,2]|verb|dp/dp|dit/[5,6]|det|1
+zie/[1,2]|verb|dp/dp|film/[6,7]|noun|1
+zie/[1,2]|verb|hd/mod|over/[4,5]|prep|1
+zie/[1,2]|verb|hd/obj1|reclame/[3,4]|noun|1
+zie/[1,2]|verb|hd/su|je/[2,3]|pron|1
+als/[3,4]|comp|cmp/body|innovatie/[5,6]|noun|1
+filmgenre/[8,9]|noun|hd/det|de/[7,8]|det|1
+innovatie/[5,6]|noun|hd/det|een/[4,5]|det|1
+innovatie/[5,6]|noun|hd/mod|voor/[6,7]|prep|1
+presenteer/[2,3]|verb|hd/obj1|hij/[0,1]|pron|1
+presenteer/[2,3]|verb|hd/predc|als/[3,4]|comp|1
+top/top|top|top/hd|word/[1,2]|verb|1
+voor/[6,7]|prep|hd/obj1|filmgenre/[8,9]|noun|1
+word/[1,2]|verb|-- / --|!/[9,10]|punct|1
+word/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+word/[1,2]|verb|hd/vc|presenteer/[2,3]|verb|1
+ben/[3,4]|verb|hd/su|alles/[4,5]|noun|1
+ben/[3,4]|verb|hd/vc|keer_om/[5,6]|verb|1
+keer_om/[5,6]|verb|hd/mod|volgens/[1,2]|prep|1
+keer_om/[5,6]|verb|hd/obj1|alles/[4,5]|noun|1
+maar/[0,1]|comp|-- / --|./[6,7]|punct|1
+maar/[0,1]|comp|dlink/nucl|ben/[3,4]|verb|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+volgens/[1,2]|prep|hd/obj1|mij/[2,3]|pron|1
+ben/[1,2]|verb|-- / --|!/[12,13]|punct|1
+ben/[1,2]|verb|hd/mod|misschien/[2,3]|adv|1
+ben/[1,2]|verb|hd/mod|stom/[6,8]|adj|1
+ben/[1,2]|verb|hd/mod|wat/[10,11]|pron|1
+ben/[1,2]|verb|hd/obj2|film/[5,6]|noun|1
+ben/[1,2]|verb|hd/predc|roman_tik_comedy/[8,10]|noun|1
+ben/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+besta/[11,12]|verb|hd/su|wat/[10,11]|pron|1
+film/[5,6]|noun|hd/det|de/[3,4]|det|1
+film/[5,6]|noun|hd/mod|stom/[4,5]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+wat/[10,11]|pron|rhd/body|besta/[11,12]|verb|1
+ben/[5,6]|verb|hd/mod|helemaal/[12,13]|adv|1
+ben/[5,6]|verb|hd/mod|niets/[13,14]|noun|1
+ben/[5,6]|verb|hd/mod|nieuw/[14,15]|adj|1
+ben/[5,6]|verb|hd/obj2|classiek/[10,11]|adj|1
+ben/[5,6]|verb|hd/predc|thema/[11,12]|noun|1
+ben/[5,6]|verb|hd/su|oppervlakig,/[7,8]|noun|1
+classiek/[10,11]|adj|hd/det|een/[8,9]|det|1
+classiek/[10,11]|adj|hd/mod|heel/[9,10]|adv|1
+film/[4,5]|noun|hd/det|de/[3,4]|det|1
+oppervlakig,/[7,8]|noun|hd/mod|heel/[6,7]|adj|1
+thema/[1,2]|noun|-- / --|!/[15,16]|punct|1
+thema/[1,2]|noun|dp/dp|ben/[5,6]|verb|1
+thema/[1,2]|noun|hd/det|het/[0,1]|det|1
+thema/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+top/top|top|top/hd|thema/[1,2]|noun|1
+van/[2,3]|prep|hd/obj1|film/[4,5]|noun|1

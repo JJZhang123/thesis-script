@@ -1,0 +1,89 @@
+Harry Potter_serie/[6,8]|noun|hd/det|de/[5,6]|det|1
+acteer_prestatie/[19,20]|noun|hd/mod|sterk/[18,19]|adj|1
+en/[15,16]|vg|crd/cnj|Emma PROPNAME, Rupert Grint, Daniel Radcliffe/[9,15]|name|1
+en/[15,16]|vg|crd/cnj|Ralph Fiennes/[16,18]|name|1
+film/[3,4]|noun|hd/det|de/[1,2]|det|1
+film/[3,4]|noun|hd/mod|laat/[2,3]|adj|1
+film/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+in/[0,1]|prep|hd/obj1|film/[3,4]|noun|1
+top/top|top|top/hd|zet_neer/[8,9]|verb|1
+van/[4,5]|prep|hd/obj1|Harry Potter_serie/[6,8]|noun|1
+zet_neer/[8,9]|verb|-- / --|./[21,22]|punct|1
+zet_neer/[8,9]|verb|hd/mod|in/[0,1]|prep|1
+zet_neer/[8,9]|verb|hd/obj1|acteer_prestatie/[19,20]|noun|1
+zet_neer/[8,9]|verb|hd/su|en/[15,16]|vg|1
+zet_neer/[8,9]|verb|hd/svp|neer/[20,21]|part|1
+breng/[3,4]|verb|-- / --|./[8,9]|punct|1
+breng/[3,4]|verb|hd/mod|met/[0,1]|prep|1
+breng/[3,4]|verb|hd/mod|weer/[7,8]|adv|1
+breng/[3,4]|verb|hd/obj1|karakter/[6,7]|noun|1
+breng/[3,4]|verb|hd/su|zij/[4,5]|pron|1
+karakter/[6,7]|noun|hd/det|hun/[5,6]|det|1
+met/[0,1]|prep|hd/obj1|overtuiging/[2,3]|noun|1
+overtuiging/[2,3]|noun|hd/det|veel/[1,2]|adj|1
+top/top|top|top/hd|breng/[3,4]|verb|1
+Gruzie_element/[20,21]|noun|hd/det|de/[19,20]|det|1
+Relieken van de Dood/[13,17]|name|hd/det|de/[12,13]|det|1
+als/[3,4]|comp|cmp/body|kijker/[4,5]|noun|1
+in/[6,7]|prep|hd/obj1|zoek_tocht/[9,10]|noun|1
+naar/[18,19]|prep|hd/obj1|Gruzie_element/[20,21]|noun|1
+neem_mee/[5,6]|verb|hd/mod|daarnaast/[0,1]|pp|1
+neem_mee/[5,6]|verb|hd/mod|in/[6,7]|prep|1
+neem_mee/[5,6]|verb|hd/obj1|we/[2,3]|pron|1
+top/top|top|top/hd|word/[1,2]|verb|1
+word/[1,2]|verb|-- / --|./[21,22]|punct|1
+word/[1,2]|verb|-- / --|als/[17,18]|vg|1
+word/[1,2]|verb|-- / --|naar/[10,11]|prep|1
+word/[1,2]|verb|-- / --|zowel/[11,12]|vg|1
+word/[1,2]|verb|dp/dp|Relieken van de Dood/[13,17]|name|1
+word/[1,2]|verb|dp/dp|naar/[18,19]|prep|1
+word/[1,2]|verb|hd/predm|als/[3,4]|comp|1
+word/[1,2]|verb|hd/su|we/[2,3]|pron|1
+word/[1,2]|verb|hd/vc|neem_mee/[5,6]|verb|1
+zoek_tocht/[9,10]|noun|hd/det|een/[7,8]|det|1
+zoek_tocht/[9,10]|noun|hd/mod|spannend/[8,9]|adj|1
+begin/[18,19]|verb|hd/su|dat/[15,16]|pron|1
+begin/[18,19]|verb|hd/vc|te/[19,20]|comp|1
+dat/[15,16]|pron|rhd/body|begin/[18,19]|verb|1
+film/[3,4]|noun|hd/det|de/[1,2]|det|1
+film/[3,4]|noun|hd/mod|heel/[2,3]|adj|1
+gedurende/[0,1]|prep|hd/obj1|film/[3,4]|noun|1
+in/[10,11]|prep|hd/obj1|zondat/[14,15]|noun|1
+mysterie/[9,10]|noun|hd/det|het/[7,8]|det|1
+mysterie/[9,10]|noun|hd/mod|dat/[15,16]|pron|1
+mysterie/[9,10]|noun|hd/mod|ene/[8,9]|adj|1
+mysterie/[9,10]|noun|hd/mod|in/[10,11]|prep|1
+te/[19,20]|comp|cmp/body|word/[20,21]|verb|1
+top/top|top|top/hd|word/[4,5]|verb|1
+van/[6,7]|prep|hd/obj1|mysterie/[9,10]|noun|1
+word/[4,5]|verb|-- / --|./[21,22]|punct|1
+word/[4,5]|verb|hd/mod|gedurende/[0,1]|prep|1
+word/[4,5]|verb|hd/pc|van/[6,7]|prep|1
+word/[4,5]|verb|hd/su|je/[5,6]|pron|1
+word/[20,21]|verb|hd/mod|vermoeiend/[17,18]|adj|1
+word/[20,21]|verb|hd/predc|het/[16,17]|det|1
+word/[20,21]|verb|hd/su|dat/[15,16]|pron|1
+zondat/[14,15]|noun|hd/det|het/[11,12]|det|1
+zondat/[14,15]|noun|hd/mod|ander/[12,13]|adj|1
+zondat/[14,15]|noun|hd/mod|meegesleurd/[13,14]|adj|1
+einde/[1,2]|noun|hd/det|het/[0,1]|det|1
+einde/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+einde/[16,17]|noun|hd/det|het/[15,16]|det|1
+einde/[16,17]|noun|hd/mod|daarmee/[13,14]|pp|1
+einde/[16,17]|noun|hd/mod|ook/[14,15]|adv|1
+einde/[16,17]|noun|hd/mod|van/[17,18]|prep|1
+film/[4,5]|noun|hd/det|de/[3,4]|det|1
+geef/[5,6]|verb|hd/obj1|vooruitblik/[8,9]|noun|1
+geef/[5,6]|verb|hd/su|einde/[1,2]|noun|1
+maar/[12,13]|vg|-- / --|./[20,21]|punct|1
+maar/[12,13]|vg|crd/cnj|einde/[16,17]|noun|1
+maar/[12,13]|vg|crd/cnj|geef/[5,6]|verb|1
+naar/[9,10]|prep|hd/obj1|toekomst/[11,12]|noun|1
+serie/[19,20]|noun|hd/det|de/[18,19]|det|1
+toekomst/[11,12]|noun|hd/det|de/[10,11]|det|1
+top/top|top|top/hd|maar/[12,13]|vg|1
+van/[2,3]|prep|hd/obj1|film/[4,5]|noun|1
+van/[17,18]|prep|hd/obj1|serie/[19,20]|noun|1
+vooruitblik/[8,9]|noun|hd/det|een/[6,7]|det|1
+vooruitblik/[8,9]|noun|hd/mod|mooi/[7,8]|adj|1
+vooruitblik/[8,9]|noun|hd/mod|naar/[9,10]|prep|1

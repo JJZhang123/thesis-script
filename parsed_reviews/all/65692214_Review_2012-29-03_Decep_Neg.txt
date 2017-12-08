@@ -1,0 +1,71 @@
+boek/[1,2]|noun|hd/app|PROPNAME/[2,3]|name|1
+boek/[1,2]|noun|hd/det|het/[0,1]|det|1
+koop/[6,7]|verb|hd/obj1|boek/[1,2]|noun|1
+koop/[6,7]|verb|hd/su|niemand/[4,5]|pron|1
+top/top|top|top/hd|zal/[3,4]|verb|1
+wil/[5,6]|verb|hd/su|niemand/[4,5]|pron|1
+wil/[5,6]|verb|hd/vc|koop/[6,7]|verb|1
+zal/[3,4]|verb|-- / --|./[7,8]|punct|1
+zal/[3,4]|verb|hd/su|niemand/[4,5]|pron|1
+zal/[3,4]|verb|hd/vc|wil/[5,6]|verb|1
+ben/[4,5]|verb|-- / --|!/[7,8]|punct|1
+ben/[4,5]|verb|hd/predc|walgelijk/[6,7]|adj|1
+ben/[4,5]|verb|hd/su|onderwerp/[1,2]|noun|1
+onderwerp/[1,2]|noun|hd/det|het/[0,1]|det|1
+onderwerp/[1,2]|noun|hd/mod|alleen al/[2,4]|adv|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+walgelijk/[6,7]|adj|hd/mod|echt/[5,6]|adj|1
+dat/[2,3]|comp|cmp/body|zal/[5,6]|verb|1
+kan/[7,8]|verb|hd/su|je/[3,4]|pron|1
+laat staan/[0,2]|comp|-- / --|./[9,10]|punct|1
+laat staan/[0,2]|comp|cmp/body|dat/[2,3]|comp|1
+laat staan/[0,2]|comp|dp/dp|waterboarden/[8,9]|noun|1
+top/top|top|top/hd|laat staan/[0,2]|comp|1
+wil/[6,7]|verb|hd/su|je/[3,4]|pron|1
+wil/[6,7]|verb|hd/vc|kan/[7,8]|verb|1
+zal/[5,6]|verb|hd/predm|zelf/[4,5]|adv|1
+zal/[5,6]|verb|hd/su|je/[3,4]|pron|1
+zal/[5,6]|verb|hd/vc|wil/[6,7]|verb|1
+alhoewel/[0,1]|tag|-- / --|./[14,15]|punct|1
+alhoewel/[0,1]|tag|tag/nucl|dat/[1,2]|comp|1
+dat/[1,2]|comp|cmp/body|zal/[11,12]|verb|1
+in/[3,4]|prep|hd/obj1|Guantanamo Bay/[4,6]|name|1
+oplage/[10,11]|noun|hd/det|een/[8,9]|det|1
+oplage/[10,11]|noun|hd/mod|beperkt/[9,10]|adj|1
+schaf_aan/[13,14]|verb|hd/mod|in/[3,4]|prep|1
+schaf_aan/[13,14]|verb|hd/mod|misschien/[6,7]|adv|1
+schaf_aan/[13,14]|verb|hd/mod|wel/[7,8]|adj|1
+schaf_aan/[13,14]|verb|hd/obj1|oplage/[10,11]|noun|1
+schaf_aan/[13,14]|verb|hd/su|ze/[2,3]|pron|1
+top/top|top|top/hd|alhoewel/[0,1]|tag|1
+wil/[12,13]|verb|hd/su|ze/[2,3]|pron|1
+wil/[12,13]|verb|hd/vc|schaf_aan/[13,14]|verb|1
+zal/[11,12]|verb|hd/su|ze/[2,3]|pron|1
+zal/[11,12]|verb|hd/vc|wil/[12,13]|verb|1
+boek/[6,7]|noun|hd/det|dit/[5,6]|det|1
+boek_winkel/[13,14]|noun|hd/det|hun/[11,12]|det|1
+boek_winkel/[13,14]|noun|hd/mod|plaatselijk/[12,13]|adj|1
+in/[7,8]|prep|hd/obj1|rek/[9,10]|noun|1
+laat/[14,15]|verb|hd/obj1|boek/[6,7]|noun|1
+laat/[14,15]|verb|hd/su|persoon/[3,4]|noun|1
+laat/[14,15]|verb|hd/vc|sta/[15,16]|verb|1
+maar/[0,1]|comp|-- / --|./[16,17]|punct|1
+maar/[0,1]|comp|dlink/nucl|zal/[4,5]|verb|1
+persoon/[3,4]|noun|hd/det|elk/[1,2]|det|1
+persoon/[3,4]|noun|hd/mod|normaal/[2,3]|adj|1
+rek/[9,10]|noun|hd/det|de/[8,9]|det|1
+rek/[9,10]|noun|hd/mod|van/[10,11]|prep|1
+sta/[15,16]|verb|hd/ld|in/[7,8]|prep|1
+sta/[15,16]|verb|hd/su|boek/[6,7]|noun|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+van/[10,11]|prep|hd/obj1|boek_winkel/[13,14]|noun|1
+zal/[4,5]|verb|hd/su|persoon/[3,4]|noun|1
+zal/[4,5]|verb|hd/vc|laat/[14,15]|verb|1
+gooi/[6,7]|verb|hd/ld|in/[3,4]|prep|1
+gooi/[6,7]|verb|hd/mod|goed/[2,3]|adj|1
+gooi/[6,7]|verb|hd/mod|nog/[1,2]|adv|1
+in/[3,4]|prep|hd/obj1|vuilnisbak/[5,6]|noun|1
+of/[0,1]|comp|-- / --|!/[7,8]|punct|1
+of/[0,1]|comp|dlink/nucl|gooi/[6,7]|verb|1
+top/top|top|top/hd|of/[0,1]|comp|1
+vuilnisbak/[5,6]|noun|hd/det|de/[4,5]|det|1

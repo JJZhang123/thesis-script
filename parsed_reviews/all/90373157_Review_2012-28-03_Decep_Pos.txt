@@ -1,0 +1,63 @@
+band/[4,5]|noun|hd/det|de/[2,3]|det|1
+band/[4,5]|noun|hd/mod|kom_op/[3,4]|adj|1
+band/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/predc|band/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+moment/[7,8]|noun|hd/det|het/[6,7]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|moment/[7,8]|noun|1
+en/[5,6]|vg|crd/cnj|Mumford and Sons/[2,5]|name|1
+en/[5,6]|vg|crd/cnj|Noah and the Whale/[6,10]|name|1
+folk_rock_scène/[13,14]|noun|hd/det|de/[12,13]|det|1
+folk_rock_scène/[13,14]|noun|hd/mod|in/[14,15]|prep|1
+in/[14,15]|prep|hd/obj1|Londen/[15,16]|name|1
+met/[1,2]|prep|hd/obj1|en/[5,6]|vg|1
+samen/[0,1]|adj|hd/pc|met/[1,2]|prep|1
+top/top|top|top/hd|vorm/[10,11]|verb|1
+vorm/[10,11]|verb|-- / --|./[16,17]|punct|1
+vorm/[10,11]|verb|hd/obj1|folk_rock_scène/[13,14]|noun|1
+vorm/[10,11]|verb|hd/predm|samen/[0,1]|adj|1
+vorm/[10,11]|verb|hd/su|ze/[11,12]|pron|1
+en/[0,1]|comp|-- / --|!/[2,3]|punct|1
+en/[0,1]|comp|dlink/nucl|hoe/[1,2]|adj|1
+top/top|top|top/hd|en/[0,1]|comp|1
+en/[4,5]|vg|crd/cnj|muziek/[6,7]|noun|1
+en/[4,5]|vg|crd/cnj|tekst/[3,4]|noun|1
+laat/[7,8]|verb|-- / --|./[11,12]|punct|1
+laat/[7,8]|verb|hd/mod|met/[0,1]|prep|1
+laat/[7,8]|verb|hd/obj1|niemand/[9,10]|pron|1
+laat/[7,8]|verb|hd/predc|ongevoelig/[10,11]|adj|1
+laat/[7,8]|verb|hd/su|ze/[8,9]|pron|1
+met/[0,1]|prep|hd/obj1|en/[4,5]|vg|1
+muziek/[6,7]|noun|hd/det|hun/[1,2]|det|1
+muziek/[6,7]|noun|hd/mod|dromerig/[2,3]|adj|1
+muziek/[6,7]|noun|hd/mod|swing/[5,6]|adj|1
+tekst/[3,4]|noun|hd/det|hun/[1,2]|det|1
+tekst/[3,4]|noun|hd/mod|dromerig/[2,3]|adj|1
+top/top|top|top/hd|laat/[7,8]|verb|1
+ben/[3,4]|verb|-- / --|./[7,8]|punct|1
+ben/[3,4]|verb|hd/predc|en/[5,6]|vg|1
+ben/[3,4]|verb|hd/su|live_performance/[2,3]|noun|1
+en/[5,6]|vg|crd/cnj|overwelmend/[4,5]|adj|1
+en/[5,6]|vg|crd/cnj|sfeervol/[6,7]|adj|1
+live_performance/[2,3]|noun|hd/det|hun/[1,2]|det|1
+live_performance/[2,3]|noun|hd/mod|ook/[0,1]|adv|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+band/[3,4]|noun|hd/det|een/[2,3]|det|1
+band/[3,4]|noun|hd/mod|waar/[4,5]|adv|1
+ben/[1,2]|verb|-- / --|!/[14,15]|punct|1
+ben/[1,2]|verb|hd/predc|band/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|dit/[0,1]|det|1
+ga/[12,13]|verb|hd/su|we/[5,6]|pron|1
+ga/[12,13]|verb|hd/vc|hoor/[13,14]|verb|1
+hoor/[13,14]|verb|hd/mod|in/[6,7]|prep|1
+hoor/[13,14]|verb|hd/mod|nog/[9,10]|adv|1
+hoor/[13,14]|verb|hd/obj1|veel/[10,11]|adj|1
+hoor/[13,14]|verb|hd/pc|over/[11,12]|prep|1
+hoor/[13,14]|verb|hd/su|we/[5,6]|pron|1
+in/[6,7]|prep|hd/obj1|toekomst/[8,9]|noun|1
+over/[11,12]|prep|hd/obj1|waar/[4,5]|adv|1
+toekomst/[8,9]|noun|hd/det|de/[7,8]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+waar/[4,5]|adv|rhd/body|ga/[12,13]|verb|1

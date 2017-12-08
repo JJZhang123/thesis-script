@@ -1,0 +1,84 @@
+noem/[1,2]|verb|-- / --|./[5,6]|punct|1
+noem/[1,2]|verb|hd/mod|dan/[4,5]|adv|1
+noem/[1,2]|verb|hd/obj1|ze/[2,3]|pron|1
+noem/[1,2]|verb|hd/predc|zichzelf/[3,4]|pron|1
+noem/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+top/top|top|top/hd|noem/[1,2]|verb|1
+bal/[4,5]|noun|hd/det|de/[3,4]|det|1
+ben/[9,10]|verb|hd/su|pizzeria/[11,12]|noun|1
+ben/[9,10]|verb|hd/vc|te/[13,14]|comp|1
+mis/[6,7]|adj|hd/mod|volledig/[5,6]|adj|1
+naam/[1,2]|noun|hd/det|hun/[0,1]|det|1
+noem/[14,15]|verb|hd/mod|allerminst/[12,13]|adv|1
+noem/[14,15]|verb|hd/obj1|pizzeria/[11,12]|noun|1
+noem/[14,15]|verb|hd/predc|perfect/[8,9]|adj|1
+pizzeria/[11,12]|noun|hd/det|deze/[10,11]|det|1
+sla/[2,3]|verb|hd/obj1|bal/[4,5]|noun|1
+sla/[2,3]|verb|hd/predc|mis/[6,7]|adj|1
+sla/[2,3]|verb|hd/su|naam/[1,2]|noun|1
+te/[13,14]|comp|cmp/body|noem/[14,15]|verb|1
+top/top|top|top/hd|want/[7,8]|vg|1
+want/[7,8]|vg|-- / --|./[15,16]|punct|1
+want/[7,8]|vg|crd/cnj|ben/[9,10]|verb|1
+want/[7,8]|vg|crd/cnj|sla/[2,3]|verb|1
+aan/[4,5]|prep|hd/obj1|hoeveelheid/[6,7]|noun|1
+hoeveelheid/[6,7]|noun|hd/det|de/[5,6]|det|1
+hoeveelheid/[6,7]|noun|hd/mod|mens/[7,8]|noun|1
+kom_langs/[9,10]|verb|hd/mod|nog/[8,9]|adv|1
+merk/[1,2]|verb|-- / --|./[12,13]|punct|1
+merk/[1,2]|verb|dp/dp|kom_langs/[9,10]|verb|1
+merk/[1,2]|verb|dp/dp|slink/[10,11]|verb|1
+merk/[1,2]|verb|hd/mod|ook/[3,4]|adv|1
+merk/[1,2]|verb|hd/obj1|dat/[0,1]|det|1
+merk/[1,2]|verb|hd/pc|aan/[4,5]|prep|1
+merk/[1,2]|verb|hd/su|je/[2,3]|pron|1
+slink/[10,11]|verb|hd/mod|zienderogen/[11,12]|adv|1
+top/top|top|top/hd|merk/[1,2]|verb|1
+ben/[2,3]|verb|hd/mod|maar/[3,4]|adv|1
+ben/[2,3]|verb|hd/predc|normaal/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|dat/[1,2]|det|1
+en/[0,1]|comp|-- / --|!/[5,6]|punct|1
+en/[0,1]|comp|dlink/nucl|ben/[2,3]|verb|1
+top/top|top|top/hd|en/[0,1]|comp|1
+als/[14,15]|comparative|cmp/body|die/[15,16]|det|1
+die/[9,10]|pron|rhd/body|smaak/[13,14]|verb|1
+die/[15,16]|det|hd/mod|van/[16,17]|prep|1
+hetzelfde/[12,13]|det|hd/mod|net/[11,12]|adv|1
+hetzelfde/[12,13]|det|hd/obcomp|als/[14,15]|comparative|1
+merk/[18,19]|noun|hd/det|het/[17,18]|det|1
+merk/[18,19]|noun|hd/mod|van/[19,20]|prep|1
+moet/[1,2]|verb|-- / --|./[21,22]|punct|1
+moet/[1,2]|verb|hd/su|je/[0,1]|pron|1
+moet/[1,2]|verb|hd/vc|wacht/[5,6]|verb|1
+op/[6,7]|prep|hd/obj1|pizzas/[8,9]|noun|1
+pizzas/[8,9]|noun|hd/det|twee/[7,8]|num|1
+pizzas/[8,9]|noun|hd/mod|die/[9,10]|pron|1
+smaak/[13,14]|verb|hd/mod|dan/[10,11]|adv|1
+smaak/[13,14]|verb|hd/obj1|hetzelfde/[12,13]|det|1
+smaak/[13,14]|verb|hd/su|die/[9,10]|pron|1
+top/top|top|top/hd|moet/[1,2]|verb|1
+uur/[4,5]|noun|hd/det|een/[3,4]|det|1
+uur/[4,5]|noun|hd/mod|minstens/[2,3]|adv|1
+van/[16,17]|prep|hd/obj1|merk/[18,19]|noun|1
+van/[19,20]|prep|hd/obj1|Dr/[20,21]|name|1
+wacht/[5,6]|verb|hd/mod|uur/[4,5]|noun|1
+wacht/[5,6]|verb|hd/pc|op/[6,7]|prep|1
+wacht/[5,6]|verb|hd/su|je/[0,1]|pron|1
+Oetker/[0,1]|name|-- / --|./[1,2]|punct|1
+top/top|top|top/hd|Oetker/[0,1]|name|1
+./[1,2]|punct|-- / --|Oetker/[0,1]|name|1
+top/top|top|top/hd|./[1,2]|punct|1
+betaal/[7,8]|verb|hd/mod|dan/[6,7]|adv|1
+betaal/[7,8]|verb|hd/obj1|die/[4,5]|pron|1
+betaal/[7,8]|verb|hd/su|je/[5,6]|pron|1
+die/[4,5]|pron|rhd/body|betaal/[7,8]|verb|1
+om/[0,1]|comp|-- / --|!/[12,13]|punct|1
+om/[0,1]|comp|cmp/body|te/[10,11]|comp|1
+over/[1,2]|prep|hd/obj1|prijs/[3,4]|noun|1
+prijs/[3,4]|noun|hd/det|de/[2,3]|det|1
+prijs/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+te/[10,11]|comp|cmp/body|zwijg/[11,12]|verb|1
+top/top|top|top/hd|om/[0,1]|comp|1
+zwijg/[11,12]|verb|hd/mod|maar/[9,10]|adv|1
+zwijg/[11,12]|verb|hd/mod|nog/[8,9]|adv|1
+zwijg/[11,12]|verb|hd/pc|over/[1,2]|prep|1

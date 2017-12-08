@@ -1,0 +1,59 @@
+ben/[1,2]|verb|-- / --|./[15,16]|punct|1
+ben/[1,2]|verb|hd/predc|PROPNAME/[0,1]|name|1
+ben/[1,2]|verb|hd/su|fastfoodketen/[4,5]|noun|1
+burger/[14,15]|noun|hd/mod|goed/[13,14]|adj|1
+burger/[14,15]|noun|hd/mod|verschil/[12,13]|adj|1
+en/[9,10]|vg|crd/cnj|friet/[8,9]|noun|1
+en/[9,10]|vg|crd/cnj|keuze/[10,11]|noun|1
+fastfoodketen/[4,5]|noun|hd/det|een/[2,3]|det|1
+fastfoodketen/[4,5]|noun|hd/mod|fantastisch/[3,4]|adj|1
+fastfoodketen/[4,5]|noun|hd/mod|met/[5,6]|prep|1
+friet/[8,9]|noun|hd/det|de/[6,7]|det|1
+friet/[8,9]|noun|hd/mod|heerlijk/[7,8]|adj|1
+friet/[8,9]|noun|hd/mod|uit/[11,12]|prep|1
+keuze/[10,11]|noun|hd/det|de/[6,7]|det|1
+keuze/[10,11]|noun|hd/mod|heerlijk/[7,8]|adj|1
+keuze/[10,11]|noun|hd/mod|uit/[11,12]|prep|1
+met/[5,6]|prep|hd/obj1|en/[9,10]|vg|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+uit/[11,12]|prep|hd/obj1|burger/[14,15]|noun|1
+top/top|top|top/hd|voor/[0,1]|prep|1
+voor/[0,1]|prep|-- / --|!/[4,5]|punct|1
+voor/[0,1]|prep|dp/dp|wat wils/[2,4]|noun|1
+voor/[0,1]|prep|hd/obj1|ieder/[1,2]|pron|1
+ben/[5,6]|verb|-- / --|./[18,19]|punct|1
+ben/[5,6]|verb|hd/mod|in tegenstelling tot/[0,3]|prep|1
+ben/[5,6]|verb|hd/predc|en/[13,14]|vg|1
+ben/[5,6]|verb|hd/su|product/[7,8]|noun|1
+die/[8,9]|pron|rhd/body|gebruik/[11,12]|verb|1
+en/[13,14]|vg|crd/cnj|van/[14,15]|prep|1
+en/[13,14]|vg|crd/cnj|vers/[12,13]|adj|1
+fastfoodrestaurants/[4,5]|noun|hd/mod|ander/[3,4]|adj|1
+gebruik/[11,12]|verb|hd/mod|hier/[10,11]|adv|1
+gebruik/[11,12]|verb|hd/obj1|die/[8,9]|pron|1
+gebruik/[11,12]|verb|hd/su|ze/[9,10]|pron|1
+goed/[16,17]|adj|hd/mod|aanzienbaar/[15,16]|adj|1
+in tegenstelling tot/[0,3]|prep|hd/obj1|fastfoodrestaurants/[4,5]|noun|1
+kwaliteit/[17,18]|noun|hd/mod|goed/[16,17]|adj|1
+product/[7,8]|noun|hd/det|de/[6,7]|det|1
+product/[7,8]|noun|hd/mod|die/[8,9]|pron|1
+top/top|top|top/hd|ben/[5,6]|verb|1
+van/[14,15]|prep|hd/obj1|kwaliteit/[17,18]|noun|1
+PROPNAMEketens/[3,4]|name|hd/det|de/[2,3]|det|1
+ben/[12,13]|verb|hd/mod|bovenal/[11,12]|adv|1
+ben/[12,13]|verb|hd/mod|er/[15,16]|adv|1
+ben/[12,13]|verb|hd/predc|betaalbaar/[16,17]|adj|1
+ben/[12,13]|verb|hd/su|gerecht/[14,15]|noun|1
+en/[7,8]|vg|crd/cnj|schoon/[6,7]|adj|1
+en/[7,8]|vg|crd/cnj|verzorgd/[8,9]|adj|1
+en/[10,11]|vg|-- / --|./[17,18]|punct|1
+en/[10,11]|vg|crd/cnj|ben/[12,13]|verb|1
+en/[10,11]|vg|crd/cnj|zie/[1,2]|verb|1
+gerecht/[14,15]|noun|hd/det|de/[13,14]|det|1
+top/top|top|top/hd|en/[10,11]|vg|1
+uit/[9,10]|adj|hd/mod|en/[7,8]|vg|1
+zie/[1,2]|verb|hd/mod|altijd/[5,6]|adv|1
+zie/[1,2]|verb|hd/mod|daarnaast/[0,1]|pp|1
+zie/[1,2]|verb|hd/mod|er/[4,5]|adv|1
+zie/[1,2]|verb|hd/predc|uit/[9,10]|adj|1
+zie/[1,2]|verb|hd/su|PROPNAMEketens/[3,4]|name|1

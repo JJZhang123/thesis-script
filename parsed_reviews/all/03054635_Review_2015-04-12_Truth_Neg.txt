@@ -1,0 +1,67 @@
+ben/[2,3]|verb|-- / --|./[4,5]|punct|1
+ben/[2,3]|verb|hd/predc|overrated/[3,4]|noun|1
+ben/[2,3]|verb|hd/su|propname/[1,2]|noun|1
+propname/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+ben/[3,4]|verb|-- / --|./[11,12]|punct|1
+ben/[3,4]|verb|hd/mod|onhandig/[4,5]|adj|1
+ben/[3,4]|verb|hd/predc|om/[5,6]|comp|1
+ben/[3,4]|verb|hd/su|besturing_systeem/[1,2]|noun|1
+besturing_systeem/[1,2]|noun|hd/app|Windows/[2,3]|name|1
+besturing_systeem/[1,2]|noun|hd/det|het/[0,1]|det|1
+gebruik/[7,8]|verb|hd/pc|voor/[8,9]|prep|1
+om/[5,6]|comp|cmp/body|te/[6,7]|comp|1
+smartphone/[10,11]|noun|hd/det|een/[9,10]|det|1
+te/[6,7]|comp|cmp/body|gebruik/[7,8]|verb|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+voor/[8,9]|prep|hd/obj1|smartphone/[10,11]|noun|1
+concurreer/[4,5]|verb|hd/mod|niet/[3,4]|adv|1
+concurreer/[4,5]|verb|hd/pc|met/[5,6]|prep|1
+concurreer/[4,5]|verb|hd/su|Windows/[0,1]|name|1
+kan/[1,2]|verb|-- / --|./[9,10]|punct|1
+kan/[1,2]|verb|hd/su|Windows/[0,1]|name|1
+kan/[1,2]|verb|hd/vc|concurreer/[4,5]|verb|1
+met/[5,6]|prep|hd/obj1|of/[7,8]|vg|1
+niet/[3,4]|adv|hd/mod|zeker/[2,3]|adj|1
+of/[7,8]|vg|crd/cnj|Android/[8,9]|name|1
+of/[7,8]|vg|crd/cnj|iOs/[6,7]|name|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+design/[2,3]|noun|hd/det|de/[1,2]|det|1
+design/[2,3]|noun|hd/mod|ook/[0,1]|adv|1
+laat/[3,4]|verb|-- / --|./[6,7]|punct|1
+laat/[3,4]|verb|hd/obj1|het/[4,5]|noun|1
+laat/[3,4]|verb|hd/su|design/[2,3]|noun|1
+laat/[3,4]|verb|hd/svp|weet_af/[5,6]|verb|1
+top/top|top|top/hd|laat/[3,4]|verb|1
+PROPNAME/[9,10]|name|hd/det|een/[8,9]|det|1
+PROPNAME, PROPNAME/[5,7]|name|hd/det|een/[4,5]|det|1
+als/[0,1]|comp|cmp/body|kijk/[2,3]|verb|1
+flawless design/[13,15]|name|hd/det|een/[12,13]|det|1
+kijk/[2,3]|verb|hd/ld|naar/[3,4]|prep|1
+kijk/[2,3]|verb|hd/su|we/[1,2]|pron|1
+naar/[3,4]|prep|hd/obj1|of/[7,8]|vg|1
+of/[7,8]|vg|crd/cnj|PROPNAME/[9,10]|name|1
+of/[7,8]|vg|crd/cnj|PROPNAME, PROPNAME/[5,7]|name|1
+top/top|top|top/hd|zie/[10,11]|verb|1
+zie/[10,11]|verb|-- / --|./[15,16]|punct|1
+zie/[10,11]|verb|hd/mod|als/[0,1]|comp|1
+zie/[10,11]|verb|hd/obj1|flawless design/[13,15]|name|1
+zie/[10,11]|verb|hd/su|we/[11,12]|pron|1
+ben/[2,3]|verb|-- / --|./[7,8]|punct|1
+ben/[2,3]|verb|hd/predc|loch design/[5,7]|name|1
+ben/[2,3]|verb|hd/su|propname/[1,2]|noun|1
+loch design/[5,7]|name|hd/det|een/[3,4]|det|1
+loch design/[5,7]|name|hd/mod|vrij/[4,5]|adj|1
+propname/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+aan/[6,7]|prep|hd/obj1|niemand/[7,8]|pron|1
+bovengenoeme/[4,5]|noun|hd/app|GSM/[5,6]|name|1
+bovengenoeme/[4,5]|noun|hd/det|de/[3,4]|det|1
+bovengenoeme/[4,5]|noun|hd/mod|aan/[6,7]|prep|1
+raad_aan/[8,9]|verb|hd/mod|persoonlijk/[2,3]|adj|1
+raad_aan/[8,9]|verb|hd/obj1|bovengenoeme/[4,5]|noun|1
+raad_aan/[8,9]|verb|hd/su|ik/[0,1]|pron|1
+top/top|top|top/hd|zal/[1,2]|verb|1
+zal/[1,2]|verb|-- / --|./[9,10]|punct|1
+zal/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+zal/[1,2]|verb|hd/vc|raad_aan/[8,9]|verb|1

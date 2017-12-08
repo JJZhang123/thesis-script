@@ -1,0 +1,92 @@
+geleden/[7,8]|adj|hd/me|jaar/[6,7]|noun|1
+jaar/[6,7]|noun|hd/det|een/[5,6]|det|1
+jaar/[6,7]|noun|hd/mod|ongeveer/[4,5]|adv|1
+koop/[1,2]|verb|-- / --|./[8,9]|punct|1
+koop/[1,2]|verb|hd/mod|geleden/[7,8]|adj|1
+koop/[1,2]|verb|hd/obj1|propname/[3,4]|noun|1
+koop/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+propname/[3,4]|noun|hd/det|de/[2,3]|det|1
+top/top|top|top/hd|koop/[1,2]|verb|1
+ga_goed/[1,2]|verb|-- / --|./[10,11]|punct|1
+ga_goed/[1,2]|verb|dp/dp|werk/[8,9]|verb|1
+ga_goed/[1,2]|verb|hd/mod|eerst/[0,1]|adv|1
+ga_goed/[1,2]|verb|hd/mod|met/[4,5]|prep|1
+ga_goed/[1,2]|verb|hd/su|alles/[2,3]|noun|1
+ga_goed/[1,2]|verb|hd/svp|goed/[3,4]|part|1
+met/[4,5]|prep|hd/obj1|telefoon/[6,7]|noun|1
+telefoon/[6,7]|noun|hd/det|deze/[5,6]|det|1
+top/top|top|top/hd|ga_goed/[1,2]|verb|1
+werk/[8,9]|verb|hd/predc|perfect/[9,10]|adj|1
+werk/[8,9]|verb|hd/su|hij/[7,8]|pron|1
+PROPNAME startscherm/[15,17]|name|hd/det|het/[14,15]|det|1
+bevat/[9,10]|verb|hd/mod|op/[1,2]|prep|1
+bevat/[9,10]|verb|hd/obj1|fout/[8,9]|noun|1
+bevat/[9,10]|verb|hd/su|geheugen/[6,7]|noun|1
+dag/[3,4]|noun|hd/det|een/[2,3]|det|1
+en/[10,11]|vg|crd/cnj|bevat/[9,10]|verb|1
+en/[10,11]|vg|crd/cnj|spring/[17,18]|verb|1
+fout/[8,9]|noun|hd/det|een/[7,8]|det|1
+geheugen/[6,7]|noun|hd/det|het/[4,5]|det|1
+geheugen/[6,7]|noun|hd/mod|intern/[5,6]|adj|1
+op/[1,2]|prep|hd/obj1|dag/[3,4]|noun|1
+op/[13,14]|prep|hd/obj1|PROPNAME startscherm/[15,17]|name|1
+propname/[12,13]|noun|hd/det|de/[11,12]|det|1
+spring/[17,18]|verb|hd/ld|op/[13,14]|prep|1
+spring/[17,18]|verb|hd/su|propname/[12,13]|noun|1
+top/top|top|top/hd|totdat/[0,1]|comp|1
+totdat/[0,1]|comp|-- / --|./[18,19]|punct|1
+totdat/[0,1]|comp|cmp/body|en/[10,11]|vg|1
+batterij/[3,4]|noun|hd/det|de/[2,3]|det|1
+doe/[11,12]|verb|hd/mod|er/[7,8]|adv|1
+doe/[11,12]|verb|hd/mod|terug/[9,10]|adv|1
+doe/[11,12]|verb|hd/mod|weer/[8,9]|adv|1
+doe/[11,12]|verb|hd/predc|maar/[12,13]|vg|1
+doe/[11,12]|verb|hd/su|ik/[0,1]|pron|1
+en/[6,7]|vg|crd/cnj|doe/[11,12]|verb|1
+en/[6,7]|vg|crd/cnj|haal/[5,6]|verb|1
+haal/[5,6]|verb|hd/ld|eruit/[4,5]|pp|1
+haal/[5,6]|verb|hd/obj1|batterij/[3,4]|noun|1
+haal/[5,6]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|-- / --|./[17,18]|punct|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|en/[6,7]|vg|1
+maar/[12,13]|vg|crd/cnj|in/[10,11]|adj|1
+maar/[12,13]|vg|crd/cnj|start_scherm/[15,16]|noun|1
+start_scherm/[15,16]|noun|hd/det|het/[14,15]|det|1
+start_scherm/[15,16]|noun|hd/mod|alleen/[16,17]|adv|1
+start_scherm/[15,16]|noun|hd/mod|weer/[13,14]|adv|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+blijf/[8,9]|verb|hd/su|telefoon/[10,11]|noun|1
+blijf/[8,9]|verb|hd/vc|doe/[12,13]|verb|1
+doe/[12,13]|verb|hd/mod|nog/[7,8]|adv|1
+doe/[12,13]|verb|hd/obj1|niets/[11,12]|noun|1
+doe/[12,13]|verb|hd/su|telefoon/[10,11]|noun|1
+en/[6,7]|vg|-- / --|./[13,14]|punct|1
+en/[6,7]|vg|crd/cnj|blijf/[8,9]|verb|1
+en/[6,7]|vg|crd/cnj|probeer/[1,2]|verb|1
+factory reset,/[4,6]|name|hd/det|een/[3,4]|det|1
+probeer/[1,2]|verb|hd/mod|zelfs/[2,3]|adv|1
+probeer/[1,2]|verb|hd/obj1|factory reset,/[4,6]|name|1
+probeer/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+telefoon/[10,11]|noun|hd/det|de/[9,10]|det|1
+top/top|top|top/hd|en/[6,7]|vg|1
+aan/[3,4]|prep|hd/obj1|telefoon/[5,6]|noun|1
+die/[6,7]|pron|rhd/body|heb/[10,11]|verb|1
+geld/[1,2]|noun|-- / --|./[13,14]|punct|1
+geld/[1,2]|noun|hd/det|veel/[0,1]|adj|1
+geld/[1,2]|noun|hd/mod|weggegooid/[2,3]|adj|1
+heb/[10,11]|verb|hd/su|die/[6,7]|pron|1
+heb/[10,11]|verb|hd/vc|kan/[11,12]|verb|1
+kan/[11,12]|verb|hd/su|die/[6,7]|pron|1
+kan/[11,12]|verb|hd/vc|los_in/[12,13]|verb|1
+los_in/[12,13]|verb|hd/mod|nooit/[7,8]|adv|1
+los_in/[12,13]|verb|hd/obj1|verwachting/[9,10]|noun|1
+los_in/[12,13]|verb|hd/su|die/[6,7]|pron|1
+telefoon/[5,6]|noun|hd/det|een/[4,5]|det|1
+telefoon/[5,6]|noun|hd/mod|die/[6,7]|pron|1
+top/top|top|top/hd|geld/[1,2]|noun|1
+verwachting/[9,10]|noun|hd/det|de/[8,9]|det|1
+weggegooid/[2,3]|adj|hd/mod|aan/[3,4]|prep|1
+ster/[1,2]|noun|-- / --|./[2,3]|punct|1
+ster/[1,2]|noun|hd/det|25/[0,1]|num|1
+top/top|top|top/hd|ster/[1,2]|noun|1

@@ -1,0 +1,67 @@
+bouw_op/[10,11]|verb|hd/mod|om/[11,12]|comp|1
+bouw_op/[10,11]|verb|hd/mod|waarin/[3,4]|pp|1
+bouw_op/[10,11]|verb|hd/obj1|spanning/[5,6]|noun|1
+detective/[2,3]|noun|-- / --|./[19,20]|punct|1
+detective/[2,3]|noun|hd/det|een/[0,1]|det|1
+detective/[2,3]|noun|hd/mod|heerlijk/[1,2]|adj|1
+detective/[2,3]|noun|hd/mod|waarin/[3,4]|pp|1
+gedurende/[6,7]|prep|hd/obj1|paginas/[8,9]|noun|1
+kom/[18,19]|verb|hd/mod|dan/[12,13]|adv|1
+kom/[18,19]|verb|hd/pc|tot/[13,14]|prep|1
+om/[11,12]|comp|cmp/body|te/[17,18]|comp|1
+ontknoping/[16,17]|noun|hd/det|een/[14,15]|det|1
+ontknoping/[16,17]|noun|hd/mod|explosief/[15,16]|adj|1
+paginas/[8,9]|noun|hd/det|100/[7,8]|num|1
+spanning/[5,6]|noun|hd/det|de/[4,5]|det|1
+spanning/[5,6]|noun|hd/mod|gedurende/[6,7]|prep|1
+te/[17,18]|comp|cmp/body|kom/[18,19]|verb|1
+top/top|top|top/hd|detective/[2,3]|noun|1
+tot/[13,14]|prep|hd/obj1|ontknoping/[16,17]|noun|1
+waarin/[3,4]|pp|rhd/body|word/[9,10]|verb|1
+word/[9,10]|verb|hd/su|spanning/[5,6]|noun|1
+word/[9,10]|verb|hd/vc|bouw_op/[10,11]|verb|1
+been/[9,10]|noun|hd/det|het/[7,8]|det|1
+been/[9,10]|noun|hd/mod|juist/[8,9]|adj|1
+en/[12,13]|vg|-- / --|./[22,23]|punct|1
+en/[12,13]|vg|crd/cnj|kom/[13,14]|verb|1
+en/[12,13]|vg|crd/cnj|weet/[2,3]|verb|1
+hoek/[18,19]|noun|hd/det|de/[17,18]|det|1
+hoek/[18,19]|noun|hd/mod|met/[19,20]|prep|1
+kom/[13,14]|verb|hd/ld|uit/[16,17]|prep|1
+kom/[13,14]|verb|hd/mod|daardoor/[14,15]|pp|1
+kom/[13,14]|verb|hd/mod|verrassend/[15,16]|adj|1
+kom/[13,14]|verb|hd/su|schrijver/[1,2]|noun|1
+lezer/[4,5]|noun|hd/det|de/[3,4]|det|1
+met/[19,20]|prep|hd/obj1|plot_wending/[21,22]|noun|1
+op/[6,7]|prep|hd/obj1|been/[9,10]|noun|1
+plot_wending/[21,22]|noun|hd/det|de/[20,21]|det|1
+schrijver/[1,2]|noun|hd/det|de/[0,1]|det|1
+te/[10,11]|comp|cmp/body|zet/[11,12]|verb|1
+top/top|top|top/hd|en/[12,13]|vg|1
+uit/[16,17]|prep|hd/obj1|hoek/[18,19]|noun|1
+weet/[2,3]|verb|hd/mod|goed/[5,6]|adj|1
+weet/[2,3]|verb|hd/su|schrijver/[1,2]|noun|1
+weet/[2,3]|verb|hd/vc|te/[10,11]|comp|1
+zet/[11,12]|verb|hd/ld|op/[6,7]|prep|1
+zet/[11,12]|verb|hd/obj1|lezer/[4,5]|noun|1
+zet/[11,12]|verb|hd/su|schrijver/[1,2]|noun|1
+ben/[1,2]|verb|-- / --|./[17,18]|punct|1
+ben/[1,2]|verb|hd/predc|benieuwd/[3,4]|adj|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+benieuwd/[3,4]|adj|hd/mod|zeer/[2,3]|adv|1
+benieuwd/[3,4]|adj|hd/pc|naar/[4,5]|prep|1
+blijf_uit/[12,13]|verb|hd/mod|na/[13,14]|prep|1
+blijf_uit/[12,13]|verb|hd/mod|niet/[9,10]|adv|1
+blijf_uit/[12,13]|verb|hd/su|die/[7,8]|pron|1
+blijf_uit/[12,13]|verb|hd/svp|uit/[10,11]|part|1
+die/[7,8]|pron|rhd/body|kan/[11,12]|verb|1
+einde/[16,17]|noun|hd/det|het/[14,15]|det|1
+einde/[16,17]|noun|hd/mod|open/[15,16]|adj|1
+follow up/[6,7]|noun|hd/det|de/[5,6]|det|1
+follow up/[6,7]|noun|hd/mod|die/[7,8]|pron|1
+kan/[11,12]|verb|hd/su|die/[7,8]|pron|1
+kan/[11,12]|verb|hd/vc|blijf_uit/[12,13]|verb|1
+na/[13,14]|prep|hd/obj1|einde/[16,17]|noun|1
+naar/[4,5]|prep|hd/obj1|follow up/[6,7]|noun|1
+niet/[9,10]|adv|hd/mod|zeker/[8,9]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1

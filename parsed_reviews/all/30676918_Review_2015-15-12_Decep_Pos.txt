@@ -1,0 +1,95 @@
+in/[3,4]|prep|hd/obj1|neus/[5,6]|noun|1
+in/[19,20]|prep|hd/obj1|seventiestopper/[21,22]|noun|1
+kom/[13,14]|verb|-- / --|(-)/[6,7]|punct|1
+kom/[13,14]|verb|-- / --|(-)/[12,13]|punct|1
+kom/[13,14]|verb|-- / --|./[26,27]|punct|1
+kom/[13,14]|verb|hd/mod|helemaal/[22,23]|adv|1
+kom/[13,14]|verb|hd/mod|in/[19,20]|prep|1
+kom/[13,14]|verb|hd/mod|met/[0,1]|prep|1
+kom/[13,14]|verb|hd/pc|tot/[23,24]|prep|1
+kom/[13,14]|verb|hd/su|regie_kwaliteit/[15,16]|noun|1
+met/[0,1]|prep|hd/obj1|vinger/[2,3]|noun|1
+moet/[8,9]|verb|hd/su|ik/[9,10]|pron|1
+moet/[8,9]|verb|hd/vc|zeg/[10,11]|verb|1
+neus/[5,6]|noun|hd/det|de/[4,5]|det|1
+neus/[5,6]|noun|hd/mod|of/[7,8]|comp|1
+of/[7,8]|comp|cmp/body|moet/[8,9]|verb|1
+of/[7,8]|comp|dp/dp|pistool/[11,12]|noun|1
+recht/[25,26]|noun|hd/det|zijn/[24,25]|det|1
+regie_kwaliteit/[15,16]|noun|hd/det|de/[14,15]|det|1
+regie_kwaliteit/[15,16]|noun|hd/mod|van/[16,17]|prep|1
+seventiestopper/[21,22]|noun|hd/det|deze/[20,21]|det|1
+top/top|top|top/hd|kom/[13,14]|verb|1
+tot/[23,24]|prep|hd/obj1|recht/[25,26]|noun|1
+van/[16,17]|prep|hd/obj1|Quinten Tarantula/[17,19]|name|1
+vinger/[2,3]|noun|hd/det|de/[1,2]|det|1
+vinger/[2,3]|noun|hd/mod|in/[3,4]|prep|1
+zeg/[10,11]|verb|hd/su|ik/[9,10]|pron|1
+Grandma Youngpigeon/[3,5]|name|hd/mod|waarin/[2,3]|pp|1
+als/[18,19]|comp|cmp/body|knaller/[19,20]|noun|1
+ga_in/[12,13]|verb|hd/ld|toekomst/[16,17]|noun|1
+ga_in/[12,13]|verb|hd/mod|vanaf/[13,14]|prep|1
+ga_in/[12,13]|verb|hd/predm|als/[18,19]|comp|1
+ga_in/[12,13]|verb|hd/svp|in/[17,18]|part|1
+hoek_DIM/[9,10]|noun|hd/det|het/[8,9]|det|1
+knaller/[19,20]|noun|hd/mod|van/[20,21]|prep|1
+rivale/[7,8]|noun|hd/det|haar/[5,6]|det|1
+rivale/[7,8]|noun|hd/mod|groot/[6,7]|adj|1
+scène/[1,2]|noun|-- / --|./[22,23]|punct|1
+scène/[1,2]|noun|dp/dp|ga_in/[12,13]|verb|1
+scène/[1,2]|noun|dp/dp|help/[11,12]|verb|1
+scène/[1,2]|noun|dp/dp|hoek_DIM/[9,10]|noun|1
+scène/[1,2]|noun|dp/dp|om/[10,11]|adj|1
+scène/[1,2]|noun|dp/dp|rivale/[7,8]|noun|1
+scène/[1,2]|noun|hd/det|de/[0,1]|det|1
+scène/[1,2]|noun|hd/mod|waarin/[2,3]|pp|1
+toekomst/[16,17]|noun|hd/det|de/[15,16]|det|1
+top/top|top|top/hd|scène/[1,2]|noun|1
+van/[20,21]|prep|hd/obj1|formaat/[21,22]|noun|1
+vanaf/[13,14]|prep|hd/obj1|vandaag/[14,15]|adv|1
+waarin/[2,3]|pp|rhd/body|Grandma Youngpigeon/[3,5]|name|1
+aan/[11,12]|prep|hd/obj1|schietwerk,/[12,13]|noun|1
+aangezien/[2,3]|comp|cmp/body|eis/[7,8]|verb|1
+arm/[13,14]|adj|hd/mod|aan/[11,12]|prep|1
+arm/[13,14]|adj|hd/mod|uur/[10,11]|noun|1
+dan/[1,2]|adv|hd/mod|aangezien/[2,3]|comp|1
+eis/[7,8]|verb|hd/obj1|voorbereiding/[6,7]|noun|1
+eis/[7,8]|verb|hd/su|scène/[4,5]|noun|1
+letterlijk/[0,1]|adj|-- / --|./[15,16]|punct|1
+letterlijk/[0,1]|adj|dp/dp|dan/[1,2]|adv|1
+mens/[14,15]|noun|hd/mod|arm/[13,14]|adj|1
+scène/[4,5]|noun|hd/det|deze/[3,4]|det|1
+top/top|top|top/hd|letterlijk/[0,1]|adj|1
+uur/[10,11]|noun|hd/det|achtenzeventig/[9,10]|num|1
+van/[8,9]|prep|hd/obj1|mens/[14,15]|noun|1
+voorbereiding/[6,7]|noun|hd/det|een/[5,6]|det|1
+voorbereiding/[6,7]|noun|hd/mod|van/[8,9]|prep|1
+Mimi Olddove,/[15,17]|name|hd/mod|die/[17,18]|pron|1
+bloed/[2,3]|noun|-- / --|./[27,28]|punct|1
+bloed/[2,3]|noun|dp/dp|want/[14,15]|vg|1
+bloed/[2,3]|noun|hd/det|het/[0,1]|det|1
+bloed/[2,3]|noun|hd/mod|veel/[1,2]|adj|1
+die/[17,18]|pron|rhd/body|vertolk/[23,24]|verb|1
+doe/[24,25]|verb|hd/mod|ijzersterk/[26,27]|adj|1
+doe/[24,25]|verb|hd/obj1|het/[25,26]|det|1
+doe/[24,25]|verb|hd/su|Mimi Olddove,/[15,17]|name|1
+en/[6,7]|vg|crd/cnj|kogel/[8,9]|noun|1
+en/[6,7]|vg|crd/cnj|zweet/[5,6]|noun|1
+grootmoeder/[22,23]|noun|hd/det|ons/[21,22]|det|1
+heb/[9,10]|verb|hd/su|en/[6,7]|vg|1
+heb/[9,10]|verb|hd/vc|lever_op/[13,14]|verb|1
+kogel/[8,9]|noun|hd/mod|talloos/[7,8]|adj|1
+lever_op/[13,14]|verb|hd/mod|wel/[10,11]|adj|1
+lever_op/[13,14]|verb|hd/obj1|werk/[12,13]|noun|1
+lever_op/[13,14]|verb|hd/su|en/[6,7]|vg|1
+rol/[19,20]|noun|hd/det|de/[18,19]|det|1
+rol/[19,20]|noun|hd/mod|van/[20,21]|prep|1
+top/top|top|top/hd|bloed/[2,3]|noun|1
+van/[20,21]|prep|hd/obj1|grootmoeder/[22,23]|noun|1
+vertolk/[23,24]|verb|hd/obj1|rol/[19,20]|noun|1
+vertolk/[23,24]|verb|hd/su|die/[17,18]|pron|1
+want/[14,15]|vg|crd/cnj|doe/[24,25]|verb|1
+want/[14,15]|vg|crd/cnj|heb/[9,10]|verb|1
+werk/[12,13]|noun|hd/det|hun/[11,12]|det|1
+zweet/[5,6]|noun|hd/det|het/[3,4]|det|1
+zweet/[5,6]|noun|hd/mod|drup/[4,5]|adj|1

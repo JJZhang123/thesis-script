@@ -1,0 +1,81 @@
+Realistisch,/[0,1]|name|-- / --|.. /[4,5]|punct|1
+Realistisch,/[0,1]|name|dp/dp|en/[2,3]|vg|1
+en/[2,3]|vg|crd/cnj|puur/[1,2]|adj|1
+en/[2,3]|vg|crd/cnj|romantisch/[3,4]|adj|1
+top/top|top|top/hd|Realistisch,/[0,1]|name|1
+PROPNAME/[6,7]|name|hd/det|een/[5,6]|det|1
+ben/[1,2]|verb|-- / --|./[7,8]|punct|1
+ben/[1,2]|verb|hd/predc|kern_woord/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|dat/[0,1]|noun|1
+bij/[4,5]|prep|hd/obj1|PROPNAME/[6,7]|name|1
+kern_woord/[3,4]|noun|hd/det|de/[2,3]|det|1
+kern_woord/[3,4]|noun|hd/mod|bij/[4,5]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+boek/[2,3]|noun|-- / --|./[12,13]|punct|1
+boek/[2,3]|noun|hd/det|een/[0,1]|det|1
+boek/[2,3]|noun|hd/mod|dat/[3,4]|pron|1
+boek/[2,3]|noun|hd/mod|heerlijk/[1,2]|adj|1
+dat/[3,4]|pron|rhd/body|moet/[10,11]|verb|1
+in/[6,7]|prep|hd/obj1|ruk/[8,9]|noun|1
+lees_uit/[11,12]|verb|hd/mod|in/[6,7]|prep|1
+lees_uit/[11,12]|verb|hd/mod|wel/[5,6]|adj|1
+lees_uit/[11,12]|verb|hd/obj1|dat/[3,4]|pron|1
+lees_uit/[11,12]|verb|hd/su|men/[4,5]|pron|1
+lees_uit/[11,12]|verb|hd/svp|uit/[9,10]|part|1
+moet/[10,11]|verb|hd/su|men/[4,5]|pron|1
+moet/[10,11]|verb|hd/vc|lees_uit/[11,12]|verb|1
+ruk/[8,9]|noun|hd/det|een/[7,8]|det|1
+top/top|top|top/hd|boek/[2,3]|noun|1
+als/[18,19]|comp|cmp/body|krijg/[22,23]|verb|1
+alsof/[23,24]|comp|cmp/body|maak_mee/[28,29]|verb|1
+auteur/[1,2]|noun|hd/det|de/[0,1]|det|1
+boek,waardoor/[16,17]|noun|hd/det|het/[15,16]|det|1
+gevoel/[21,22]|noun|hd/det|het/[20,21]|det|1
+hoofd_personage/[13,14]|noun|hd/det|de/[12,13]|det|1
+hoofd_personage/[13,14]|noun|hd/mod|in/[14,15]|prep|1
+in/[14,15]|prep|hd/obj1|boek,waardoor/[16,17]|noun|1
+je/[17,18]|pron|hd/mod|als/[18,19]|comp|1
+krijg/[22,23]|verb|hd/mod|alsof/[23,24]|comp|1
+krijg/[22,23]|verb|hd/obj1|gevoel/[21,22]|noun|1
+krijg/[22,23]|verb|hd/su|lezer/[19,20]|noun|1
+laat/[2,3]|verb|-- / --|./[29,30]|punct|1
+laat/[2,3]|verb|-- / --|de/[3,4]|det|1
+laat/[2,3]|verb|-- / --|detail/[8,9]|prefix|1
+laat/[2,3]|verb|-- / --|en/[6,7]|vg|1
+laat/[2,3]|verb|-- / --|in/[7,8]|prep|1
+laat/[2,3]|verb|-- / --|lezer/[4,5]|prefix|1
+laat/[2,3]|verb|dp/dp|kennis/[9,10]|noun|1
+laat/[2,3]|verb|dp/dp|maak/[10,11]|verb|1
+laat/[2,3]|verb|dp/dp|uitgebreid/[5,6]|adj|1
+laat/[2,3]|verb|hd/su|auteur/[1,2]|noun|1
+maak/[10,11]|verb|hd/mod|met/[11,12]|prep|1
+maak/[10,11]|verb|hd/obj1|je/[17,18]|pron|1
+maak_mee/[28,29]|verb|hd/obj1|verhaal/[26,27]|noun|1
+maak_mee/[28,29]|verb|hd/predm|zelf/[27,28]|adv|1
+maak_mee/[28,29]|verb|hd/su|je/[24,25]|pron|1
+met/[11,12]|prep|hd/obj1|hoofd_personage/[13,14]|noun|1
+top/top|top|top/hd|laat/[2,3]|verb|1
+verhaal/[26,27]|noun|hd/det|het/[25,26]|det|1
+anekdote/[6,7]|noun|hd/mod|leerzaam/[5,6]|adj|1
+en/[2,3]|vg|-- / --|./[7,8]|punct|1
+en/[2,3]|vg|crd/cnj|herkenbaar/[1,2]|adj|1
+en/[2,3]|vg|crd/cnj|vol/[3,4]|adj|1
+herkenbaar/[1,2]|adj|hd/mod|erg/[0,1]|adj|1
+met/[4,5]|prep|hd/obj1|anekdote/[6,7]|noun|1
+top/top|top|top/hd|en/[2,3]|vg|1
+vol/[3,4]|adj|hd/pc|met/[4,5]|prep|1
+aanrader/[2,3]|noun|-- / --|!/[11,12]|punct|1
+aanrader/[2,3]|noun|hd/det|een/[0,1]|det|1
+aanrader/[2,3]|noun|hd/mod|voor/[3,4]|prep|1
+aanrader/[2,3]|noun|hd/mod|waar/[1,2]|adj|1
+dame/[8,9]|noun|hd/det|de/[4,5]|det|1
+dame/[8,9]|noun|hd/mod|echt/[5,6]|adj|1
+dame/[8,9]|noun|hd/mod|onder/[9,10]|prep|1
+en/[7,8]|vg|crd/cnj|dame/[8,9]|noun|1
+en/[7,8]|vg|crd/cnj|heer/[6,7]|noun|1
+heer/[6,7]|noun|hd/det|de/[4,5]|det|1
+heer/[6,7]|noun|hd/mod|echt/[5,6]|adj|1
+heer/[6,7]|noun|hd/mod|onder/[9,10]|prep|1
+onder/[9,10]|prep|hd/obj1|ons/[10,11]|pron|1
+top/top|top|top/hd|aanrader/[2,3]|noun|1
+voor/[3,4]|prep|hd/obj1|en/[7,8]|vg|1

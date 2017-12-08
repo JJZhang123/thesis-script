@@ -1,0 +1,71 @@
+ben/[1,2]|verb|-- / --|./[6,7]|punct|1
+ben/[1,2]|verb|hd/predc|boek/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+boek/[5,6]|noun|hd/det|een/[2,3]|det|1
+boek/[5,6]|noun|hd/mod|overbodig/[4,5]|adj|1
+overbodig/[4,5]|adj|hd/mod|totaal/[3,4]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+achterhaald/[5,6]|adj|hd/mod|volledig/[4,5]|adj|1
+ben/[3,4]|verb|-- / --|./[6,7]|punct|1
+ben/[3,4]|verb|hd/predc|achterhaald/[5,6]|adj|1
+ben/[3,4]|verb|hd/su|techniek/[2,3]|noun|1
+techniek/[2,3]|noun|hd/det|de/[0,1]|det|1
+techniek/[2,3]|noun|hd/mod|uitgelegd/[1,2]|adj|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+ben/[11,12]|verb|-- / --|./[15,16]|punct|1
+ben/[11,12]|verb|hd/obj2|mij/[12,13]|pron|1
+ben/[11,12]|verb|hd/predc|raadsel/[14,15]|noun|1
+ben/[11,12]|verb|hd/su|hoe/[0,1]|adj|1
+boek/[8,9]|noun|hd/det|een/[7,8]|det|1
+door/[6,7]|prep|hd/obj1|boek/[8,9]|noun|1
+hoe/[0,1]|adj|whd/body|kan/[3,4]|verb|1
+kan/[3,4]|verb|hd/su|iemand/[1,2]|noun|1
+kan/[3,4]|verb|hd/vc|leer/[4,5]|verb|1
+leer/[4,5]|verb|hd/mod|hoe/[0,1]|adj|1
+leer/[4,5]|verb|hd/mod|überhaupt/[2,3]|adv|1
+leer/[4,5]|verb|hd/su|iemand/[1,2]|noun|1
+leer/[4,5]|verb|hd/vc|te/[9,10]|comp|1
+lees/[10,11]|verb|hd/mod|door/[6,7]|prep|1
+lees/[10,11]|verb|hd/obj1|waterboarden/[5,6]|noun|1
+lees/[10,11]|verb|hd/su|iemand/[1,2]|noun|1
+raadsel/[14,15]|noun|hd/det|een/[13,14]|det|1
+te/[9,10]|comp|cmp/body|lees/[10,11]|verb|1
+top/top|top|top/hd|ben/[11,12]|verb|1
+en/[9,10]|vg|-- / --|./[15,16]|punct|1
+en/[9,10]|vg|crd/cnj|lees/[10,11]|verb|1
+en/[9,10]|vg|crd/cnj|ontbreek/[1,2]|verb|1
+in/[6,7]|prep|hd/obj1|totaal_plaat_DIM/[8,9]|noun|1
+lees/[10,11]|verb|hd/mod|daarenboven/[0,1]|adv|1
+lees/[10,11]|verb|hd/mod|niet/[13,14]|adv|1
+lees/[10,11]|verb|hd/mod|vlot/[14,15]|adj|1
+lees/[10,11]|verb|hd/su|het/[11,12]|det|1
+niet/[13,14]|adv|hd/mod|helemaal/[12,13]|adv|1
+ontbreek/[1,2]|verb|hd/mod|daarenboven/[0,1]|adv|1
+ontbreek/[1,2]|verb|hd/mod|er/[2,3]|adv|1
+ontbreek/[1,2]|verb|hd/su|structuur/[5,6]|noun|1
+structuur/[5,6]|noun|hd/det|een/[3,4]|det|1
+structuur/[5,6]|noun|hd/mod|degelijk/[4,5]|adj|1
+structuur/[5,6]|noun|hd/mod|in/[6,7]|prep|1
+top/top|top|top/hd|en/[9,10]|vg|1
+totaal_plaat_DIM/[8,9]|noun|hd/det|het/[7,8]|det|1
+doel_publiek/[2,3]|noun|hd/det|het/[1,2]|det|1
+gezien/[0,1]|prep|hd/obj1|doel_publiek/[2,3]|noun|1
+lijk/[3,4]|verb|-- / --|./[10,11]|punct|1
+lijk/[3,4]|verb|hd/mod|gezien/[0,1]|prep|1
+lijk/[3,4]|verb|hd/mod|juist/[6,7]|adj|1
+lijk/[3,4]|verb|hd/obj2|me/[5,6]|pron|1
+lijk/[3,4]|verb|hd/predc|vereiste/[9,10]|noun|1
+lijk/[3,4]|verb|hd/su|dit/[4,5]|det|1
+top/top|top|top/hd|lijk/[3,4]|verb|1
+vereiste/[9,10]|noun|hd/det|een/[7,8]|det|1
+vereiste/[9,10]|noun|hd/mod|belangrijk/[8,9]|adj|1
+hopelijk/[0,1]|adj|-- / --|./[10,11]|punct|1
+hopelijk/[0,1]|adj|-- / --|de/[2,3]|det|1
+hopelijk/[0,1]|adj|-- / --|voort/[9,10]|part|1
+hopelijk/[0,1]|adj|-- / --|zet/[1,2]|verb|1
+hopelijk/[0,1]|adj|dp/dp|lijn/[7,8]|noun|1
+hopelijk/[0,1]|adj|dp/dp|voor/[3,4]|prep|1
+lijn/[7,8]|noun|dp/dp|niet/[8,9]|adv|1
+lijn/[7,8]|noun|hd/det|deze/[6,7]|det|1
+top/top|top|top/hd|hopelijk/[0,1]|adj|1
+voor/[3,4]|prep|hd/obj1|dummies_uitgever/[4,6]|noun|1

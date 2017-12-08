@@ -1,0 +1,61 @@
+aangekondigd/[5,6]|adj|hd/mod|in/[2,3]|prep|1
+beeldkwaliteit,/[12,13]|noun|hd/det|de/[9,10]|det|1
+en/[11,12]|vg|crd/cnj|beeldkwaliteit,/[12,13]|noun|1
+en/[11,12]|vg|crd/cnj|video_gesprek/[10,11]|noun|1
+in/[2,3]|prep|hd/obj1|reclameboodschap/[4,5]|noun|1
+laat_over/[13,14]|verb|-- / --|./[20,21]|punct|1
+laat_over/[13,14]|verb|hd/mod|ondanks/[0,1]|prep|1
+laat_over/[13,14]|verb|hd/mod|vaak/[16,17]|adj|1
+laat_over/[13,14]|verb|hd/su|propname/[15,16]|noun|1
+laat_over/[13,14]|verb|hd/svp|over/[19,20]|part|1
+laat_over/[13,14]|verb|hd/svp|te wensen/[17,19]|fixed|1
+ondanks/[0,1]|prep|hd/obj1|verbetering/[6,7]|noun|1
+propname/[15,16]|noun|hd/det|de/[14,15]|det|1
+reclameboodschap/[4,5]|noun|hd/det|de/[3,4]|det|1
+top/top|top|top/hd|laat_over/[13,14]|verb|1
+verbetering/[6,7]|noun|hd/det|de/[1,2]|det|1
+verbetering/[6,7]|noun|hd/mod|aangekondigd/[5,6]|adj|1
+verbetering/[6,7]|noun|hd/mod|wat betreft/[7,9]|prep|1
+video_gesprek/[10,11]|noun|hd/det|de/[9,10]|det|1
+wat betreft/[7,9]|prep|hd/obj1|en/[11,12]|vg|1
+en/[11,12]|vg|-- / --|./[20,21]|punct|1
+en/[11,12]|vg|crd/cnj|kom_door/[4,5]|verb|1
+en/[11,12]|vg|crd/cnj|val_weg/[13,14]|verb|1
+kom_door/[4,5]|verb|hd/mod|met/[6,7]|prep|1
+kom_door/[4,5]|verb|hd/mod|vaak/[5,6]|adj|1
+kom_door/[4,5]|verb|hd/su|zowel/[0,1]|vg|1
+kom_door/[4,5]|verb|hd/svp|door/[10,11]|part|1
+met/[6,7]|prep|hd/obj1|of/[8,9]|vg|1
+of/[8,9]|vg|crd/cnj|schok/[9,10]|noun|1
+of/[8,9]|vg|crd/cnj|vertraging/[7,8]|noun|1
+op/[16,17]|prep|hd/obj1|tijdstip/[18,19]|noun|1
+tijdstip/[18,19]|noun|hd/mod|geregeld/[17,18]|adj|1
+top/top|top|top/hd|en/[11,12]|vg|1
+val_weg/[13,14]|verb|hd/mod|bovendien/[12,13]|adv|1
+val_weg/[13,14]|verb|hd/su|verbinding/[15,16]|noun|1
+val_weg/[13,14]|verb|hd/svp|weg/[19,20]|part|1
+verbinding/[15,16]|noun|hd/det|de/[14,15]|det|1
+verbinding/[15,16]|noun|hd/mod|op/[16,17]|prep|1
+zowel/[0,1]|vg|crd/cnj|beeld/[1,2]|noun|1
+zowel/[0,1]|vg|crd/cnj|geluid/[3,4]|noun|1
+zowel/[0,1]|vg|crd/crd|als/[2,3]|vg|1
+dat/[4,5]|pron|rhd/body|tracht/[14,15]|verb|1
+door/[5,6]|prep|hd/obj1|gebruiker/[7,8]|noun|1
+gebruiker/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+gebruiker/[7,8]|noun|hd/mod|veel/[6,7]|adj|1
+leg/[17,18]|verb|hd/mod|door/[5,6]|prep|1
+leg/[17,18]|verb|hd/obj1|dat/[4,5]|pron|1
+leg/[17,18]|verb|hd/svp|aan de dag/[11,14]|fixed|1
+met/[1,2]|prep|hd/obj1|professionalisme/[3,4]|noun|1
+professionalisme/[3,4]|noun|hd/det|het/[2,3]|det|1
+professionalisme/[3,4]|noun|hd/mod|dat/[4,5]|pron|1
+te/[15,16]|comp|cmp/body|word/[16,17]|verb|1
+toepassing/[10,11]|noun|hd/det|deze/[9,10]|det|1
+top/top|top|top/hd|vaarwel/[0,1]|noun|1
+tracht/[14,15]|verb|hd/su|dat/[4,5]|pron|1
+tracht/[14,15]|verb|hd/vc|te/[15,16]|comp|1
+vaarwel/[0,1]|noun|-- / --|./[18,19]|punct|1
+vaarwel/[0,1]|noun|hd/mod|met/[1,2]|prep|1
+van/[8,9]|prep|hd/obj1|toepassing/[10,11]|noun|1
+word/[16,17]|verb|hd/su|dat/[4,5]|pron|1
+word/[16,17]|verb|hd/vc|leg/[17,18]|verb|1

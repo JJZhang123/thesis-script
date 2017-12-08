@@ -1,0 +1,67 @@
+aan/[3,4]|prep|hd/obj1|drank/[4,5]|noun|1
+aan/[6,7]|prep|hd/obj1|vast/[7,8]|adj|1
+ben/[12,13]|verb|hd/su|die/[9,10]|pron|1
+ben/[12,13]|verb|hd/vc|te/[10,11]|comp|1
+bij/[13,14]|prep|hd/obj1|propname/[14,15]|noun|1
+die/[9,10]|pron|rhd/body|ben/[12,13]|verb|1
+geef/[15,16]|verb|-- / --|./[21,22]|punct|1
+geef/[15,16]|verb|hd/mod|snel/[17,18]|adj|1
+geef/[15,16]|verb|hd/obj1|gevoel/[20,21]|noun|1
+geef/[15,16]|verb|hd/su|zowel/[0,1]|vg|1
+gevoel/[20,21]|noun|hd/det|een/[18,19]|det|1
+gevoel/[20,21]|noun|hd/mod|bevredigend/[19,20]|adj|1
+merendeel/[2,3]|noun|hd/det|het/[1,2]|det|1
+merendeel/[2,3]|noun|hd/mod|aan/[3,4]|prep|1
+snel/[17,18]|adj|hd/mod|al/[16,17]|adv|1
+substantie/[8,9]|noun|hd/mod|aan/[6,7]|prep|1
+substantie/[8,9]|noun|hd/mod|die/[9,10]|pron|1
+te/[10,11]|comp|cmp/body|verkrijg/[11,12]|verb|1
+top/top|top|top/hd|geef/[15,16]|verb|1
+verkrijg/[11,12]|verb|hd/mod|bij/[13,14]|prep|1
+verkrijg/[11,12]|verb|hd/obj1|die/[9,10]|pron|1
+zowel/[0,1]|vg|crd/cnj|merendeel/[2,3]|noun|1
+zowel/[0,1]|vg|crd/cnj|substantie/[8,9]|noun|1
+zowel/[0,1]|vg|crd/crd|als/[5,6]|vg|1
+honger/[1,2]|noun|hd/det|je/[0,1]|det|1
+snel/[4,5]|adj|hd/mod|al/[3,4]|adv|1
+stil/[5,6]|verb|hd/mod|snel/[4,5]|adj|1
+stil/[5,6]|verb|hd/obj1|honger/[1,2]|noun|1
+top/top|top|top/hd|word/[2,3]|verb|1
+word/[2,3]|verb|-- / --|./[6,7]|punct|1
+word/[2,3]|verb|hd/su|honger/[1,2]|noun|1
+word/[2,3]|verb|hd/vc|stil/[5,6]|verb|1
+ben/[3,4]|verb|hd/predc|gehaast/[2,3]|adj|1
+ben/[3,4]|verb|hd/su|je/[1,2]|pron|1
+hap/[10,11]|noun|hd/app|tussendoor, is PROPNAME the place to be/[11,18]|name|1
+hap/[10,11]|noun|hd/det|een/[8,9]|det|1
+hap/[10,11]|noun|hd/mod|snel/[9,10]|adj|1
+heb/[6,7]|verb|hd/mod|in/[7,8]|prep|1
+heb/[6,7]|verb|hd/obj1|zin/[5,6]|noun|1
+heb/[6,7]|verb|hd/su|je/[1,2]|pron|1
+in/[7,8]|prep|hd/obj1|hap/[10,11]|noun|1
+of/[4,5]|vg|crd/cnj|ben/[3,4]|verb|1
+of/[4,5]|vg|crd/cnj|heb/[6,7]|verb|1
+top/top|top|top/hd|wanneer/[0,1]|comp|1
+wanneer/[0,1]|comp|-- / --|./[18,19]|punct|1
+wanneer/[0,1]|comp|cmp/body|of/[4,5]|vg|1
+aan/[2,3]|prep|hd/obj1|nacht_DIM/[4,5]|noun|1
+bevat/[12,13]|verb|hd/obj1|burger/[11,12]|noun|1
+bevat/[12,13]|verb|hd/su|die/[9,10]|pron|1
+bezorg/[17,18]|verb|hd/mod|uit/[5,6]|adj|1
+bezorg/[17,18]|verb|hd/obj1|uithouding_vermogen/[16,17]|noun|1
+bezorg/[17,18]|verb|hd/obj2|je/[13,14]|pron|1
+bezorg/[17,18]|verb|hd/su|calorie/[8,9]|noun|1
+burger/[11,12]|noun|hd/det|de/[10,11]|det|1
+calorie/[8,9]|noun|hd/det|de/[7,8]|det|1
+calorie/[8,9]|noun|hd/mod|die/[9,10]|pron|1
+die/[9,10]|pron|rhd/body|bevat/[12,13]|verb|1
+kan/[6,7]|verb|-- / --|./[18,19]|punct|1
+kan/[6,7]|verb|hd/su|calorie/[8,9]|noun|1
+kan/[6,7]|verb|hd/vc|bezorg/[17,18]|verb|1
+nacht_DIM/[4,5]|noun|hd/det|een/[3,4]|det|1
+top/top|top|top/hd|kan/[6,7]|verb|1
+uit/[5,6]|adj|hd/mod|aan/[2,3]|prep|1
+uit/[5,6]|adj|hd/mod|ook/[0,1]|adv|1
+uit/[5,6]|adj|hd/mod|voorafgaand/[1,2]|adj|1
+uithouding_vermogen/[16,17]|noun|hd/det|wat/[14,15]|det|1
+uithouding_vermogen/[16,17]|noun|hd/mod|extra/[15,16]|adj|1

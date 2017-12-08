@@ -1,0 +1,103 @@
+deeppan pizzas/[6,8]|name|hd/det|hun/[5,6]|det|1
+sta_bekend/[1,2]|verb|-- / --|./[8,9]|punct|1
+sta_bekend/[1,2]|verb|hd/mod|voor/[4,5]|prep|1
+sta_bekend/[1,2]|verb|hd/mod|vooral/[2,3]|adv|1
+sta_bekend/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+sta_bekend/[1,2]|verb|hd/svp|bekend/[3,4]|part|1
+top/top|top|top/hd|sta_bekend/[1,2]|verb|1
+voor/[4,5]|prep|hd/obj1|deeppan pizzas/[6,8]|name|1
+aan/[13,14]|prep|hd/obj1|en/[15,16]|vg|1
+bij/[3,4]|prep|hd/obj1|mij/[4,5]|pron|1
+en/[15,16]|vg|crd/cnj|deeg/[16,17]|noun|1
+en/[15,16]|vg|crd/cnj|olie/[14,15]|noun|1
+omwille van/[9,11]|prep|hd/obj1|overvloed/[12,13]|noun|1
+overvloed/[12,13]|noun|hd/det|hun/[11,12]|det|1
+overvloed/[12,13]|noun|hd/mod|aan/[13,14]|prep|1
+top/top|top|top/hd|val/[1,2]|verb|1
+val/[1,2]|verb|-- / --|./[17,18]|punct|1
+val/[1,2]|verb|hd/mod|bij/[3,4]|prep|1
+val/[1,2]|verb|hd/mod|niet/[5,6]|adv|1
+val/[1,2]|verb|hd/mod|omwille van/[9,11]|prep|1
+val/[1,2]|verb|hd/predm|persoonlijk/[0,1]|adj|1
+val/[1,2]|verb|hd/su|deze/[2,3]|det|1
+val/[1,2]|verb|hd/svp|in de smaak/[6,9]|fixed|1
+als/[0,1]|comp|cmp/body|student/[1,2]|noun|1
+doe/[13,14]|verb|hd/mod|dan/[11,12]|adv|1
+doe/[13,14]|verb|hd/mod|ook/[12,13]|adv|1
+doe/[13,14]|verb|hd/obj1|dit/[8,9]|det|1
+doe/[13,14]|verb|hd/su|ik/[10,11]|pron|1
+ga/[6,7]|verb|hd/su|men/[3,4]|pron|1
+ga/[6,7]|verb|hd/vc|lunch/[7,8]|verb|1
+heb/[9,10]|verb|hd/su|ik/[10,11]|pron|1
+heb/[9,10]|verb|hd/vc|doe/[13,14]|verb|1
+kan/[2,3]|verb|-- / --|./[14,15]|punct|1
+kan/[2,3]|verb|dp/dp|heb/[9,10]|verb|1
+kan/[2,3]|verb|hd/predm|als/[0,1]|comp|1
+kan/[2,3]|verb|hd/su|men/[3,4]|pron|1
+kan/[2,3]|verb|hd/vc|ga/[6,7]|verb|1
+lunch/[7,8]|verb|hd/mod|er/[4,5]|adv|1
+lunch/[7,8]|verb|hd/mod|goedkoop/[5,6]|adj|1
+lunch/[7,8]|verb|hd/su|men/[3,4]|pron|1
+top/top|top|top/hd|kan/[2,3]|verb|1
+alsof/[8,9]|comp|cmp/body|ben/[13,14]|verb|1
+ben/[2,3]|verb|hd/predc|droog/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|pizza/[1,2]|noun|1
+ben/[13,14]|verb|hd/su|hij/[9,10]|pron|1
+ben/[13,14]|verb|hd/vc|maak_klaar/[14,15]|verb|1
+droog/[4,5]|adj|hd/mod|koud/[3,4]|adj|1
+en/[5,6]|vg|-- / --|./[15,16]|punct|1
+en/[5,6]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[5,6]|vg|crd/cnj|lijk/[7,8]|verb|1
+friteuse/[12,13]|noun|hd/det|een/[11,12]|det|1
+in/[10,11]|prep|hd/obj1|friteuse/[12,13]|noun|1
+lijk/[7,8]|verb|hd/su|alsof/[8,9]|comp|1
+lijk/[7,8]|verb|hd/sup|het/[6,7]|noun|1
+maak_klaar/[14,15]|verb|hd/mod|in/[10,11]|prep|1
+maak_klaar/[14,15]|verb|hd/obj1|hij/[9,10]|pron|1
+pizza/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|en/[5,6]|vg|1
+aan/[13,14]|prep|hd/obj1|hier/[9,10]|adv|1
+ben/[15,16]|verb|hd/mod|vaak/[16,17]|adj|1
+ben/[15,16]|verb|hd/predc|goedkoop/[18,19]|adj|1
+ben/[15,16]|verb|hd/su|ga/[3,4]|verb|1
+bij/[4,5]|prep|hd/obj1|pizzeria/[7,8]|noun|1
+en/[11,12]|vg|crd/cnj|vast/[12,13]|adj|1
+en/[11,12]|vg|crd/cnj|zeker/[10,11]|adj|1
+en/[14,15]|vg|-- / --|./[19,20]|punct|1
+en/[14,15]|vg|crd/cnj|ben/[15,16]|verb|1
+en/[14,15]|vg|crd/cnj|tip/[8,9]|verb|1
+ga/[3,4]|verb|hd/mod|bij/[4,5]|prep|1
+ga/[3,4]|verb|hd/obj1|Bestellen of uiteten/[0,3]|name|1
+goedkoop/[18,19]|adj|hd/mod|zelfs/[17,18]|adv|1
+pizzeria/[7,8]|noun|hd/det|een/[5,6]|det|1
+pizzeria/[7,8]|noun|hd/mod|Italiaans/[6,7]|adj|1
+tip/[8,9]|verb|hd/mod|en/[11,12]|vg|1
+tip/[8,9]|verb|hd/pc|aan/[13,14]|prep|1
+tip/[8,9]|verb|hd/su|ga/[3,4]|verb|1
+top/top|top|top/hd|en/[14,15]|vg|1
+ben/[1,2]|verb|-- / --|./[26,27]|punct|1
+ben/[1,2]|verb|dp/dp|val/[25,26]|verb|1
+ben/[1,2]|verb|hd/mod|er/[2,3]|adv|1
+ben/[1,2]|verb|hd/mod|tegenwoordig/[0,1]|adj|1
+ben/[1,2]|verb|hd/predc|goed/[21,22]|adj|1
+ben/[1,2]|verb|hd/su|en/[17,18]|vg|1
+bied_aan/[8,9]|verb|hd/mod|waar/[5,6]|adv|1
+bied_aan/[8,9]|verb|hd/mod|zodat/[9,10]|comp|1
+bied_aan/[8,9]|verb|hd/obj1|student_korting/[7,8]|noun|1
+bied_aan/[8,9]|verb|hd/su|men/[6,7]|pron|1
+en/[17,18]|vg|crd/cnj|pizzas/[19,20]|noun|1
+en/[17,18]|vg|crd/cnj|pizzerias/[4,5]|noun|1
+fel/[14,15]|adj|hd/mod|te/[13,14]|adv|1
+goed/[21,22]|adj|hd/mod|veel/[20,21]|adj|1
+loop/[16,17]|verb|hd/ld|omhoog/[15,16]|adv|1
+loop/[16,17]|verb|hd/mod|fel/[14,15]|adj|1
+loop/[16,17]|verb|hd/mod|niet/[12,13]|adv|1
+loop/[16,17]|verb|hd/su|prijs/[11,12]|noun|1
+pizzas/[19,20]|noun|hd/det|de/[18,19]|det|1
+pizzerias/[4,5]|noun|hd/det|meerdere/[3,4]|det|1
+pizzerias/[4,5]|noun|hd/mod|waar/[5,6]|adv|1
+prijs/[11,12]|noun|hd/det|de/[10,11]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+val/[25,26]|verb|hd/svp|in de smaak/[22,25]|fixed|1
+waar/[5,6]|adv|rhd/body|bied_aan/[8,9]|verb|1
+zodat/[9,10]|comp|cmp/body|loop/[16,17]|verb|1

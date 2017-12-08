@@ -1,0 +1,192 @@
+staat/[2,3]|noun|-- / --|./[5,6]|punct|1
+staat/[2,3]|noun|hd/app|Californië, 1989/[3,5]|name|1
+staat/[2,3]|noun|hd/det|de/[0,1]|det|1
+staat/[2,3]|noun|hd/mod|Amerikaans/[1,2]|adj|1
+top/top|top|top/hd|staat/[2,3]|noun|1
+avond/[9,10]|noun|hd/det|ieder/[8,9]|det|1
+en/[4,5]|vg|crd/cnj|Frank Wright/[5,7]|name|1
+en/[4,5]|vg|crd/cnj|Mike Pritchard/[2,4]|name|1
+naar/[11,12]|prep|hd/obj1|stek_DIM/[14,15]|noun|1
+puber/[1,2]|noun|hd/app|en/[4,5]|vg|1
+puber/[1,2]|noun|hd/det|de/[0,1]|det|1
+stek_DIM/[14,15]|noun|hd/det|het/[12,13]|det|1
+stek_DIM/[14,15]|noun|hd/mod|eenvoudig/[13,14]|adj|1
+stek_DIM/[14,15]|noun|hd/mod|van/[15,16]|prep|1
+top/top|top|top/hd|zak_af/[7,8]|verb|1
+van/[15,16]|prep|hd/obj1|vriend/[17,18]|noun|1
+vriend/[17,18]|noun|hd/app|Billie Joe Armstrong/[18,21]|name|1
+vriend/[17,18]|noun|hd/det|hun/[16,17]|det|1
+zak_af/[7,8]|verb|-- / --|./[21,22]|punct|1
+zak_af/[7,8]|verb|hd/ld|naar/[11,12]|prep|1
+zak_af/[7,8]|verb|hd/mod|avond/[9,10]|noun|1
+zak_af/[7,8]|verb|hd/su|puber/[1,2]|noun|1
+zak_af/[7,8]|verb|hd/svp|af/[10,11]|part|1
+best/[6,7]|noun|hd/det|hun/[5,6]|det|1
+best/[6,7]|noun|hd/mod|om/[7,8]|prep|1
+cliché_beeld/[9,10]|noun|hd/det|het/[8,9]|det|1
+doe/[1,2]|verb|-- / --|./[29,30]|punct|1
+doe/[1,2]|verb|hd/mod|daar/[0,1]|adv|1
+doe/[1,2]|verb|hd/mod|door/[18,19]|comp|1
+doe/[1,2]|verb|hd/mod|uitermate/[4,5]|adv|1
+doe/[1,2]|verb|hd/obj1|best/[6,7]|noun|1
+doe/[1,2]|verb|hd/obj2|trio/[3,4]|noun|1
+doe/[1,2]|verb|hd/su|te/[16,17]|comp|1
+doe/[1,2]|verb|hd/sup|het/[2,3]|noun|1
+door/[18,19]|comp|cmp/body|en/[25,26]|vg|1
+en/[25,26]|vg|crd/cnj|te/[23,24]|comp|1
+en/[25,26]|vg|crd/cnj|te/[27,28]|comp|1
+houd/[17,18]|verb|hd/pc|van/[10,11]|prep|1
+in/[14,15]|prep|hd/obj1|leven/[15,16]|noun|1
+nacht/[21,22]|noun|hd/det|een/[19,20]|det|1
+nacht/[21,22]|noun|hd/mod|gans/[20,21]|adj|1
+om/[7,8]|prep|hd/obj1|cliché_beeld/[9,10]|noun|1
+rook/[28,29]|verb|hd/obj1|wiet/[26,27]|noun|1
+speel/[24,25]|verb|hd/mod|nacht/[21,22]|noun|1
+speel/[24,25]|verb|hd/obj1|punk_rock/[22,23]|noun|1
+te/[16,17]|comp|cmp/body|houd/[17,18]|verb|1
+te/[23,24]|comp|cmp/body|speel/[24,25]|verb|1
+te/[27,28]|comp|cmp/body|rook/[28,29]|verb|1
+tiener/[13,14]|noun|hd/det|de/[11,12]|det|1
+tiener/[13,14]|noun|hd/mod|Californisch/[12,13]|adj|1
+tiener/[13,14]|noun|hd/mod|in/[14,15]|prep|1
+top/top|top|top/hd|doe/[1,2]|verb|1
+van/[10,11]|prep|hd/obj1|tiener/[13,14]|noun|1
+ben/[6,7]|verb|hd/predc|succes_formule/[4,5]|noun|1
+ben/[6,7]|verb|hd/su|combinatie/[1,2]|noun|1
+blijk/[2,3]|verb|hd/su|combinatie/[1,2]|noun|1
+blijk/[2,3]|verb|hd/vc|te/[5,6]|comp|1
+combinatie/[1,2]|noun|hd/det|die/[0,1]|det|1
+dak/[28,29]|noun|hd/det|het/[27,28]|det|1
+en/[10,11]|vg|crd/cnj|jaar/[9,10]|noun|1
+en/[10,11]|vg|crd/cnj|studio_album/[12,13]|noun|1
+jaar/[9,10]|noun|hd/det|25/[8,9]|num|1
+laat/[13,14]|adj|hd/me|en/[10,11]|vg|1
+naam/[20,21]|noun|hd/app|propname/[21,22]|noun|1
+naam/[20,21]|noun|hd/det|de/[19,20]|det|1
+onder/[18,19]|prep|hd/obj1|naam/[20,21]|noun|1
+pan/[25,26]|noun|hd/det|de/[24,25]|det|1
+pan/[25,26]|noun|hd/mod|van/[26,27]|prep|1
+speel/[14,15]|verb|hd/mod|laat/[13,14]|adj|1
+speel/[14,15]|verb|hd/mod|steeds/[23,24]|adv|1
+speel/[14,15]|verb|hd/obj1|pan/[25,26]|noun|1
+speel/[14,15]|verb|hd/su|vriend/[17,18]|noun|1
+steeds/[23,24]|adv|hd/mod|nog/[22,23]|adv|1
+studio_album/[12,13]|noun|hd/det|11/[11,12]|num|1
+succes_formule/[4,5]|noun|hd/det|een/[3,4]|det|1
+te/[5,6]|comp|cmp/body|ben/[6,7]|verb|1
+top/top|top|top/hd|want/[7,8]|vg|1
+van/[26,27]|prep|hd/obj1|dak/[28,29]|noun|1
+vriend/[17,18]|noun|hd/det|de/[15,16]|det|1
+vriend/[17,18]|noun|hd/det|drie/[16,17]|num|1
+vriend/[17,18]|noun|hd/mod|onder/[18,19]|prep|1
+want/[7,8]|vg|-- / --|./[29,30]|punct|1
+want/[7,8]|vg|crd/cnj|blijk/[2,3]|verb|1
+want/[7,8]|vg|crd/cnj|speel/[14,15]|verb|1
+Belg/[10,11]|noun|hd/det|de/[9,10]|det|1
+aan/[8,9]|prep|hd/obj1|Belg/[10,11]|noun|1
+ben/[3,4]|verb|-- / --|./[11,12]|punct|1
+ben/[3,4]|verb|hd/mod|in/[0,1]|prep|1
+ben/[3,4]|verb|hd/mod|wederom/[5,6]|adv|1
+ben/[3,4]|verb|hd/pc|aan/[8,9]|prep|1
+ben/[3,4]|verb|hd/su|het/[4,5]|det|1
+ben/[3,4]|verb|hd/svp|de beurt/[6,8]|fixed|1
+in/[0,1]|prep|hd/obj1|juli/[1,2]|noun|1
+juli/[1,2]|noun|hd/mod|2013/[2,3]|noun|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+album/[11,12]|noun|hd/det|drie/[9,10]|num|1
+album/[11,12]|noun|hd/det|hun/[8,9]|det|1
+album/[11,12]|noun|hd/mod|laat/[10,11]|adj|1
+als/[2,3]|comp|cmp/body|headliner/[3,4]|noun|1
+om/[7,8]|comp|cmp/body|te/[13,14]|comp|1
+op/[4,5]|prep|hd/obj1|Rock Werchter/[5,7]|name|1
+passeer/[1,2]|verb|-- / --|./[19,20]|punct|1
+passeer/[1,2]|verb|hd/mod|als/[2,3]|comp|1
+passeer/[1,2]|verb|hd/mod|om/[7,8]|comp|1
+passeer/[1,2]|verb|hd/mod|op/[4,5]|prep|1
+passeer/[1,2]|verb|hd/obj1|Uno, Dos en Tré/[15,19]|name|1
+passeer/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+stel_voor/[14,15]|verb|hd/obj1|album/[11,12]|noun|1
+stel_voor/[14,15]|verb|hd/svp|voor/[12,13]|part|1
+te/[13,14]|comp|cmp/body|stel_voor/[14,15]|verb|1
+top/top|top|top/hd|passeer/[1,2]|verb|1
+aan/[10,11]|prep|hd/obj1|publiek/[12,13]|noun|1
+band/[9,10]|noun|hd/det|de/[8,9]|det|1
+in/[3,4]|prep|hd/obj1|konijn_pak/[5,7]|noun|1
+introduceer/[7,8]|verb|-- / --|./[13,14]|punct|1
+introduceer/[7,8]|verb|hd/ld|aan/[10,11]|prep|1
+introduceer/[7,8]|verb|hd/obj1|band/[9,10]|noun|1
+introduceer/[7,8]|verb|hd/su|man/[2,3]|noun|1
+konijn_pak/[5,7]|noun|hd/det|een/[4,5]|det|1
+man/[2,3]|noun|hd/det|een/[0,1]|det|1
+man/[2,3]|noun|hd/mod|dans/[1,2]|adj|1
+man/[2,3]|noun|hd/mod|in/[3,4]|prep|1
+publiek/[12,13]|noun|hd/det|het/[11,12]|det|1
+top/top|top|top/hd|introduceer/[7,8]|verb|1
+combinatie/[2,3]|noun|hd/det|een/[0,1]|det|1
+combinatie/[2,3]|noun|hd/mod|tussen/[3,4]|prep|1
+combinatie/[2,3]|noun|hd/mod|wervel/[1,2]|adj|1
+en/[7,8]|vg|crd/cnj|lied_DIM_hit/[5,7]|noun|1
+en/[7,8]|vg|crd/cnj|spektakel/[8,9]|noun|1
+lied_DIM_hit/[5,7]|noun|hd/mod|nieuw/[4,5]|adj|1
+spektakel/[8,9]|noun|hd/mod|nieuw/[4,5]|adj|1
+top/top|top|top/hd|volg/[9,10]|verb|1
+tussen/[3,4]|prep|hd/obj1|en/[7,8]|vg|1
+volg/[9,10]|verb|-- / --|./[10,11]|punct|1
+volg/[9,10]|verb|hd/su|combinatie/[2,3]|noun|1
+Revolutions/[22,23]|name|hd/det|99/[21,22]|num|1
+X-Kid/[24,25]|name|hd/det|99/[21,22]|num|1
+borst/[5,6]|noun|hd/mod|vol/[4,5]|adj|1
+duizenden/[0,1]|noun|hd/mod|fan/[1,2]|noun|1
+en/[23,24]|vg|crd/cnj|Revolutions/[22,23]|name|1
+en/[23,24]|vg|crd/cnj|X-Kid/[24,25]|name|1
+klassieker/[9,10]|noun|hd/app|American Idiot en Basket Case,/[10,15]|name|1
+klassieker/[9,10]|noun|hd/det|de/[8,9]|det|1
+maar/[15,16]|vg|crd/cnj|met/[7,8]|prep|1
+maar/[15,16]|vg|crd/cnj|met/[17,18]|prep|1
+met/[7,8]|prep|hd/obj1|klassieker/[9,10]|noun|1
+met/[17,18]|prep|hd/mod|ook/[16,17]|adv|1
+met/[17,18]|prep|hd/obj1|song/[19,20]|noun|1
+song/[19,20]|noun|hd/mod|recent/[18,19]|adj|1
+song/[19,20]|noun|hd/mod|zoals/[20,21]|comp|1
+top/top|top|top/hd|zing_mee/[2,3]|verb|1
+uit/[3,4]|prep|hd/obj1|borst/[5,6]|noun|1
+zing_mee/[2,3]|verb|-- / --|./[25,26]|punct|1
+zing_mee/[2,3]|verb|hd/mod|uit/[3,4]|prep|1
+zing_mee/[2,3]|verb|hd/pc|maar/[15,16]|vg|1
+zing_mee/[2,3]|verb|hd/su|duizenden/[0,1]|noun|1
+zing_mee/[2,3]|verb|hd/svp|mee/[6,7]|part|1
+zoals/[20,21]|comp|cmp/body|en/[23,24]|vg|1
+bestook/[2,3]|verb|hd/obj1|rij/[5,6]|noun|1
+bestook/[2,3]|verb|hd/pc|met/[6,7]|prep|1
+bestook/[2,3]|verb|hd/su|Billie Joe/[0,2]|name|1
+en/[8,9]|vg|-- / --|./[22,23]|punct|1
+en/[8,9]|vg|crd/cnj|bestook/[2,3]|verb|1
+en/[8,9]|vg|crd/cnj|schiet/[9,10]|verb|1
+in/[11,12]|prep|hd/obj1|lucht/[13,14]|noun|1
+lucht/[13,14]|noun|hd/det|de/[12,13]|det|1
+met/[6,7]|prep|hd/obj1|water_pistool/[7,8]|noun|1
+om/[14,15]|comp|cmp/body|te/[20,21]|comp|1
+publiek/[19,20]|noun|hd/det|het/[18,19]|det|1
+rest/[16,17]|noun|hd/det|de/[15,16]|det|1
+rest/[16,17]|noun|hd/mod|van/[17,18]|prep|1
+rij/[5,6]|noun|hd/det|de/[3,4]|det|1
+rij/[5,6]|noun|hd/mod|eerste/[4,5]|num|1
+schiet/[9,10]|verb|hd/ld|in/[11,12]|prep|1
+schiet/[9,10]|verb|hd/mod|om/[14,15]|comp|1
+schiet/[9,10]|verb|hd/obj1|T-shirt/[10,11]|noun|1
+schiet/[9,10]|verb|hd/su|Billie Joe/[0,2]|name|1
+sus/[21,22]|verb|hd/obj1|rest/[16,17]|noun|1
+te/[20,21]|comp|cmp/body|sus/[21,22]|verb|1
+top/top|top|top/hd|en/[8,9]|vg|1
+van/[17,18]|prep|hd/obj1|publiek/[19,20]|noun|1
+festival/[8,9]|noun|hd/det|het/[7,8]|det|1
+lang/[2,3]|adj|hd/me|uur/[1,2]|noun|1
+sta/[3,4]|verb|-- / --|./[11,12]|punct|1
+sta/[3,4]|verb|hd/mod|lang/[2,3]|adj|1
+sta/[3,4]|verb|hd/su|weide/[5,6]|noun|1
+sta/[3,4]|verb|hd/svp|in lichterlaaie/[9,11]|fixed|1
+top/top|top|top/hd|sta/[3,4]|verb|1
+uur/[1,2]|noun|hd/det|drie/[0,1]|num|1
+van/[6,7]|prep|hd/obj1|festival/[8,9]|noun|1
+weide/[5,6]|noun|hd/det|de/[4,5]|det|1
+weide/[5,6]|noun|hd/mod|van/[6,7]|prep|1

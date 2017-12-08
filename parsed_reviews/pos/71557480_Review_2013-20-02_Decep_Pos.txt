@@ -1,0 +1,73 @@
+detective/[5,6]|noun|hd/app|Ouderlijk Onrust/[6,8]|name|1
+detective/[5,6]|noun|hd/det|de/[3,4]|det|1
+detective/[5,6]|noun|hd/mod|nieuw/[4,5]|adj|1
+lof/[1,2]|noun|-- / --|./[8,9]|punct|1
+lof/[1,2]|noun|hd/det|veel/[0,1]|adj|1
+lof/[1,2]|noun|hd/mod|voor/[2,3]|prep|1
+top/top|top|top/hd|lof/[1,2]|noun|1
+voor/[2,3]|prep|hd/obj1|detective/[5,6]|noun|1
+aanrader/[5,6]|noun|hd/det|een/[4,5]|det|1
+aanrader/[5,6]|noun|hd/mod|voor/[6,7]|prep|1
+ben/[2,3]|verb|-- / --|!/[8,9]|punct|1
+ben/[2,3]|verb|hd/mod|werkelijk/[3,4]|adj|1
+ben/[2,3]|verb|hd/predc|aanrader/[5,6]|noun|1
+ben/[2,3]|verb|hd/su|boek/[1,2]|noun|1
+boek/[1,2]|noun|hd/det|dit/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+voor/[6,7]|prep|hd/obj1|iedereen/[7,8]|pron|1
+achterhaal/[21,22]|verb|hd/obj1|waarheid/[20,21]|noun|1
+achterhaal/[21,22]|verb|hd/su|je/[18,19]|pron|1
+dat/[17,18]|comp|cmp/body|achterhaal/[21,22]|verb|1
+en/[7,8]|vg|-- / --|./[23,24]|punct|1
+en/[7,8]|vg|-- / --|heb/[22,23]|verb|1
+en/[7,8]|vg|crd/cnj|kan/[9,10]|verb|1
+en/[7,8]|vg|crd/cnj|word/[1,2]|verb|1
+in/[4,5]|prep|hd/obj1|verhaal/[6,7]|noun|1
+kan/[9,10]|verb|hd/su|je/[8,9]|pron|1
+kan/[9,10]|verb|hd/vc|laat_los/[13,14]|verb|1
+laat_los/[13,14]|verb|hd/mod|niet/[11,12]|adv|1
+laat_los/[13,14]|verb|hd/mod|tot/[14,15]|prep|1
+laat_los/[13,14]|verb|hd/obj1|het/[10,11]|det|1
+laat_los/[13,14]|verb|hd/su|je/[8,9]|pron|1
+moment/[16,17]|noun|hd/det|het/[15,16]|det|1
+moment/[16,17]|noun|hd/vc|dat/[17,18]|comp|1
+niet/[11,12]|adv|hd/mod|meer/[12,13]|adv|1
+top/top|top|top/hd|en/[7,8]|vg|1
+tot/[14,15]|prep|hd/obj1|moment/[16,17]|noun|1
+verhaal/[6,7]|noun|hd/det|het/[5,6]|det|1
+waarheid/[20,21]|noun|hd/det|de/[19,20]|det|1
+word/[1,2]|verb|hd/su|je/[0,1]|pron|1
+word/[1,2]|verb|hd/vc|zuig_mee/[3,4]|verb|1
+zuig_mee/[3,4]|verb|hd/ld|in/[4,5]|prep|1
+zuig_mee/[3,4]|verb|hd/mod|meteen/[2,3]|adv|1
+zuig_mee/[3,4]|verb|hd/obj1|je/[0,1]|pron|1
+boek/[15,16]|noun|hd/det|het/[14,15]|det|1
+dat/[12,13]|comp|cmp/body|heb/[19,20]|verb|1
+en/[4,5]|vg|crd/cnj|opbouw/[7,8]|noun|1
+en/[4,5]|vg|crd/cnj|schrijf_stijl/[3,4]|noun|1
+heb/[19,20]|verb|hd/su|ik/[13,14]|pron|1
+heb/[19,20]|verb|hd/vc|lees_uit/[20,21]|verb|1
+in/[16,17]|prep|hd/obj1|ruk/[18,19]|noun|1
+lees_uit/[20,21]|verb|hd/mod|in/[16,17]|prep|1
+lees_uit/[20,21]|verb|hd/obj1|boek/[15,16]|noun|1
+lees_uit/[20,21]|verb|hd/su|ik/[13,14]|pron|1
+maak/[11,12]|verb|-- / --|./[21,22]|punct|1
+maak/[11,12]|verb|hd/su|en/[4,5]|vg|1
+maak/[11,12]|verb|hd/vc|dat/[12,13]|comp|1
+opbouw/[7,8]|noun|hd/det|de/[5,6]|det|1
+opbouw/[7,8]|noun|hd/mod|spannend/[6,7]|adj|1
+opbouw/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+ruk/[18,19]|noun|hd/det|één/[17,18]|num|1
+schrijf_stijl/[3,4]|noun|hd/det|de/[0,1]|det|1
+schrijf_stijl/[3,4]|noun|hd/mod|vlot/[2,3]|adj|1
+top/top|top|top/hd|maak/[11,12]|verb|1
+van/[8,9]|prep|hd/obj1|vehaal,/[10,11]|noun|1
+vehaal,/[10,11]|noun|hd/det|het/[9,10]|det|1
+vlot/[2,3]|adj|hd/mod|zeer/[1,2]|adv|1
+kom/[1,2]|verb|-- / --|!/[6,7]|punct|1
+kom/[1,2]|verb|hd/mod|er/[2,3]|adv|1
+kom/[1,2]|verb|hd/mod|hopelijk/[0,1]|adj|1
+kom/[1,2]|verb|hd/mod|snel/[3,4]|adj|1
+kom/[1,2]|verb|hd/su|vervolg/[5,6]|noun|1
+top/top|top|top/hd|kom/[1,2]|verb|1
+vervolg/[5,6]|noun|hd/det|een/[4,5]|det|1

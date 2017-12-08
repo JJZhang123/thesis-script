@@ -1,0 +1,93 @@
+door/[1,2]|prep|hd/obj1|één/[2,3]|num|1
+propname/[0,1]|noun|-- / --|./[11,12]|punct|1
+propname/[0,1]|noun|hd/mod|door/[1,2]|prep|1
+tijd, PROPNAME/[9,11]|name|hd/det|ons/[8,9]|det|1
+top/top|top|top/hd|propname/[0,1]|noun|1
+van/[3,4]|prep|hd/obj1|verhaal_verteller/[6,7]|noun|1
+van/[7,8]|prep|hd/obj1|tijd, PROPNAME/[9,11]|name|1
+verhaal_verteller/[6,7]|noun|hd/det|de/[4,5]|det|1
+verhaal_verteller/[6,7]|noun|hd/mod|groot/[5,6]|adj|1
+verhaal_verteller/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+één/[2,3]|num|hd/mod|van/[3,4]|prep|1
+Afghanistan/[12,13]|name|hd/det|het/[10,11]|det|1
+Afghanistan/[12,13]|name|hd/mod|ver/[11,12]|adj|1
+dat/[3,4]|pron|rhd/body|neem_mee/[8,9]|verb|1
+naar/[9,10]|prep|hd/obj1|Afghanistan/[12,13]|name|1
+neem_mee/[8,9]|verb|hd/ld|naar/[9,10]|prep|1
+neem_mee/[8,9]|verb|hd/mod|tijdens/[5,6]|prep|1
+neem_mee/[8,9]|verb|hd/obj1|mij/[4,5]|pron|1
+neem_mee/[8,9]|verb|hd/su|dat/[3,4]|pron|1
+tijdens/[5,6]|prep|hd/obj1|zomer_vakantie/[7,8]|noun|1
+top/top|top|top/hd|verhaal/[2,3]|noun|1
+verhaal/[2,3]|noun|-- / --|./[13,14]|punct|1
+verhaal/[2,3]|noun|hd/det|een/[0,1]|det|1
+verhaal/[2,3]|noun|hd/mod|dat/[3,4]|pron|1
+verhaal/[2,3]|noun|hd/mod|levendig/[1,2]|adj|1
+zomer_vakantie/[7,8]|noun|hd/det|de/[6,7]|det|1
+als/[14,15]|comp|cmp/body|vrouw/[15,16]|noun|1
+boek/[3,4]|noun|hd/det|dit/[2,3]|det|1
+dan/[7,8]|comparative|cmp/body|propname/[8,9]|noun|1
+hoofd_personage/[21,22]|noun|hd/det|het/[20,21]|det|1
+identificeer/[18,19]|verb|hd/mod|meer/[16,17]|adj|1
+identificeer/[18,19]|verb|hd/obj1|me/[13,14]|pron|1
+identificeer/[18,19]|verb|hd/pc|met/[19,20]|prep|1
+identificeer/[18,19]|verb|hd/su|ik/[12,13]|pron|1
+kan/[17,18]|verb|hd/predm|als/[14,15]|comp|1
+kan/[17,18]|verb|hd/su|ik/[12,13]|pron|1
+kan/[17,18]|verb|hd/vc|identificeer/[18,19]|verb|1
+krachtig/[6,7]|adj|hd/obcomp|dan/[7,8]|comparative|1
+met/[19,20]|prep|hd/obj1|hoofd_personage/[21,22]|noun|1
+omdat/[11,12]|comp|cmp/body|kan/[17,18]|verb|1
+omdat/[11,12]|comp|cmp/mod|ook/[10,11]|adv|1
+top/top|top|top/hd|vind/[1,2]|verb|1
+vind/[1,2]|verb|-- / --|./[22,23]|punct|1
+vind/[1,2]|verb|hd/mod|krachtig/[6,7]|adj|1
+vind/[1,2]|verb|hd/mod|misschien/[9,10]|adv|1
+vind/[1,2]|verb|hd/mod|nog/[5,6]|adv|1
+vind/[1,2]|verb|hd/mod|omdat/[11,12]|comp|1
+vind/[1,2]|verb|hd/mod|zelfs/[4,5]|adv|1
+vind/[1,2]|verb|hd/obj1|boek/[3,4]|noun|1
+vind/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+boek/[1,2]|noun|hd/det|het/[0,1]|det|1
+breng/[2,3]|verb|-- / --|./[17,18]|punct|1
+breng/[2,3]|verb|hd/ld|in/[6,7]|prep|1
+breng/[2,3]|verb|hd/mod|omdat/[8,9]|comp|1
+breng/[2,3]|verb|hd/mod|ook/[5,6]|adv|1
+breng/[2,3]|verb|hd/mod|waarschijnlijk/[4,5]|adj|1
+breng/[2,3]|verb|hd/obj1|me/[3,4]|pron|1
+breng/[2,3]|verb|hd/su|boek/[1,2]|noun|1
+heb/[12,13]|verb|hd/pc|voor/[13,14]|prep|1
+heb/[12,13]|verb|hd/su|ik/[9,10]|pron|1
+heb/[12,13]|verb|hd/svp|een zwak/[10,12]|fixed|1
+in/[6,7]|prep|hd/obj1|vervoering/[7,8]|noun|1
+liefde_verhaal/[16,17]|noun|hd/det|een/[14,15]|det|1
+liefde_verhaal/[16,17]|noun|hd/mod|goed/[15,16]|adj|1
+omdat/[8,9]|comp|cmp/body|heb/[12,13]|verb|1
+top/top|top|top/hd|breng/[2,3]|verb|1
+voor/[13,14]|prep|hd/obj1|liefde_verhaal/[16,17]|noun|1
+boekenkast/[23,24]|noun|hd/det|mijn/[22,23]|det|1
+dus/[13,14]|vg|-- / --|./[24,25]|punct|1
+dus/[13,14]|vg|crd/cnj|haal/[15,16]|verb|1
+dus/[13,14]|vg|crd/cnj|heb/[6,7]|verb|1
+haal/[15,16]|verb|hd/ld|uit/[21,22]|prep|1
+haal/[15,16]|verb|hd/mod|binnenkort/[14,15]|adv|1
+haal/[15,16]|verb|hd/mod|eens/[20,21]|adv|1
+haal/[15,16]|verb|hd/mod|nog/[18,19]|adv|1
+haal/[15,16]|verb|hd/mod|wel/[19,20]|adj|1
+haal/[15,16]|verb|hd/obj1|het/[17,18]|det|1
+haal/[15,16]|verb|hd/su|ik/[16,17]|pron|1
+heb/[6,7]|verb|hd/mod|nu/[0,1]|comp|1
+heb/[6,7]|verb|hd/obj1|zin/[8,9]|noun|1
+heb/[6,7]|verb|hd/su|ik/[7,8]|pron|1
+herlees/[12,13]|verb|hd/obj1|het/[10,11]|det|1
+moet/[4,5]|verb|hd/su|ik/[1,2]|pron|1
+moet/[4,5]|verb|hd/vc|schrijf/[5,6]|verb|1
+nu/[0,1]|comp|cmp/body|moet/[4,5]|verb|1
+om/[9,10]|comp|cmp/body|te/[11,12]|comp|1
+over/[3,4]|prep|hd/obj1|er/[2,3]|adv|1
+schrijf/[5,6]|verb|hd/pc|over/[3,4]|prep|1
+schrijf/[5,6]|verb|hd/su|ik/[1,2]|pron|1
+te/[11,12]|comp|cmp/body|herlees/[12,13]|verb|1
+top/top|top|top/hd|dus/[13,14]|vg|1
+uit/[21,22]|prep|hd/obj1|boekenkast/[23,24]|noun|1
+zin/[8,9]|noun|hd/vc|om/[9,10]|comp|1

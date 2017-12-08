@@ -1,0 +1,115 @@
+aan/[26,27]|prep|hd/obj1|film/[29,30]|noun|1
+award/[9,10]|noun|hd/det|de/[7,8]|det|1
+award/[9,10]|noun|hd/mod|Academy/[8,9]|name|1
+ben/[1,2]|verb|-- / --|./[30,31]|punct|1
+ben/[1,2]|verb|hd/mod|maar/[19,20]|vg|1
+ben/[1,2]|verb|hd/mod|niet/[10,11]|adv|1
+ben/[1,2]|verb|hd/mod|terecht/[2,3]|adj|1
+ben/[1,2]|verb|hd/predc|PROPNAME/[0,1]|name|1
+ben/[1,2]|verb|hd/su|favoriet/[5,6]|noun|1
+ben/[18,19]|verb|hd/mod|op/[13,14]|prep|1
+ben/[18,19]|verb|hd/predc|film/[17,18]|noun|1
+ben/[18,19]|verb|hd/su|het/[12,13]|det|1
+ben/[25,26]|verb|hd/predc|hommage/[24,25]|noun|1
+ben/[25,26]|verb|hd/su|het/[21,22]|det|1
+bij/[6,7]|prep|hd/obj1|award/[9,10]|noun|1
+favoriet/[5,6]|noun|hd/det|de/[3,4]|det|1
+favoriet/[5,6]|noun|hd/mod|bij/[6,7]|prep|1
+favoriet/[5,6]|noun|hd/mod|groot/[4,5]|adj|1
+film/[17,18]|noun|hd/det|een/[15,16]|det|1
+film/[17,18]|noun|hd/mod|geniaal/[16,17]|adj|1
+film/[29,30]|noun|hd/det|de/[27,28]|det|1
+film/[29,30]|noun|hd/mod|stil/[28,29]|adj|1
+hommage/[24,25]|noun|hd/det|een/[22,23]|det|1
+hommage/[24,25]|noun|hd/mod|aan/[26,27]|prep|1
+hommage/[24,25]|noun|hd/mod|geslaagd/[23,24]|adj|1
+maar/[19,20]|vg|crd/cnj|omdat/[11,12]|comp|1
+maar/[19,20]|vg|crd/cnj|omdat/[20,21]|comp|1
+omdat/[11,12]|comp|cmp/body|ben/[18,19]|verb|1
+omdat/[20,21]|comp|cmp/body|ben/[25,26]|verb|1
+op/[13,14]|prep|hd/obj1|zich/[14,15]|pron|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+als/[6,7]|comp|cmp/body|speel_film/[8,9]|noun|1
+begin/[11,12]|noun|hd/det|het/[10,11]|det|1
+begin/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+camera_werk/[19,20]|noun|hd/det|het/[17,18]|det|1
+camera_werk/[19,20]|noun|hd/mod|knap/[18,19]|adj|1
+dat/[21,22]|comp|cmp/body|voel_aan/[25,26]|verb|1
+eeuw/[15,16]|noun|hd/det|de/[13,14]|det|1
+eeuw/[15,16]|noun|hd/mod|twintigste/[14,15]|num|1
+elegantie/[4,5]|noun|hd/det|dezelfde/[3,4]|det|1
+ervoor/[20,21]|pp|hd/vc|dat/[21,22]|comp|1
+geheel/[2,3]|noun|hd/det|het/[1,2]|det|1
+heb/[5,6]|verb|hd/obj1|elegantie/[4,5]|noun|1
+heb/[5,6]|verb|hd/predc|als/[6,7]|comp|1
+heb/[5,6]|verb|hd/su|geheel/[2,3]|noun|1
+hoewel/[0,1]|comp|cmp/body|heb/[5,6]|verb|1
+speel_film/[8,9]|noun|hd/det|de/[7,8]|det|1
+speel_film/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+top/top|top|top/hd|zorg/[16,17]|verb|1
+van/[9,10]|prep|hd/obj1|begin/[11,12]|noun|1
+van/[12,13]|prep|hd/obj1|eeuw/[15,16]|noun|1
+voel_aan/[25,26]|verb|hd/mod|niet/[23,24]|adv|1
+voel_aan/[25,26]|verb|hd/predc|gedateerd/[24,25]|adj|1
+voel_aan/[25,26]|verb|hd/su|PROPNAME/[22,23]|name|1
+zorg/[16,17]|verb|-- / --|./[26,27]|punct|1
+zorg/[16,17]|verb|hd/mod|hoewel/[0,1]|comp|1
+zorg/[16,17]|verb|hd/pc|ervoor/[20,21]|pp|1
+zorg/[16,17]|verb|hd/su|camera_werk/[19,20]|noun|1
+belicht/[17,18]|verb|hd/obj1|beperking/[13,14]|noun|1
+belicht/[17,18]|verb|hd/su|regisseur/[9,10]|noun|1
+beperking/[13,14]|noun|hd/det|de/[12,13]|det|1
+beperking/[13,14]|noun|hd/mod|van/[14,15]|prep|1
+hoofd_personage/[25,26]|noun|hd/app|George Valentin/[26,28]|name|1
+hoofd_personage/[25,26]|noun|hd/det|het/[24,25]|det|1
+humor/[2,3]|noun|hd/det|de/[0,1]|det|1
+humor/[2,3]|noun|hd/mod|lichtvoetig/[1,2]|adj|1
+kom/[3,4]|verb|-- / --|./[28,29]|punct|1
+kom/[3,4]|verb|hd/mod|goed/[4,6]|adj|1
+kom/[3,4]|verb|hd/mod|wanneer/[8,9]|comp|1
+kom/[3,4]|verb|hd/mod|wat/[18,19]|pron|1
+kom/[3,4]|verb|hd/su|humor/[2,3]|noun|1
+kom/[3,4]|verb|hd/svp|tot uiting/[6,8]|fixed|1
+leid/[19,20]|verb|hd/pc|tot/[20,21]|prep|1
+leid/[19,20]|verb|hd/su|wat/[18,19]|pron|1
+medium/[16,17]|noun|hd/det|het/[15,16]|det|1
+regisseur/[9,10]|noun|hd/app|Michel Hazanavicius/[10,12]|name|1
+top/top|top|top/hd|kom/[3,4]|verb|1
+tot/[20,21]|prep|hd/obj1|waanzin/[22,23]|noun|1
+van/[14,15]|prep|hd/obj1|medium/[16,17]|noun|1
+van/[23,24]|prep|hd/obj1|hoofd_personage/[25,26]|noun|1
+waanzin/[22,23]|noun|hd/det|de/[21,22]|det|1
+waanzin/[22,23]|noun|hd/mod|van/[23,24]|prep|1
+wanneer/[8,9]|comp|cmp/body|belicht/[17,18]|verb|1
+wat/[18,19]|pron|rhd/body|leid/[19,20]|verb|1
+dan_nummer/[19,20]|noun|hd/det|een/[17,18]|det|1
+dan_nummer/[19,20]|noun|hd/mod|energiek/[18,19]|adj|1
+die/[27,28]|det|hd/mod|van/[28,29]|prep|1
+door middel van/[14,17]|prep|hd/obj1|dan_nummer/[19,20]|noun|1
+en/[10,11]|vg|crd/cnj|Valentin/[9,10]|name|1
+en/[10,11]|vg|crd/cnj|tegen_speelster/[12,13]|noun|1
+en/[31,32]|vg|crd/cnj|Fred Astaire/[29,31]|name|1
+en/[31,32]|vg|crd/cnj|Ginger Rogers/[32,34]|name|1
+end/[2,3]|noun|hd/det|een/[0,1]|det|1
+end/[2,3]|noun|hd/mod|happy/[1,2]|adj|1
+krijg/[3,4]|verb|-- / --|./[34,35]|punct|1
+krijg/[3,4]|verb|hd/mod|alsnog/[7,8]|adv|1
+krijg/[3,4]|verb|hd/mod|gelukkig/[6,7]|adj|1
+krijg/[3,4]|verb|hd/mod|wanneer/[8,9]|comp|1
+krijg/[3,4]|verb|hd/obj1|end/[2,3]|noun|1
+krijg/[3,4]|verb|hd/su|toeschouwer/[5,6]|noun|1
+musical/[25,26]|noun|hd/mod|zoals/[26,27]|comp|1
+succes/[22,23]|noun|hd/det|het/[20,21]|det|1
+succes/[22,23]|noun|hd/mod|toekomstig/[21,22]|adj|1
+succes/[22,23]|noun|hd/mod|van/[24,25]|prep|1
+tegen_speelster/[12,13]|noun|hd/app|Peppy/[13,14]|name|1
+tegen_speelster/[12,13]|noun|hd/det|zijn/[11,12]|det|1
+toeschouwer/[5,6]|noun|hd/det|de/[4,5]|det|1
+top/top|top|top/hd|krijg/[3,4]|verb|1
+van/[24,25]|prep|hd/obj1|musical/[25,26]|noun|1
+van/[28,29]|prep|hd/obj1|en/[31,32]|vg|1
+wanneer/[8,9]|comp|cmp/body|weerspiegel/[23,24]|verb|1
+weerspiegel/[23,24]|verb|hd/mod|door middel van/[14,17]|prep|1
+weerspiegel/[23,24]|verb|hd/obj1|succes/[22,23]|noun|1
+weerspiegel/[23,24]|verb|hd/su|en/[10,11]|vg|1
+zoals/[26,27]|comp|cmp/body|die/[27,28]|det|1

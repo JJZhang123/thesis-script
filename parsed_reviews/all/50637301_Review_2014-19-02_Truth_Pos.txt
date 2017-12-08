@@ -1,0 +1,167 @@
+ben/[1,2]|verb|hd/predc|groep/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+breng/[18,19]|verb|hd/ld|in/[21,22]|prep|1
+breng/[18,19]|verb|hd/obj1|muziek/[20,21]|noun|1
+breng/[18,19]|verb|hd/su|PROPNAME/[0,1]|name|1
+die/[4,5]|pron|rhd/body|word/[6,7]|verb|1
+door/[7,8]|prep|hd/obj1|en/[14,15]|vg|1
+en/[14,15]|vg|crd/cnj|Leon Rolle/[15,17]|name|1
+en/[14,15]|vg|crd/cnj|Piers Agget, Kesi Dryden, Amir Izadkhah/[8,14]|name|1
+en/[17,18]|vg|-- / --|./[30,31]|punct|1
+en/[17,18]|vg|crd/cnj|ben/[1,2]|verb|1
+en/[17,18]|vg|crd/cnj|breng/[18,19]|verb|1
+en/[28,29]|vg|crd/cnj|jungle/[27,28]|noun|1
+en/[28,29]|vg|crd/cnj|soul/[29,30]|noun|1
+genre/[23,24]|noun|hd/det|het/[22,23]|det|1
+genre/[23,24]|noun|hd/mod|van/[24,25]|prep|1
+groep/[3,4]|noun|hd/det|een/[2,3]|det|1
+groep/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+in/[21,22]|prep|hd/obj1|genre/[23,24]|noun|1
+jungle/[27,28]|noun|hd/mod|drum-n-bass, oldschool/[25,27]|name|1
+muziek/[20,21]|noun|hd/mod|electronisch/[19,20]|adj|1
+top/top|top|top/hd|en/[17,18]|vg|1
+van/[24,25]|prep|hd/obj1|en/[28,29]|vg|1
+vorm/[5,6]|verb|hd/mod|door/[7,8]|prep|1
+vorm/[5,6]|verb|hd/obj1|die/[4,5]|pron|1
+word/[6,7]|verb|hd/su|die/[4,5]|pron|1
+word/[6,7]|verb|hd/vc|vorm/[5,6]|verb|1
+band/[1,2]|noun|hd/det|de/[0,1]|det|1
+beken/[5,6]|verb|hd/mod|door/[6,7]|prep|1
+beken/[5,6]|verb|hd/mod|in/[3,4]|prep|1
+beken/[5,6]|verb|hd/obj1|band/[1,2]|noun|1
+door/[6,7]|prep|hd/obj1|single/[8,9]|noun|1
+in/[3,4]|prep|hd/obj1|België/[4,5]|name|1
+in samenwerking met/[12,15]|prep|hd/obj1|John Newman/[15,17]|name|1
+single/[8,9]|noun|hd/app|Feel the Love/[9,12]|name|1
+single/[8,9]|noun|hd/det|de/[7,8]|det|1
+single/[8,9]|noun|hd/mod|in samenwerking met/[12,15]|prep|1
+top/top|top|top/hd|word/[2,3]|verb|1
+word/[2,3]|verb|-- / --|./[17,18]|punct|1
+word/[2,3]|verb|hd/su|band/[1,2]|noun|1
+word/[2,3]|verb|hd/vc|beken/[5,6]|verb|1
+Vlaanderen/[10,11]|name|hd/mod|zoals/[11,12]|comp|1
+en/[19,20]|vg|-- / --|./[28,29]|punct|1
+en/[19,20]|vg|crd/cnj|sta/[3,4]|verb|1
+en/[19,20]|vg|crd/cnj|treed_op/[20,21]|verb|1
+groep/[5,6]|noun|hd/det|de/[4,5]|det|1
+in/[9,10]|prep|hd/obj1|Vlaanderen/[10,11]|name|1
+in/[25,26]|prep|hd/obj1|Vorst Nationaal/[26,28]|name|1
+maand/[2,3]|noun|hd/det|de/[0,1]|det|1
+maand/[2,3]|noun|hd/mod|voorbij/[1,2]|adj|1
+op/[6,7]|prep|hd/obj1|podium/[8,9]|noun|1
+podium/[8,9]|noun|hd/app|Ancienne Belgique/[17,19]|name|1
+podium/[8,9]|noun|hd/det|meerdere/[7,8]|det|1
+podium/[8,9]|noun|hd/mod|in/[9,10]|prep|1
+sta/[3,4]|verb|hd/ld|op/[6,7]|prep|1
+sta/[3,4]|verb|hd/mod|maand/[2,3]|noun|1
+sta/[3,4]|verb|hd/su|groep/[5,6]|noun|1
+top/top|top|top/hd|en/[19,20]|vg|1
+treed_op/[20,21]|verb|hd/ld|in/[25,26]|prep|1
+treed_op/[20,21]|verb|hd/mod|maand/[2,3]|noun|1
+treed_op/[20,21]|verb|hd/mod|nog/[23,24]|adv|1
+treed_op/[20,21]|verb|hd/mod|zopas/[22,23]|adv|1
+treed_op/[20,21]|verb|hd/su|ze/[21,22]|pron|1
+treed_op/[20,21]|verb|hd/svp|op/[24,25]|part|1
+zoals/[11,12]|comp|cmp/body|Rock Werchter, Pukkelpop, Club 69,/[12,17]|name|1
+als/[17,18]|comp|cmp/body|blok/[19,20]|noun|1
+april/[1,2]|noun|hd/mod|2013/[2,3]|noun|1
+blijk/[12,13]|verb|hd/mod|meteen/[10,11]|adv|1
+blijk/[12,13]|verb|hd/predc|succesvol/[11,12]|adj|1
+blijk/[12,13]|verb|hd/su|dat/[9,10]|pron|1
+blok/[19,20]|noun|hd/det|een/[18,19]|det|1
+breng_uit/[3,4]|verb|-- / --|./[21,22]|punct|1
+breng_uit/[3,4]|verb|hd/mod|in/[0,1]|prep|1
+breng_uit/[3,4]|verb|hd/obj1|debuut_album/[6,7]|noun|1
+breng_uit/[3,4]|verb|hd/su|ze/[4,5]|pron|1
+breng_uit/[3,4]|verb|hd/svp|uit/[8,9]|part|1
+dat/[9,10]|pron|rhd/body|blijk/[12,13]|verb|1
+debuut_album/[6,7]|noun|hd/app|Home/[7,8]|name|1
+debuut_album/[6,7]|noun|hd/det|hun/[5,6]|det|1
+debuut_album/[6,7]|noun|hd/mod|en/[13,14]|vg|1
+en/[13,14]|vg|crd/cnj|dat/[9,10]|pron|1
+en/[13,14]|vg|crd/cnj|waarvoor/[14,15]|pp|1
+in/[0,1]|prep|hd/obj1|april/[1,2]|noun|1
+top/top|top|top/hd|breng_uit/[3,4]|verb|1
+val/[20,21]|verb|hd/ld|waarvoor/[14,15]|pp|1
+val/[20,21]|verb|hd/mod|ook/[15,16]|adv|1
+val/[20,21]|verb|hd/predm|als/[17,18]|comp|1
+val/[20,21]|verb|hd/su|ik/[16,17]|pron|1
+waarvoor/[14,15]|pp|rhd/body|val/[20,21]|verb|1
+aantrekking_kracht/[4,5]|noun|hd/det|de/[3,4]|det|1
+aantrekking_kracht/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+groep/[7,8]|noun|hd/det|de/[6,7]|det|1
+heb/[2,3]|verb|-- / --|./[10,11]|punct|1
+heb/[2,3]|verb|hd/mod|volgens/[0,1]|prep|1
+heb/[2,3]|verb|hd/obj1|reden/[9,10]|noun|1
+heb/[2,3]|verb|hd/su|aantrekking_kracht/[4,5]|noun|1
+reden/[9,10]|noun|hd/det|twee/[8,9]|num|1
+top/top|top|top/hd|heb/[2,3]|verb|1
+van/[5,6]|prep|hd/obj1|groep/[7,8]|noun|1
+volgens/[0,1]|prep|hd/obj1|mij/[1,2]|pron|1
+alleen/[11,12]|adv|hd/mod|niet/[10,11]|adv|1
+beat/[3,4]|noun|hd/det|de/[2,3]|det|1
+bijvoorbeeld/[20,21]|adv|hd/mod|ook/[19,20]|adv|1
+blazer/[23,24]|noun|hd/mod|verschil/[22,23]|adj|1
+gebruik/[12,13]|noun|hd/mod|alleen/[11,12]|adv|1
+in/[5,6]|prep|hd/obj1|elkaar/[6,7]|pron|1
+maak/[13,14]|verb|hd/mod|er/[9,10]|adv|1
+maak/[13,14]|verb|hd/mod|waarbij/[8,9]|pp|1
+maak/[13,14]|verb|hd/obj1|gebruik/[12,13]|noun|1
+maak/[13,14]|verb|hd/pc|maar/[18,19]|vg|1
+maar/[18,19]|vg|crd/cnj|van/[15,16]|prep|1
+maar/[18,19]|vg|crd/cnj|van/[21,22]|prep|1
+muziek_instrument/[17,18]|noun|hd/mod|electronisch/[16,17]|adj|1
+top/top|top|top/hd|zit/[1,2]|verb|1
+van/[15,16]|prep|hd/obj1|muziek_instrument/[17,18]|noun|1
+van/[21,22]|prep|hd/mod|bijvoorbeeld/[20,21]|adv|1
+van/[21,22]|prep|hd/obj1|blazer/[23,24]|noun|1
+waarbij/[8,9]|pp|rhd/body|word/[14,15]|verb|1
+word/[14,15]|verb|hd/su|gebruik/[12,13]|noun|1
+word/[14,15]|verb|hd/vc|maak/[13,14]|verb|1
+zit/[1,2]|verb|-- / --|./[24,25]|punct|1
+zit/[1,2]|verb|-- / --|–/[7,8]|punct|1
+zit/[1,2]|verb|dp/dp|waarbij/[8,9]|pp|1
+zit/[1,2]|verb|hd/ld|in/[5,6]|prep|1
+zit/[1,2]|verb|hd/mod|enerzijds/[0,1]|adv|1
+zit/[1,2]|verb|hd/mod|goed/[4,5]|adj|1
+zit/[1,2]|verb|hd/su|beat/[3,4]|noun|1
+artiest/[5,6]|noun|hd/mod|uit/[6,7]|prep|1
+artiest/[5,6]|noun|hd/mod|zoals/[10,11]|comp|1
+met/[4,5]|prep|hd/obj1|artiest/[5,6]|noun|1
+pop_muziek/[9,10]|noun|hd/det|de/[7,8]|det|1
+pop_muziek/[9,10]|noun|hd/mod|hedendaags/[8,9]|adj|1
+top/top|top|top/hd|werk/[1,2]|verb|1
+uit/[6,7]|prep|hd/obj1|pop_muziek/[9,10]|noun|1
+werk/[1,2]|verb|-- / --|./[19,20]|punct|1
+werk/[1,2]|verb|hd/mod|anderzijds/[0,1]|adv|1
+werk/[1,2]|verb|hd/pc|met/[4,5]|prep|1
+werk/[1,2]|verb|hd/predm|samen/[3,4]|adj|1
+werk/[1,2]|verb|hd/su|ze/[2,3]|pron|1
+zoals/[10,11]|comp|cmp/body|John Newman, Ella Eyre, Foxes en Emeli Sandé/[11,19]|name|1
+ben/[3,4]|verb|-- / --|./[24,25]|punct|1
+ben/[3,4]|verb|hd/mod|momenteel/[5,6]|adj|1
+ben/[3,4]|verb|hd/mod|naar/[0,1]|prep|1
+ben/[3,4]|verb|hd/predc|één/[6,7]|pron|1
+ben/[3,4]|verb|hd/su|dit/[4,5]|det|1
+bouw_op/[23,24]|verb|hd/mod|ook/[19,20]|adv|1
+bouw_op/[23,24]|verb|hd/mod|tegelijk/[18,19]|adj|1
+bouw_op/[23,24]|verb|hd/obj1|sound/[22,23]|noun|1
+bouw_op/[23,24]|verb|hd/su|die/[11,12]|pron|1
+breng/[16,17]|verb|hd/mod|telkens/[12,13]|adv|1
+breng/[16,17]|verb|hd/obj1|song/[15,16]|noun|1
+breng/[16,17]|verb|hd/su|die/[11,12]|pron|1
+die/[11,12]|pron|rhd/body|maar/[17,18]|vg|1
+groep/[10,11]|noun|hd/det|de/[8,9]|det|1
+groep/[10,11]|noun|hd/mod|best/[9,10]|adj|1
+maar/[17,18]|vg|crd/cnj|bouw_op/[23,24]|verb|1
+maar/[17,18]|vg|crd/cnj|breng/[16,17]|verb|1
+mening/[2,3]|noun|hd/det|mijn/[1,2]|det|1
+naar/[0,1]|prep|hd/obj1|mening/[2,3]|noun|1
+song/[15,16]|noun|hd/mod|verschil/[14,15]|adj|1
+sound/[22,23]|noun|hd/det|haar/[20,21]|det|1
+sound/[22,23]|noun|hd/mod|eigen/[21,22]|adj|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+van/[7,8]|prep|hd/obj1|groep/[10,11]|noun|1
+verschil/[14,15]|adj|hd/mod|heel/[13,14]|adv|1
+één/[6,7]|pron|hd/mod|die/[11,12]|pron|1
+één/[6,7]|pron|hd/mod|van/[7,8]|prep|1

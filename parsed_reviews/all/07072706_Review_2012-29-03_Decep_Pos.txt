@@ -1,0 +1,65 @@
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/mod|nu/[2,3]|adv|1
+ben/[1,2]|verb|hd/predc|fan/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+fan/[5,6]|noun|hd/det|geen/[4,5]|det|1
+fan/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+geen/[4,5]|det|hd/mod|absoluut/[3,4]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[6,7]|prep|hd/obj1|horror/[7,8]|noun|1
+ben/[1,2]|verb|-- / --|./[9,10]|punct|1
+ben/[1,2]|verb|hd/mod|ofwel/[4,5]|vg|1
+ben/[1,2]|verb|hd/mod|vaak/[0,1]|adj|1
+ben/[1,2]|verb|hd/su|film/[3,4]|noun|1
+film/[3,4]|noun|hd/det|deze/[2,3]|det|1
+flauw/[8,9]|adj|hd/mod|heel/[7,8]|adv|1
+ofwel/[4,5]|vg|crd/cnj|erover/[5,6]|pp|1
+ofwel/[4,5]|vg|crd/cnj|flauw/[8,9]|adj|1
+ofwel/[4,5]|vg|crd/crd|ofwel/[6,7]|vg|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+evenwicht/[6,7]|noun|hd/det|het/[5,6]|det|1
+evenwicht/[6,7]|noun|hd/mod|tussen/[9,10]|prep|1
+film/[1,2]|noun|hd/det|deze/[0,1]|det|1
+horror/[11,12]|noun|hd/app|en, bovenal,/[12,14]|name|1
+spanning/[10,11]|noun|hd/app|horror/[11,12]|noun|1
+te/[7,8]|comp|cmp/body|vind/[8,9]|verb|1
+top/top|top|top/hd|weet/[2,3]|verb|1
+tussen/[9,10]|prep|hd/obj1|spanning/[10,11]|noun|1
+verhaal/[18,19]|noun|hd/det|een/[16,17]|det|1
+verhaal/[18,19]|noun|hd/mod|goed/[17,18]|adj|1
+verhaal/[18,19]|noun|hd/mod|nog/[15,16]|adv|1
+vind/[8,9]|verb|hd/obj1|evenwicht/[6,7]|noun|1
+vind/[8,9]|verb|hd/su|film/[1,2]|noun|1
+weet/[2,3]|verb|-- / --|./[19,20]|punct|1
+weet/[2,3]|verb|dp/dp|verhaal/[18,19]|noun|1
+weet/[2,3]|verb|hd/mod|echter/[3,4]|adv|1
+weet/[2,3]|verb|hd/mod|goed/[4,5]|adj|1
+weet/[2,3]|verb|hd/mod|ook/[14,15]|adv|1
+weet/[2,3]|verb|hd/su|film/[1,2]|noun|1
+weet/[2,3]|verb|hd/vc|te/[7,8]|comp|1
+acteur/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[2,3]|verb|-- / --|./[9,10]|punct|1
+ben/[2,3]|verb|hd/predc|en/[4,5]|vg|1
+ben/[2,3]|verb|hd/su|acteur/[1,2]|noun|1
+en/[4,5]|vg|crd/cnj|geloofwaardig/[3,4]|adj|1
+en/[4,5]|vg|crd/cnj|setting/[6,7]|noun|1
+geslaagd/[8,9]|adj|hd/mod|goed/[7,8]|adj|1
+setting/[6,7]|noun|hd/det|de/[5,6]|det|1
+setting/[6,7]|noun|hd/mod|geslaagd/[8,9]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+alles/[4,5]|noun|hd/det|dat/[3,4]|det|1
+film/[2,3]|noun|hd/det|een/[1,2]|det|1
+heb/[5,6]|verb|hd/mod|om/[6,7]|comp|1
+heb/[5,6]|verb|hd/su|alles/[4,5]|noun|1
+heb/[5,6]|verb|hd/vc|te/[13,14]|comp|1
+herzie/[14,15]|verb|hd/obj1|mening/[12,13]|noun|1
+herzie/[14,15]|verb|hd/su|alles/[4,5]|noun|1
+kortom/[0,1]|tag|-- / --|./[15,16]|punct|1
+kortom/[0,1]|tag|dp/dp|heb/[5,6]|verb|1
+kortom/[0,1]|tag|tag/nucl|film/[2,3]|noun|1
+mening/[12,13]|noun|hd/det|hun/[11,12]|det|1
+om/[6,7]|comp|cmp/body|te/[9,10]|comp|1
+overtuig/[10,11]|verb|hd/obj1|non_horror_fan/[7,9]|noun|1
+te/[9,10]|comp|cmp/body|overtuig/[10,11]|verb|1
+te/[13,14]|comp|cmp/body|herzie/[14,15]|verb|1
+top/top|top|top/hd|kortom/[0,1]|tag|1

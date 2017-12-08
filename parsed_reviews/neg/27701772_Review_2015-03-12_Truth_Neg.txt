@@ -1,0 +1,66 @@
+PROPNAME,/[7,8]|name|hd/det|mijn/[6,7]|det|1
+ben/[1,2]|verb|-- / --|./[12,13]|punct|1
+ben/[1,2]|verb|-- / --|geleden/[11,12]|adj|1
+ben/[1,2]|verb|hd/mod|altijd/[2,3]|adv|1
+ben/[1,2]|verb|hd/mod|tot/[8,9]|prep|1
+ben/[1,2]|verb|hd/mod|van/[5,6]|prep|1
+ben/[1,2]|verb|hd/predc|tevreden/[4,5]|adj|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+jaar/[10,11]|noun|hd/det|een/[9,10]|det|1
+tevreden/[4,5]|adj|hd/mod|zeer/[3,4]|adv|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+tot/[8,9]|prep|hd/obj1|jaar/[10,11]|noun|1
+van/[5,6]|prep|hd/obj1|PROPNAME,/[7,8]|name|1
+ben/[9,10]|verb|hd/predc|oud/[8,9]|adj|1
+ben/[9,10]|verb|hd/su|het/[6,7]|det|1
+ben/[12,13]|verb|hd/mod|blijkbaar/[11,12]|adj|1
+ben/[12,13]|verb|hd/mod|echt/[15,16]|adj|1
+ben/[12,13]|verb|hd/mod|wel/[16,17]|adj|1
+ben/[12,13]|verb|hd/predc|oud/[18,19]|adj|1
+ben/[12,13]|verb|hd/su|jaar/[14,15]|noun|1
+gsm/[1,2]|noun|hd/det|mijn/[0,1]|det|1
+jaar/[14,15]|noun|hd/det|2/[13,14]|num|1
+oud/[8,9]|adj|hd/mod|te/[7,8]|adv|1
+oud/[18,19]|adj|hd/mod|heel/[17,18]|adv|1
+top/top|top|top/hd|want/[10,11]|vg|1
+tot/[5,6]|comp|cmp/body|ben/[9,10]|verb|1
+want/[10,11]|vg|-- / --|./[19,20]|punct|1
+want/[10,11]|vg|crd/cnj|ben/[12,13]|verb|1
+want/[10,11]|vg|crd/cnj|werk/[2,3]|verb|1
+werk/[2,3]|verb|hd/mod|altijd/[3,4]|adv|1
+werk/[2,3]|verb|hd/mod|tot/[5,6]|comp|1
+werk/[2,3]|verb|hd/predc|perfect/[4,5]|adj|1
+werk/[2,3]|verb|hd/su|gsm/[1,2]|noun|1
+ben/[3,4]|verb|hd/mod|niet/[4,5]|adv|1
+ben/[3,4]|verb|hd/predc|geschikt/[6,7]|adj|1
+ben/[3,4]|verb|hd/su|update/[2,3]|noun|1
+ben/[14,15]|verb|hd/su|waarschuwing/[12,13]|noun|1
+ben/[14,15]|verb|hd/vc|vraag/[18,19]|verb|1
+geschikt/[6,7]|adj|hd/pc|voor/[7,8]|prep|1
+maar/[10,11]|vg|-- / --|./[19,20]|punct|1
+maar/[10,11]|vg|crd/cnj|ben/[3,4]|verb|1
+maar/[10,11]|vg|crd/cnj|ben/[14,15]|verb|1
+model/[9,10]|noun|hd/det|dat/[8,9]|det|1
+niet/[4,5]|adv|hd/mod|meer/[5,6]|adv|1
+top/top|top|top/hd|maar/[10,11]|vg|1
+update/[2,3]|noun|hd/det|de/[0,1]|det|1
+update/[2,3]|noun|hd/mod|nieuw/[1,2]|adj|1
+veel/[17,18]|adj|hd/mod|te/[16,17]|adv|1
+voor/[7,8]|prep|hd/obj1|model/[9,10]|noun|1
+vraag/[18,19]|verb|hd/mod|duidelijk/[15,16]|adj|1
+vraag/[18,19]|verb|hd/obj1|waarschuwing/[12,13]|noun|1
+vraag/[18,19]|verb|hd/obj2|veel/[17,18]|adj|1
+waarschuwing/[12,13]|noun|hd/det|een/[11,12]|det|1
+waarschuwing/[12,13]|noun|hd/mod|daarvoor/[13,14]|pp|1
+heb/[5,6]|verb|hd/su|ik/[1,2]|pron|1
+heb/[5,6]|verb|hd/vc|voer_uit/[4,5]|verb|1
+top/top|top|top/hd|werk/[6,7]|verb|1
+update/[3,4]|noun|hd/det|de/[2,3]|det|1
+voer_uit/[4,5]|verb|hd/obj1|update/[3,4]|noun|1
+voer_uit/[4,5]|verb|hd/su|ik/[1,2]|pron|1
+werk/[6,7]|verb|-- / --|./[10,11]|punct|1
+werk/[6,7]|verb|hd/mod|amper/[7,8]|adv|1
+werk/[6,7]|verb|hd/mod|nog/[8,9]|adv|1
+werk/[6,7]|verb|hd/mod|zodra/[0,1]|comp|1
+werk/[6,7]|verb|hd/su|iets/[9,10]|noun|1
+zodra/[0,1]|comp|cmp/body|heb/[5,6]|verb|1

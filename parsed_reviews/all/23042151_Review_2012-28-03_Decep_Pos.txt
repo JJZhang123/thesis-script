@@ -1,0 +1,90 @@
+ben/[1,2]|verb|-- / --|./[14,15]|punct|1
+ben/[1,2]|verb|-- / --|het/[8,9]|noun|1
+ben/[1,2]|verb|dp/dp|ben/[11,12]|verb|1
+ben/[1,2]|verb|dp/dp|decennium/[10,11]|noun|1
+ben/[1,2]|verb|dp/dp|hop_genre/[7,8]|noun|1
+ben/[1,2]|verb|hd/obj2|PROPNAME/[0,1]|name|1
+ben/[1,2]|verb|hd/predc|goed/[3,4]|adj|1
+ben/[1,2]|verb|hd/su|wat/[4,5]|pron|1
+ben/[1,2]|verb|hd/sup|het/[2,3]|noun|1
+ben/[11,12]|verb|hd/vc|kan/[12,13]|verb|1
+decennium/[10,11]|noun|hd/mod|laat/[9,10]|adj|1
+hop_genre/[7,8]|noun|hd/det|het/[5,6]|det|1
+hop_genre/[7,8]|noun|hd/mod|hip/[6,7]|adj|1
+kan/[12,13]|verb|hd/vc|kom_over/[13,14]|verb|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+ben/[9,10]|verb|hd/su|en/[21,22]|vg|1
+ben/[9,10]|verb|hd/vc|splits/[10,11]|verb|1
+eind/[3,4]|noun|hd/mod|jaar/[4,5]|noun|1
+en/[21,22]|vg|crd/cnj|underground ging,/[24,26]|name|1
+en/[21,22]|vg|crd/cnj|waarbij/[11,12]|pp|1
+en/[37,38]|vg|crd/cnj|krachtig/[36,37]|adj|1
+en/[37,38]|vg|crd/cnj|melancholisch/[38,39]|adj|1
+ene/[13,14]|adj|hd/det|de/[12,13]|det|1
+ga/[19,20]|verb|hd/su|ene/[13,14]|adj|1
+ga/[19,20]|verb|hd/vc|vermeng/[20,21]|verb|1
+genre/[2,3]|noun|hd/det|het/[1,2]|det|1
+genre/[2,3]|noun|hd/mod|eind/[3,4]|noun|1
+gevolg/[39,40]|noun|hd/det|een/[35,36]|det|1
+gevolg/[39,40]|noun|hd/mod|en/[37,38]|vg|1
+gevolg/[39,40]|noun|hd/mod|tot/[40,41]|prep|1
+in/[6,7]|prep|hd/obj1|richting/[8,9]|noun|1
+in/[29,30]|prep|hd/obj1|2012/[30,31]|noun|1
+jaar/[4,5]|noun|hd/app|90/[5,6]|num|1
+laat/[26,27]|verb|-- / --|./[42,43]|punct|1
+laat/[26,27]|verb|hd/mod|met/[34,35]|prep|1
+laat/[26,27]|verb|hd/mod|nadat/[0,1]|comp|1
+laat/[26,27]|verb|hd/obj1|ze/[28,29]|pron|1
+laat/[26,27]|verb|hd/su|PROPNAME/[27,28]|name|1
+laat/[26,27]|verb|hd/vc|ontmoet/[33,34]|verb|1
+met/[16,17]|prep|hd/obj1|pop/[18,19]|noun|1
+met/[34,35]|prep|hd/obj1|gevolg/[39,40]|noun|1
+nadat/[0,1]|comp|cmp/body|ben/[9,10]|verb|1
+ontmoet/[33,34]|verb|hd/mod|in/[29,30]|prep|1
+ontmoet/[33,34]|verb|hd/mod|terug/[32,33]|adv|1
+ontmoet/[33,34]|verb|hd/obj1|elkaar/[31,32]|pron|1
+ontmoet/[33,34]|verb|hd/su|ze/[28,29]|pron|1
+pop/[18,19]|noun|hd/det|de/[17,18]|det|1
+richting/[8,9]|noun|hd/det|twee/[7,8]|num|1
+splits/[10,11]|verb|hd/mod|genre/[2,3]|noun|1
+splits/[10,11]|verb|hd/mod|in/[6,7]|prep|1
+splits/[10,11]|verb|hd/obj1|en/[21,22]|vg|1
+top/top|top|top/hd|laat/[26,27]|verb|1
+tot/[40,41]|prep|hd/obj1|resultaat/[41,42]|noun|1
+underground ging,/[24,26]|name|hd/det|de/[22,23]|det|1
+underground ging,/[24,26]|name|hd/mod|ander/[23,24]|adj|1
+vermeng/[20,21]|verb|hd/mod|meer/[15,16]|adj|1
+vermeng/[20,21]|verb|hd/mod|waarbij/[11,12]|pp|1
+vermeng/[20,21]|verb|hd/pc|met/[16,17]|prep|1
+vermeng/[20,21]|verb|hd/se|zich/[14,15]|pron|1
+vermeng/[20,21]|verb|hd/su|ene/[13,14]|adj|1
+waarbij/[11,12]|pp|rhd/body|ga/[19,20]|verb|1
+als/[0,1]|comp|cmp/body|zet_op/[4,5]|verb|1
+debuut_plaat/[3,4]|noun|hd/det|zijn/[2,3]|det|1
+die/[22,23]|pron|rhd/body|maak/[27,28]|verb|1
+geheel/[24,25]|noun|hd/det|het/[23,24]|det|1
+hip hop/[15,17]|noun|hd/det|de/[14,15]|det|1
+in/[9,10]|prep|hd/obj1|jaar/[12,13]|noun|1
+interessant/[26,27]|adj|hd/mod|zeer/[25,26]|adv|1
+jaar/[12,13]|noun|hd/det|de/[10,11]|det|1
+jaar/[12,13]|noun|hd/mod|gouden/[11,12]|adj|1
+jaar/[12,13]|noun|hd/mod|van/[13,14]|prep|1
+maak/[27,28]|verb|hd/obj1|geheel/[24,25]|noun|1
+maak/[27,28]|verb|hd/predc|interessant/[26,27]|adj|1
+maak/[27,28]|verb|hd/su|die/[22,23]|pron|1
+maar/[17,18]|vg|-- / --|./[28,29]|punct|1
+maar/[17,18]|vg|crd/cnj|met/[18,19]|prep|1
+maar/[17,18]|vg|crd/cnj|waan/[5,6]|verb|1
+met/[18,19]|prep|hd/obj1|toets/[21,22]|noun|1
+toets/[21,22]|noun|hd/det|een/[19,20]|det|1
+toets/[21,22]|noun|hd/mod|die/[22,23]|pron|1
+toets/[21,22]|noun|hd/mod|hedendaags/[20,21]|adj|1
+top/top|top|top/hd|maar/[17,18]|vg|1
+van/[13,14]|prep|hd/obj1|hip hop/[15,17]|noun|1
+waan/[5,6]|verb|hd/ld|in/[9,10]|prep|1
+waan/[5,6]|verb|hd/mod|als/[0,1]|comp|1
+waan/[5,6]|verb|hd/mod|weer/[8,9]|adv|1
+waan/[5,6]|verb|hd/se|je/[7,8]|pron|1
+waan/[5,6]|verb|hd/su|je/[6,7]|pron|1
+zet_op/[4,5]|verb|hd/obj1|debuut_plaat/[3,4]|noun|1
+zet_op/[4,5]|verb|hd/su|je/[1,2]|pron|1

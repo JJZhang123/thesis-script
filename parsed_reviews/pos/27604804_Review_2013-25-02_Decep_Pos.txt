@@ -1,0 +1,205 @@
+als/[0,1]|comp|cmp/body|pescotariër/[1,2]|noun|1
+als/[11,12]|comp|cmp/body|restaurant/[13,14]|noun|1
+ben/[2,3]|verb|-- / --|./[14,15]|punct|1
+ben/[2,3]|verb|-- / --|dat/[6,7]|comp|1
+ben/[2,3]|verb|dp/dp|besta/[10,11]|verb|1
+ben/[2,3]|verb|dp/dp|er/[7,8]|adv|1
+ben/[2,3]|verb|hd/predc|gelukkig/[5,6]|adj|1
+ben/[2,3]|verb|hd/predm|als/[0,1]|comp|1
+ben/[2,3]|verb|hd/su|ik/[3,4]|pron|1
+besta/[10,11]|verb|hd/predm|als/[11,12]|comp|1
+besta/[10,11]|verb|hd/su|ding/[9,10]|noun|1
+er/[7,8]|adv|dp/dp|zon/[8,9]|noun|1
+gelukkig/[5,6]|adj|hd/mod|zeer/[4,5]|adv|1
+restaurant/[13,14]|noun|hd/mod|vegetarisch/[12,13]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+besta/[3,4]|verb|-- / --|? /[21,22]|punct|1
+besta/[3,4]|verb|dp/dp|kan/[16,17]|verb|1
+besta/[3,4]|verb|hd/pc|uit/[4,5]|prep|1
+besta/[3,4]|verb|hd/su|menu_kaart/[2,3]|noun|1
+denk/[15,16]|verb|hd/mod|dus/[9,10]|adv|1
+denk/[15,16]|verb|hd/mod|niet/[12,13]|adv|1
+denk/[15,16]|verb|hd/mod|steeds/[13,14]|adv|1
+denk/[15,16]|verb|hd/su|ik/[11,12]|pron|1
+eet/[20,21]|verb|hd/mod|en/[8,9]|vg|1
+eet/[20,21]|verb|hd/mod|wel/[19,20]|adj|1
+eet/[20,21]|verb|hd/obj1|dit/[18,19]|det|1
+eet/[20,21]|verb|hd/su|ik/[17,18]|pron|1
+en/[8,9]|vg|crd/cnj|moet/[10,11]|verb|1
+en/[8,9]|vg|crd/cnj|zonder/[6,7]|prep|1
+kan/[16,17]|verb|hd/su|ik/[17,18]|pron|1
+kan/[16,17]|verb|hd/vc|eet/[20,21]|verb|1
+menu_kaart/[2,3]|noun|hd/det|de/[1,2]|det|1
+menu_kaart/[2,3]|noun|hd/mod|heel/[0,1]|adv|1
+moet/[10,11]|verb|hd/su|ik/[11,12]|pron|1
+moet/[10,11]|verb|hd/vc|zit/[14,15]|verb|1
+top/top|top|top/hd|besta/[3,4]|verb|1
+uit/[4,5]|prep|hd/obj1|gerecht/[5,6]|noun|1
+zit/[14,15]|verb|hd/su|ik/[11,12]|pron|1
+zit/[14,15]|verb|hd/vc|denk/[15,16]|verb|1
+zonder/[6,7]|prep|hd/obj1|vlees/[7,8]|noun|1
+in/[4,5]|prep|hd/obj1|hier/[1,2]|adv|1
+top/top|top|top/hd|zit/[0,1]|verb|1
+vlees/[3,4]|noun|hd/det|geen/[2,3]|det|1
+zit/[0,1]|verb|-- / --|? /[5,6]|punct|1
+zit/[0,1]|verb|hd/ld|in/[4,5]|prep|1
+zit/[0,1]|verb|hd/su|vlees/[3,4]|noun|1
+,/[0,1]|punct|-- / --|... /[1,2]|punct|1
+top/top|top|top/hd|,/[0,1]|punct|1
+... /[1,2]|punct|-- / --|,/[0,1]|punct|1
+top/top|top|top/hd|... /[1,2]|punct|1
+aan/[7,8]|prep|hd/obj1|je/[8,9]|pron|1
+alleen/[1,2]|adj|hd/mod|niet/[0,1]|adv|1
+bied/[2,3]|verb|-- / --|./[21,22]|punct|1
+bied/[2,3]|verb|dp/dp|vind_terug/[9,10]|verb|1
+bied/[2,3]|verb|hd/mod|alleen/[1,2]|adj|1
+bied/[2,3]|verb|hd/mod|zonder/[5,6]|prep|1
+bied/[2,3]|verb|hd/obj1|gerecht/[4,5]|noun|1
+bied/[2,3]|verb|hd/obj2|aan/[7,8]|prep|1
+bied/[2,3]|verb|hd/su|zij/[3,4]|pron|1
+in/[18,19]|adj|hd/mod|zoals/[19,20]|comp|1
+kaart/[12,13]|noun|hd/det|de/[11,12]|det|1
+met/[16,17]|prep|hd/obj1|vlees_vervanger/[17,18]|noun|1
+met/[16,17]|prep|hd/predc|in/[18,19]|adj|1
+op/[10,11]|prep|hd/obj1|kaart/[12,13]|noun|1
+top/top|top|top/hd|bied/[2,3]|verb|1
+vind_terug/[9,10]|verb|hd/mod|met/[16,17]|prep|1
+vind_terug/[9,10]|verb|hd/mod|ook/[13,14]|adv|1
+vind_terug/[9,10]|verb|hd/mod|op/[10,11]|prep|1
+vind_terug/[9,10]|verb|hd/obj1|gerecht/[14,15]|noun|1
+vind_terug/[9,10]|verb|hd/svp|terug/[15,16]|part|1
+zoals/[19,20]|comp|cmp/body|Quorn/[20,21]|name|1
+zonder/[5,6]|prep|hd/obj1|vlees/[6,7]|noun|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+ben/[1,2]|verb|hd/vc|ga/[6,7]|verb|1
+ben/[15,16]|verb|hd/su|en/[13,14]|vg|1
+ben/[15,16]|verb|hd/vc|te/[18,19]|comp|1
+eet/[7,8]|verb|hd/mod|er/[2,3]|adv|1
+eet/[7,8]|verb|hd/mod|keer/[5,6]|noun|1
+eet/[7,8]|verb|hd/su|ik/[0,1]|pron|1
+en/[8,9]|vg|-- / --|./[20,21]|punct|1
+en/[8,9]|vg|crd/cnj|ben/[1,2]|verb|1
+en/[8,9]|vg|crd/cnj|ben/[15,16]|verb|1
+en/[13,14]|vg|crd/cnj|pas_tas/[12,13]|noun|1
+en/[13,14]|vg|crd/cnj|quiches/[14,15]|noun|1
+ga/[6,7]|verb|hd/su|ik/[0,1]|pron|1
+ga/[6,7]|verb|hd/vc|eet/[7,8]|verb|1
+keer/[5,6]|noun|hd/det|enkel/[4,5]|det|1
+keer/[5,6]|noun|hd/mod|al/[3,4]|adv|1
+pas_tas/[12,13]|noun|hd/det|de/[10,11]|det|1
+pas_tas/[12,13]|noun|hd/mod|vegetarisch/[11,12]|adj|1
+pas_tas/[12,13]|noun|hd/mod|vooral/[9,10]|adv|1
+quiches/[14,15]|noun|hd/det|de/[10,11]|det|1
+quiches/[14,15]|noun|hd/mod|vegetarisch/[11,12]|adj|1
+quiches/[14,15]|noun|hd/mod|vooral/[9,10]|adv|1
+raad_aan/[19,20]|verb|hd/mod|hard/[16,17]|adj|1
+raad_aan/[19,20]|verb|hd/obj1|en/[13,14]|vg|1
+raad_aan/[19,20]|verb|hd/svp|aan/[17,18]|part|1
+te/[18,19]|comp|cmp/body|raad_aan/[19,20]|verb|1
+top/top|top|top/hd|en/[8,9]|vg|1
+Spaghetti bolognaise/[1,3]|name|hd/det|hun/[0,1]|det|1
+Spaghetti bolognaise/[1,3]|name|hd/mod|met/[3,4]|prep|1
+ben/[8,9]|verb|-- / --|./[20,21]|punct|1
+ben/[8,9]|verb|hd/predc|één/[9,10]|num|1
+ben/[8,9]|verb|hd/su|Spaghetti bolognaise/[1,3]|name|1
+champignon/[7,8]|noun|hd/mod|vers/[6,7]|adj|1
+dat/[15,16]|pron|rhd/body|heb/[18,19]|verb|1
+eet/[19,20]|verb|hd/mod|ook/[17,18]|adv|1
+eet/[19,20]|verb|hd/obj1|dat/[15,16]|pron|1
+eet/[19,20]|verb|hd/su|ik/[16,17]|pron|1
+en/[5,6]|vg|crd/cnj|champignon/[7,8]|noun|1
+en/[5,6]|vg|crd/cnj|quorn/[4,5]|noun|1
+gerecht/[14,15]|noun|hd/det|de/[11,12]|det|1
+gerecht/[14,15]|noun|hd/mod|best/[12,13]|adj|1
+gerecht/[14,15]|noun|hd/mod|vegetarisch/[13,14]|adj|1
+heb/[18,19]|verb|hd/su|ik/[16,17]|pron|1
+heb/[18,19]|verb|hd/vc|eet/[19,20]|verb|1
+met/[3,4]|prep|hd/obj1|en/[5,6]|vg|1
+top/top|top|top/hd|ben/[8,9]|verb|1
+van/[10,11]|prep|hd/obj1|gerecht/[14,15]|noun|1
+één/[9,10]|num|hd/mod|dat/[15,16]|pron|1
+één/[9,10]|num|hd/mod|van/[10,11]|prep|1
+bij/[5,6]|prep|hd/obj1|er/[2,3]|adv|1
+brood/[4,5]|noun|hd/mod|gratis/[3,4]|adj|1
+kaas/[9,10]|noun|hd/mod|geraspt/[7,8]|adj|1
+kaas/[9,10]|noun|hd/mod|parmezaans/[8,9]|adj|1
+krijg/[1,2]|verb|-- / --|./[10,11]|punct|1
+krijg/[1,2]|verb|-- / --|en/[6,7]|vg|1
+krijg/[1,2]|verb|dp/dp|kaas/[9,10]|noun|1
+krijg/[1,2]|verb|hd/obj1|brood/[4,5]|noun|1
+krijg/[1,2]|verb|hd/su|je/[0,1]|pron|1
+krijg/[1,2]|verb|hd/svp|bij/[5,6]|prep|1
+top/top|top|top/hd|krijg/[1,2]|verb|1
+ben/[12,13]|verb|hd/mod|er/[11,12]|adv|1
+ben/[12,13]|verb|hd/su|eet/[10,11]|verb|1
+eer/[8,9]|comp|cmp/body|ben/[12,13]|verb|1
+eet/[10,11]|verb|hd/det|mijn/[9,10]|det|1
+heb/[1,2]|verb|-- / --|./[13,14]|punct|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|moet/[6,7]|verb|1
+moet/[6,7]|verb|hd/su|ik/[0,1]|pron|1
+moet/[6,7]|verb|hd/vc|wacht/[7,8]|verb|1
+nooit/[4,5]|adv|hd/mod|nog/[3,4]|adv|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+wacht/[7,8]|verb|hd/mod|bovendien/[2,3]|adv|1
+wacht/[7,8]|verb|hd/mod|eer/[8,9]|comp|1
+wacht/[7,8]|verb|hd/mod|lang/[5,6]|adj|1
+wacht/[7,8]|verb|hd/mod|nooit/[4,5]|adv|1
+wacht/[7,8]|verb|hd/su|ik/[0,1]|pron|1
+als/[13,14]|comp|cmp/body|heb/[16,17]|verb|1
+ben/[2,3]|verb|hd/predc|vriendelijk/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|zaal_personeel/[1,2]|noun|1
+en/[5,6]|vg|-- / --|./[20,21]|punct|1
+en/[5,6]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[5,6]|vg|crd/cnj|wil/[6,7]|verb|1
+heb/[16,17]|verb|hd/obj1|vraag/[15,16]|noun|1
+heb/[16,17]|verb|hd/su|je/[14,15]|pron|1
+menu/[19,20]|noun|hd/det|de/[18,19]|det|1
+over/[17,18]|prep|hd/obj1|menu/[19,20]|noun|1
+sta/[12,13]|verb|hd/mod|als/[13,14]|comp|1
+sta/[12,13]|verb|hd/mod|zonder/[8,9]|prep|1
+sta/[12,13]|verb|hd/obj1|je/[7,8]|pron|1
+sta/[12,13]|verb|hd/su|zaal_personeel/[1,2]|noun|1
+sta/[12,13]|verb|hd/svp|te woord/[10,12]|fixed|1
+top/top|top|top/hd|en/[5,6]|vg|1
+vraag/[15,16]|noun|hd/mod|over/[17,18]|prep|1
+vriendelijk/[4,5]|adj|hd/mod|zeer/[3,4]|adv|1
+wil/[6,7]|verb|hd/su|zaal_personeel/[1,2]|noun|1
+wil/[6,7]|verb|hd/vc|sta/[12,13]|verb|1
+zaal_personeel/[1,2]|noun|hd/det|het/[0,1]|det|1
+zonder/[8,9]|prep|hd/obj1|probleem/[9,10]|noun|1
+buik_DIM/[13,14]|noun|hd/det|hun/[12,13]|det|1
+eet/[16,17]|verb|hd/obj1|buik_DIM/[13,14]|noun|1
+eet/[16,17]|verb|hd/predc|vol/[14,15]|adj|1
+eet/[16,17]|verb|hd/su|niet_vegetariër/[2,3]|noun|1
+en/[11,12]|vg|crd/cnj|geniet/[7,8]|verb|1
+en/[11,12]|vg|crd/cnj|kan/[15,16]|verb|1
+geniet/[7,8]|verb|hd/mod|zeker/[6,7]|adj|1
+geniet/[7,8]|verb|hd/pc|van/[8,9]|prep|1
+geniet/[7,8]|verb|hd/su|niet_vegetariër/[2,3]|noun|1
+gerecht/[10,11]|noun|hd/det|de/[9,10]|det|1
+kan/[15,16]|verb|hd/su|niet_vegetariër/[2,3]|noun|1
+kan/[15,16]|verb|hd/vc|eet/[16,17]|verb|1
+niet_vegetariër/[2,3]|noun|hd/det|de/[1,2]|det|1
+niet_vegetariër/[2,3]|noun|hd/mod|onder/[3,4]|prep|1
+niet_vegetariër/[2,3]|noun|hd/mod|ook/[0,1]|adv|1
+onder/[3,4]|prep|hd/obj1|ons/[4,5]|pron|1
+top/top|top|top/hd|zal/[5,6]|verb|1
+van/[8,9]|prep|hd/obj1|gerecht/[10,11]|noun|1
+zal/[5,6]|verb|-- / --|./[17,18]|punct|1
+zal/[5,6]|verb|hd/su|niet_vegetariër/[2,3]|noun|1
+zal/[5,6]|verb|hd/vc|en/[11,12]|vg|1
+dessert_kaart/[2,3]|noun|hd/det|de/[1,2]|det|1
+dessert_kaart/[2,3]|noun|hd/mod|ook/[0,1]|adv|1
+gerechtjes,/[7,8]|noun|hd/mod|lekker/[5,6]|adj|1
+gerechtjes,/[7,8]|noun|hd/mod|speciaal/[6,7]|adj|1
+gerechtjes,/[7,8]|noun|hd/mod|zoals/[8,9]|comp|1
+met/[13,14]|prep|hd/obj1|huisgemaakt vanilleijs/[14,16]|name|1
+moelleux au chocolat/[10,13]|name|hd/det|de/[9,10]|det|1
+moelleux au chocolat/[10,13]|name|hd/mod|met/[13,14]|prep|1
+sta/[3,4]|verb|-- / --|./[16,17]|punct|1
+sta/[3,4]|verb|hd/predc|vol/[4,5]|prep|1
+sta/[3,4]|verb|hd/su|dessert_kaart/[2,3]|noun|1
+top/top|top|top/hd|sta/[3,4]|verb|1
+vol/[4,5]|prep|hd/obj1|gerechtjes,/[7,8]|noun|1
+zoals/[8,9]|comp|cmp/body|moelleux au chocolat/[10,13]|name|1

@@ -1,0 +1,94 @@
+aangrijpend/[13,14]|adj|hd/mod|zeer/[12,13]|adv|1
+ben/[10,11]|verb|-- / --|,/[6,7]|punct|1
+ben/[10,11]|verb|-- / --|./[21,22]|punct|1
+ben/[10,11]|verb|hd/predc|vertoning/[16,17]|noun|1
+ben/[10,11]|verb|hd/su|langspeelfilm,/[2,3]|noun|1
+emotioneel/[15,16]|adj|hd/mod|zeer/[12,13]|adv|1
+en/[14,15]|vg|crd/cnj|aangrijpend/[13,14]|adj|1
+en/[14,15]|vg|crd/cnj|emotioneel/[15,16]|adj|1
+feit/[20,21]|noun|hd/mod|waargebeurd/[19,20]|adj|1
+gebaseerd/[17,18]|adj|hd/pc|op/[18,19]|prep|1
+langspeelfilm,/[2,3]|noun|hd/det|deze/[0,1]|det|1
+langspeelfilm,/[2,3]|noun|hd/mod|na/[3,4]|prep|1
+langspeelfilm,/[2,3]|noun|hd/mod|tweede/[1,2]|num|1
+langspeelfilm,/[2,3]|noun|hd/mod|van/[7,8]|prep|1
+na/[3,4]|prep|hd/obj1|Ben X/[4,6]|name|1
+op/[18,19]|prep|hd/obj1|feit/[20,21]|noun|1
+top/top|top|top/hd|ben/[10,11]|verb|1
+van/[7,8]|prep|hd/obj1|Nic Balthazar/[8,10]|name|1
+vertoning/[16,17]|noun|hd/det|een/[11,12]|det|1
+vertoning/[16,17]|noun|hd/mod|en/[14,15]|vg|1
+vertoning/[16,17]|noun|hd/mod|gebaseerd/[17,18]|adj|1
+MS_patiënt/[9,10]|noun|hd/det|een/[8,9]|det|1
+MS_patiënt/[9,10]|noun|hd/mod|die/[10,11]|pron|1
+baseer/[2,3]|verb|-- / --|./[21,22]|punct|1
+baseer/[2,3]|verb|hd/pc|op/[4,5]|prep|1
+baseer/[2,3]|verb|hd/se|zich/[3,4]|pron|1
+baseer/[2,3]|verb|hd/su|film/[1,2]|noun|1
+die/[10,11]|pron|rhd/body|vecht/[12,13]|verb|1
+euthanasie_wet/[18,19]|noun|hd/det|de/[17,18]|det|1
+euthanasie_wet/[18,19]|noun|hd/mod|in/[19,20]|prep|1
+film/[1,2]|noun|hd/det|de/[0,1]|det|1
+goedkeuring/[15,16]|noun|hd/det|de/[14,15]|det|1
+goedkeuring/[15,16]|noun|hd/mod|van/[16,17]|prep|1
+in/[19,20]|prep|hd/obj1|België/[20,21]|name|1
+op/[4,5]|prep|hd/obj1|verhaal/[6,7]|noun|1
+over/[7,8]|prep|hd/obj1|MS_patiënt/[9,10]|noun|1
+top/top|top|top/hd|baseer/[2,3]|verb|1
+van/[16,17]|prep|hd/obj1|euthanasie_wet/[18,19]|noun|1
+vecht/[12,13]|verb|hd/mod|jaar_lang/[11,12]|adj|1
+vecht/[12,13]|verb|hd/pc|voor/[13,14]|prep|1
+vecht/[12,13]|verb|hd/su|die/[10,11]|pron|1
+verhaal/[6,7]|noun|hd/det|een/[5,6]|det|1
+verhaal/[6,7]|noun|hd/mod|over/[7,8]|prep|1
+voor/[13,14]|prep|hd/obj1|goedkeuring/[15,16]|noun|1
+die/[4,5]|pron|rhd/body|maak/[8,9]|verb|1
+eerste/[3,4]|num|hd/det|de/[2,3]|det|1
+eerste/[3,4]|num|hd/mod|die/[4,5]|pron|1
+maak/[8,9]|verb|hd/obj1|gebruik/[6,7]|noun|1
+maak/[8,9]|verb|hd/pc|van/[7,8]|prep|1
+maak/[8,9]|verb|hd/su|die/[4,5]|pron|1
+top/top|top|top/hd|word/[1,2]|verb|1
+van/[7,8]|prep|hd/obj1|hier/[5,6]|adv|1
+word/[1,2]|verb|-- / --|./[9,10]|punct|1
+word/[1,2]|verb|hd/predc|eerste/[3,4]|num|1
+word/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+Geert Van Rampelberg/[5,8]|name|hd/mod|in/[8,9]|prep|1
+aan/[16,17]|prep|hd/obj1|er/[12,13]|adv|1
+balans/[24,25]|noun|hd/det|een/[22,23]|det|1
+balans/[24,25]|noun|hd/mod|perfect/[23,24]|adj|1
+balans/[24,25]|noun|hd/mod|tussen/[25,26]|prep|1
+ben/[19,20]|verb|hd/predc|balans/[24,25]|noun|1
+ben/[19,20]|verb|hd/su|film/[21,22]|noun|1
+en/[4,5]|vg|crd/cnj|Geert Van Rampelberg/[5,8]|name|1
+en/[4,5]|vg|crd/cnj|Koen De Graeve/[1,4]|name|1
+en/[27,28]|vg|crd/cnj|emotie/[26,27]|noun|1
+en/[27,28]|vg|crd/cnj|hilariteit/[28,29]|noun|1
+film/[21,22]|noun|hd/det|deze/[20,21]|det|1
+hoofdrol/[10,11]|noun|hd/det|de/[9,10]|det|1
+humor/[15,16]|noun|hd/det|de/[13,14]|det|1
+humor/[15,16]|noun|hd/mod|nodig/[14,15]|adj|1
+in/[8,9]|prep|hd/obj1|hoofdrol/[10,11]|noun|1
+met/[0,1]|prep|-- / --|./[29,30]|punct|1
+met/[0,1]|prep|-- / --|die/[11,12]|pron|1
+met/[0,1]|prep|dp/dp|ben/[19,20]|verb|1
+met/[0,1]|prep|dp/dp|voeg_toe/[18,19]|verb|1
+met/[0,1]|prep|hd/obj1|en/[4,5]|vg|1
+top/top|top|top/hd|met/[0,1]|prep|1
+tussen/[25,26]|prep|hd/obj1|en/[27,28]|vg|1
+voeg_toe/[18,19]|verb|hd/obj1|humor/[15,16]|noun|1
+voeg_toe/[18,19]|verb|hd/pc|aan/[16,17]|prep|1
+voeg_toe/[18,19]|verb|hd/svp|toe/[17,18]|part|1
+door/[4,5]|prep|hd/obj1|reactie/[6,7]|noun|1
+los_af/[3,4]|verb|hd/mod|door/[4,5]|prep|1
+los_af/[3,4]|verb|hd/obj1|moment/[1,2]|noun|1
+moment/[1,2]|noun|hd/mod|pak/[0,1]|adj|1
+reactie/[6,7]|noun|hd/mod|grappig/[5,6]|adj|1
+top/top|top|top/hd|word/[2,3]|verb|1
+word/[2,3]|verb|-- / --|./[7,8]|punct|1
+word/[2,3]|verb|hd/su|moment/[1,2]|noun|1
+word/[2,3]|verb|hd/vc|los_af/[3,4]|verb|1
+film/[2,3]|noun|-- / --|!/[3,4]|punct|1
+film/[2,3]|noun|hd/det|een/[0,1]|det|1
+film/[2,3]|noun|hd/mod|prachtig/[1,2]|adj|1
+top/top|top|top/hd|film/[2,3]|noun|1

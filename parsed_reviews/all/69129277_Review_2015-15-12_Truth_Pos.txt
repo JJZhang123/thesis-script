@@ -1,0 +1,147 @@
+film/[2,3]|noun|hd/det|deze/[1,2]|det|1
+in/[0,1]|prep|hd/obj1|film/[2,3]|noun|1
+maak/[26,27]|verb|hd/mod|waar/[11,12]|adv|1
+maak/[26,27]|verb|hd/obj1|nostalgie_schrijver/[13,14]|noun|1
+maak/[26,27]|verb|hd/predc|trip/[23,24]|noun|1
+met/[17,18]|prep|hd/obj1|verloofde/[19,20]|noun|1
+naar/[9,10]|prep|hd/obj1|Parijs/[10,11]|name|1
+naar/[24,25]|prep|hd/obj1|Parijs/[25,26]|name|1
+neem_mee/[3,4]|verb|-- / --|./[27,28]|punct|1
+neem_mee/[3,4]|verb|dp/dp|waar/[11,12]|adv|1
+neem_mee/[3,4]|verb|hd/ld|naar/[9,10]|prep|1
+neem_mee/[3,4]|verb|hd/mod|in/[0,1]|prep|1
+neem_mee/[3,4]|verb|hd/obj1|ons/[6,7]|pron|1
+neem_mee/[3,4]|verb|hd/su|Woody Allen/[4,6]|name|1
+neem_mee/[3,4]|verb|hd/svp|mee/[8,9]|part|1
+nostalgie_schrijver/[13,14]|noun|hd/app|Owen Wilson/[14,16]|name|1
+nostalgie_schrijver/[13,14]|noun|hd/det|een/[12,13]|det|1
+nostalgie_schrijver/[13,14]|noun|hd/mod|samen/[16,17]|adj|1
+ons/[6,7]|pron|hd/mod|allemaal/[7,8]|adv|1
+samen/[16,17]|adj|hd/pc|met/[17,18]|prep|1
+top/top|top|top/hd|neem_mee/[3,4]|verb|1
+trip/[23,24]|noun|hd/det|een/[22,23]|det|1
+trip/[23,24]|noun|hd/mod|naar/[24,25]|prep|1
+verloofde/[19,20]|noun|hd/app|Rachel McAdams/[20,22]|name|1
+verloofde/[19,20]|noun|hd/det|zijn/[18,19]|det|1
+waar/[11,12]|adv|whd/body|maak/[26,27]|verb|1
+aantal/[23,24]|noun|hd/det|een/[22,23]|det|1
+aantal/[23,24]|noun|hd/mod|scène/[25,26]|noun|1
+draai/[14,15]|verb|hd/mod|enkel/[12,13]|adj|1
+draai/[14,15]|verb|hd/mod|waar/[9,10]|adv|1
+draai/[14,15]|verb|hd/pc|om/[15,16]|prep|1
+draai/[14,15]|verb|hd/su|verhaal/[11,12]|noun|1
+film/[6,7]|noun|hd/det|deze/[5,6]|det|1
+koppel/[20,21]|noun|hd/det|de/[19,20]|det|1
+koppel/[20,21]|noun|hd/mod|met/[21,22]|prep|1
+liefde/[17,18]|noun|hd/det|de/[16,17]|det|1
+liefde/[17,18]|noun|hd/mod|van/[18,19]|prep|1
+lijk/[4,5]|verb|-- / --|./[26,27]|punct|1
+lijk/[4,5]|verb|hd/mod|op/[0,1]|prep|1
+lijk/[4,5]|verb|hd/predc|romatischekomedie/[8,9]|noun|1
+lijk/[4,5]|verb|hd/su|film/[6,7]|noun|1
+met/[21,22]|prep|hd/obj1|aantal/[23,24]|noun|1
+om/[15,16]|prep|hd/obj1|liefde/[17,18]|noun|1
+op/[0,1]|prep|hd/obj1|zicht/[3,4]|noun|1
+romatischekomedie/[8,9]|noun|hd/det|een/[7,8]|det|1
+romatischekomedie/[8,9]|noun|hd/mod|waar/[9,10]|adv|1
+scène/[25,26]|noun|hd/mod|romantisch/[24,25]|adj|1
+top/top|top|top/hd|lijk/[4,5]|verb|1
+van/[18,19]|prep|hd/obj1|koppel/[20,21]|noun|1
+verhaal/[11,12]|noun|hd/det|het/[10,11]|det|1
+waar/[9,10]|adv|rhd/body|zal/[13,14]|verb|1
+zal/[13,14]|verb|hd/su|verhaal/[11,12]|noun|1
+zal/[13,14]|verb|hd/vc|draai/[14,15]|verb|1
+zicht/[3,4]|noun|hd/det|het/[1,2]|det|1
+zicht/[3,4]|noun|hd/mod|eerste/[2,3]|num|1
+Integendeel,/[0,1]|name|-- / --|./[9,10]|punct|1
+Integendeel,/[0,1]|name|dp/dp|verras/[6,7]|verb|1
+afloop/[2,3]|noun|hd/det|de/[1,2]|det|1
+afloop/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+film/[5,6]|noun|hd/det|de/[4,5]|det|1
+top/top|top|top/hd|Integendeel,/[0,1]|name|1
+van/[3,4]|prep|hd/obj1|film/[5,6]|noun|1
+verras/[6,7]|verb|hd/mod|enorm/[8,9]|adj|1
+verras/[6,7]|verb|hd/obj1|me/[7,8]|pron|1
+verras/[6,7]|verb|hd/su|afloop/[2,3]|noun|1
+ben/[6,7]|verb|-- / --|./[20,21]|punct|1
+ben/[6,7]|verb|dp/dp|ben/[17,18]|verb|1
+ben/[6,7]|verb|hd/mod|in/[7,8]|prep|1
+ben/[6,7]|verb|hd/predc|maar/[11,12]|vg|1
+ben/[6,7]|verb|hd/su|zowel/[0,1]|vg|1
+ben/[17,18]|verb|hd/predc|toppunt/[19,20]|noun|1
+ben/[17,18]|verb|hd/su|verhaal/[16,17]|noun|1
+grappig/[2,3]|adj|hd/det|de/[1,2]|det|1
+in/[7,8]|prep|hd/obj1|verhaal/[9,10]|noun|1
+maar/[11,12]|vg|crd/cnj|mysterie/[13,14]|noun|1
+maar/[11,12]|vg|crd/cnj|verwerkt/[10,11]|adj|1
+mysterie/[13,14]|noun|hd/det|de/[12,13]|det|1
+mysterie/[13,14]|noun|hd/mod|in deze/[14,16]|pp|1
+scène/[5,6]|noun|hd/mod|romantisch/[4,5]|adj|1
+top/top|top|top/hd|ben/[6,7]|verb|1
+toppunt/[19,20]|noun|hd/det|het/[18,19]|det|1
+verhaal/[9,10]|noun|hd/det|het/[8,9]|det|1
+zowel/[0,1]|vg|crd/cnj|grappig/[2,3]|adj|1
+zowel/[0,1]|vg|crd/cnj|scène/[5,6]|noun|1
+zowel/[0,1]|vg|crd/crd|als/[3,4]|vg|1
+fillm/[4,5]|noun|hd/det|deze/[3,4]|det|1
+fragment/[1,2]|noun|hd/det|de/[0,1]|det|1
+fragment/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+maak/[5,6]|verb|-- / --|./[9,10]|punct|1
+maak/[5,6]|verb|hd/mod|meteen/[7,8]|adv|1
+maak/[5,6]|verb|hd/obj1|fragment/[1,2]|noun|1
+maak/[5,6]|verb|hd/predc|nieuwsgierig/[8,9]|adj|1
+maak/[5,6]|verb|hd/su|u/[6,7]|pron|1
+top/top|top|top/hd|maak/[5,6]|verb|1
+van/[2,3]|prep|hd/obj1|fillm/[4,5]|noun|1
+auteur/[8,9]|noun|hd/det|de/[6,7]|det|1
+auteur/[8,9]|noun|hd/mod|jong/[7,8]|adj|1
+en/[14,15]|vg|crd/cnj|ga/[13,14]|verb|1
+en/[14,15]|vg|crd/cnj|krijg/[17,18]|verb|1
+ga/[13,14]|verb|hd/ld|terug/[9,10]|adv|1
+ga/[13,14]|verb|hd/mod|in/[10,11]|prep|1
+ga/[13,14]|verb|hd/mod|waarbij/[5,6]|pp|1
+ga/[13,14]|verb|hd/su|auteur/[8,9]|noun|1
+genie/[20,21]|noun|hd/mod|van/[21,22]|prep|1
+genie/[20,21]|noun|hd/mod|verschil/[19,20]|adj|1
+in/[10,11]|prep|hd/obj1|tijd/[12,13]|noun|1
+kans/[16,17]|noun|hd/det|de/[15,16]|det|1
+krijg/[17,18]|verb|hd/mod|om/[18,19]|comp|1
+krijg/[17,18]|verb|hd/mod|waarbij/[5,6]|pp|1
+krijg/[17,18]|verb|hd/obj1|kans/[16,17]|noun|1
+krijg/[17,18]|verb|hd/su|auteur/[8,9]|noun|1
+literatuur/[22,23]|noun|hd/mod|zoals/[23,24]|comp|1
+om/[18,19]|comp|cmp/body|te/[26,27]|comp|1
+ontmoet/[27,28]|verb|hd/obj1|genie/[20,21]|noun|1
+plot/[1,2]|noun|-- / --|./[28,29]|punct|1
+plot/[1,2]|noun|hd/det|de/[0,1]|det|1
+plot/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+te/[26,27]|comp|cmp/body|ontmoet/[27,28]|verb|1
+tijd/[12,13]|noun|hd/det|de/[11,12]|det|1
+top/top|top|top/hd|plot/[1,2]|noun|1
+van/[2,3]|prep|hd/obj1|verhaal/[4,5]|noun|1
+van/[21,22]|prep|hd/obj1|literatuur/[22,23]|noun|1
+verhaal/[4,5]|noun|hd/det|het/[3,4]|det|1
+verhaal/[4,5]|noun|hd/mod|waarbij/[5,6]|pp|1
+waarbij/[5,6]|pp|rhd/body|en/[14,15]|vg|1
+zoals/[23,24]|comp|cmp/body|Edward Fitzgerald,/[24,26]|name|1
+ben/[13,14]|verb|hd/mod|waar/[4,5]|adv|1
+ben/[13,14]|verb|hd/predc|en/[8,9]|vg|1
+ben/[13,14]|verb|hd/su|mysterie, liefde,/[5,7]|name|1
+en/[8,9]|vg|crd/cnj|liefde/[10,11]|noun|1
+en/[8,9]|vg|crd/cnj|ruzie/[7,8]|noun|1
+geweldig/[1,2]|adj|-- / --|./[16,17]|punct|1
+geweldig/[1,2]|adj|-- / --|romantisch/[2,3]|prefix|1
+geweldig/[1,2]|adj|dp/dp|verwerk/[15,16]|verb|1
+geweldig/[1,2]|adj|hd/det|een/[0,1]|det|1
+komedie/[3,4]|noun|hd/mod|waar/[4,5]|adv|1
+liefde/[10,11]|noun|hd/det|Woody/[9,10]|det|1
+liefde/[10,11]|noun|hd/mod|voor/[11,12]|prep|1
+top/top|top|top/hd|geweldig/[1,2]|adj|1
+verwerk/[15,16]|verb|hd/obj1|komedie/[3,4]|noun|1
+verwerk/[15,16]|verb|hd/pc|in/[14,15]|prep|1
+voor/[11,12]|prep|hd/obj1|literatuur_geschiedenis/[12,13]|noun|1
+waar/[4,5]|adv|rhd/body|ben/[13,14]|verb|1
+aanrader/[2,3]|noun|-- / --|!/[3,4]|punct|1
+aanrader/[2,3]|noun|hd/det|een/[0,1]|det|1
+aanrader/[2,3]|noun|hd/mod|zeker/[1,2]|adj|1
+top/top|top|top/hd|aanrader/[2,3]|noun|1

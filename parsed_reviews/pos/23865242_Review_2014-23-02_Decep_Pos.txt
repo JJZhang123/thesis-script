@@ -1,0 +1,101 @@
+Oude Koornmarkt/[6,8]|name|hd/det|de/[5,6]|det|1
+Oude Koornmarkt/[6,8]|name|hd/mod|in/[8,9]|prep|1
+in/[8,9]|prep|hd/obj1|Antwerpen/[9,10]|name|1
+op/[4,5]|prep|hd/obj1|Oude Koornmarkt/[6,8]|name|1
+restaurant/[2,3]|noun|hd/app|PROPNAME/[3,4]|name|1
+restaurant/[2,3]|noun|hd/det|het/[0,1]|det|1
+restaurant/[2,3]|noun|hd/mod|nieuw/[1,2]|adj|1
+restaurant/[2,3]|noun|hd/mod|op/[4,5]|prep|1
+top/top|top|top/hd|word/[10,11]|verb|1
+waardeer/[12,13]|verb|hd/mod|hoog/[11,12]|adj|1
+waardeer/[12,13]|verb|hd/obj1|restaurant/[2,3]|noun|1
+word/[10,11]|verb|-- / --|./[13,14]|punct|1
+word/[10,11]|verb|hd/su|restaurant/[2,3]|noun|1
+word/[10,11]|verb|hd/vc|waardeer/[12,13]|verb|1
+ben/[6,7]|verb|hd/predc|laag/[7,8]|adj|1
+ben/[6,7]|verb|hd/su|verwachting/[1,2]|noun|1
+bewijs/[14,15]|verb|hd/obj1|tegendeel/[13,14]|noun|1
+bewijs/[14,15]|verb|hd/su|uitbater/[10,11]|noun|1
+heb/[11,12]|verb|hd/su|uitbater/[10,11]|noun|1
+heb/[11,12]|verb|hd/vc|bewijs/[14,15]|verb|1
+maar/[8,9]|vg|-- / --|./[15,16]|punct|1
+maar/[8,9]|vg|crd/cnj|ben/[6,7]|verb|1
+maar/[8,9]|vg|crd/cnj|heb/[11,12]|verb|1
+restaurant/[5,6]|noun|hd/det|dit/[3,4]|det|1
+restaurant/[5,6]|noun|hd/mod|vegetarisch/[4,5]|adj|1
+tegendeel/[13,14]|noun|hd/det|het/[12,13]|det|1
+top/top|top|top/hd|maar/[8,9]|vg|1
+uitbater/[10,11]|noun|hd/det|de/[9,10]|det|1
+verwachting/[1,2]|noun|hd/det|de/[0,1]|det|1
+verwachting/[1,2]|noun|hd/mod|voor/[2,3]|prep|1
+voor/[2,3]|prep|hd/obj1|restaurant/[5,6]|noun|1
+aan/[7,8]|prep|hd/obj1|saladebar,/[10,11]|noun|1
+alternatief/[16,17]|noun|hd/mod|te/[5,6]|comp|1
+alternatief/[16,17]|noun|hd/mod|vers/[11,12]|adj|1
+alternatief/[16,17]|noun|hd/mod|voor/[17,18]|prep|1
+alternatief/[16,17]|noun|hd/mod|zoals/[19,20]|comp|1
+ben/[3,4]|verb|-- / --|./[24,25]|punct|1
+ben/[3,4]|verb|hd/predc|en/[13,14]|vg|1
+ben/[3,4]|verb|hd/su|succes/[2,3]|noun|1
+dank/[6,7]|verb|hd/mod|vooral/[4,5]|adv|1
+en/[13,14]|vg|crd/cnj|alternatief/[16,17]|noun|1
+en/[13,14]|vg|crd/cnj|fruit/[14,15]|noun|1
+en/[13,14]|vg|crd/cnj|groente/[12,13]|noun|1
+en/[13,14]|vg|crd/crd|en/[15,16]|vg|1
+fruit/[14,15]|noun|hd/mod|te/[5,6]|comp|1
+fruit/[14,15]|noun|hd/mod|vers/[11,12]|adj|1
+fruit/[14,15]|noun|hd/mod|voor/[17,18]|prep|1
+fruit/[14,15]|noun|hd/mod|zoals/[19,20]|comp|1
+groente/[12,13]|noun|hd/mod|te/[5,6]|comp|1
+groente/[12,13]|noun|hd/mod|vers/[11,12]|adj|1
+groente/[12,13]|noun|hd/mod|voor/[17,18]|prep|1
+groente/[12,13]|noun|hd/mod|zoals/[19,20]|comp|1
+saladebar,/[10,11]|noun|hd/det|hun/[8,9]|det|1
+saladebar,/[10,11]|noun|hd/mod|uitgebreid/[9,10]|adj|1
+succes/[2,3]|noun|hd/det|hun/[0,1]|det|1
+succes/[2,3]|noun|hd/mod|groot/[1,2]|adj|1
+te/[5,6]|comp|cmp/body|dank/[6,7]|verb|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+vers/[11,12]|adj|hd/mod|aan/[7,8]|prep|1
+voor/[17,18]|prep|hd/obj1|vlees/[18,19]|noun|1
+zoals/[19,20]|comp|cmp/body|tofu, hummus en quorn/[20,24]|name|1
+ben/[1,2]|verb|hd/su|product/[4,5]|noun|1
+ben/[1,2]|verb|hd/vc|teel/[6,7]|verb|1
+beschik/[8,9]|verb|hd/mod|ook/[10,11]|adv|1
+beschik/[8,9]|verb|hd/mod|ver/[0,1]|adj|1
+beschik/[8,9]|verb|hd/pc|over/[11,12]|prep|1
+beschik/[8,9]|verb|hd/su|ze/[9,10]|pron|1
+en/[7,8]|vg|-- / --|./[15,16]|punct|1
+en/[7,8]|vg|crd/cnj|ben/[1,2]|verb|1
+en/[7,8]|vg|crd/cnj|beschik/[8,9]|verb|1
+hun/[3,4]|det|hd/mod|al/[2,3]|det|1
+over/[11,12]|prep|hd/obj1|smoothiebar/[14,15]|noun|1
+product/[4,5]|noun|hd/det|hun/[3,4]|det|1
+smoothiebar/[14,15]|noun|hd/det|een/[12,13]|det|1
+smoothiebar/[14,15]|noun|hd/mod|gevarieerd/[13,14]|adj|1
+teel/[6,7]|verb|hd/mod|biologisch/[5,6]|adj|1
+teel/[6,7]|verb|hd/mod|ver/[0,1]|adj|1
+teel/[6,7]|verb|hd/obj1|product/[4,5]|noun|1
+top/top|top|top/hd|en/[7,8]|vg|1
+ben/[1,2]|verb|-- / --|./[21,22]|punct|1
+ben/[1,2]|verb|hd/mod|aangeprezen/[4,5]|adj|1
+ben/[1,2]|verb|hd/mod|dus/[2,3]|adv|1
+ben/[1,2]|verb|hd/mod|om/[5,6]|comp|1
+ben/[1,2]|verb|hd/predc|hoogwaardig/[3,4]|adj|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+bij/[13,14]|prep|hd/obj1|propname/[14,15]|noun|1
+ga/[11,12]|verb|hd/vc|geniet/[12,13]|verb|1
+geniet/[12,13]|verb|hd/mod|bij/[13,14]|prep|1
+geniet/[12,13]|verb|hd/pc|van/[6,7]|prep|1
+in/[15,16]|prep|hd/obj1|schaduw/[17,18]|noun|1
+kathedraal/[20,21]|noun|hd/det|de/[19,20]|det|1
+maaltijd/[9,10]|noun|hd/det|een/[7,8]|det|1
+maaltijd/[9,10]|noun|hd/mod|gezond/[8,9]|adj|1
+om/[5,6]|comp|cmp/body|te/[10,11]|comp|1
+propname/[14,15]|noun|hd/mod|in/[15,16]|prep|1
+schaduw/[17,18]|noun|hd/det|de/[16,17]|det|1
+schaduw/[17,18]|noun|hd/mod|van/[18,19]|prep|1
+te/[10,11]|comp|cmp/body|ga/[11,12]|verb|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[6,7]|prep|hd/obj1|maaltijd/[9,10]|noun|1
+van/[18,19]|prep|hd/obj1|kathedraal/[20,21]|noun|1

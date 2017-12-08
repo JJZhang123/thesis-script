@@ -1,0 +1,140 @@
+koffie_bar/[3,4]|noun|-- / --|!/[4,5]|punct|1
+koffie_bar/[3,4]|noun|hd/det|wat een/[0,2]|det|1
+koffie_bar/[3,4]|noun|hd/mod|verschrikkelijk/[2,3]|adj|1
+top/top|top|top/hd|koffie_bar/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+ben/[1,2]|verb|hd/vc|ben/[7,8]|verb|1
+ben/[7,8]|verb|hd/mod|er/[2,3]|adv|1
+ben/[7,8]|verb|hd/mod|laatst/[3,4]|adv|1
+ben/[7,8]|verb|hd/mod|met/[4,5]|prep|1
+ben/[7,8]|verb|hd/su|ik/[0,1]|pron|1
+ben/[9,10]|verb|hd/mod|niet/[11,12]|adv|1
+ben/[9,10]|verb|hd/pc|over/[12,13]|prep|1
+ben/[9,10]|verb|hd/su|ik/[0,1]|pron|1
+ben/[9,10]|verb|hd/svp|te/[13,14]|comp|1
+en/[8,9]|vg|-- / --|./[15,16]|punct|1
+en/[8,9]|vg|crd/cnj|ben/[1,2]|verb|1
+en/[8,9]|vg|crd/cnj|ben/[9,10]|verb|1
+met/[4,5]|prep|hd/obj1|vriendin/[6,7]|noun|1
+over/[12,13]|prep|hd/obj1|er/[10,11]|adv|1
+te/[13,14]|comp|cmp/body|spreek/[14,15]|verb|1
+top/top|top|top/hd|en/[8,9]|vg|1
+vriendin/[6,7]|noun|hd/det|enkel/[5,6]|det|1
+bij/[0,1]|prep|hd/obj1|binnenkomst/[1,2]|noun|1
+en/[17,18]|vg|crd/cnj|dicht/[16,17]|adj|1
+en/[17,18]|vg|crd/cnj|dichtbij/[18,20]|adj|1
+koffiegeur je tegemoet,/[5,8]|name|hd/det|een/[3,4]|det|1
+koffiegeur je tegemoet,/[5,8]|name|hd/mod|lekker/[4,5]|adj|1
+kom/[2,3]|verb|hd/mod|bij/[0,1]|prep|1
+kom/[2,3]|verb|hd/su|koffiegeur je tegemoet,/[5,8]|name|1
+maar/[8,9]|vg|-- / --|./[23,24]|punct|1
+maar/[8,9]|vg|-- / --|je/[14,15]|pron|1
+maar/[8,9]|vg|-- / --|naarmate/[13,14]|comp|1
+maar/[8,9]|vg|crd/cnj|dan/[9,10]|adv|1
+maar/[8,9]|vg|crd/cnj|kom/[2,3]|verb|1
+maar/[8,9]|vg|dp/dp|begeef/[22,23]|verb|1
+maar/[8,9]|vg|dp/dp|te/[20,21]|comp|1
+maar/[8,9]|vg|dp/dp|verdwijn/[10,11]|verb|1
+snel/[12,13]|adj|hd/mod|al/[11,12]|adv|1
+te/[20,21]|comp|cmp/body|toiletten/[21,22]|verb|1
+toiletten/[21,22]|verb|hd/mod|en/[17,18]|vg|1
+toiletten/[21,22]|verb|hd/obj1|je/[15,16]|pron|1
+top/top|top|top/hd|maar/[8,9]|vg|1
+verdwijn/[10,11]|verb|hd/mod|snel/[12,13]|adj|1
+bar/[11,12]|noun|hd/det|de/[9,10]|det|1
+bar/[11,12]|noun|hd/mod|heel/[10,11]|adj|1
+dat/[1,2]|comp|cmp/body|ruik/[12,13]|verb|1
+in/[8,9]|prep|hd/obj1|bar/[11,12]|noun|1
+jammer/[0,1]|adj|-- / --|./[13,14]|punct|1
+jammer/[0,1]|adj|dp/dp|dat/[1,2]|comp|1
+na verloop van/[4,7]|prep|hd/obj1|tijd/[7,8]|noun|1
+ruik/[12,13]|verb|hd/mod|in/[8,9]|prep|1
+ruik/[12,13]|verb|hd/mod|na verloop van/[4,7]|prep|1
+ruik/[12,13]|verb|hd/obj1|dit/[3,4]|det|1
+ruik/[12,13]|verb|hd/su|je/[2,3]|pron|1
+top/top|top|top/hd|jammer/[0,1]|adj|1
+afhaalkoffie,/[6,7]|noun|hd/det|een/[5,6]|det|1
+als/[0,1]|comp|cmp/body|schuif_aan/[3,4]|verb|1
+besluit/[7,8]|verb|-- / --|./[16,17]|punct|1
+besluit/[7,8]|verb|-- / --|de/[14,15]|det|1
+besluit/[7,8]|verb|-- / --|voor/[13,14]|prep|1
+besluit/[7,8]|verb|dp/dp|kruip/[15,16]|verb|1
+besluit/[7,8]|verb|hd/mod|als/[0,1]|comp|1
+besluit/[7,8]|verb|hd/mod|er/[8,9]|adv|1
+besluit/[7,8]|verb|hd/mod|nog/[10,11]|adv|1
+besluit/[7,8]|verb|hd/mod|ook/[9,10]|adv|1
+besluit/[7,8]|verb|hd/su|dame/[12,13]|noun|1
+dame/[12,13]|noun|hd/det|enkel/[11,12]|det|1
+schuif_aan/[3,4]|verb|hd/mod|dan/[2,3]|adv|1
+schuif_aan/[3,4]|verb|hd/mod|voor/[4,5]|prep|1
+schuif_aan/[3,4]|verb|hd/su|je/[1,2]|pron|1
+top/top|top|top/hd|besluit/[7,8]|verb|1
+voor/[4,5]|prep|hd/obj1|afhaalkoffie,/[6,7]|noun|1
+barista/[4,5]|noun|hd/det|de/[3,4]|det|1
+barista/[4,5]|noun|hd/mod|die/[6,7]|pron|1
+die/[6,7]|pron|rhd/body|heb/[10,11]|verb|1
+heb/[10,11]|verb|hd/su|die/[6,7]|pron|1
+heb/[10,11]|verb|hd/vc|zie/[9,10]|verb|1
+reactie/[1,2]|noun|-- / --|(-)/[5,6]|punct|1
+reactie/[1,2]|noun|-- / --|? /[11,12]|punct|1
+reactie/[1,2]|noun|hd/det|de/[0,1]|det|1
+reactie/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+top/top|top|top/hd|reactie/[1,2]|noun|1
+van/[2,3]|prep|hd/obj1|barista/[4,5]|noun|1
+zie/[9,10]|verb|hd/mod|duidelijk/[8,9]|adj|1
+zie/[9,10]|verb|hd/obj1|het/[7,8]|det|1
+zie/[9,10]|verb|hd/su|die/[6,7]|pron|1
+heb/[1,2]|verb|-- / --|./[6,7]|punct|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|zie/[4,5]|verb|1
+heb/[1,2]|verb|nucl/tag|hoor/[5,6]|tag|1
+niets/[3,4]|noun|hd/mod|helemaal/[2,3]|adv|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+zie/[4,5]|verb|hd/obj1|niets/[3,4]|noun|1
+zie/[4,5]|verb|hd/su|ik/[0,1]|pron|1
+als/[0,1]|comp|cmp/body|heb/[8,9]|verb|1
+dan/[13,14]|comparative|cmp/body|koffie/[14,15]|noun|1
+drink/[9,10]|verb|-- / --|./[15,16]|punct|1
+drink/[9,10]|verb|hd/mod|als/[0,1]|comp|1
+drink/[9,10]|verb|hd/mod|goed/[11,12]|adj|1
+drink/[9,10]|verb|hd/obj1|water/[12,13]|noun|1
+drink/[9,10]|verb|hd/su|je/[10,11]|pron|1
+goed/[11,12]|adj|hd/obcomp|dan/[13,14]|comparative|1
+heb/[8,9]|verb|hd/mod|dan/[2,3]|adv|1
+heb/[8,9]|verb|hd/mod|eenmaal/[3,4]|noun|1
+heb/[8,9]|verb|hd/obj1|koffie/[5,6]|noun|1
+heb/[8,9]|verb|hd/su|je/[1,2]|pron|1
+heb/[8,9]|verb|hd/svp|te pakken/[6,8]|fixed|1
+koffie/[5,6]|noun|hd/det|een/[4,5]|det|1
+top/top|top|top/hd|drink/[9,10]|verb|1
+aan/[6,7]|prep|hd/obj1|beschrijving/[8,9]|noun|1
+beschrijving/[8,9]|noun|hd/det|de/[7,8]|det|1
+beschrijving/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+koffie/[3,4]|noun|hd/det|de/[2,3]|det|1
+koffie/[12,13]|noun|hd/det|een/[10,11]|det|1
+koffie/[12,13]|noun|hd/mod|slap/[11,12]|adj|1
+maar/[1,2]|vg|-- / --|./[13,14]|punct|1
+maar/[1,2]|vg|crd/cnj|Sorry/[0,1]|name|1
+maar/[1,2]|vg|crd/cnj|voldoe/[4,5]|verb|1
+top/top|top|top/hd|maar/[1,2]|vg|1
+van/[9,10]|prep|hd/obj1|koffie/[12,13]|noun|1
+voldoe/[4,5]|verb|hd/mod|echt/[5,6]|adj|1
+voldoe/[4,5]|verb|hd/pc|aan/[6,7]|prep|1
+voldoe/[4,5]|verb|hd/su|koffie/[3,4]|noun|1
+ben/[13,14]|verb|hd/predc|toppunt/[16,17]|noun|1
+ben/[13,14]|verb|hd/su|het/[14,15]|det|1
+cappucino/[4,5]|noun|hd/det|een/[3,4]|det|1
+dat/[0,1]|comp|-- / --|./[17,18]|punct|1
+dat/[0,1]|comp|cmp/body|tel_neer/[12,13]|verb|1
+dat/[0,1]|comp|dp/dp|ben/[13,14]|verb|1
+euro/[11,12]|noun|hd/det|6/[10,11]|num|1
+euro/[11,12]|noun|hd/mod|bijna/[9,10]|adv|1
+euro/[11,12]|noun|hd/mod|nog eens/[7,9]|adv|1
+tel_neer/[12,13]|verb|hd/mod|dan/[5,6]|adv|1
+tel_neer/[12,13]|verb|hd/mod|ook/[6,7]|adv|1
+tel_neer/[12,13]|verb|hd/obj1|euro/[11,12]|noun|1
+tel_neer/[12,13]|verb|hd/pc|voor/[2,3]|prep|1
+tel_neer/[12,13]|verb|hd/su|ik/[1,2]|pron|1
+top/top|top|top/hd|dat/[0,1]|comp|1
+toppunt/[16,17]|noun|hd/det|het/[15,16]|det|1
+voor/[2,3]|prep|hd/obj1|cappucino/[4,5]|noun|1

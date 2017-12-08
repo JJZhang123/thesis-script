@@ -1,0 +1,95 @@
+dat/[8,9]|comp|cmp/body|word/[11,12]|verb|1
+inspiratieloos/[7,8]|adj|hd/mod|zo/[6,7]|adj|1
+kom/[0,1]|verb|-- / --|./[12,13]|punct|1
+kom/[0,1]|verb|dp/dp|opening_zin/[5,6]|noun|1
+kom/[0,1]|verb|hd/mod|hier/[2,3]|adv|1
+kom/[0,1]|verb|hd/mod|vaak/[3,4]|adj|1
+kom/[0,1]|verb|hd/su|jij/[1,2]|pron|1
+opening_zin/[5,6]|noun|dp/dp|inspiratieloos/[7,8]|adj|1
+opening_zin/[5,6]|noun|hd/det|een/[4,5]|det|1
+top/top|top|top/hd|kom/[0,1]|verb|1
+word/[11,12]|verb|hd/predc|lachwekkend/[10,11]|adj|1
+word/[11,12]|verb|hd/su|het/[9,10]|det|1
+zo/[6,7]|adj|hd/obcomp|dat/[8,9]|comp|1
+ben/[1,2]|verb|-- / --|./[9,10]|punct|1
+ben/[1,2]|verb|hd/predc|novelle/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|Helaas,/[0,1]|name|1
+novelle/[4,5]|noun|hd/app|PROPNAME van Slecht E/[5,9]|name|1
+novelle/[4,5]|noun|hd/det|de/[2,3]|det|1
+novelle/[4,5]|noun|hd/mod|romantisch/[3,4]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+Schrijver even onbezield/[0,3]|name|-- / --|./[3,4]|punct|1
+top/top|top|top/hd|Schrijver even onbezield/[0,3]|name|1
+./[3,4]|punct|-- / --|Schrijver even onbezield/[0,3]|name|1
+top/top|top|top/hd|./[3,4]|punct|1
+ben/[2,3]|verb|-- / --|./[11,12]|punct|1
+ben/[2,3]|verb|hd/predc|erg/[1,2]|adj|1
+ben/[2,3]|verb|hd/su|dat/[3,4]|comp|1
+bevestig/[9,10]|verb|hd/obj1|cliché/[8,9]|noun|1
+cliché/[8,9]|noun|hd/det|elk/[4,5]|det|1
+cliché/[8,9]|noun|hd/mod|besta/[6,7]|adj|1
+cliché/[8,9]|noun|hd/mod|denkbaar/[5,6]|adj|1
+cliché/[8,9]|noun|hd/mod|romantisch/[7,8]|adj|1
+dat/[3,4]|comp|cmp/body|word/[10,11]|verb|1
+erg/[1,2]|adj|hd/mod|nog/[0,1]|adv|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+word/[10,11]|verb|hd/su|cliché/[8,9]|noun|1
+word/[10,11]|verb|hd/vc|bevestig/[9,10]|verb|1
+bedoel/[16,17]|verb|hd/mod|hier/[12,13]|adv|1
+bedoel/[16,17]|verb|hd/mod|niet/[14,15]|adv|1
+bedoel/[16,17]|verb|hd/obj1|ontspanning/[15,16]|noun|1
+bedoel/[16,17]|verb|hd/pc|waarmee/[10,11]|pp|1
+bedoel/[16,17]|verb|hd/su|ik/[11,12]|pron|1
+maak_vrij/[1,2]|verb|-- / --|./[17,18]|punct|1
+maak_vrij/[1,2]|verb|-- / --|–/[9,10]|punct|1
+maak_vrij/[1,2]|verb|hd/mod|dan/[4,5]|adv|1
+maak_vrij/[1,2]|verb|hd/mod|ook/[5,6]|adv|1
+maak_vrij/[1,2]|verb|hd/obj1|novelle/[3,4]|noun|1
+maak_vrij/[1,2]|verb|hd/pc|van/[7,8]|prep|1
+maak_vrij/[1,2]|verb|hd/su|dit/[0,1]|det|1
+maak_vrij/[1,2]|verb|hd/svp|vrij/[6,7]|part|1
+niet/[14,15]|adv|hd/mod|zeker/[13,14]|adj|1
+novelle/[3,4]|noun|hd/det|de/[2,3]|det|1
+spanning/[8,9]|noun|hd/mod|waarmee/[10,11]|pp|1
+top/top|top|top/hd|maak_vrij/[1,2]|verb|1
+van/[7,8]|prep|hd/obj1|spanning/[8,9]|noun|1
+waarmee/[10,11]|pp|rhd/body|bedoel/[16,17]|verb|1
+aan/[16,17]|prep|hd/obj1|lezer/[19,20]|noun|1
+ben/[1,2]|verb|-- / --|./[20,21]|punct|1
+ben/[1,2]|verb|hd/mod|hoe/[4,5]|adj|1
+ben/[1,2]|verb|hd/predc|nagelbijtend/[3,4]|adj|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+eerder/[9,10]|adj|hd/mod|al/[8,9]|adv|1
+hoe/[4,5]|adj|rhd/body|probeer/[13,14]|verb|1
+lezer/[19,20]|noun|hd/det|een/[17,18]|det|1
+lezer/[19,20]|noun|hd/mod|onoplettend/[18,19]|adj|1
+nagelbijtend/[3,4]|adj|hd/mod|gewoon/[2,3]|adj|1
+plak_boek/[6,7]|noun|hd/det|dit/[5,6]|det|1
+plak_boek/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+probeer/[13,14]|verb|hd/mod|hoe/[4,5]|adj|1
+probeer/[13,14]|verb|hd/su|plak_boek/[6,7]|noun|1
+probeer/[13,14]|verb|hd/vc|te/[14,15]|comp|1
+romance/[11,12]|noun|hd/mod|eerder/[9,10]|adj|1
+romance/[11,12]|noun|hd/mod|gerecycleerd/[10,11]|adj|1
+te/[14,15]|comp|cmp/body|verkoop/[15,16]|verb|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[7,8]|prep|hd/obj1|romance/[11,12]|noun|1
+verkoop/[15,16]|verb|hd/obj1|zichzelf/[12,13]|pron|1
+verkoop/[15,16]|verb|hd/obj2|aan/[16,17]|prep|1
+verkoop/[15,16]|verb|hd/su|plak_boek/[6,7]|noun|1
+boek_winkel/[11,12]|noun|hd/det|de/[10,11]|det|1
+boek_winkel/[11,12]|noun|hd/mod|voor/[12,13]|prep|1
+naar/[9,10]|prep|hd/obj1|boek_winkel/[11,12]|noun|1
+onthoud/[0,1]|verb|-- / --|!/[15,16]|punct|1
+onthoud/[0,1]|verb|hd/mod|vooral/[2,3]|adv|1
+onthoud/[0,1]|verb|hd/obj1|het/[3,4]|det|1
+onthoud/[0,1]|verb|hd/su|u/[1,2]|pron|1
+onthoud/[0,1]|verb|sat/nucl|rep/[5,6]|verb|1
+rep/[5,6]|verb|hd/ld|naar/[9,10]|prep|1
+rep/[5,6]|verb|hd/mod|niet/[8,9]|adv|1
+rep/[5,6]|verb|hd/predm|volg/[4,5]|adj|1
+rep/[5,6]|verb|hd/se|uzelf/[7,8]|pron|1
+rep/[5,6]|verb|hd/su|u/[6,7]|pron|1
+schrijfsel/[14,15]|noun|hd/det|dit/[13,14]|det|1
+top/top|top|top/hd|onthoud/[0,1]|verb|1
+voor/[12,13]|prep|hd/obj1|schrijfsel/[14,15]|noun|1

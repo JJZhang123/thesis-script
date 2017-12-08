@@ -1,0 +1,62 @@
+ben/[8,9]|verb|hd/mod|over/[0,1]|prep|1
+ben/[8,9]|verb|hd/predc|positief/[7,8]|adj|1
+ben/[8,9]|verb|hd/su|ik/[5,6]|pron|1
+boek/[2,3]|noun|hd/app|PROPNAME/[3,4]|name|1
+boek/[2,3]|noun|hd/det|het/[1,2]|det|1
+kan/[4,5]|verb|-- / --|./[9,10]|punct|1
+kan/[4,5]|verb|hd/su|ik/[5,6]|pron|1
+kan/[4,5]|verb|hd/vc|ben/[8,9]|verb|1
+over/[0,1]|prep|hd/obj1|boek/[2,3]|noun|1
+positief/[7,8]|adj|hd/mod|enkel/[6,7]|adj|1
+top/top|top|top/hd|kan/[4,5]|verb|1
+boek/[3,4]|noun|hd/det|het/[2,3]|det|1
+doe/[17,18]|verb|hd/mod|dan/[15,16]|adv|1
+doe/[17,18]|verb|hd/mod|ook/[16,17]|adv|1
+doe/[17,18]|verb|hd/obj1|dat/[12,13]|det|1
+doe/[17,18]|verb|hd/su|ik/[14,15]|pron|1
+en/[11,12]|vg|-- / --|./[18,19]|punct|1
+en/[11,12]|vg|crd/cnj|heb/[1,2]|verb|1
+en/[11,12]|vg|crd/cnj|heb/[13,14]|verb|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|koop/[4,5]|verb|1
+heb/[13,14]|verb|hd/su|ik/[14,15]|pron|1
+heb/[13,14]|verb|hd/vc|doe/[17,18]|verb|1
+kan/[9,10]|verb|hd/vc|tem/[10,11]|verb|1
+koop/[4,5]|verb|hd/mod|om/[5,6]|comp|1
+koop/[4,5]|verb|hd/obj1|boek/[3,4]|noun|1
+koop/[4,5]|verb|hd/su|ik/[0,1]|pron|1
+om/[5,6]|comp|cmp/body|te/[8,9]|comp|1
+te/[8,9]|comp|cmp/body|kan/[9,10]|verb|1
+tem/[10,11]|verb|hd/obj1|zee/[7,8]|noun|1
+top/top|top|top/hd|en/[11,12]|vg|1
+zee/[7,8]|noun|hd/det|de/[6,7]|det|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+ben/[1,2]|verb|hd/vc|spring_op/[4,5]|verb|1
+board/[11,12]|noun|hd/det|mijn/[10,11]|det|1
+en/[7,8]|vg|-- / --|./[14,15]|punct|1
+en/[7,8]|vg|crd/cnj|ben/[1,2]|verb|1
+en/[7,8]|vg|crd/cnj|heb/[8,9]|verb|1
+haal/[13,14]|verb|hd/mod|boven/[12,13]|adv|1
+haal/[13,14]|verb|hd/mod|daar/[9,10]|adv|1
+haal/[13,14]|verb|hd/obj1|board/[11,12]|noun|1
+haal/[13,14]|verb|hd/su|ik/[0,1]|pron|1
+heb/[8,9]|verb|hd/su|ik/[0,1]|pron|1
+heb/[8,9]|verb|hd/vc|haal/[13,14]|verb|1
+naar/[5,6]|prep|hd/obj1|Bali/[6,7]|name|1
+spring_op/[4,5]|verb|hd/ld|vliegtuig/[3,4]|noun|1
+spring_op/[4,5]|verb|hd/mod|naar/[5,6]|prep|1
+spring_op/[4,5]|verb|hd/su|ik/[0,1]|pron|1
+top/top|top|top/hd|en/[7,8]|vg|1
+vliegtuig/[3,4]|noun|hd/det|het/[2,3]|det|1
+om/[2,3]|comp|cmp/body|te/[4,5]|comp|1
+te/[4,5]|comp|cmp/body|vergeet/[5,6]|verb|1
+top/top|top|top/hd|vakantie/[1,2]|noun|1
+vakantie/[1,2]|noun|-- / --|!/[6,7]|punct|1
+vakantie/[1,2]|noun|hd/det|een/[0,1]|det|1
+vakantie/[1,2]|noun|hd/mod|om/[2,3]|comp|1
+vergeet/[5,6]|verb|hd/mod|nooit/[3,4]|adv|1
+dank/[0,1]|verb|-- / --|!/[4,5]|punct|1
+dank/[0,1]|verb|hd/mod|wel/[2,3]|adj|1
+dank/[0,1]|verb|hd/obj1|PROPNAME/[3,4]|name|1
+dank/[0,1]|verb|hd/su|je/[1,2]|pron|1
+top/top|top|top/hd|dank/[0,1]|verb|1

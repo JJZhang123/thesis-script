@@ -1,0 +1,58 @@
+Wereldoorlog 1,/[9,11]|name|hd/mod|die/[11,12]|pron|1
+beschrijf/[1,2]|verb|-- / --|./[15,16]|punct|1
+beschrijf/[1,2]|verb|hd/mod|tijdens/[8,9]|prep|1
+beschrijf/[1,2]|verb|hd/obj1|levensverhaal/[4,5]|noun|1
+beschrijf/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+die/[11,12]|pron|rhd/body|wil/[13,14]|verb|1
+jongen/[7,8]|noun|hd/det|een/[6,7]|det|1
+levensverhaal/[4,5]|noun|hd/det|het/[2,3]|det|1
+levensverhaal/[4,5]|noun|hd/mod|hartverscheurend/[3,4]|adj|1
+levensverhaal/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+tijdens/[8,9]|prep|hd/obj1|Wereldoorlog 1,/[9,11]|name|1
+top/top|top|top/hd|beschrijf/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|jongen/[7,8]|noun|1
+vecht_mee/[14,15]|verb|hd/mod|niet/[12,13]|adv|1
+vecht_mee/[14,15]|verb|hd/su|die/[11,12]|pron|1
+wil/[13,14]|verb|hd/su|die/[11,12]|pron|1
+wil/[13,14]|verb|hd/vc|vecht_mee/[14,15]|verb|1
+ben/[12,13]|verb|hd/predc|sentimenteel/[10,11]|adj|1
+en/[7,8]|vg|crd/cnj|liefde/[6,7]|noun|1
+en/[7,8]|vg|crd/cnj|vriendschap/[8,9]|noun|1
+over/[5,6]|prep|hd/obj1|en/[7,8]|vg|1
+te/[11,12]|comp|cmp/body|ben/[12,13]|verb|1
+top/top|top|top/hd|word/[1,2]|verb|1
+verhaal/[3,4]|noun|hd/det|een/[2,3]|det|1
+vertel/[4,5]|verb|hd/mod|er/[0,1]|adv|1
+vertel/[4,5]|verb|hd/mod|over/[5,6]|prep|1
+vertel/[4,5]|verb|hd/mod|zonder/[9,10]|comp|1
+vertel/[4,5]|verb|hd/obj1|verhaal/[3,4]|noun|1
+word/[1,2]|verb|-- / --|./[13,14]|punct|1
+word/[1,2]|verb|hd/su|verhaal/[3,4]|noun|1
+word/[1,2]|verb|hd/vc|vertel/[4,5]|verb|1
+zonder/[9,10]|comp|cmp/body|te/[11,12]|comp|1
+bladzij/[1,2]|noun|hd/det|elk/[0,1]|det|1
+hoofd_personage/[7,8]|noun|hd/app|John/[8,9]|name|1
+hoofd_personage/[7,8]|noun|hd/det|het/[6,7]|det|1
+leef/[2,3]|verb|-- / --|./[9,10]|punct|1
+leef/[2,3]|verb|hd/mod|mee/[4,5]|adv|1
+leef/[2,3]|verb|hd/mod|met/[5,6]|prep|1
+leef/[2,3]|verb|hd/obj1|bladzij/[1,2]|noun|1
+leef/[2,3]|verb|hd/su|je/[3,4]|pron|1
+met/[5,6]|prep|hd/obj1|hoofd_personage/[7,8]|noun|1
+top/top|top|top/hd|leef/[2,3]|verb|1
+ben/[2,3]|verb|-- / --|./[16,17]|punct|1
+ben/[2,3]|verb|hd/mod|niet/[3,4]|adv|1
+ben/[2,3]|verb|hd/predc|of/[5,6]|vg|1
+ben/[2,3]|verb|hd/su|boek/[1,2]|noun|1
+boek/[1,2]|noun|hd/det|dit/[0,1]|det|1
+en/[14,15]|vg|crd/cnj|liefde_oorlog/[12,14]|noun|1
+en/[14,15]|vg|crd/cnj|pop_pies/[15,16]|noun|1
+kleur/[10,11]|noun|hd/det|de/[9,10]|det|1
+kleur/[10,11]|noun|hd/mod|maar/[7,8]|vg|1
+kleur/[10,11]|noun|hd/mod|van/[11,12]|prep|1
+maar/[7,8]|vg|crd/cnj|rood/[8,9]|adj|1
+maar/[7,8]|vg|crd/cnj|zwart/[6,7]|adj|1
+of/[5,6]|vg|crd/cnj|kleur/[10,11]|noun|1
+of/[5,6]|vg|crd/cnj|wit/[4,5]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+van/[11,12]|prep|hd/obj1|en/[14,15]|vg|1

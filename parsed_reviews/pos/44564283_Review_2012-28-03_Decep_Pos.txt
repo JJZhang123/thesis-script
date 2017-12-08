@@ -1,0 +1,60 @@
+aanrader/[5,6]|noun|hd/det|een/[4,5]|det|1
+ben/[2,3]|verb|-- / --|!/[6,7]|punct|1
+ben/[2,3]|verb|hd/mod|echt/[3,4]|adj|1
+ben/[2,3]|verb|hd/predc|aanrader/[5,6]|noun|1
+ben/[2,3]|verb|hd/su|roman/[1,2]|noun|1
+roman/[1,2]|noun|hd/det|deze/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+aan/[17,18]|prep|hd/obj1|kant/[19,20]|noun|1
+begin/[8,9]|verb|hd/su|je/[7,8]|pron|1
+begin/[8,9]|verb|hd/vc|te/[9,10]|comp|1
+ben/[2,3]|verb|hd/su|verhaal/[1,2]|noun|1
+ben/[2,3]|verb|hd/vc|bouw_op/[4,5]|verb|1
+ben/[11,12]|verb|hd/mod|eenmaal/[6,7]|comp|1
+ben/[11,12]|verb|hd/predc|moeilijk/[13,14]|adj|1
+ben/[11,12]|verb|hd/su|om/[14,15]|comp|1
+ben/[11,12]|verb|hd/sup|het/[12,13]|noun|1
+boek/[16,17]|noun|hd/det|het/[15,16]|det|1
+bouw_op/[4,5]|verb|hd/mod|mooi/[3,4]|adj|1
+bouw_op/[4,5]|verb|hd/obj1|verhaal/[1,2]|noun|1
+eenmaal/[6,7]|comp|cmp/body|begin/[8,9]|verb|1
+en/[5,6]|vg|-- / --|./[22,23]|punct|1
+en/[5,6]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[5,6]|vg|crd/cnj|ben/[11,12]|verb|1
+kant/[19,20]|noun|hd/det|de/[18,19]|det|1
+lees/[10,11]|verb|hd/su|je/[7,8]|pron|1
+leg/[21,22]|verb|hd/ld|aan/[17,18]|prep|1
+leg/[21,22]|verb|hd/obj1|boek/[16,17]|noun|1
+om/[14,15]|comp|cmp/body|te/[20,21]|comp|1
+te/[9,10]|comp|cmp/body|lees/[10,11]|verb|1
+te/[20,21]|comp|cmp/body|leg/[21,22]|verb|1
+top/top|top|top/hd|en/[5,6]|vg|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+auteur/[1,2]|noun|hd/det|de/[0,1]|det|1
+en/[8,9]|vg|crd/cnj|personage/[10,11]|noun|1
+en/[8,9]|vg|crd/cnj|schrijf_stijl/[7,8]|noun|1
+om/[4,5]|prep|hd/obj1|en/[8,9]|vg|1
+personage/[10,11]|noun|hd/det|zijn/[5,6]|det|1
+personage/[10,11]|noun|hd/mod|gedetailleerd/[9,10]|adj|1
+schrijf_stijl/[7,8]|noun|hd/det|zijn/[5,6]|det|1
+schrijf_stijl/[7,8]|noun|hd/mod|vloeiend/[6,7]|adj|1
+sta_bekend/[2,3]|verb|-- / --|./[11,12]|punct|1
+sta_bekend/[2,3]|verb|hd/pc|om/[4,5]|prep|1
+sta_bekend/[2,3]|verb|hd/su|auteur/[1,2]|noun|1
+sta_bekend/[2,3]|verb|hd/svp|bekend/[3,4]|part|1
+top/top|top|top/hd|sta_bekend/[2,3]|verb|1
+ben/[1,2]|verb|-- / --|./[13,14]|punct|1
+ben/[1,2]|verb|hd/predc|boek/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|het/[0,1]|noun|1
+blijf/[11,12]|verb|hd/su|die/[6,7]|pron|1
+blijf/[11,12]|verb|hd/vc|zweef/[12,13]|verb|1
+boek/[5,6]|noun|hd/det|een/[2,3]|det|1
+boek/[5,6]|noun|hd/mod|feel good/[3,5]|name|1
+die/[6,7]|pron|rhd/body|blijf/[11,12]|verb|1
+gedachte/[10,11]|noun|hd/det|je/[9,10]|det|1
+het/[0,1]|noun|hd/mod|die/[6,7]|pron|1
+in/[8,9]|prep|hd/obj1|gedachte/[10,11]|noun|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+zweef/[12,13]|verb|hd/ld|in/[8,9]|prep|1
+zweef/[12,13]|verb|hd/mod|dag/[7,8]|noun|1
+zweef/[12,13]|verb|hd/su|die/[6,7]|pron|1

@@ -1,0 +1,82 @@
+Hollywood_ster/[2,3]|noun|hd/det|een/[0,1]|det|1
+Hollywood_ster/[2,3]|noun|hd/mod|nieuw/[1,2]|adj|1
+ben/[3,4]|verb|-- / --|./[5,6]|punct|1
+ben/[3,4]|verb|hd/su|Hollywood_ster/[2,3]|noun|1
+ben/[3,4]|verb|hd/vc|geboren/[4,5]|verb|1
+geboren/[4,5]|verb|hd/obj1|Hollywood_ster/[2,3]|noun|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+allure/[8,9]|noun|hd/det|de/[7,8]|det|1
+allure/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+brutaal/[18,19]|adj|hd/mod|tikkeltje/[17,18]|noun|1
+brutaal/[18,19]|adj|hd/mod|toch/[15,16]|adv|1
+dartel/[2,3]|verb|-- / --|./[19,20]|punct|1
+dartel/[2,3]|verb|hd/mod|door/[3,4]|prep|1
+dartel/[2,3]|verb|hd/mod|en/[14,15]|vg|1
+dartel/[2,3]|verb|hd/su|hoofd_rol_speler/[1,2]|noun|1
+door/[3,4]|prep|hd/obj1|spaghetti_western_setting/[5,6]|noun|1
+en/[14,15]|vg|crd/cnj|brutaal/[18,19]|adj|1
+en/[14,15]|vg|crd/cnj|overtuigend/[13,14]|adj|1
+hoofd_rol_speler/[1,2]|noun|hd/det|de/[0,1]|det|1
+met/[6,7]|prep|hd/obj1|allure/[8,9]|noun|1
+spaghetti_western_setting/[5,6]|noun|hd/det|de/[4,5]|det|1
+spaghetti_western_setting/[5,6]|noun|hd/mod|met/[6,7]|prep|1
+tikkeltje/[17,18]|noun|hd/det|een/[16,17]|det|1
+top/top|top|top/hd|dartel/[2,3]|verb|1
+van/[9,10]|prep|hd/obj1|John Wayne, charmant,/[10,13]|name|1
+adaptie/[5,6]|noun|hd/det|een/[3,4]|det|1
+adaptie/[5,6]|noun|hd/mod|prachtig/[4,5]|adj|1
+adaptie/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+auteur/[15,16]|noun|hd/det|een/[11,12]|det|1
+auteur/[15,16]|noun|hd/mod|Texaans/[14,15]|adj|1
+auteur/[15,16]|noun|hd/mod|onbekend/[13,14]|adj|1
+bestseller/[9,10]|noun|hd/det|de/[7,8]|det|1
+bestseller/[9,10]|noun|hd/mod|gelijknamig/[8,9]|adj|1
+bestseller/[9,10]|noun|hd/mod|van/[10,11]|prep|1
+combineer/[0,1]|verb|hd/obj1|dit/[1,2]|det|1
+combineer/[0,1]|verb|hd/pc|met/[2,3]|prep|1
+en/[16,17]|vg|-- / --|./[23,24]|punct|1
+en/[16,17]|vg|crd/cnj|combineer/[0,1]|verb|1
+en/[16,17]|vg|crd/cnj|krijg/[18,19]|verb|1
+krijg/[18,19]|verb|hd/obj1|western/[22,23]|noun|1
+krijg/[18,19]|verb|hd/su|je/[17,18]|pron|1
+met/[2,3]|prep|hd/obj1|adaptie/[5,6]|noun|1
+onbekend/[13,14]|adj|hd/mod|vrij/[12,13]|adj|1
+top/top|top|top/hd|en/[16,17]|vg|1
+van/[6,7]|prep|hd/obj1|bestseller/[9,10]|noun|1
+van/[10,11]|prep|hd/obj1|auteur/[15,16]|noun|1
+western/[22,23]|noun|hd/det|deze/[19,20]|det|1
+western/[22,23]|noun|hd/mod|geweldig/[20,21]|adj|1
+western/[22,23]|noun|hd/mod|oldstyl/[21,22]|adj|1
+ben/[2,3]|verb|hd/predc|must-see/[4,5]|noun|1
+ben/[2,3]|verb|hd/su|film/[1,2]|noun|1
+bioscoop/[11,12]|noun|hd/det|de/[10,11]|det|1
+en/[5,6]|vg|-- / --|./[13,14]|punct|1
+en/[5,6]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[5,6]|vg|crd/cnj|zal/[6,7]|verb|1
+film/[1,2]|noun|hd/det|deze/[0,1]|det|1
+in/[7,8]|prep|hd/obj1|tijd/[9,10]|noun|1
+must-see/[4,5]|noun|hd/det|een/[3,4]|det|1
+overrompel/[12,13]|verb|hd/mod|in/[7,8]|prep|1
+overrompel/[12,13]|verb|hd/obj1|bioscoop/[11,12]|noun|1
+overrompel/[12,13]|verb|hd/su|film/[1,2]|noun|1
+tijd/[9,10]|noun|hd/det|geen/[8,9]|det|1
+top/top|top|top/hd|en/[5,6]|vg|1
+zal/[6,7]|verb|hd/su|film/[1,2]|noun|1
+zal/[6,7]|verb|hd/vc|overrompel/[12,13]|verb|1
+aanrader/[12,13]|noun|hd/det|een/[10,11]|det|1
+aanrader/[12,13]|noun|hd/mod|voor/[13,14]|prep|1
+aanrader/[12,13]|noun|hd/mod|waar/[11,12]|adj|1
+ben/[9,10]|verb|-- / --|./[17,18]|punct|1
+ben/[9,10]|verb|hd/predc|aanrader/[12,13]|noun|1
+ben/[9,10]|verb|hd/su|mix/[1,2]|noun|1
+doorwinterd cinefiel/[15,17]|name|hd/det|elk/[14,15]|det|1
+en/[4,5]|vg|crd/cnj|oud/[3,4]|adj|1
+en/[4,5]|vg|crd/cnj|traditioneel/[5,6]|adj|1
+met/[6,7]|prep|hd/obj1|techniek/[8,9]|noun|1
+mix/[1,2]|noun|hd/det|deze/[0,1]|det|1
+mix/[1,2]|noun|hd/mod|met/[6,7]|prep|1
+mix/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+techniek/[8,9]|noun|hd/mod|nieuw/[7,8]|adj|1
+top/top|top|top/hd|ben/[9,10]|verb|1
+van/[2,3]|prep|hd/obj1|en/[4,5]|vg|1
+voor/[13,14]|prep|hd/obj1|doorwinterd cinefiel/[15,17]|name|1

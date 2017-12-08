@@ -1,0 +1,66 @@
+PROPNAME/[0,1]|name|hd/mod|dat/[7,8]|pron|1
+aanhanger/[11,12]|noun|hd/det|wat/[10,11]|det|1
+als/[15,16]|comp|cmp/body|zal/[18,19]|verb|1
+ben/[1,2]|verb|hd/predc|indie_rock_groep/[4,7]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+dat/[7,8]|pron|rhd/body|heb/[12,13]|verb|1
+heb/[12,13]|verb|hd/su|dat/[7,8]|pron|1
+heb/[12,13]|verb|hd/vc|verwerf/[13,14]|verb|1
+indie_rock_groep/[4,7]|noun|hd/det|een/[2,3]|det|1
+indie_rock_groep/[4,7]|noun|hd/mod|hedendaags/[3,4]|adj|1
+maar/[14,15]|vg|-- / --|? /[21,22]|punct|1
+maar/[14,15]|vg|crd/cnj|als/[15,16]|comp|1
+maar/[14,15]|vg|crd/cnj|ben/[1,2]|verb|1
+redelijk/[9,10]|adj|hd/mod|al/[8,9]|adv|1
+top/top|top|top/hd|maar/[14,15]|vg|1
+verwerf/[13,14]|verb|hd/mod|redelijk/[9,10]|adj|1
+verwerf/[13,14]|verb|hd/obj1|aanhanger/[11,12]|noun|1
+verwerf/[13,14]|verb|hd/su|dat/[7,8]|pron|1
+vraag/[19,20]|verb|hd/obj2|mij/[17,18]|pron|1
+vraag/[19,20]|verb|hd/su|je/[16,17]|pron|1
+vraag/[19,20]|verb|hd/vc|waarom/[20,21]|pp|1
+zal/[18,19]|verb|hd/su|je/[16,17]|pron|1
+zal/[18,19]|verb|hd/vc|vraag/[19,20]|verb|1
+antwoord/[8,9]|verb|hd/mod|gezegd/[4,5]|adj|1
+antwoord/[8,9]|verb|hd/mod|niet/[5,6]|adv|1
+antwoord/[8,9]|verb|hd/pc|op/[6,7]|prep|1
+antwoord/[8,9]|verb|hd/su|ik/[1,2]|pron|1
+gezegd/[4,5]|adj|hd/mod|eerlijk/[3,4]|adj|1
+kan/[7,8]|verb|hd/su|ik/[1,2]|pron|1
+kan/[7,8]|verb|hd/vc|antwoord/[8,9]|verb|1
+op/[6,7]|prep|hd/obj1|daar/[2,3]|adv|1
+top/top|top|top/hd|zal/[0,1]|verb|1
+zal/[0,1]|verb|-- / --|./[9,10]|punct|1
+zal/[0,1]|verb|hd/su|ik/[1,2]|pron|1
+zal/[0,1]|verb|hd/vc|kan/[7,8]|verb|1
+en/[7,8]|vg|-- / --|? /[13,14]|punct|1
+en/[7,8]|vg|crd/cnj|heb/[2,3]|verb|1
+en/[7,8]|vg|crd/cnj|vind/[9,10]|verb|1
+heb/[2,3]|verb|hd/obj1|toon/[6,7]|noun|1
+heb/[2,3]|verb|hd/predm|allemaal/[3,4]|adv|1
+heb/[2,3]|verb|hd/su|lied_DIM/[1,2]|noun|1
+lied_DIM/[1,2]|noun|hd/det|hun/[0,1]|det|1
+toon/[6,7]|noun|hd/det|dezelfde/[4,5]|det|1
+toon/[6,7]|noun|hd/mod|slaapverwekkend/[5,6]|adj|1
+top/top|top|top/hd|en/[7,8]|vg|1
+vind/[9,10]|verb|hd/mod|dan/[11,12]|adv|1
+vind/[9,10]|verb|hd/obj1|dit/[8,9]|det|1
+vind/[9,10]|verb|hd/predc|leuk/[12,13]|adj|1
+vind/[9,10]|verb|hd/su|mens/[10,11]|noun|1
+Nou, ja,/[0,2]|name|dp/dp|kind/[8,9]|noun|1
+als/[3,4]|comp|cmp/body|slaap_lied_DIM/[4,5]|noun|1
+charmeer/[15,16]|verb|hd/mod|niet/[14,15]|adv|1
+charmeer/[15,16]|verb|hd/obj1|mij/[10,11]|pron|1
+charmeer/[15,16]|verb|hd/su|het/[12,13]|det|1
+hyper_actief/[7,8]|adj|hd/mod|als/[3,4]|comp|1
+hyper_actief/[7,8]|adj|hd/mod|misschien/[2,3]|adv|1
+kan/[11,12]|verb|hd/su|het/[12,13]|det|1
+kan/[11,12]|verb|hd/vc|charmeer/[15,16]|verb|1
+kind/[8,9]|noun|hd/mod|hyper_actief/[7,8]|adj|1
+maar/[9,10]|vg|-- / --|./[16,17]|punct|1
+maar/[9,10]|vg|crd/cnj|Nou, ja,/[0,2]|name|1
+maar/[9,10]|vg|crd/cnj|kan/[11,12]|verb|1
+niet/[14,15]|adv|hd/mod|absoluut/[13,14]|adj|1
+slaap_lied_DIM/[4,5]|noun|hd/mod|voor/[5,6]|prep|1
+top/top|top|top/hd|maar/[9,10]|vg|1
+voor/[5,6]|prep|hd/obj1|je/[6,7]|pron|1

@@ -1,0 +1,117 @@
+ben/[1,2]|verb|hd/obj2|kei/[3,4]|noun|1
+ben/[1,2]|verb|hd/predc|fan/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+ben/[11,12]|verb|hd/mod|wel/[12,13]|adj|1
+ben/[11,12]|verb|hd/predc|tof/[13,14]|adj|1
+ben/[11,12]|verb|hd/su|muziek/[10,11]|noun|1
+fan/[5,6]|noun|hd/mod|hard/[4,5]|adj|1
+fan/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+ga/[18,19]|verb|hd/mod|tijdens/[19,20]|prep|1
+kei/[3,4]|noun|hd/det|geen/[2,3]|det|1
+maar/[8,9]|vg|-- / --|./[22,23]|punct|1
+maar/[8,9]|vg|-- / --|los_op/[16,17]|verb|1
+maar/[8,9]|vg|-- / --|om/[14,15]|comp|1
+maar/[8,9]|vg|-- / --|op/[15,16]|prep|1
+maar/[8,9]|vg|crd/cnj|ben/[1,2]|verb|1
+maar/[8,9]|vg|crd/cnj|ben/[11,12]|verb|1
+maar/[8,9]|vg|dp/dp|te/[17,18]|comp|1
+muziek/[10,11]|noun|hd/det|haar/[9,10]|det|1
+studie_pauze/[21,22]|noun|hd/det|een/[20,21]|det|1
+te/[17,18]|comp|cmp/body|ga/[18,19]|verb|1
+tijdens/[19,20]|prep|hd/obj1|studie_pauze/[21,22]|noun|1
+top/top|top|top/hd|maar/[8,9]|vg|1
+van/[6,7]|prep|hd/obj1|Béyonce/[7,8]|name|1
+altijd/[6,7]|adv|dp/dp|geluk_gevoel/[8,9]|noun|1
+bij/[4,5]|prep|hd/obj1|mij/[5,6]|pron|1
+geluk_gevoel/[8,9]|noun|hd/det|een/[7,8]|det|1
+top/top|top|top/hd|zo/[0,1]|adv|1
+triggert Single Ladies/[1,4]|name|hd/mod|bij/[4,5]|prep|1
+zo/[0,1]|adv|-- / --|./[9,10]|punct|1
+zo/[0,1]|adv|dp/dp|altijd/[6,7]|adv|1
+zo/[0,1]|adv|dp/dp|triggert Single Ladies/[1,4]|name|1
+ben/[4,5]|verb|-- / --|./[10,11]|punct|1
+ben/[4,5]|verb|hd/predc|waar/[5,6]|adv|1
+ben/[4,5]|verb|hd/su|en/[1,2]|vg|1
+en/[1,2]|vg|crd/cnj|leef_uit/[3,4]|verb|1
+en/[1,2]|vg|crd/cnj|ontspan/[0,1]|verb|1
+leef_uit/[3,4]|verb|hd/obj1|u/[2,3]|pron|1
+muziek/[7,8]|noun|hd/det|haar/[6,7]|det|1
+sta/[9,10]|verb|hd/pc|voor/[8,9]|prep|1
+sta/[9,10]|verb|hd/su|muziek/[7,8]|noun|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+voor/[8,9]|prep|hd/obj1|waar/[5,6]|adv|1
+waar/[5,6]|adv|rhd/body|sta/[9,10]|verb|1
+bovenop/[2,3]|prep|hd/obj1|daar/[0,1]|adv|1
+dat/[3,4]|comp|cmp/body|heb/[10,11]|verb|1
+heb/[10,11]|verb|hd/obj1|kok/[6,7]|noun|1
+heb/[10,11]|verb|hd/su|ze/[4,5]|pron|1
+kok/[6,7]|noun|hd/det|een/[5,6]|det|1
+kok/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+kom/[1,2]|verb|-- / --|./[11,12]|punct|1
+kom/[1,2]|verb|hd/pc|bovenop/[2,3]|prep|1
+kom/[1,2]|verb|hd/su|dat/[3,4]|comp|1
+stem/[9,10]|noun|hd/det|een/[8,9]|det|1
+top/top|top|top/hd|kom/[1,2]|verb|1
+van/[7,8]|prep|hd/obj1|stem/[9,10]|noun|1
+al/[2,3]|det|hd/mod|niet/[1,2]|adv|1
+ben/[6,7]|verb|hd/mod|in/[7,8]|prep|1
+ben/[6,7]|verb|hd/predc|topper/[5,6]|noun|1
+ben/[6,7]|verb|hd/su|lied_DIM/[4,5]|noun|1
+haar/[3,4]|det|hd/mod|al/[2,3]|det|1
+heb/[10,11]|verb|-- / --|./[15,16]|punct|1
+heb/[10,11]|verb|hd/mod|hoewel/[0,1]|comp|1
+heb/[10,11]|verb|hd/mod|wel/[13,14]|adj|1
+heb/[10,11]|verb|hd/obj1|ze/[12,13]|pron|1
+heb/[10,11]|verb|hd/predc|graag/[14,15]|adj|1
+heb/[10,11]|verb|hd/su|ik/[11,12]|pron|1
+hoewel/[0,1]|comp|cmp/body|ben/[6,7]|verb|1
+in/[7,8]|prep|hd/obj1|oog/[9,10]|noun|1
+lied_DIM/[4,5]|noun|hd/det|haar/[3,4]|det|1
+oog/[9,10]|noun|hd/det|mijn/[8,9]|det|1
+top/top|top|top/hd|heb/[10,11]|verb|1
+commercieel/[4,5]|adj|-- / --|./[7,8]|punct|1
+commercieel/[4,5]|adj|hd/mod|gewoon/[1,2]|adj|1
+commercieel/[4,5]|adj|hd/mod|te/[3,4]|adv|1
+commercieel/[4,5]|adj|hd/mod|voor/[5,6]|prep|1
+gewoon/[1,2]|adj|hd/mod|soms/[0,1]|adv|1
+te/[3,4]|adv|hd/me|iets/[2,3]|noun|1
+top/top|top|top/hd|commercieel/[4,5]|adj|1
+voor/[5,6]|prep|hd/obj1|mij/[6,7]|pron|1
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/mod|en/[6,7]|vg|1
+ben/[1,2]|verb|hd/mod|ook/[2,3]|adv|1
+ben/[1,2]|verb|hd/predc|echt/[3,4]|adj|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+door/[5,6]|adj|hd/me|vrouwenmuziek,/[4,5]|noun|1
+en/[6,7]|vg|crd/cnj|door/[5,6]|adj|1
+en/[6,7]|vg|crd/cnj|voor/[7,8]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+als/[2,3]|comp|cmp/body|symbool/[4,5]|noun|1
+draag_voor/[5,6]|verb|hd/mod|wat/[6,7]|pron|1
+draag_voor/[5,6]|verb|hd/obj1|ze/[0,1]|pron|1
+draag_voor/[5,6]|verb|hd/predc|als/[2,3]|comp|1
+overdreven/[9,10]|adj|hd/mod|wat/[8,9]|adv|1
+symbool/[4,5]|noun|hd/mod|feministisch/[3,4]|adj|1
+top/top|top|top/hd|word/[1,2]|verb|1
+vind/[10,11]|verb|hd/obj1|wat/[6,7]|pron|1
+vind/[10,11]|verb|hd/predc|overdreven/[9,10]|adj|1
+vind/[10,11]|verb|hd/su|ik/[7,8]|pron|1
+wat/[6,7]|pron|rhd/body|vind/[10,11]|verb|1
+word/[1,2]|verb|-- / --|./[11,12]|punct|1
+word/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+word/[1,2]|verb|hd/vc|draag_voor/[5,6]|verb|1
+beoog/[9,10]|verb|hd/obj1|wat/[7,8]|pron|1
+beoog/[9,10]|verb|hd/su|het/[8,9]|det|1
+effect/[5,6]|noun|hd/det|het/[4,5]|det|1
+en/[11,12]|vg|crd/cnj|amuseer/[10,11]|verb|1
+en/[11,12]|vg|crd/cnj|los_ga/[12,13]|verb|1
+maar/[0,1]|comp|-- / --|!/[13,14]|punct|1
+maar/[0,1]|comp|dlink/nucl|mis/[3,4]|verb|1
+maar/[0,1]|comp|dp/dp|en/[11,12]|vg|1
+mis/[3,4]|verb|hd/mod|niet/[6,7]|adv|1
+mis/[3,4]|verb|hd/mod|wat/[7,8]|pron|1
+mis/[3,4]|verb|hd/obj1|effect/[5,6]|noun|1
+mis/[3,4]|verb|hd/su|muziek/[2,3]|noun|1
+muziek/[2,3]|noun|hd/det|haar/[1,2]|det|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+wat/[7,8]|pron|rhd/body|beoog/[9,10]|verb|1

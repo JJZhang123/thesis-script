@@ -1,0 +1,58 @@
+ben/[1,2]|verb|-- / --|./[10,11]|punct|1
+ben/[1,2]|verb|dp/dp|ben/[6,7]|verb|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+ben/[1,2]|verb|hd/vc|geboren/[4,5]|verb|1
+ben/[6,7]|verb|hd/predc|zangeres/[9,10]|noun|1
+ben/[6,7]|verb|hd/su|zij/[5,6]|pron|1
+geboren/[4,5]|verb|hd/mod|in/[2,3]|prep|1
+geboren/[4,5]|verb|hd/obj1|PROPNAME/[0,1]|name|1
+in/[2,3]|prep|hd/obj1|1988/[3,4]|noun|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+zangeres/[9,10]|noun|hd/det|een/[7,8]|det|1
+zangeres/[9,10]|noun|hd/mod|Barbadiaanse/[8,9]|adj|1
+ben/[9,10]|verb|-- / --|./[13,14]|punct|1
+ben/[9,10]|verb|hd/predc|Pon de Replay/[10,13]|name|1
+ben/[9,10]|verb|hd/su|lied_DIM/[2,3]|noun|1
+lied_DIM/[2,3]|noun|hd/det|het/[0,1]|det|1
+lied_DIM/[2,3]|noun|hd/mod|eerste/[1,2]|num|1
+lied_DIM/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+top/top|top|top/hd|ben/[9,10]|verb|1
+van/[3,4]|prep|hd/obj1|haar, die wereldbekent had geworden,/[4,9]|name|1
+ben/[2,3]|verb|-- / --|./[14,15]|punct|1
+ben/[2,3]|verb|-- / --|een/[4,5]|det|1
+ben/[2,3]|verb|dp/dp|verkies/[9,10]|verb|1
+ben/[2,3]|verb|hd/mod|volgens/[0,1]|prep|1
+ben/[2,3]|verb|hd/su|ze/[3,4]|pron|1
+lied_DIM/[13,14]|noun|hd/det|haar/[11,12]|det|1
+lied_DIM/[13,14]|noun|hd/mod|oud/[12,13]|adj|1
+maar/[7,8]|vg|crd/cnj|persoonlijk/[8,9]|adj|1
+maar/[7,8]|vg|crd/cnj|talentvol/[6,7]|adj|1
+persoonlijk/[8,9]|adj|hd/mod|heel/[5,6]|adv|1
+talentvol/[6,7]|adj|hd/mod|heel/[5,6]|adv|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+verkies/[9,10]|verb|hd/mod|maar/[7,8]|vg|1
+verkies/[9,10]|verb|hd/obj1|lied_DIM/[13,14]|noun|1
+verkies/[9,10]|verb|hd/su|ik/[10,11]|pron|1
+volgens/[0,1]|prep|hd/obj1|mij/[1,2]|pron|1
+ex_vriend/[1,2]|noun|hd/det|de/[0,1]|det|1
+ex_vriend/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+heb/[6,7]|verb|-- / --|./[9,10]|punct|1
+heb/[6,7]|verb|hd/su|ze/[7,8]|pron|1
+heb/[6,7]|verb|hd/vc|sla/[8,9]|verb|1
+propname/[5,6]|noun|hd/det|PROPNAME, Chris/[3,5]|det|1
+sla/[8,9]|verb|hd/obj1|ex_vriend/[1,2]|noun|1
+sla/[8,9]|verb|hd/su|ze/[7,8]|pron|1
+top/top|top|top/hd|heb/[6,7]|verb|1
+van/[2,3]|prep|hd/obj1|propname/[5,6]|noun|1
+dat/[2,3]|comp|cmp/body|ga/[12,13]|verb|1
+ex_man/[6,7]|noun|hd/det|de/[5,6]|det|1
+ex_man/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+ga/[12,13]|verb|hd/pc|met/[4,5]|prep|1
+ga/[12,13]|verb|hd/su|PROPNAME/[3,4]|name|1
+met/[4,5]|prep|hd/obj1|ex_man/[6,7]|noun|1
+roddel/[1,2]|verb|-- / --|./[14,15]|punct|1
+roddel/[1,2]|verb|-- / --|uit/[13,14]|part|1
+roddel/[1,2]|verb|dp/dp|dat/[2,3]|comp|1
+roddel/[1,2]|verb|hd/su|men/[0,1]|pron|1
+top/top|top|top/hd|roddel/[1,2]|verb|1
+van/[7,8]|prep|hd/obj1|Demi Moore, Ashton Kutcher/[8,12]|name|1

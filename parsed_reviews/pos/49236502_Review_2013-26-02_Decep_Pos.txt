@@ -1,0 +1,146 @@
+2/[0,1]|noun|-- / --|./[40,41]|punct|1
+2/[0,1]|noun|dp/dp|parel_DIM/[3,4]|noun|1
+2/[0,1]|noun|dp/dp|reggiseur,/[13,14]|noun|1
+2/[0,1]|noun|dp/dp|zet/[29,30]|verb|1
+als/[17,18]|comp|cmp/body|Resservoir Dogs, Pulp Fiction, Kill Bill, Inglorious Bastards en Django Unchained,/[18,29]|name|1
+boel/[36,37]|noun|hd/det|de/[35,36]|det|1
+dankzij/[15,16]|prep|hd/obj1|film/[16,17]|noun|1
+film/[16,17]|noun|hd/mod|als/[17,18]|comp|1
+hand/[6,7]|noun|hd/det|de/[5,6]|det|1
+hand/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+met/[30,31]|prep|hd/obj1|nieuw/[32,33]|adj|1
+nieuw/[32,33]|adj|hd/det|zijn/[31,32]|det|1
+parel_DIM/[3,4]|noun|hd/det|een/[2,3]|det|1
+parel_DIM/[3,4]|noun|hd/mod|alweer/[1,2]|adv|1
+parel_DIM/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+reggiseur,/[13,14]|noun|dp/dp|onsterfelijk/[14,15]|adj|1
+reggiseur,/[13,14]|noun|hd/det|de/[10,11]|det|1
+reggiseur,/[13,14]|noun|hd/mod|vermaard/[12,13]|adj|1
+top/top|top|top/hd|2/[0,1]|noun|1
+van/[4,5]|prep|hd/obj1|hand/[6,7]|noun|1
+van/[7,8]|prep|hd/obj1|Quentin Tarantino/[8,10]|name|1
+vermaard/[12,13]|adj|hd/mod|intussen/[11,12]|adv|1
+zet/[29,30]|verb|hd/mod|alweer/[34,35]|adv|1
+zet/[29,30]|verb|hd/mod|dankzij/[15,16]|prep|1
+zet/[29,30]|verb|hd/mod|grondig/[37,38]|adj|1
+zet/[29,30]|verb|hd/mod|met/[30,31]|prep|1
+zet/[29,30]|verb|hd/obj1|boel/[36,37]|noun|1
+zet/[29,30]|verb|hd/su|western/[33,34]|noun|1
+zet/[29,30]|verb|hd/svp|op stelten/[38,40]|fixed|1
+in/[2,3]|prep|hd/obj1|2012/[3,4]|noun|1
+in/[15,16]|prep|hd/obj1|prent/[18,19]|noun|1
+keer/[13,14]|verb|-- / --|./[28,29]|punct|1
+keer/[13,14]|verb|hd/ld|naar/[20,21]|prep|1
+keer/[13,14]|verb|hd/mod|in/[15,16]|prep|1
+keer/[13,14]|verb|hd/mod|opnieuw/[19,20]|adv|1
+keer/[13,14]|verb|hd/mod|waar/[0,1]|adv|1
+keer/[13,14]|verb|hd/su|hij/[14,15]|pron|1
+krijg/[12,13]|verb|hd/ld|waar/[0,1]|adv|1
+krijg/[12,13]|verb|hd/mod|in/[2,3]|prep|1
+krijg/[12,13]|verb|hd/mod|nog/[6,7]|adv|1
+krijg/[12,13]|verb|hd/mod|voor/[4,5]|prep|1
+krijg/[12,13]|verb|hd/obj1|oscar/[8,9]|noun|1
+krijg/[12,13]|verb|hd/su|hij/[1,2]|pron|1
+naar/[20,21]|prep|hd/obj1|nonsens_verhaal_lijn/[22,24]|noun|1
+nonsens_verhaal_lijn/[22,24]|noun|hd/det|de/[21,22]|det|1
+nonsens_verhaal_lijn/[22,24]|noun|hd/mod|à la/[24,26]|prep|1
+oscar/[8,9]|noun|hd/det|de/[7,8]|det|1
+oscar/[8,9]|noun|hd/mod|voor/[9,10]|prep|1
+prent/[18,19]|noun|hd/det|deze/[16,17]|det|1
+prent/[18,19]|noun|hd/mod|bloederig/[17,18]|adj|1
+scenario/[11,12]|noun|hd/mod|goed/[10,11]|adj|1
+top/top|top|top/hd|keer/[13,14]|verb|1
+voor/[4,5]|prep|hd/obj1|Django/[5,6]|name|1
+voor/[9,10]|prep|hd/obj1|scenario/[11,12]|noun|1
+waar/[0,1]|adv|rhd/body|krijg/[12,13]|verb|1
+à la/[24,26]|prep|hd/obj1|resevoir dogs/[26,28]|name|1
+bezat/[20,21]|verb|hd/mod|helft/[16,17]|noun|1
+bezat/[20,21]|verb|hd/mod|in/[21,22]|prep|1
+bezat/[20,21]|verb|hd/se|zich/[14,15]|pron|1
+bezat/[20,21]|verb|hd/su|die/[13,14]|pron|1
+cowboy/[12,13]|noun|hd/det|twee/[11,12]|num|1
+cowboy/[12,13]|noun|hd/mod|die/[13,14]|pron|1
+dialoog/[8,9]|noun|dp/dp|eigendom/[24,25]|noun|1
+dialoog/[8,9]|noun|hd/mod|hilarisch/[7,8]|adj|1
+dialoog/[8,9]|noun|hd/mod|uitgekraamd/[9,10]|adj|1
+die/[13,14]|pron|rhd/body|bezat/[20,21]|verb|1
+door/[10,11]|prep|hd/obj1|cowboy/[12,13]|noun|1
+eigendom/[24,25]|noun|hd/mod|van/[25,26]|prep|1
+film/[1,2]|noun|hd/det|de/[0,1]|det|1
+grootmoeder/[29,30]|noun|hd/mod|Billy/[26,27]|name|1
+grootmoeder/[29,30]|noun|hd/mod|the kids/[27,29]|name|1
+helft/[16,17]|noun|hd/det|de/[15,16]|det|1
+helft/[16,17]|noun|hd/mod|van/[17,18]|prep|1
+in/[21,22]|prep|hd/obj1|saloon/[23,24]|noun|1
+maar/[6,7]|vg|-- / --|./[30,31]|punct|1
+maar/[6,7]|vg|crd/cnj|dialoog/[8,9]|noun|1
+maar/[6,7]|vg|crd/cnj|zit/[2,3]|verb|1
+met/[4,5]|prep|hd/obj1|nietszeggend/[5,6]|adj|1
+saloon/[23,24]|noun|hd/det|de/[22,23]|det|1
+tijd/[19,20]|noun|hd/det|de/[18,19]|det|1
+top/top|top|top/hd|maar/[6,7]|vg|1
+uitgekraamd/[9,10]|adj|hd/mod|door/[10,11]|prep|1
+van/[17,18]|prep|hd/obj1|tijd/[19,20]|noun|1
+van/[25,26]|prep|hd/obj1|grootmoeder/[29,30]|noun|1
+zit/[2,3]|verb|hd/mod|prop_vol/[3,4]|adj|1
+zit/[2,3]|verb|hd/pc|met/[4,5]|prep|1
+zit/[2,3]|verb|hd/su|film/[1,2]|noun|1
+als/[0,1]|comp|cmp/body|overval/[6,7]|verb|1
+outlaws/[3,4]|noun|hd/det|enkel/[2,3]|det|1
+overval/[6,7]|verb|hd/mod|daarna/[1,2]|pp|1
+overval/[6,7]|verb|hd/obj1|saloon/[5,6]|noun|1
+overval/[6,7]|verb|hd/su|outlaws/[3,4]|noun|1
+saloon/[5,6]|noun|hd/det|de/[4,5]|det|1
+sta/[7,8]|verb|-- / --|./[12,13]|punct|1
+sta/[7,8]|verb|hd/mod|als/[0,1]|comp|1
+sta/[7,8]|verb|hd/pc|voor/[11,12]|prep|1
+sta/[7,8]|verb|hd/predc|alleen/[10,11]|adj|1
+sta/[7,8]|verb|hd/su|grootmoeder/[8,9]|noun|1
+top/top|top|top/hd|sta/[7,8]|verb|1
+voor/[11,12]|prep|hd/obj1|er/[9,10]|adv|1
+angst_haas/[19,20]|noun|hd/det|haar/[18,19]|det|1
+angst_haas/[19,20]|noun|hd/mod|van/[20,21]|prep|1
+en/[5,6]|vg|-- / --|./[25,26]|punct|1
+en/[5,6]|vg|crd/cnj|kies/[2,3]|verb|1
+en/[5,6]|vg|crd/cnj|weet/[9,10]|verb|1
+en/[5,6]|vg|dp/dp|angst_haas/[19,20]|noun|1
+en/[5,6]|vg|dp/dp|te/[16,17]|comp|1
+haas_pad/[4,5]|noun|hd/det|het/[3,4]|det|1
+jaag_op/[17,18]|verb|hd/svp|op/[15,16]|part|1
+kies/[2,3]|verb|hd/obj1|haas_pad/[4,5]|noun|1
+kies/[2,3]|verb|hd/su|klant/[1,2]|noun|1
+klant/[1,2]|noun|hd/det|haar/[0,1]|det|1
+na/[6,7]|prep|hd/obj1|roof/[8,9]|noun|1
+of/[22,23]|vg|crd/cnj|klant/[21,22]|noun|1
+of/[22,23]|vg|crd/cnj|overvaller/[24,25]|noun|1
+overvaller/[24,25]|noun|hd/det|de/[23,24]|det|1
+roof/[8,9]|noun|hd/det|de/[7,8]|det|1
+te/[16,17]|comp|cmp/body|jaag_op/[17,18]|verb|1
+top/top|top|top/hd|en/[5,6]|vg|1
+van/[20,21]|prep|hd/obj1|of/[22,23]|vg|1
+weet/[9,10]|verb|hd/mod|na/[6,7]|prep|1
+weet/[9,10]|verb|hd/mod|niet/[11,12]|adv|1
+weet/[9,10]|verb|hd/su|ze/[10,11]|pron|1
+weet/[9,10]|verb|hd/vc|wie/[12,13]|pron|1
+wie/[12,13]|pron|whd/body|eerst/[13,15]|adj|1
+bloed/[13,14]|noun|hd/det|het/[12,13]|det|1
+doe_onder/[3,4]|verb|hd/pc|voor/[4,5]|prep|1
+doe_onder/[3,4]|verb|hd/su|scenario/[1,2]|noun|1
+geloof/[9,10]|verb|hd/mod|zoals/[11,12]|comp|1
+geloof/[9,10]|verb|hd/obj1|me/[10,11]|pron|1
+maar/[8,9]|vg|-- / --|./[20,21]|punct|1
+maar/[8,9]|vg|crd/cnj|geloof/[9,10]|verb|1
+maar/[8,9]|vg|crd/cnj|moet/[2,3]|verb|1
+maar/[8,9]|vg|dp/dp|zal/[16,17]|verb|1
+moet/[2,3]|verb|hd/su|scenario/[1,2]|noun|1
+moet/[2,3]|verb|hd/vc|doe_onder/[3,4]|verb|1
+prijs/[18,19]|noun|hd/det|de/[17,18]|det|1
+scenario/[1,2]|noun|hd/det|het/[0,1]|det|1
+top/top|top|top/hd|maar/[8,9]|vg|1
+vloei/[14,15]|verb|hd/su|bloed/[13,14]|noun|1
+vloei/[19,20]|verb|hd/mod|zo/[15,16]|adv|1
+vloei/[19,20]|verb|hd/su|prijs/[18,19]|noun|1
+voor/[4,5]|prep|hd/obj1|Cowboys and aliens/[5,8]|name|1
+zal/[16,17]|verb|hd/su|prijs/[18,19]|noun|1
+zal/[16,17]|verb|hd/vc|vloei/[19,20]|verb|1
+zoals/[11,12]|comp|cmp/body|vloei/[14,15]|verb|1

@@ -1,0 +1,153 @@
+ben/[1,2]|verb|-- / --|./[10,11]|punct|1
+ben/[1,2]|verb|hd/predc|pizzeria/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+centrum/[7,8]|noun|hd/det|het/[6,7]|det|1
+centrum/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+in/[5,6]|prep|hd/obj1|centrum/[7,8]|noun|1
+pizzeria/[4,5]|noun|hd/det|een/[2,3]|det|1
+pizzeria/[4,5]|noun|hd/mod|in/[5,6]|prep|1
+pizzeria/[4,5]|noun|hd/mod|vernieuwd/[3,4]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[8,9]|prep|hd/obj1|Antwerpen/[9,10]|name|1
+etentje/[9,10]|noun|hd/det|een/[8,9]|det|1
+heb/[1,2]|verb|-- / --|./[10,11]|punct|1
+heb/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+heb/[1,2]|verb|hd/vc|trakteer/[6,7]|verb|1
+op/[7,8]|prep|hd/obj1|etentje/[9,10]|noun|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+trakteer/[6,7]|verb|hd/mod|er/[3,4]|adv|1
+trakteer/[6,7]|verb|hd/mod|onlangs/[0,1]|adv|1
+trakteer/[6,7]|verb|hd/obj1|vriend/[5,6]|noun|1
+trakteer/[6,7]|verb|hd/pc|op/[7,8]|prep|1
+trakteer/[6,7]|verb|hd/su|ik/[2,3]|pron|1
+vriend/[5,6]|noun|hd/det|mijn/[4,5]|det|1
+heb/[1,2]|verb|-- / --|./[9,10]|punct|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|reserveer/[3,4]|verb|1
+kan/[7,8]|verb|hd/su|we/[5,6]|pron|1
+kan/[7,8]|verb|hd/vc|neem_plaats/[8,9]|verb|1
+neem_plaats/[8,9]|verb|hd/mod|meteen/[6,7]|adv|1
+neem_plaats/[8,9]|verb|hd/su|we/[5,6]|pron|1
+reserveer/[3,4]|verb|hd/mod|vooraf/[2,3]|adv|1
+reserveer/[3,4]|verb|hd/mod|zodat/[4,5]|comp|1
+reserveer/[3,4]|verb|hd/su|ik/[0,1]|pron|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+zodat/[4,5]|comp|cmp/body|kan/[7,8]|verb|1
+cultuur/[12,13]|noun|hd/det|de/[10,11]|det|1
+cultuur/[12,13]|noun|hd/mod|Italiaans/[11,12]|adj|1
+dompel_onder/[5,6]|verb|-- / --|./[13,14]|punct|1
+dompel_onder/[5,6]|verb|hd/ld|in/[9,10]|prep|1
+dompel_onder/[5,6]|verb|hd/mod|helemaal/[7,8]|adv|1
+dompel_onder/[5,6]|verb|hd/obj1|ons/[6,7]|pron|1
+dompel_onder/[5,6]|verb|hd/su|en/[2,3]|vg|1
+dompel_onder/[5,6]|verb|hd/svp|onder/[8,9]|part|1
+en/[2,3]|vg|crd/cnj|inrichting/[1,2]|noun|1
+en/[2,3]|vg|crd/cnj|menu_kaart/[4,5]|noun|1
+in/[9,10]|prep|hd/obj1|cultuur/[12,13]|noun|1
+inrichting/[1,2]|noun|hd/det|de/[0,1]|det|1
+menu_kaart/[4,5]|noun|hd/det|de/[3,4]|det|1
+top/top|top|top/hd|dompel_onder/[5,6]|verb|1
+heb/[4,5]|verb|-- / --|./[8,9]|punct|1
+heb/[4,5]|verb|hd/su|wijn_kaart/[3,4]|noun|1
+heb/[4,5]|verb|hd/vc|verras/[7,8]|verb|1
+top/top|top|top/hd|heb/[4,5]|verb|1
+verras/[7,8]|verb|hd/mod|aangenaam/[6,7]|adj|1
+verras/[7,8]|verb|hd/obj1|ons/[5,6]|pron|1
+verras/[7,8]|verb|hd/su|wijn_kaart/[3,4]|noun|1
+wijn_kaart/[3,4]|noun|hd/det|de/[1,2]|det|1
+wijn_kaart/[3,4]|noun|hd/mod|ook/[0,1]|adv|1
+wijn_kaart/[3,4]|noun|hd/mod|uitgebreid/[2,3]|adj|1
+bediening/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[2,3]|verb|-- / --|./[14,15]|punct|1
+ben/[2,3]|verb|hd/mod|zodat/[5,6]|comp|1
+ben/[2,3]|verb|hd/predc|vlot/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|bediening/[1,2]|noun|1
+maaltijd/[13,14]|noun|hd/det|ons/[12,13]|det|1
+moet/[9,10]|verb|hd/su|we/[6,7]|pron|1
+moet/[9,10]|verb|hd/vc|wacht/[10,11]|verb|1
+op/[11,12]|prep|hd/obj1|maaltijd/[13,14]|noun|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+vlot/[4,5]|adj|hd/mod|zeer/[3,4]|adv|1
+wacht/[10,11]|verb|hd/mod|lang/[8,9]|adj|1
+wacht/[10,11]|verb|hd/mod|niet/[7,8]|adv|1
+wacht/[10,11]|verb|hd/pc|op/[11,12]|prep|1
+wacht/[10,11]|verb|hd/su|we/[6,7]|pron|1
+zodat/[5,6]|comp|cmp/body|moet/[9,10]|verb|1
+aanrader/[10,11]|noun|hd/det|een/[8,9]|det|1
+aanrader/[10,11]|noun|hd/mod|absoluut/[9,10]|adj|1
+ben/[7,8]|verb|-- / --|./[11,12]|punct|1
+ben/[7,8]|verb|hd/predc|aanrader/[10,11]|noun|1
+ben/[7,8]|verb|hd/su|pizza/[2,3]|noun|1
+en/[5,6]|vg|crd/cnj|ananas/[6,7]|noun|1
+en/[5,6]|vg|crd/cnj|kip/[4,5]|noun|1
+met/[3,4]|prep|hd/obj1|en/[5,6]|vg|1
+pizza/[2,3]|noun|hd/det|de/[0,1]|det|1
+pizza/[2,3]|noun|hd/mod|Piccollini/[1,2]|name|1
+pizza/[2,3]|noun|hd/mod|met/[3,4]|prep|1
+top/top|top|top/hd|ben/[7,8]|verb|1
+ben/[2,3]|verb|hd/mod|groot/[7,8]|adj|1
+ben/[2,3]|verb|hd/su|portie/[1,2]|noun|1
+ben/[15,16]|verb|hd/predc|onmogelijk/[16,17]|adj|1
+ben/[15,16]|verb|hd/su|ga/[14,15]|verb|1
+dus/[9,10]|vg|-- / --|./[17,18]|punct|1
+dus/[9,10]|vg|crd/cnj|ben/[2,3]|verb|1
+dus/[9,10]|vg|crd/cnj|ben/[15,16]|verb|1
+en/[5,6]|vg|crd/cnj|vast/[6,7]|adj|1
+en/[5,6]|vg|crd/cnj|zeker/[4,5]|adj|1
+ga/[14,15]|verb|hd/pc|met/[10,11]|prep|1
+groot/[7,8]|adj|hd/mod|en/[5,6]|vg|1
+groot/[7,8]|adj|hd/mod|er/[3,4]|adv|1
+groot/[7,8]|adj|hd/mod|genoeg/[8,9]|adv|1
+honger/[11,12]|noun|hd/mod|naar/[12,13]|prep|1
+met/[10,11]|prep|hd/obj1|honger/[11,12]|noun|1
+naar/[12,13]|prep|hd/obj1|huis/[13,14]|noun|1
+portie/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|dus/[9,10]|vg|1
+blijf/[13,14]|verb|hd/su|je/[10,11]|pron|1
+blijf/[13,14]|verb|hd/vc|zit/[14,15]|verb|1
+buurt/[8,9]|noun|hd/det|de/[7,8]|det|1
+dessert/[21,22]|noun|hd/det|een/[19,20]|det|1
+dessert/[21,22]|noun|hd/mod|lekker/[20,21]|adj|1
+en/[15,16]|vg|crd/cnj|blijf/[13,14]|verb|1
+en/[15,16]|vg|crd/cnj|geniet/[17,18]|verb|1
+geniet/[17,18]|verb|hd/mod|in vergelijking met/[0,3]|prep|1
+geniet/[17,18]|verb|hd/mod|nog/[16,17]|adv|1
+geniet/[17,18]|verb|hd/pc|van/[18,19]|prep|1
+geniet/[17,18]|verb|hd/su|je/[10,11]|pron|1
+in vergelijking met/[0,3]|prep|hd/obj1|pizzerias/[5,6]|noun|1
+kan/[9,10]|verb|-- / --|./[22,23]|punct|1
+kan/[9,10]|verb|hd/su|je/[10,11]|pron|1
+kan/[9,10]|verb|hd/vc|en/[15,16]|vg|1
+pizzerias/[5,6]|noun|hd/det|de/[3,4]|det|1
+pizzerias/[5,6]|noun|hd/mod|ander/[4,5]|adj|1
+pizzerias/[5,6]|noun|hd/mod|uit/[6,7]|prep|1
+top/top|top|top/hd|kan/[9,10]|verb|1
+uit/[6,7]|prep|hd/obj1|buurt/[8,9]|noun|1
+van/[18,19]|prep|hd/obj1|dessert/[21,22]|noun|1
+zit/[14,15]|verb|hd/mod|hier/[11,12]|adv|1
+zit/[14,15]|verb|hd/mod|in vergelijking met/[0,3]|prep|1
+zit/[14,15]|verb|hd/predc|rustig/[12,13]|adj|1
+zit/[14,15]|verb|hd/su|je/[10,11]|pron|1
+en/[4,5]|vg|crd/cnj|budget_vriendelijk/[5,6]|adj|1
+en/[4,5]|vg|crd/cnj|heerlijk/[3,4]|adj|1
+gerecht/[6,7]|noun|hd/mod|en/[4,5]|vg|1
+pizzeria/[1,2]|noun|hd/det|deze/[0,1]|det|1
+serveer/[2,3]|verb|-- / --|./[7,8]|punct|1
+serveer/[2,3]|verb|hd/obj1|gerecht/[6,7]|noun|1
+serveer/[2,3]|verb|hd/su|pizzeria/[1,2]|noun|1
+top/top|top|top/hd|serveer/[2,3]|verb|1
+ben/[9,10]|verb|-- / --|!/[12,13]|punct|1
+ben/[9,10]|verb|hd/mod|voor/[0,1]|prep|1
+ben/[9,10]|verb|hd/predc|perfect/[11,12]|adj|1
+ben/[9,10]|verb|hd/su|PROPNAME/[10,11]|name|1
+geniet/[8,9]|verb|hd/mod|even/[2,3]|adj|1
+geniet/[8,9]|verb|hd/pc|van/[3,4]|prep|1
+geniet/[8,9]|verb|hd/su|wie/[1,2]|pron|1
+keuken/[6,7]|noun|hd/det|de/[4,5]|det|1
+keuken/[6,7]|noun|hd/mod|Italiaans/[5,6]|adj|1
+top/top|top|top/hd|ben/[9,10]|verb|1
+van/[3,4]|prep|hd/obj1|keuken/[6,7]|noun|1
+voor/[0,1]|prep|hd/obj1|wie/[1,2]|pron|1
+wie/[1,2]|pron|rhd/body|wil/[7,8]|verb|1
+wil/[7,8]|verb|hd/su|wie/[1,2]|pron|1
+wil/[7,8]|verb|hd/vc|geniet/[8,9]|verb|1

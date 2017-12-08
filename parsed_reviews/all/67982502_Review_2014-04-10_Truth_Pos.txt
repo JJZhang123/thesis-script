@@ -1,0 +1,193 @@
+ben/[5,6]|verb|-- / --|./[21,22]|punct|1
+ben/[5,6]|verb|hd/predc|woord/[7,8]|noun|1
+ben/[5,6]|verb|hd/su|Stoer, sexy, cool en classy/[0,5]|name|1
+die/[8,9]|pron|rhd/body|omschrijf/[20,21]|verb|1
+omschrijf/[20,21]|verb|hd/obj1|optreden/[10,11]|noun|1
+omschrijf/[20,21]|verb|hd/su|die/[8,9]|pron|1
+op/[14,15]|prep|hd/obj1|weide/[16,17]|noun|1
+optreden/[10,11]|noun|hd/det|het/[9,10]|det|1
+optreden/[10,11]|noun|hd/mod|van/[11,12]|prep|1
+propname/[13,14]|noun|hd/det|de/[12,13]|det|1
+propname/[13,14]|noun|hd/mod|op/[14,15]|prep|1
+top/top|top|top/hd|ben/[5,6]|verb|1
+van/[11,12]|prep|hd/obj1|propname/[13,14]|noun|1
+van/[17,18]|prep|hd/obj1|Rock Werchter/[18,20]|name|1
+weide/[16,17]|noun|hd/det|de/[15,16]|det|1
+weide/[16,17]|noun|hd/mod|van/[17,18]|prep|1
+woord/[7,8]|noun|hd/det|de/[6,7]|det|1
+woord/[7,8]|noun|hd/mod|die/[8,9]|pron|1
+Turner, de frontman,/[1,4]|name|hd/det|Alex/[0,1]|det|1
+gedrag/[11,12]|noun|hd/det|zijn/[9,10]|det|1
+gedrag/[11,12]|noun|hd/mod|nonchalant/[10,11]|adj|1
+met/[8,9]|prep|hd/obj1|gedrag/[11,12]|noun|1
+palm_in/[4,5]|verb|-- / --|./[12,13]|punct|1
+palm_in/[4,5]|verb|hd/mod|met/[8,9]|prep|1
+palm_in/[4,5]|verb|hd/obj1|tiener_meisje/[6,7]|noun|1
+palm_in/[4,5]|verb|hd/su|Turner, de frontman,/[1,4]|name|1
+palm_in/[4,5]|verb|hd/svp|in/[7,8]|part|1
+tiener_meisje/[6,7]|noun|hd/det|alle/[5,6]|det|1
+top/top|top|top/hd|palm_in/[4,5]|verb|1
+Belg/[1,2]|noun|hd/det|de/[0,1]|det|1
+besef/[2,3]|verb|-- / --|./[16,17]|punct|1
+besef/[2,3]|verb|hd/mod|eindelijk/[4,5]|adj|1
+besef/[2,3]|verb|hd/mod|nu/[3,4]|adv|1
+besef/[2,3]|verb|hd/su|Belg/[1,2]|noun|1
+besef/[2,3]|verb|hd/vc|waarom/[5,6]|pp|1
+rock-n-roll_prins/[13,15]|noun|hd/det|deze/[12,13]|det|1
+top/top|top|top/hd|besef/[2,3]|verb|1
+val/[15,16]|verb|hd/mod|waarom/[5,6]|pp|1
+val/[15,16]|verb|hd/pc|voor/[8,9]|prep|1
+val/[15,16]|verb|hd/su|Alexa Chung/[6,8]|name|1
+van/[11,12]|prep|hd/obj1|rock-n-roll_prins/[13,15]|noun|1
+voet/[10,11]|noun|hd/det|de/[9,10]|det|1
+voet/[10,11]|noun|hd/mod|van/[11,12]|prep|1
+voor/[8,9]|prep|hd/obj1|voet/[10,11]|noun|1
+waarom/[5,6]|pp|whd/body|val/[15,16]|verb|1
+als/[7,8]|comp|cmp/body|hij/[8,9]|pron|1
+fan_boy/[6,7]|noun|dp/dp|tekst/[10,11]|noun|1
+fan_boy/[6,7]|noun|hd/mod|als/[7,8]|comp|1
+fangirl/[4,5]|noun|hd/det|een/[3,4]|det|1
+of/[5,6]|vg|-- / --|? /[16,17]|punct|1
+of/[5,6]|vg|crd/cnj|fan_boy/[6,7]|noun|1
+of/[5,6]|vg|crd/cnj|word/[1,2]|verb|1
+tekst/[10,11]|noun|hd/det|de/[9,10]|det|1
+tekst/[10,11]|noun|hd/mod|van/[11,12]|prep|1
+top/top|top|top/hd|of/[5,6]|vg|1
+van/[11,12]|prep|hd/obj1|Do I Wanna Know/[12,16]|name|1
+word/[1,2]|verb|hd/predc|fangirl/[4,5]|noun|1
+word/[1,2]|verb|hd/predm|allemaal/[2,3]|adv|1
+word/[1,2]|verb|hd/su|we/[0,1]|pron|1
+naar/[0,1]|prep|-- / --|./[4,5]|punct|1
+naar/[0,1]|prep|-- / --|toe/[2,3]|part|1
+naar/[0,1]|prep|dp/dp|zing/[3,4]|verb|1
+naar/[0,1]|prep|hd/obj1|ons/[1,2]|pron|1
+top/top|top|top/hd|naar/[0,1]|prep|1
+als/[9,10]|comp|cmp/body|rock_ster/[12,13]|noun|1
+die/[13,14]|pron|rhd/body|heb/[21,22]|verb|1
+drink/[22,23]|verb|hd/mod|toch/[17,18]|adv|1
+drink/[22,23]|verb|hd/mod|voor/[14,15]|prep|1
+drink/[22,23]|verb|hd/obj1|fles_DIM/[19,20]|noun|1
+drink/[22,23]|verb|hd/su|die/[13,14]|pron|1
+fles_DIM/[19,20]|noun|hd/det|een/[18,19]|det|1
+fles_DIM/[19,20]|noun|hd/mod|wijn/[20,21]|noun|1
+gedraag/[6,7]|verb|-- / --|./[23,24]|punct|1
+gedraag/[6,7]|verb|hd/mod|met/[0,1]|prep|1
+gedraag/[6,7]|verb|hd/predc|als/[9,10]|comp|1
+gedraag/[6,7]|verb|hd/se|zich/[8,9]|pron|1
+gedraag/[6,7]|verb|hd/su|hij/[7,8]|pron|1
+hand/[5,6]|noun|hd/det|de/[4,5]|det|1
+heb/[21,22]|verb|hd/su|die/[13,14]|pron|1
+heb/[21,22]|verb|hd/vc|drink/[22,23]|verb|1
+in/[3,4]|prep|hd/obj1|hand/[5,6]|noun|1
+kam/[2,3]|noun|hd/det|zijn/[1,2]|det|1
+kam/[2,3]|noun|hd/mod|in/[3,4]|prep|1
+met/[0,1]|prep|hd/obj1|kam/[2,3]|noun|1
+optreden/[16,17]|noun|hd/det|het/[15,16]|det|1
+rock_ster/[12,13]|noun|hd/det|een/[10,11]|det|1
+rock_ster/[12,13]|noun|hd/mod|die/[13,14]|pron|1
+rock_ster/[12,13]|noun|hd/mod|echt/[11,12]|adj|1
+top/top|top|top/hd|gedraag/[6,7]|verb|1
+voor/[14,15]|prep|hd/obj1|optreden/[16,17]|noun|1
+top/top|top|top/hd|Werchter, how the hell are you ?/[0,7]|name|1
+air/[17,18]|noun|hd/det|een/[16,17]|det|1
+air/[17,18]|noun|hd/mod|van/[18,19]|prep|1
+en/[5,6]|vg|-- / --|./[20,21]|punct|1
+en/[5,6]|vg|crd/cnj|roep/[0,1]|verb|1
+en/[5,6]|vg|crd/cnj|zet/[7,8]|verb|1
+kom_op/[4,5]|verb|hd/su|hij/[3,4]|pron|1
+met/[15,16]|prep|hd/obj1|air/[17,18]|noun|1
+roep/[0,1]|verb|hd/mod|toen/[2,3]|comp|1
+roep/[0,1]|verb|hd/su|Alex/[1,2]|name|1
+show/[13,14]|noun|hd/det|de/[11,12]|det|1
+show/[13,14]|noun|hd/mod|heel/[12,13]|adj|1
+toen/[2,3]|comp|cmp/body|kom_op/[4,5]|verb|1
+toon/[9,10]|noun|hd/det|de/[8,9]|det|1
+toon/[9,10]|noun|hd/mod|voor/[10,11]|prep|1
+top/top|top|top/hd|en/[5,6]|vg|1
+van/[18,19]|prep|hd/obj1|I-dont_care/[19,20]|noun|1
+voor/[10,11]|prep|hd/obj1|show/[13,14]|noun|1
+zet/[7,8]|verb|hd/mod|met/[15,16]|prep|1
+zet/[7,8]|verb|hd/obj1|toon/[9,10]|noun|1
+zet/[7,8]|verb|hd/predc|energie_rijk/[14,15]|adj|1
+zet/[7,8]|verb|hd/su|dit/[6,7]|det|1
+avond_hemel/[7,8]|noun|hd/det|de/[5,6]|det|1
+avond_hemel/[7,8]|noun|hd/mod|donker/[6,7]|adj|1
+groep/[15,16]|noun|hd/det|deze/[13,14]|det|1
+groep/[15,16]|noun|hd/mod|Engels/[14,15]|adj|1
+klaar_op/[4,5]|verb|-- / --|./[16,17]|punct|1
+klaar_op/[4,5]|verb|hd/mod|ondanks/[0,1]|prep|1
+klaar_op/[4,5]|verb|hd/mod|voor/[9,10]|prep|1
+klaar_op/[4,5]|verb|hd/su|avond_hemel/[7,8]|noun|1
+klaar_op/[4,5]|verb|hd/svp|op/[8,9]|part|1
+ondanks/[0,1]|prep|hd/obj1|weer/[3,4]|noun|1
+set/[11,12]|noun|hd/det|de/[10,11]|det|1
+set/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+top/top|top|top/hd|klaar_op/[4,5]|verb|1
+van/[12,13]|prep|hd/obj1|groep/[15,16]|noun|1
+voor/[9,10]|prep|hd/obj1|set/[11,12]|noun|1
+weer/[3,4]|noun|hd/det|het/[1,2]|det|1
+weer/[3,4]|noun|hd/mod|regenachtig/[2,3]|adj|1
+album/[9,10]|noun|hd/app|AM/[10,11]|name|1
+album/[9,10]|noun|hd/det|hun/[7,8]|det|1
+album/[9,10]|noun|hd/mod|nieuw/[8,9]|adj|1
+alleen/[3,4]|adj|hd/mod|niet/[2,3]|adv|1
+dancing/[21,22]|noun|hd/app|Good On The Dancefloor/[28,32]|name|1
+dancing/[21,22]|noun|hd/app|Look/[27,28]|name|1
+dancing/[21,22]|noun|hd/app|Shoes en I Bet You/[22,27]|name|1
+maar/[11,12]|vg|-- / --|./[32,33]|punct|1
+maar/[11,12]|vg|crd/cnj|speel/[1,2]|verb|1
+maar/[11,12]|vg|crd/cnj|verras/[12,13]|verb|1
+met/[15,16]|prep|hd/obj1|nummer/[19,20]|noun|1
+nummer/[5,6]|noun|hd/det|de/[4,5]|det|1
+nummer/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+nummer/[19,20]|noun|hd/det|paar/[17,18]|noun|1
+nummer/[19,20]|noun|hd/mod|oud/[18,19]|adj|1
+nummer/[19,20]|noun|hd/mod|zoals/[20,21]|comp|1
+paar/[17,18]|noun|hd/det|een/[16,17]|det|1
+speel/[1,2]|verb|hd/mod|alleen/[3,4]|adj|1
+speel/[1,2]|verb|hd/obj1|nummer/[5,6]|noun|1
+speel/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+top/top|top|top/hd|maar/[11,12]|vg|1
+van/[6,7]|prep|hd/obj1|album/[9,10]|noun|1
+verras/[12,13]|verb|hd/mod|met/[15,16]|prep|1
+verras/[12,13]|verb|hd/mod|ook/[14,15]|adv|1
+verras/[12,13]|verb|hd/obj1|ons/[13,14]|pron|1
+verras/[12,13]|verb|hd/su|ze/[0,1]|pron|1
+zoals/[20,21]|comp|cmp/body|dancing/[21,22]|noun|1
+en/[14,15]|vg|crd/cnj|Fireside/[15,16]|name|1
+en/[14,15]|vg|crd/cnj|Shes Thunderstorms/[12,14]|name|1
+heb/[5,6]|verb|-- / --|./[17,18]|punct|1
+heb/[5,6]|verb|hd/su|ze/[6,7]|pron|1
+heb/[5,6]|verb|hd/vc|speel/[16,17]|verb|1
+naast/[0,1]|prep|hd/obj1|nummer/[4,5]|noun|1
+nummer/[4,5]|noun|hd/det|hun/[1,2]|det|1
+nummer/[4,5]|noun|hd/mod|bekende, rock-n-roll/[2,4]|name|1
+paar/[9,10]|noun|hd/det|een/[8,9]|det|1
+rustig/[10,11]|adj|hd/det|paar/[9,10]|noun|1
+rustig/[10,11]|adj|hd/mod|zoals/[11,12]|comp|1
+speel/[16,17]|verb|hd/mod|naast/[0,1]|prep|1
+speel/[16,17]|verb|hd/mod|ook/[7,8]|adv|1
+speel/[16,17]|verb|hd/obj1|rustig/[10,11]|adj|1
+speel/[16,17]|verb|hd/su|ze/[6,7]|pron|1
+top/top|top|top/hd|heb/[5,6]|verb|1
+zoals/[11,12]|comp|cmp/body|en/[14,15]|vg|1
+om/[0,1]|comp|cmp/body|te/[2,3]|comp|1
+sluit_af/[3,4]|verb|hd/svp|af/[1,2]|part|1
+speel/[4,5]|verb|-- / --|? /[9,10]|punct|1
+speel/[4,5]|verb|dp/dp|u/[7,8]|pron|1
+speel/[4,5]|verb|hd/mod|om/[0,1]|comp|1
+speel/[4,5]|verb|hd/obj1|R/[6,7]|name|1
+speel/[4,5]|verb|hd/su|ze/[5,6]|pron|1
+te/[2,3]|comp|cmp/body|sluit_af/[3,4]|verb|1
+top/top|top|top/hd|speel/[4,5]|verb|1
+u/[7,8]|pron|dp/dp|Mine/[8,9]|name|1
+dak/[6,7]|noun|hd/det|zijn/[5,6]|det|1
+ga/[7,8]|verb|hd/ld|uit/[4,5]|prep|1
+ga/[7,8]|verb|hd/mod|waardoor/[0,1]|pp|1
+ga/[7,8]|verb|hd/su|publiek/[3,4]|noun|1
+publiek/[3,4]|noun|hd/det|het/[1,2]|det|1
+publiek/[3,4]|noun|hd/mod|heel/[2,3]|adj|1
+top/top|top|top/hd|waardoor/[0,1]|pp|1
+uit/[4,5]|prep|hd/obj1|dak/[6,7]|noun|1
+waardoor/[0,1]|pp|-- / --|./[8,9]|punct|1
+waardoor/[0,1]|pp|rhd/body|ga/[7,8]|verb|1

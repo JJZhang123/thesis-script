@@ -1,0 +1,87 @@
+bezoek/[7,8]|verb|hd/mod|in/[5,6]|prep|1
+bezoek/[7,8]|verb|hd/mod|zaterdag/[1,2]|noun|1
+bezoek/[7,8]|verb|hd/obj1|propname/[4,5]|noun|1
+bezoek/[7,8]|verb|hd/su|ik/[3,4]|pron|1
+heb/[2,3]|verb|-- / --|./[8,9]|punct|1
+heb/[2,3]|verb|hd/su|ik/[3,4]|pron|1
+heb/[2,3]|verb|hd/vc|bezoek/[7,8]|verb|1
+in/[5,6]|prep|hd/obj1|Antwerpen/[6,7]|name|1
+top/top|top|top/hd|heb/[2,3]|verb|1
+zaterdag/[1,2]|noun|hd/mod|vorig/[0,1]|adj|1
+eigenaar/[1,2]|noun|hd/det|de/[0,1]|det|1
+en/[9,10]|vg|-- / --|./[14,15]|punct|1
+en/[9,10]|vg|crd/cnj|ga/[2,3]|verb|1
+en/[9,10]|vg|crd/cnj|slaag/[10,11]|verb|1
+ga/[2,3]|verb|hd/mod|over_duidelijk/[3,4]|adj|1
+ga/[2,3]|verb|hd/mod|voor/[4,5]|prep|1
+ga/[2,3]|verb|hd/obj1|gevoel/[8,9]|noun|1
+ga/[2,3]|verb|hd/su|eigenaar/[1,2]|noun|1
+in/[11,12]|prep|hd/obj1|opzet/[13,14]|noun|1
+opzet/[13,14]|noun|hd/det|hun/[12,13]|det|1
+retro/[7,8]|noun|hd/det|een/[5,6]|det|1
+retro/[7,8]|noun|hd/mod|gezellig/[6,7]|adj|1
+slaag/[10,11]|verb|hd/pc|in/[11,12]|prep|1
+slaag/[10,11]|verb|hd/su|eigenaar/[1,2]|noun|1
+top/top|top|top/hd|en/[9,10]|vg|1
+voor/[4,5]|prep|hd/obj1|retro/[7,8]|noun|1
+heb/[7,8]|verb|hd/su|ik/[6,7]|pron|1
+heb/[7,8]|verb|hd/vc|heb/[13,14]|verb|1
+heb/[13,14]|verb|hd/mod|nooit/[9,10]|adv|1
+heb/[13,14]|verb|hd/obj1|moeite/[12,13]|noun|1
+heb/[13,14]|verb|hd/pc|met/[14,15]|prep|1
+heb/[13,14]|verb|hd/su|ik/[6,7]|pron|1
+kaart/[1,2]|noun|hd/det|de/[0,1]|det|1
+keuze/[19,20]|noun|hd/det|een/[18,19]|det|1
+maak/[16,17]|verb|hd/det|het/[15,16]|det|1
+maak/[16,17]|verb|hd/mod|van/[17,18]|prep|1
+met/[14,15]|prep|hd/obj1|maak/[16,17]|verb|1
+moeite/[12,13]|noun|hd/det|veel/[11,12]|adj|1
+nooit/[9,10]|adv|hd/mod|nog/[8,9]|adv|1
+top/top|top|top/hd|zie/[2,3]|verb|1
+uit/[5,6]|adj|hd/mod|fantastisch/[4,5]|adj|1
+van/[17,18]|prep|hd/obj1|keuze/[19,20]|noun|1
+veel/[11,12]|adj|hd/mod|zo/[10,11]|adv|1
+zie/[2,3]|verb|-- / --|./[20,21]|punct|1
+zie/[2,3]|verb|dp/dp|heb/[7,8]|verb|1
+zie/[2,3]|verb|hd/mod|er/[3,4]|adv|1
+zie/[2,3]|verb|hd/predc|uit/[5,6]|adj|1
+zie/[2,3]|verb|hd/su|kaart/[1,2]|noun|1
+en/[8,9]|vg|crd/cnj|caramel/[7,8]|noun|1
+en/[8,9]|vg|crd/cnj|stuk_DIM/[10,11]|noun|1
+ga/[1,2]|verb|-- / --|./[12,13]|punct|1
+ga/[1,2]|verb|hd/mod|met/[6,7]|prep|1
+ga/[1,2]|verb|hd/mod|uiteindelijk/[0,1]|adj|1
+ga/[1,2]|verb|hd/mod|voor/[3,4]|prep|1
+ga/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+latte/[5,6]|noun|hd/det|een/[4,5]|det|1
+met/[6,7]|prep|hd/obj1|en/[8,9]|vg|1
+stuk_DIM/[10,11]|noun|hd/det|een/[9,10]|det|1
+stuk_DIM/[10,11]|noun|hd/mod|appel_taart/[11,12]|noun|1
+top/top|top|top/hd|ga/[1,2]|verb|1
+voor/[3,4]|prep|hd/obj1|latte/[5,6]|noun|1
+bestelling/[6,7]|noun|hd/det|mijn/[5,6]|det|1
+krijg/[3,4]|verb|-- / --|./[7,8]|punct|1
+krijg/[3,4]|verb|hd/mod|na/[0,1]|prep|1
+krijg/[3,4]|verb|hd/obj1|bestelling/[6,7]|noun|1
+krijg/[3,4]|verb|hd/su|ik/[4,5]|pron|1
+minuut/[2,3]|noun|hd/det|enkel/[1,2]|det|1
+na/[0,1]|prep|hd/obj1|minuut/[2,3]|noun|1
+top/top|top|top/hd|krijg/[3,4]|verb|1
+appel_taart/[6,7]|noun|hd/det|de/[5,6]|det|1
+ben/[7,8]|verb|hd/predc|verrukkelijk/[8,9]|adj|1
+ben/[7,8]|verb|hd/su|appel_taart/[6,7]|noun|1
+en/[4,5]|vg|-- / --|./[9,10]|punct|1
+en/[4,5]|vg|crd/cnj|ben/[7,8]|verb|1
+en/[4,5]|vg|crd/cnj|smaak/[2,3]|verb|1
+latte/[1,2]|noun|hd/det|de/[0,1]|det|1
+smaak/[2,3]|verb|hd/predc|goed/[3,4]|adj|1
+smaak/[2,3]|verb|hd/su|latte/[1,2]|noun|1
+top/top|top|top/hd|en/[4,5]|vg|1
+kom_terug/[5,6]|verb|hd/mod|hier/[0,1]|adv|1
+kom_terug/[5,6]|verb|hd/mod|nog/[3,4]|adv|1
+kom_terug/[5,6]|verb|hd/mod|vaak/[4,5]|adj|1
+kom_terug/[5,6]|verb|hd/su|ik/[2,3]|pron|1
+top/top|top|top/hd|zal/[1,2]|verb|1
+zal/[1,2]|verb|-- / --|!/[6,7]|punct|1
+zal/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+zal/[1,2]|verb|hd/vc|kom_terug/[5,6]|verb|1

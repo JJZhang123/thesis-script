@@ -1,0 +1,59 @@
+Godverdomse Bol/[8,10]|name|hd/det|een/[7,8]|det|1
+aan/[16,17]|prep|hd/obj1|propname/[17,18]|noun|1
+begin/[15,16]|verb|hd/mod|aan/[16,17]|prep|1
+begin/[15,16]|verb|hd/su|ik/[14,15]|pron|1
+begin/[15,16]|verb|hd/vc|te/[10,11]|comp|1
+ben/[13,14]|verb|-- / --|./[18,19]|punct|1
+ben/[13,14]|verb|hd/su|ik/[14,15]|pron|1
+ben/[13,14]|verb|hd/vc|begin/[15,16]|verb|1
+heb/[11,12]|verb|hd/su|ik/[14,15]|pron|1
+heb/[11,12]|verb|hd/vc|lees/[12,13]|verb|1
+lees/[12,13]|verb|hd/mod|na/[0,1]|prep|1
+lees/[12,13]|verb|hd/mod|op/[6,7]|prep|1
+lees/[12,13]|verb|hd/su|ik/[14,15]|pron|1
+na/[0,1]|prep|hd/obj1|Problemski Hotel en Godverdomse Dagen/[1,6]|name|1
+op/[6,7]|prep|hd/obj1|Godverdomse Bol/[8,10]|name|1
+te/[10,11]|comp|cmp/body|heb/[11,12]|verb|1
+top/top|top|top/hd|ben/[13,14]|verb|1
+ben/[2,3]|verb|-- / --|(-)/[4,5]|punct|1
+ben/[2,3]|verb|-- / --|(-)/[10,11]|punct|1
+ben/[2,3]|verb|-- / --|./[27,28]|punct|1
+ben/[2,3]|verb|-- / --|doorheen/[9,10]|prep|1
+ben/[2,3]|verb|dp/dp|lees/[6,7]|verb|1
+ben/[2,3]|verb|dp/dp|vind/[14,15]|verb|1
+ben/[2,3]|verb|hd/predc|pak/[3,4]|adj|1
+ben/[2,3]|verb|hd/su|verhaal/[1,2]|noun|1
+ben/[26,27]|verb|hd/mod|waarmee/[18,19]|pp|1
+ben/[26,27]|verb|hd/predc|doorweekt/[25,26]|adj|1
+ben/[26,27]|verb|hd/su|boek/[20,21]|noun|1
+boek/[20,21]|noun|hd/det|het/[19,20]|det|1
+boek/[20,21]|noun|hd/mod|zoals/[21,22]|comp|1
+cynisme/[17,18]|noun|hd/det|het/[16,17]|det|1
+cynisme/[17,18]|noun|hd/mod|waarmee/[18,19]|pp|1
+goed/[12,14]|adj|hd/mod|maar/[11,12]|adv|1
+lees/[6,7]|verb|hd/mod|er/[7,8]|adv|1
+lees/[6,7]|verb|hd/mod|vlot/[8,9]|adj|1
+lees/[6,7]|verb|hd/su|je/[5,6]|pron|1
+titel/[24,25]|noun|hd/det|zijn/[22,23]|det|1
+titel/[24,25]|noun|hd/mod|ander/[23,24]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+vind/[14,15]|verb|hd/obj1|cynisme/[17,18]|noun|1
+vind/[14,15]|verb|hd/predc|goed/[12,14]|adj|1
+vind/[14,15]|verb|hd/su|ik/[15,16]|pron|1
+waarmee/[18,19]|pp|rhd/body|ben/[26,27]|verb|1
+zoals/[21,22]|comp|cmp/body|titel/[24,25]|noun|1
+als/[4,5]|comp|cmp/body|heb/[11,12]|verb|1
+dood/[10,11]|verb|hd/obj1|uur/[8,9]|noun|1
+dood/[10,11]|verb|hd/su|je/[5,6]|pron|1
+heb/[11,12]|verb|hd/su|je/[5,6]|pron|1
+heb/[11,12]|verb|hd/vc|te/[9,10]|comp|1
+paar/[7,8]|noun|hd/det|een/[6,7]|det|1
+raad_aan/[3,4]|verb|hd/mod|zeker/[0,1]|adj|1
+raad_aan/[3,4]|verb|hd/svp|aan/[1,2]|part|1
+te/[2,3]|comp|-- / --|./[12,13]|punct|1
+te/[2,3]|comp|cmp/body|raad_aan/[3,4]|verb|1
+te/[2,3]|comp|dp/dp|als/[4,5]|comp|1
+te/[9,10]|comp|cmp/body|dood/[10,11]|verb|1
+top/top|top|top/hd|te/[2,3]|comp|1
+uur/[8,9]|noun|hd/det|paar/[7,8]|noun|1

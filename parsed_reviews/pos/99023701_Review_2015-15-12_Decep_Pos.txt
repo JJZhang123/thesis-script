@@ -1,0 +1,87 @@
+top/top|top|top/hd|PROPNAME, inderdaad, PROPNAME !/[0,4]|name|1
+koffie_bar/[4,5]|noun|hd/det|een/[2,3]|det|1
+koffie_bar/[4,5]|noun|hd/mod|aangenaam/[3,4]|adj|1
+top/top|top|top/hd|wandel_binnen/[5,6]|verb|1
+wandel_binnen/[5,6]|verb|-- / --|./[6,7]|punct|1
+wandel_binnen/[5,6]|verb|hd/ld|koffie_bar/[4,5]|noun|1
+wandel_binnen/[5,6]|verb|hd/mod|zelden/[0,1]|adj|1
+wandel_binnen/[5,6]|verb|hd/mod|zo/[1,2]|adv|1
+bar/[14,15]|noun|hd/det|de/[13,14]|det|1
+bar/[14,15]|noun|hd/mod|in/[15,16]|prep|1
+geur/[1,2]|noun|hd/det|de/[0,1]|det|1
+geur/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+in/[15,16]|prep|hd/obj1|zicht/[17,18]|noun|1
+koffie_boon/[5,6]|noun|hd/det|de/[3,4]|det|1
+koffie_boon/[5,6]|noun|hd/mod|versgemalen/[4,5]|adj|1
+kom_tegemoet/[6,7]|verb|-- / --|./[19,20]|punct|1
+kom_tegemoet/[6,7]|verb|hd/ld|je/[7,8]|pron|1
+kom_tegemoet/[6,7]|verb|hd/mod|al/[8,9]|adv|1
+kom_tegemoet/[6,7]|verb|hd/mod|van/[10,11]|prep|1
+kom_tegemoet/[6,7]|verb|hd/mod|voor/[12,13]|comp|1
+kom_tegemoet/[6,7]|verb|hd/su|geur/[1,2]|noun|1
+kom_tegemoet/[6,7]|verb|hd/svp|tegemoet/[9,10]|part|1
+top/top|top|top/hd|kom_tegemoet/[6,7]|verb|1
+val/[18,19]|verb|hd/su|bar/[14,15]|noun|1
+van/[2,3]|prep|hd/obj1|koffie_boon/[5,6]|noun|1
+van/[10,11]|prep|hd/obj1|ver/[11,12]|adj|1
+voor/[12,13]|comp|cmp/body|val/[18,19]|verb|1
+zicht/[17,18]|noun|hd/det|je/[16,17]|det|1
+bediening/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[2,3]|verb|hd/mod|vriendelijk/[4,5]|adj|1
+ben/[2,3]|verb|hd/predc|spontaan/[5,6]|adj|1
+ben/[2,3]|verb|hd/su|bediening/[1,2]|noun|1
+breng/[8,9]|verb|hd/mod|enthousiast/[7,8]|adj|1
+breng/[8,9]|verb|hd/obj1|leut/[11,12]|noun|1
+breng/[8,9]|verb|hd/su|ze/[9,10]|pron|1
+breng/[8,9]|verb|hd/svp|aan de man/[12,15]|fixed|1
+en/[6,7]|vg|-- / --|./[15,16]|punct|1
+en/[6,7]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[6,7]|vg|crd/cnj|breng/[8,9]|verb|1
+leut/[11,12]|noun|hd/det|hun/[10,11]|det|1
+top/top|top|top/hd|en/[6,7]|vg|1
+vriendelijk/[4,5]|adj|hd/mod|munt_uit/[3,4]|adj|1
+assortiment/[2,3]|noun|hd/det|het/[0,1]|det|1
+assortiment/[2,3]|noun|hd/mod|ruim/[1,2]|adj|1
+laat_achter/[3,4]|verb|-- / --|./[8,9]|punct|1
+laat_achter/[3,4]|verb|hd/mod|bedeesd/[6,7]|adj|1
+laat_achter/[3,4]|verb|hd/mod|niet/[5,6]|adv|1
+laat_achter/[3,4]|verb|hd/obj1|assortiment/[2,3]|noun|1
+laat_achter/[3,4]|verb|hd/su|je/[4,5]|pron|1
+laat_achter/[3,4]|verb|hd/svp|achter/[7,8]|part|1
+top/top|top|top/hd|laat_achter/[3,4]|verb|1
+die/[10,11]|pron|rhd/body|serveer/[12,13]|verb|1
+geef/[6,7]|verb|hd/mod|er/[2,3]|adv|1
+geef/[6,7]|verb|hd/mod|telkens/[0,1]|adv|1
+geef/[6,7]|verb|hd/mod|voor/[7,8]|prep|1
+geef/[6,7]|verb|hd/obj1|uitleg/[5,6]|noun|1
+koffie/[9,10]|noun|hd/det|elk/[8,9]|det|1
+koffie/[9,10]|noun|hd/mod|die/[10,11]|pron|1
+serveer/[12,13]|verb|hd/obj1|die/[10,11]|pron|1
+serveer/[12,13]|verb|hd/su|ze/[11,12]|pron|1
+top/top|top|top/hd|word/[1,2]|verb|1
+uitleg/[5,6]|noun|hd/det|een/[3,4]|det|1
+uitleg/[5,6]|noun|hd/mod|kort/[4,5]|adj|1
+voor/[7,8]|prep|hd/obj1|koffie/[9,10]|noun|1
+word/[1,2]|verb|-- / --|./[13,14]|punct|1
+word/[1,2]|verb|hd/su|uitleg/[5,6]|noun|1
+word/[1,2]|verb|hd/vc|geef/[6,7]|verb|1
+PROPNAME_ervaring/[9,10]|noun|hd/det|je/[8,9]|det|1
+die/[7,8]|pron|rhd/body|zal/[10,11]|verb|1
+stuk_DIM/[5,6]|noun|hd/det|hun/[3,4]|det|1
+stuk_DIM/[5,6]|noun|hd/mod|appel_taart/[6,7]|noun|1
+stuk_DIM/[5,6]|noun|hd/mod|die/[7,8]|pron|1
+stuk_DIM/[5,6]|noun|hd/mod|heerlijk/[4,5]|adj|1
+suggereer/[1,2]|verb|-- / --|./[12,13]|punct|1
+suggereer/[1,2]|verb|hd/mod|daarenboven/[0,1]|adv|1
+suggereer/[1,2]|verb|hd/obj1|stuk_DIM/[5,6]|noun|1
+suggereer/[1,2]|verb|hd/su|ze/[2,3]|pron|1
+top/top|top|top/hd|suggereer/[1,2]|verb|1
+vervolledig/[11,12]|verb|hd/obj1|PROPNAME_ervaring/[9,10]|noun|1
+vervolledig/[11,12]|verb|hd/su|die/[7,8]|pron|1
+zal/[10,11]|verb|hd/su|die/[7,8]|pron|1
+zal/[10,11]|verb|hd/vc|vervolledig/[11,12]|verb|1
+aanrader/[2,3]|noun|-- / --|!/[4,5]|punct|1
+aanrader/[2,3]|noun|hd/det|een/[0,1]|det|1
+aanrader/[2,3]|noun|hd/mod|dus/[3,4]|adv|1
+aanrader/[2,3]|noun|hd/mod|echt/[1,2]|adj|1
+top/top|top|top/hd|aanrader/[2,3]|noun|1

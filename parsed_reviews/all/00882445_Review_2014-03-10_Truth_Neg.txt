@@ -1,0 +1,175 @@
+film_aanbod/[13,14]|noun|hd/det|het/[12,13]|det|1
+geleden/[3,4]|adj|hd/me|tijd/[2,3]|noun|1
+propname/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+tijd/[2,3]|noun|hd/det|een/[0,1]|det|1
+tijd/[2,3]|noun|hd/mod|heel/[1,2]|adj|1
+top/top|top|top/hd|zie/[4,5]|verb|1
+tussen/[11,12]|prep|hd/obj1|film_aanbod/[13,14]|noun|1
+van/[7,8]|prep|hd/obj1|Steven Spielberg/[8,10]|name|1
+verschijn/[10,11]|verb|hd/ld|tussen/[11,12]|prep|1
+verschijn/[10,11]|verb|hd/mod|geleden/[3,4]|adj|1
+verschijn/[10,11]|verb|hd/su|propname/[6,7]|noun|1
+zie/[4,5]|verb|-- / --|./[14,15]|punct|1
+zie/[4,5]|verb|hd/obj1|propname/[6,7]|noun|1
+zie/[4,5]|verb|hd/su|ik/[5,6]|pron|1
+zie/[4,5]|verb|hd/vc|verschijn/[10,11]|verb|1
+ben/[18,19]|verb|hd/mod|dan/[12,13]|adv|1
+ben/[18,19]|verb|hd/mod|niet/[14,15]|adv|1
+ben/[18,19]|verb|hd/mod|toch/[13,14]|adv|1
+ben/[18,19]|verb|hd/obj2|zon/[15,16]|noun|1
+ben/[18,19]|verb|hd/predc|hoog_vlieger/[16,17]|noun|1
+ben/[18,19]|verb|hd/su|wat/[0,1]|pron|1
+blijk/[11,12]|verb|-- / --|./[19,20]|punct|1
+blijk/[11,12]|verb|hd/su|wat/[0,1]|pron|1
+blijk/[11,12]|verb|hd/vc|te/[17,18]|comp|1
+lijk/[5,6]|verb|hd/predc|science fiction_film/[3,5]|noun|1
+lijk/[5,6]|verb|hd/su|wat/[0,1]|pron|1
+sci-fi producer,/[9,11]|name|hd/det|de/[7,8]|det|1
+sci-fi producer,/[9,11]|name|hd/mod|beroemd/[8,9]|adj|1
+science fiction_film/[3,5]|noun|hd/det|een/[1,2]|det|1
+science fiction_film/[3,5]|noun|hd/mod|goed/[2,3]|adj|1
+science fiction_film/[3,5]|noun|hd/mod|van/[6,7]|prep|1
+te/[17,18]|comp|cmp/body|ben/[18,19]|verb|1
+top/top|top|top/hd|blijk/[11,12]|verb|1
+van/[6,7]|prep|hd/obj1|sci-fi producer,/[9,11]|name|1
+wat/[0,1]|pron|rhd/body|lijk/[5,6]|verb|1
+camera/[17,18]|noun|hd/det|hun/[16,17]|det|1
+film/[14,15]|verb|hd/mod|met/[15,16]|prep|1
+film/[14,15]|verb|hd/obj1|trein_ramp/[13,14]|noun|1
+in/[5,6]|prep|hd/obj1|tijdperk/[8,9]|noun|1
+kind/[11,12]|noun|hd/det|enkel/[10,11]|det|1
+met/[15,16]|prep|hd/obj1|camera/[17,18]|noun|1
+plot/[1,2]|noun|hd/det|de/[0,1]|det|1
+plot/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+start/[4,5]|verb|-- / --|./[18,19]|punct|1
+start/[4,5]|verb|dp/dp|film/[14,15]|verb|1
+start/[4,5]|verb|hd/mod|in/[5,6]|prep|1
+start/[4,5]|verb|hd/obj1|kind/[11,12]|noun|1
+start/[4,5]|verb|hd/su|plot/[1,2]|noun|1
+tijdperk/[8,9]|noun|hd/det|een/[6,7]|det|1
+tijdperk/[8,9]|noun|hd/mod|nostalgisch/[7,8]|adj|1
+tijdperk/[8,9]|noun|hd/mod|waar/[9,10]|adv|1
+top/top|top|top/hd|start/[4,5]|verb|1
+trein_ramp/[13,14]|noun|hd/det|een/[12,13]|det|1
+van/[2,3]|prep|hd/obj1|PROPNAME/[3,4]|name|1
+Joe/[12,13]|name|hd/det|de/[10,11]|det|1
+Joe/[12,13]|name|hd/mod|jong/[11,12]|adj|1
+film/[3,4]|noun|hd/det|de/[2,3]|det|1
+in/[6,7]|prep|hd/obj1|verhaal/[8,9]|noun|1
+top/top|top|top/hd|verdiep/[1,2]|verb|1
+van/[9,10]|prep|hd/obj1|Joe/[12,13]|name|1
+verdiep/[1,2]|verb|-- / --|./[13,14]|punct|1
+verdiep/[1,2]|verb|hd/mod|daarna/[0,1]|pp|1
+verdiep/[1,2]|verb|hd/mod|meer/[5,6]|adj|1
+verdiep/[1,2]|verb|hd/pc|in/[6,7]|prep|1
+verdiep/[1,2]|verb|hd/se|zich/[4,5]|pron|1
+verdiep/[1,2]|verb|hd/su|film/[3,4]|noun|1
+verhaal/[8,9]|noun|hd/det|het/[7,8]|det|1
+verhaal/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+actie/[1,2]|noun|hd/det|veel/[0,1]|adj|1
+actie/[1,2]|noun|hd/mod|in/[4,5]|prep|1
+begin/[6,7]|noun|hd/det|het/[5,6]|det|1
+en/[2,3]|vg|crd/cnj|actie/[1,2]|noun|1
+en/[2,3]|vg|crd/cnj|spektakel/[3,4]|noun|1
+film/[12,13]|noun|hd/det|de/[11,12]|det|1
+in/[4,5]|prep|hd/obj1|begin/[6,7]|noun|1
+maar/[7,8]|vg|-- / --|./[14,15]|punct|1
+maar/[7,8]|vg|crd/cnj|en/[2,3]|vg|1
+maar/[7,8]|vg|crd/cnj|verzwak/[9,10]|verb|1
+naarmate/[10,11]|comp|cmp/body|vorder/[13,14]|verb|1
+spektakel/[3,4]|noun|hd/det|veel/[0,1]|adj|1
+spektakel/[3,4]|noun|hd/mod|in/[4,5]|prep|1
+top/top|top|top/hd|maar/[7,8]|vg|1
+verzwak/[9,10]|verb|hd/mod|naarmate/[10,11]|comp|1
+verzwak/[9,10]|verb|hd/su|dat/[8,9]|det|1
+vorder/[13,14]|verb|hd/su|film/[12,13]|noun|1
+aangezien/[11,12]|comp|cmp/body|speel/[15,16]|verb|1
+dan/[7,8]|comparative|cmp/body|science fiction_film/[9,11]|noun|1
+hoofdrol/[14,15]|noun|hd/det|de/[13,14]|det|1
+jeugd_film/[6,7]|noun|hd/det|een/[5,6]|det|1
+meer/[4,5]|adj|hd/obcomp|dan/[7,8]|comparative|1
+science fiction_film/[9,11]|noun|hd/det|een/[8,9]|det|1
+speel/[15,16]|verb|hd/obj1|hoofdrol/[14,15]|noun|1
+speel/[15,16]|verb|hd/su|kind/[12,13]|noun|1
+top/top|top|top/hd|vind/[1,2]|verb|1
+vind/[1,2]|verb|-- / --|./[16,17]|punct|1
+vind/[1,2]|verb|hd/mod|aangezien/[11,12]|comp|1
+vind/[1,2]|verb|hd/mod|meer/[4,5]|adj|1
+vind/[1,2]|verb|hd/mod|persoonlijk/[0,1]|adj|1
+vind/[1,2]|verb|hd/obj1|het/[3,4]|det|1
+vind/[1,2]|verb|hd/predc|jeugd_film/[6,7]|noun|1
+vind/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+acteer_werk/[1,2]|noun|hd/det|het/[0,1]|det|1
+kan/[8,9]|verb|hd/mod|niet/[10,11]|adv|1
+kan/[8,9]|verb|hd/mod|ook/[9,10]|adv|1
+kan/[8,9]|verb|hd/predc|anders/[11,12]|adj|1
+kan/[8,9]|verb|hd/su|dat/[7,8]|det|1
+maar/[6,7]|vg|-- / --|./[12,13]|punct|1
+maar/[6,7]|vg|crd/cnj|kan/[8,9]|verb|1
+maar/[6,7]|vg|crd/cnj|vind/[2,3]|verb|1
+slordig/[5,6]|adj|hd/mod|zeer/[4,5]|adv|1
+top/top|top|top/hd|maar/[6,7]|vg|1
+vind/[2,3]|verb|hd/obj1|acteer_werk/[1,2]|noun|1
+vind/[2,3]|verb|hd/predc|slordig/[5,6]|adj|1
+vind/[2,3]|verb|hd/su|ik/[3,4]|pron|1
+iets/[19,20]|noun|hd/mod|mysterieus/[20,21]|adj|1
+in/[21,22]|prep|hd/obj1|trein/[23,24]|noun|1
+kom/[1,2]|verb|-- / --|./[26,27]|punct|1
+kom/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+kom/[1,2]|verb|hd/vc|te/[6,7]|comp|1
+of/[13,14]|vg|crd/cnj|wat/[9,10]|pron|1
+of/[13,14]|vg|crd/cnj|wat/[14,15]|pron|1
+over/[8,9]|prep|hd/obj1|of/[13,14]|vg|1
+te/[6,7]|comp|cmp/body|weet/[7,8]|verb|1
+top/top|top|top/hd|kom/[1,2]|verb|1
+trein/[23,24]|noun|hd/det|de/[22,23]|det|1
+trein_ramp/[11,12]|noun|hd/det|de/[10,11]|det|1
+verborgen/[24,25]|adj|hd/mod|er/[15,16]|adv|1
+verborgen/[24,25]|adj|hd/mod|in/[21,22]|prep|1
+verborgen/[24,25]|adj|hd/mod|nu/[16,17]|adv|1
+verborgen/[24,25]|adj|hd/mod|voor/[18,19]|prep|1
+veroorzaak/[12,13]|verb|hd/obj1|trein_ramp/[11,12]|noun|1
+veroorzaak/[12,13]|verb|hd/su|wat/[9,10]|pron|1
+voor/[18,19]|prep|hd/mod|juist/[17,18]|adv|1
+voor/[18,19]|prep|hd/obj1|iets/[19,20]|noun|1
+wat/[9,10]|pron|rhd/body|veroorzaak/[12,13]|verb|1
+wat/[14,15]|pron|rhd/body|zit/[25,26]|verb|1
+weet/[7,8]|verb|hd/mod|ver/[0,1]|adj|1
+weet/[7,8]|verb|hd/obj1|weinig/[5,6]|adj|1
+weet/[7,8]|verb|hd/pc|over/[8,9]|prep|1
+weet/[7,8]|verb|hd/su|ik/[2,3]|pron|1
+weinig/[5,6]|adj|hd/mod|bitter/[4,5]|adj|1
+weinig/[5,6]|adj|hd/mod|maar/[3,4]|adv|1
+zit/[25,26]|verb|hd/predc|verborgen/[24,25]|adj|1
+zit/[25,26]|verb|hd/su|wat/[14,15]|pron|1
+als/[0,1]|comp|cmp/body|ben/[6,7]|verb|1
+ben/[6,7]|verb|hd/obj2|sci-fi/[4,5]|noun|1
+ben/[6,7]|verb|hd/predc|kijker/[5,6]|noun|1
+ben/[6,7]|verb|hd/su|je/[1,2]|pron|1
+kan/[7,8]|verb|-- / --|./[12,13]|punct|1
+kan/[7,8]|verb|hd/su|ik/[8,9]|pron|1
+kan/[7,8]|verb|hd/vc|raad_aan/[11,12]|verb|1
+raad_aan/[11,12]|verb|hd/mod|als/[0,1]|comp|1
+raad_aan/[11,12]|verb|hd/mod|niet/[10,11]|adv|1
+raad_aan/[11,12]|verb|hd/obj1|PROPNAME/[9,10]|name|1
+raad_aan/[11,12]|verb|hd/su|ik/[8,9]|pron|1
+sci-fi/[4,5]|noun|hd/det|een/[2,3]|det|1
+sci-fi/[4,5]|noun|hd/mod|fervent/[3,4]|adj|1
+top/top|top|top/hd|kan/[7,8]|verb|1
+kan_door/[1,2]|verb|-- / --|./[17,18]|punct|1
+kan_door/[1,2]|verb|hd/mod|daarentegen/[0,1]|adv|1
+kan_door/[1,2]|verb|hd/mod|voor/[5,6]|prep|1
+kan_door/[1,2]|verb|hd/mod|wel/[3,4]|adj|1
+kan_door/[1,2]|verb|hd/su|het/[2,3]|det|1
+kan_door/[1,2]|verb|hd/svp|door/[4,5]|part|1
+kom/[16,17]|verb|hd/mod|waar/[10,11]|adv|1
+kom/[16,17]|verb|hd/mod|zelfs/[11,12]|adv|1
+kom/[16,17]|verb|hd/su|scène/[13,14]|noun|1
+kom/[16,17]|verb|hd/svp|aan bod/[14,16]|fixed|1
+sci-fi_drama/[8,10]|noun|hd/det|een/[6,7]|det|1
+sci-fi_drama/[8,10]|noun|hd/mod|licht/[7,8]|adj|1
+sci-fi_drama/[8,10]|noun|hd/mod|waar/[10,11]|adv|1
+scène/[13,14]|noun|hd/mod|romantisch/[12,13]|adj|1
+top/top|top|top/hd|kan_door/[1,2]|verb|1
+voor/[5,6]|prep|hd/obj1|sci-fi_drama/[8,10]|noun|1
+waar/[10,11]|adv|rhd/body|kom/[16,17]|verb|1

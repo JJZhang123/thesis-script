@@ -1,0 +1,110 @@
+heb/[11,12]|verb|hd/mod|na/[6,7]|prep|1
+heb/[11,12]|verb|hd/obj1|introductie/[14,15]|noun|1
+heb/[11,12]|verb|hd/predc|nodig/[16,17]|adj|1
+heb/[11,12]|verb|hd/su|ze/[12,13]|pron|1
+introductie/[14,15]|noun|hd/det|geen/[13,14]|det|1
+jaar/[8,9]|noun|hd/det|zoveel/[7,8]|adj|1
+jaar/[8,9]|noun|hd/mod|maak/[10,11]|verb|1
+ken/[1,2]|verb|-- / --|./[17,18]|punct|1
+ken/[1,2]|verb|dp/dp|heb/[11,12]|verb|1
+ken/[1,2]|verb|hd/obj1|punk_band/[4,5]|noun|1
+ken/[1,2]|verb|hd/predm|allemaal/[2,3]|adv|1
+ken/[1,2]|verb|hd/su|we/[0,1]|pron|1
+maak/[10,11]|verb|hd/predc|muziek/[9,10]|noun|1
+na/[6,7]|prep|hd/obj1|jaar/[8,9]|noun|1
+nodig/[16,17]|adj|hd/mod|meer/[15,16]|adj|1
+punk_band/[4,5]|noun|hd/app|PROPNAME,/[5,6]|name|1
+punk_band/[4,5]|noun|hd/det|de/[3,4]|det|1
+top/top|top|top/hd|ken/[1,2]|verb|1
+blijf/[21,22]|verb|hd/mod|weer/[9,10]|adv|1
+blijf/[21,22]|verb|hd/predc|populair/[24,25]|adj|1
+blijf/[21,22]|verb|hd/su|ze/[22,23]|pron|1
+breng_uit/[10,11]|verb|hd/mod|weer/[9,10]|adv|1
+breng_uit/[10,11]|verb|hd/mod|weer/[16,17]|adv|1
+breng_uit/[10,11]|verb|hd/obj1|nummer/[18,19]|noun|1
+breng_uit/[10,11]|verb|hd/su|en/[14,15]|vg|1
+breng_uit/[10,11]|verb|hd/svp|uit/[19,20]|part|1
+dan/[4,5]|comparative|cmp/body|lof/[5,6]|noun|1
+en/[14,15]|vg|crd/cnj|Billy Joe Armstrong/[11,14]|name|1
+en/[14,15]|vg|crd/cnj|Co/[15,16]|name|1
+en/[20,21]|vg|crd/cnj|blijf/[21,22]|verb|1
+en/[20,21]|vg|crd/cnj|breng_uit/[10,11]|verb|1
+niets/[3,4]|noun|hd/obcomp|dan/[4,5]|comparative|1
+nummer/[18,19]|noun|hd/mod|goed/[17,18]|adj|1
+over/[0,1]|prep|hd/obj1|PROPNAME/[1,2]|name|1
+populair/[24,25]|adj|hd/mod|immens/[23,24]|adj|1
+te/[6,7]|comp|cmp/body|uit/[7,8]|verb|1
+top/top|top|top/hd|val/[2,3]|verb|1
+uit/[7,8]|verb|hd/obj1|niets/[3,4]|noun|1
+uit/[7,8]|verb|hd/pc|over/[0,1]|prep|1
+val/[2,3]|verb|-- / --|./[25,26]|punct|1
+val/[2,3]|verb|dp/dp|en/[20,21]|vg|1
+val/[2,3]|verb|hd/su|niets/[3,4]|noun|1
+val/[2,3]|verb|hd/vc|te/[6,7]|comp|1
+weer/[9,10]|adv|hd/mod|steeds/[8,9]|adv|1
+jaar/[1,2]|noun|hd/det|dit/[0,1]|det|1
+keer/[8,9]|noun|hd/det|de/[6,7]|det|1
+keer/[8,9]|noun|hd/mod|zoveelste/[7,8]|num|1
+kom/[2,3]|verb|-- / --|./[14,15]|punct|1
+kom/[2,3]|verb|hd/ld|naar/[9,10]|prep|1
+kom/[2,3]|verb|hd/mod|jaar/[1,2]|noun|1
+kom/[2,3]|verb|hd/mod|op/[11,12]|prep|1
+kom/[2,3]|verb|hd/mod|voor/[5,6]|prep|1
+kom/[2,3]|verb|hd/mod|weer/[4,5]|adv|1
+kom/[2,3]|verb|hd/su|ze/[3,4]|pron|1
+naar/[9,10]|prep|hd/obj1|België/[10,11]|name|1
+op/[11,12]|prep|hd/obj1|Rock Werchter/[12,14]|name|1
+top/top|top|top/hd|kom/[2,3]|verb|1
+voor/[5,6]|prep|hd/obj1|keer/[8,9]|noun|1
+aan/[4,5]|prep|hd/obj1|minder/[6,7]|adj|1
+dan/[7,8]|comparative|cmp/body|spektakel/[9,10]|noun|1
+en/[10,11]|vg|-- / --|./[17,18]|punct|1
+en/[10,11]|vg|crd/cnj|verwacht/[2,3]|verb|1
+en/[10,11]|vg|crd/cnj|zal/[13,14]|verb|1
+fan/[1,2]|noun|hd/det|alle/[0,1]|det|1
+los_in/[15,16]|verb|hd/mod|zeker/[14,15]|adj|1
+los_in/[15,16]|verb|hd/obj1|verwachting/[12,13]|noun|1
+minder/[6,7]|adj|hd/me|niets/[5,6]|noun|1
+minder/[6,7]|adj|hd/obcomp|dan/[7,8]|comparative|1
+spektakel/[9,10]|noun|hd/det|een/[8,9]|det|1
+top/top|top|top/hd|en/[10,11]|vg|1
+verwacht/[2,3]|verb|hd/pc|aan/[4,5]|prep|1
+verwacht/[2,3]|verb|hd/se|zich/[3,4]|pron|1
+verwacht/[2,3]|verb|hd/su|fan/[1,2]|noun|1
+verwachting/[12,13]|noun|hd/det|die/[11,12]|det|1
+word/[16,17]|verb|hd/su|verwachting/[12,13]|noun|1
+word/[16,17]|verb|hd/vc|los_in/[15,16]|verb|1
+zal/[13,14]|verb|hd/su|verwachting/[12,13]|noun|1
+zal/[13,14]|verb|hd/vc|word/[16,17]|verb|1
+band/[2,3]|noun|hd/det|de/[1,2]|det|1
+ben/[6,7]|verb|hd/su|band/[2,3]|noun|1
+ben/[6,7]|verb|hd/vc|ga/[7,8]|verb|1
+dat/[0,1]|comp|-- / --|./[17,18]|punct|1
+dat/[0,1]|comp|cmp/body|ben/[6,7]|verb|1
+dat/[0,1]|comp|dp/dp|roots/[13,14]|noun|1
+dat/[0,1]|comp|dp/dp|word/[14,15]|verb|1
+focus/[8,9]|verb|hd/mod|meer/[5,6]|adj|1
+focus/[8,9]|verb|hd/mod|terug/[4,5]|adv|1
+focus/[8,9]|verb|hd/pc|op/[9,10]|prep|1
+focus/[8,9]|verb|hd/se|zich/[3,4]|pron|1
+focus/[8,9]|verb|hd/su|band/[2,3]|noun|1
+ga/[7,8]|verb|hd/su|band/[2,3]|noun|1
+ga/[7,8]|verb|hd/vc|focus/[8,9]|verb|1
+onthaal/[16,17]|verb|hd/mod|positief/[15,16]|adj|1
+op/[9,10]|prep|hd/obj1|punkgenre,/[11,12]|noun|1
+punkgenre,/[11,12]|noun|hd/det|het/[10,11]|det|1
+roots/[13,14]|noun|hd/det|hun/[12,13]|det|1
+top/top|top|top/hd|dat/[0,1]|comp|1
+word/[14,15]|verb|hd/vc|onthaal/[16,17]|verb|1
+ben/[8,9]|verb|hd/mod|jaar/[1,2]|noun|1
+ben/[8,9]|verb|hd/predc|feest/[7,8]|noun|1
+ben/[8,9]|verb|hd/su|Rock Werchter/[3,5]|name|1
+dan/[9,10]|comparative|cmp/body|anders/[10,11]|adj|1
+feest/[7,8]|noun|hd/det|een/[5,6]|det|1
+feest/[7,8]|noun|hd/mod|groot/[6,7]|adj|1
+groot/[6,7]|adj|hd/obcomp|dan/[9,10]|comparative|1
+jaar/[1,2]|noun|hd/det|dit/[0,1]|det|1
+top/top|top|top/hd|zal/[2,3]|verb|1
+zal/[2,3]|verb|-- / --|./[11,12]|punct|1
+zal/[2,3]|verb|hd/su|Rock Werchter/[3,5]|name|1
+zal/[2,3]|verb|hd/vc|ben/[8,9]|verb|1

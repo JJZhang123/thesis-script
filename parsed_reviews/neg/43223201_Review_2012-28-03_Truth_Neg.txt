@@ -1,0 +1,106 @@
+ben/[5,6]|verb|-- / --|./[9,10]|punct|1
+ben/[5,6]|verb|hd/predc|mislukking/[8,9]|noun|1
+ben/[5,6]|verb|hd/su|koop/[1,2]|verb|1
+koop/[1,2]|verb|hd/det|het/[0,1]|det|1
+koop/[1,2]|verb|hd/mod|van/[2,3]|prep|1
+mislukking/[8,9]|noun|hd/det|een/[6,7]|det|1
+mislukking/[8,9]|noun|hd/mod|echt/[7,8]|adj|1
+propname/[4,5]|noun|hd/det|een/[3,4]|det|1
+top/top|top|top/hd|ben/[5,6]|verb|1
+van/[2,3]|prep|hd/obj1|propname/[4,5]|noun|1
+en/[12,13]|vg|crd/cnj|PROPNAME Ericson/[13,15]|name|1
+en/[12,13]|vg|crd/cnj|verkoper/[3,4]|noun|1
+gsm/[10,11]|noun|hd/det|de/[9,10]|det|1
+koop/[11,12]|verb|hd/mod|waar/[7,8]|adv|1
+koop/[11,12]|verb|hd/obj1|gsm/[10,11]|noun|1
+koop/[11,12]|verb|hd/su|ik/[8,9]|pron|1
+top/top|top|top/hd|werk_samen/[1,2]|verb|1
+van/[4,5]|prep|hd/obj1|winkel/[6,7]|noun|1
+verkoper/[3,4]|noun|hd/det|de/[2,3]|det|1
+verkoper/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+waar/[7,8]|adv|rhd/body|koop/[11,12]|verb|1
+werk_samen/[1,2]|verb|-- / --|./[17,18]|punct|1
+werk_samen/[1,2]|verb|hd/mod|misschien/[0,1]|adv|1
+werk_samen/[1,2]|verb|hd/mod|wel/[15,16]|adj|1
+werk_samen/[1,2]|verb|hd/su|en/[12,13]|vg|1
+werk_samen/[1,2]|verb|hd/svp|samen/[16,17]|part|1
+winkel/[6,7]|noun|hd/det|de/[5,6]|det|1
+winkel/[6,7]|noun|hd/mod|waar/[7,8]|adv|1
+ben/[9,10]|verb|hd/su|gsm/[8,9]|noun|1
+gsm/[8,9]|noun|hd/det|een/[6,7]|det|1
+gsm/[8,9]|noun|hd/mod|goed/[7,8]|adj|1
+top/top|top|top/hd|want/[0,1]|comp|1
+verkoper/[2,3]|noun|hd/det|de/[1,2]|det|1
+vertel/[3,4]|verb|hd/obj1|het/[5,6]|det|1
+vertel/[3,4]|verb|hd/obj2|me/[4,5]|pron|1
+vertel/[3,4]|verb|hd/su|verkoper/[2,3]|noun|1
+want/[0,1]|comp|-- / --|./[10,11]|punct|1
+want/[0,1]|comp|dlink/nucl|vertel/[3,4]|verb|1
+want/[0,1]|comp|dp/dp|ben/[9,10]|verb|1
+arriveer/[4,5]|verb|hd/mod|thuis/[3,4]|adv|1
+arriveer/[4,5]|verb|hd/su|ik/[2,3]|pron|1
+ben/[16,17]|verb|hd/mod|niet/[10,11]|adv|1
+ben/[16,17]|verb|hd/predc|gsm/[12,13]|noun|1
+ben/[16,17]|verb|hd/su|dit/[9,10]|det|1
+dat/[8,9]|comp|cmp/body|ben/[16,17]|verb|1
+eenmaal/[1,2]|comp|cmp/body|arriveer/[4,5]|verb|1
+gsm/[12,13]|noun|hd/det|de/[11,12]|det|1
+gsm/[12,13]|noun|hd/mod|van/[13,14]|prep|1
+leven/[15,16]|noun|hd/det|mijn/[14,15]|det|1
+maar/[0,1]|comp|-- / --|./[17,18]|punct|1
+maar/[0,1]|comp|dlink/nucl|merk/[5,6]|verb|1
+merk/[5,6]|verb|hd/mod|al/[7,8]|adv|1
+merk/[5,6]|verb|hd/mod|eenmaal/[1,2]|comp|1
+merk/[5,6]|verb|hd/su|ik/[6,7]|pron|1
+merk/[5,6]|verb|hd/vc|dat/[8,9]|comp|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+van/[13,14]|prep|hd/obj1|leven/[15,16]|noun|1
+en/[0,1]|comp|-- / --|./[9,10]|punct|1
+en/[0,1]|comp|dlink/nucl|weet/[5,6]|verb|1
+maand/[4,5]|noun|hd/det|paar/[3,4]|noun|1
+na/[1,2]|prep|hd/obj1|maand/[4,5]|noun|1
+paar/[3,4]|noun|hd/det|een/[2,3]|det|1
+top/top|top|top/hd|en/[0,1]|comp|1
+weet/[5,6]|verb|hd/mod|na/[1,2]|prep|1
+weet/[5,6]|verb|hd/mod|zeker/[8,9]|adj|1
+weet/[5,6]|verb|hd/obj1|het/[7,8]|det|1
+weet/[5,6]|verb|hd/su|ik/[6,7]|pron|1
+bericht/[10,11]|noun|hd/det|geen/[9,10]|det|1
+gsm/[5,6]|noun|hd/det|mijn/[4,5]|det|1
+interval/[2,3]|noun|hd/mod|regelmatig/[1,2]|adj|1
+krijg_aan/[7,8]|verb|hd/mod|uit/[6,7]|adj|1
+krijg_aan/[7,8]|verb|hd/obj1|bericht/[10,11]|noun|1
+krijg_aan/[7,8]|verb|hd/su|ik/[8,9]|pron|1
+krijg_aan/[7,8]|verb|hd/svp|aan/[11,12]|part|1
+loop_vast/[13,14]|verb|hd/mod|uit/[6,7]|adj|1
+loop_vast/[13,14]|verb|hd/su|hij/[14,15]|pron|1
+loop_vast/[13,14]|verb|hd/svp|vast/[15,16]|part|1
+met/[0,1]|prep|hd/obj1|interval/[2,3]|noun|1
+of/[12,13]|vg|crd/cnj|krijg_aan/[7,8]|verb|1
+of/[12,13]|vg|crd/cnj|loop_vast/[13,14]|verb|1
+top/top|top|top/hd|val/[3,4]|verb|1
+val/[3,4]|verb|-- / --|./[16,17]|punct|1
+val/[3,4]|verb|dp/dp|of/[12,13]|vg|1
+val/[3,4]|verb|hd/mod|met/[0,1]|prep|1
+val/[3,4]|verb|hd/su|gsm/[5,6]|noun|1
+ander/[17,18]|adj|hd/det|een/[16,17]|det|1
+en/[15,16]|vg|crd/cnj|ander/[17,18]|adj|1
+en/[15,16]|vg|crd/cnj|was/[14,15]|noun|1
+gsm/[13,14]|noun|hd/det|geen/[11,12]|det|1
+gsm/[13,14]|noun|hd/mod|goed/[12,13]|adj|1
+heb/[5,6]|verb|hd/su|ik/[6,7]|pron|1
+heb/[5,6]|verb|hd/vc|zie_in/[9,10]|verb|1
+met/[0,1]|prep|-- / --|./[19,20]|punct|1
+met/[0,1]|prep|-- / --|het/[10,11]|noun|1
+met/[0,1]|prep|-- / --|in/[2,3]|prep|1
+met/[0,1]|prep|-- / --|mijn/[3,4]|det|1
+met/[0,1]|prep|dp/dp|heb/[5,6]|verb|1
+met/[0,1]|prep|dp/dp|schaf_aan/[18,19]|verb|1
+met/[0,1]|prep|hd/obj1|pijn/[1,2]|noun|1
+schaf_aan/[18,19]|verb|hd/obj1|en/[15,16]|vg|1
+schaf_aan/[18,19]|verb|hd/obj2|gsm/[13,14]|noun|1
+top/top|top|top/hd|met/[0,1]|prep|1
+zie_in/[9,10]|verb|hd/mod|hard/[4,5]|adj|1
+zie_in/[9,10]|verb|hd/mod|toch/[8,9]|adv|1
+zie_in/[9,10]|verb|hd/obj1|dat/[7,8]|det|1
+zie_in/[9,10]|verb|hd/su|ik/[6,7]|pron|1

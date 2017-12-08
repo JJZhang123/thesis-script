@@ -1,0 +1,152 @@
+ben/[3,4]|verb|-- / --|./[11,12]|punct|1
+ben/[3,4]|verb|hd/predc|film/[6,7]|noun|1
+ben/[3,4]|verb|hd/su|PROPNAME part two/[0,3]|name|1
+film/[6,7]|noun|hd/det|de/[4,5]|det|1
+film/[6,7]|noun|hd/mod|in/[7,8]|prep|1
+film/[6,7]|noun|hd/mod|laat/[5,6]|adj|1
+in/[7,8]|prep|hd/obj1|reeks/[10,11]|noun|1
+reeks/[10,11]|noun|hd/det|deze/[8,9]|det|1
+reeks/[10,11]|noun|hd/mod|indrukwekkend/[9,10]|adj|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+ben/[4,5]|verb|-- / --|./[19,20]|punct|1
+ben/[4,5]|verb|hd/predm|allemaal/[5,6]|adv|1
+ben/[4,5]|verb|hd/su|deel/[3,4]|noun|1
+ben/[4,5]|verb|hd/vc|regisseer/[6,7]|verb|1
+coherentie/[15,16]|noun|hd/det|een/[13,14]|det|1
+coherentie/[15,16]|noun|hd/mod|enorm/[14,15]|adj|1
+coherentie/[15,16]|noun|hd/mod|tussen/[16,17]|prep|1
+deel/[3,4]|noun|hd/det|de/[0,1]|det|1
+deel/[3,4]|noun|hd/det|vier/[2,3]|num|1
+deel/[3,4]|noun|hd/mod|laat/[1,2]|adj|1
+deel/[18,19]|noun|hd/det|de/[17,18]|det|1
+door/[7,8]|prep|hd/obj1|David Yates/[8,10]|name|1
+regisseer/[6,7]|verb|hd/mod|door/[7,8]|prep|1
+regisseer/[6,7]|verb|hd/mod|wat/[10,11]|pron|1
+regisseer/[6,7]|verb|hd/obj1|deel/[3,4]|noun|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+tussen/[16,17]|prep|hd/obj1|deel/[18,19]|noun|1
+voor/[12,13]|prep|hd/obj1|coherentie/[15,16]|noun|1
+wat/[10,11]|pron|rhd/body|zorg/[11,12]|verb|1
+zorg/[11,12]|verb|hd/pc|voor/[12,13]|prep|1
+zorg/[11,12]|verb|hd/su|wat/[10,11]|pron|1
+ben/[8,9]|verb|hd/mod|doorheen/[11,12]|prep|1
+ben/[8,9]|verb|hd/predc|zichtbaar/[10,11]|adj|1
+ben/[8,9]|verb|hd/su|patroon/[7,8]|noun|1
+donker/[4,5]|adj|hd/mod|steeds/[3,4]|adv|1
+doorheen/[11,12]|prep|hd/obj1|film/[14,15]|noun|1
+en/[5,6]|vg|-- / --|./[15,16]|punct|1
+en/[5,6]|vg|crd/cnj|ben/[8,9]|verb|1
+en/[5,6]|vg|crd/cnj|word/[2,3]|verb|1
+film/[1,2]|noun|hd/det|de/[0,1]|det|1
+film/[14,15]|noun|hd/det|de/[12,13]|det|1
+film/[14,15]|noun|hd/mod|laat/[13,14]|adj|1
+patroon/[7,8]|noun|hd/det|dit/[6,7]|det|1
+top/top|top|top/hd|en/[5,6]|vg|1
+word/[2,3]|verb|hd/predc|donker/[4,5]|adj|1
+word/[2,3]|verb|hd/su|film/[1,2]|noun|1
+zichtbaar/[10,11]|adj|hd/mod|zeer/[9,10]|adv|1
+deel/[3,4]|noun|hd/det|dit/[1,2]|det|1
+deel/[3,4]|noun|hd/mod|laat/[2,3]|adj|1
+gevecht/[16,17]|noun|hd/det|het/[14,15]|det|1
+gevecht/[16,17]|noun|hd/mod|finaal/[15,16]|adj|1
+houd/[18,19]|verb|hd/ld|daar/[13,14]|adv|1
+houd/[18,19]|verb|hd/obj1|gevecht/[16,17]|noun|1
+in/[0,1]|prep|hd/obj1|deel/[3,4]|noun|1
+keer/[9,10]|noun|hd/det|een/[7,8]|det|1
+keer/[9,10]|noun|hd/mod|laat/[8,9]|adj|1
+naar/[10,11]|prep|hd/obj1|Zweinstein/[11,12]|name|1
+om/[12,13]|comp|cmp/body|te/[17,18]|comp|1
+te/[17,18]|comp|cmp/body|houd/[18,19]|verb|1
+top/top|top|top/hd|trek/[4,5]|verb|1
+trek/[4,5]|verb|-- / --|./[19,20]|punct|1
+trek/[4,5]|verb|hd/ld|naar/[10,11]|prep|1
+trek/[4,5]|verb|hd/mod|in/[0,1]|prep|1
+trek/[4,5]|verb|hd/mod|om/[12,13]|comp|1
+trek/[4,5]|verb|hd/mod|voor/[6,7]|prep|1
+trek/[4,5]|verb|hd/su|we/[5,6]|pron|1
+voor/[6,7]|prep|hd/obj1|keer/[9,10]|noun|1
+en/[6,7]|vg|-- / --|./[10,11]|punct|1
+en/[6,7]|vg|crd/cnj|gebeur/[8,9]|verb|1
+en/[6,7]|vg|crd/cnj|moet/[1,2]|verb|1
+gebeur/[8,9]|verb|hd/mod|gelukkig/[9,10]|adj|1
+gebeur/[8,9]|verb|hd/su|dat/[7,8]|det|1
+moet/[1,2]|verb|hd/su|gruzielementen/[3,4]|noun|1
+moet/[1,2]|verb|hd/vc|word/[5,6]|verb|1
+top/top|top|top/hd|en/[6,7]|vg|1
+vind/[4,5]|verb|hd/mod|er/[0,1]|adv|1
+vind/[4,5]|verb|hd/mod|nog/[2,3]|adv|1
+vind/[4,5]|verb|hd/obj1|gruzielementen/[3,4]|noun|1
+word/[5,6]|verb|hd/su|gruzielementen/[3,4]|noun|1
+word/[5,6]|verb|hd/vc|vind/[4,5]|verb|1
+ben/[2,3]|verb|-- / --|./[10,11]|punct|1
+ben/[2,3]|verb|hd/predc|voldemort/[5,6]|noun|1
+ben/[2,3]|verb|hd/su|Ralph Fiennes/[0,2]|name|1
+diepgang/[9,10]|noun|hd/det|een/[7,8]|det|1
+diepgang/[9,10]|noun|hd/mod|enorm/[8,9]|adj|1
+met/[6,7]|prep|hd/obj1|diepgang/[9,10]|noun|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+voldemort/[5,6]|noun|hd/det|een/[3,4]|det|1
+voldemort/[5,6]|noun|hd/mod|meesterlijk/[4,5]|adj|1
+voldemort/[5,6]|noun|hd/mod|met/[6,7]|prep|1
+Daniel Radcliff, Rupert Grint/[1,5]|name|hd/mod|ook/[0,1]|adv|1
+Emma PROPNAME/[6,8]|name|hd/mod|ook/[0,1]|adv|1
+ben/[8,9]|verb|-- / --|./[14,15]|punct|1
+ben/[8,9]|verb|hd/su|en/[5,6]|vg|1
+ben/[8,9]|verb|hd/vc|groei/[10,11]|verb|1
+en/[5,6]|vg|crd/cnj|Daniel Radcliff, Rupert Grint/[1,5]|name|1
+en/[5,6]|vg|crd/cnj|Emma PROPNAME/[6,8]|name|1
+groei/[10,11]|verb|hd/mod|enorm/[9,10]|adj|1
+groei/[10,11]|verb|hd/mod|in/[11,12]|prep|1
+groei/[10,11]|verb|hd/su|en/[5,6]|vg|1
+in/[11,12]|prep|hd/obj1|rol/[13,14]|noun|1
+rol/[13,14]|noun|hd/det|hun/[12,13]|det|1
+top/top|top|top/hd|ben/[8,9]|verb|1
+deel/[10,11]|noun|hd/det|dit/[8,9]|det|1
+deel/[10,11]|noun|hd/mod|laat/[9,10]|adj|1
+geloofwaardig/[12,13]|adj|hd/mod|geweldig/[11,12]|adj|1
+in/[7,8]|prep|hd/obj1|deel/[10,11]|noun|1
+karakter/[6,7]|noun|hd/det|hun/[5,6]|det|1
+karakter/[6,7]|noun|hd/mod|in/[7,8]|prep|1
+top/top|top|top/hd|zet_neer/[1,2]|verb|1
+zet_neer/[1,2]|verb|-- / --|./[14,15]|punct|1
+zet_neer/[1,2]|verb|hd/mod|geloofwaardig/[12,13]|adj|1
+zet_neer/[1,2]|verb|hd/mod|stuk voor stuk/[2,5]|adv|1
+zet_neer/[1,2]|verb|hd/obj1|karakter/[6,7]|noun|1
+zet_neer/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+zet_neer/[1,2]|verb|hd/svp|neer/[13,14]|part|1
+ben/[11,12]|verb|-- / --|./[13,14]|punct|1
+ben/[11,12]|verb|hd/su|special effects,/[1,3]|name|1
+ben/[11,12]|verb|hd/vc|perfectioneer/[12,13]|verb|1
+en/[9,10]|vg|crd/cnj|kobolden/[8,9]|noun|1
+en/[9,10]|vg|crd/cnj|reus/[10,11]|noun|1
+kobolden/[8,9]|noun|hd/det|de/[7,8]|det|1
+perfectioneer/[12,13]|verb|hd/obj1|special effects,/[1,3]|name|1
+reus/[10,11]|noun|hd/det|de/[7,8]|det|1
+special effects,/[1,3]|name|hd/det|de/[0,1]|det|1
+special effects,/[1,3]|name|hd/mod|zoals/[3,4]|comp|1
+top/top|top|top/hd|ben/[11,12]|verb|1
+van/[6,7]|prep|hd/obj1|en/[9,10]|vg|1
+weergave/[5,6]|noun|hd/det|de/[4,5]|det|1
+weergave/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+zoals/[3,4]|comp|cmp/body|weergave/[5,6]|noun|1
+aanrader/[4,5]|noun|hd/det|een/[3,4]|det|1
+aanrader/[4,5]|noun|hd/mod|voor/[5,6]|prep|1
+ben/[2,3]|verb|-- / --|./[19,20]|punct|1
+ben/[2,3]|verb|hd/predc|aanrader/[4,5]|noun|1
+ben/[2,3]|verb|hd/su|film/[1,2]|noun|1
+die/[7,8]|pron|rhd/body|wil/[10,11]|verb|1
+film/[1,2]|noun|hd/det|de/[0,1]|det|1
+iedereen/[6,7]|pron|hd/mod|die/[7,8]|pron|1
+in/[12,13]|prep|hd/obj1|wereld/[15,16]|noun|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+van/[16,17]|prep|hd/obj1|Harry Potter/[17,19]|name|1
+verdwijn/[11,12]|verb|hd/ld|in/[12,13]|prep|1
+verdwijn/[11,12]|verb|hd/mod|voor/[8,9]|prep|1
+verdwijn/[11,12]|verb|hd/su|die/[7,8]|pron|1
+voor/[5,6]|prep|hd/obj1|iedereen/[6,7]|pron|1
+voor/[8,9]|prep|hd/obj1|even/[9,10]|adj|1
+wereld/[15,16]|noun|hd/det|de/[13,14]|det|1
+wereld/[15,16]|noun|hd/mod|van/[16,17]|prep|1
+wereld/[15,16]|noun|hd/mod|wonderlijk/[14,15]|adj|1
+wil/[10,11]|verb|hd/su|die/[7,8]|pron|1
+wil/[10,11]|verb|hd/vc|verdwijn/[11,12]|verb|1

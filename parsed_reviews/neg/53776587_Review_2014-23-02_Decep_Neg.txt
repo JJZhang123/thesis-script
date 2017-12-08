@@ -1,0 +1,182 @@
+20 januari 2014/[6,9]|noun|hd/mod|snel/[3,4]|adj|1
+20 januari 2014/[6,9]|noun|hd/mod|vergetenOp/[5,6]|adj|1
+avond/[1,2]|noun|hd/det|een/[0,1]|det|1
+avond/[1,2]|noun|hd/mod|om/[2,3]|prep|1
+centrum/[18,19]|noun|hd/det|het/[17,18]|det|1
+centrum/[18,19]|noun|hd/mod|van/[19,20]|prep|1
+in/[11,12]|prep|hd/obj1|PROPNAME,/[12,13]|name|1
+in/[16,17]|prep|hd/obj1|centrum/[18,19]|noun|1
+om/[2,3]|prep|hd/obj1|20 januari 2014/[6,9]|noun|1
+reserveer/[9,10]|verb|-- / --|./[21,22]|punct|1
+reserveer/[9,10]|verb|hd/mod|avond/[1,2]|noun|1
+reserveer/[9,10]|verb|hd/mod|in/[11,12]|prep|1
+reserveer/[9,10]|verb|hd/obj1|restaurant/[15,16]|noun|1
+reserveer/[9,10]|verb|hd/su|ik/[10,11]|pron|1
+restaurant/[15,16]|noun|hd/det|een/[13,14]|det|1
+restaurant/[15,16]|noun|hd/mod|in/[16,17]|prep|1
+restaurant/[15,16]|noun|hd/mod|vegetarisch/[14,15]|adj|1
+top/top|top|top/hd|reserveer/[9,10]|verb|1
+van/[19,20]|prep|hd/obj1|Antwerpen/[20,21]|name|1
+vergetenOp/[5,6]|adj|hd/mod|te/[4,5]|adv|1
+avond/[10,11]|noun|hd/det|die/[9,10]|det|1
+en/[4,5]|vg|crd/cnj|maag/[3,4]|noun|1
+en/[4,5]|vg|crd/cnj|verwachting/[6,7]|noun|1
+maag/[3,4]|noun|hd/det|een/[1,2]|det|1
+maag/[3,4]|noun|hd/mod|leeg/[2,3]|adj|1
+met/[0,1]|prep|hd/obj1|en/[4,5]|vg|1
+naar/[11,12]|prep|hd/obj1|restaurant/[13,14]|noun|1
+restaurant/[13,14]|noun|hd/det|het/[12,13]|det|1
+top/top|top|top/hd|trek/[7,8]|verb|1
+trek/[7,8]|verb|-- / --|./[14,15]|punct|1
+trek/[7,8]|verb|hd/ld|naar/[11,12]|prep|1
+trek/[7,8]|verb|hd/mod|avond/[10,11]|noun|1
+trek/[7,8]|verb|hd/mod|met/[0,1]|prep|1
+trek/[7,8]|verb|hd/su|ik/[8,9]|pron|1
+verwachting/[6,7]|noun|hd/mod|hooggespannen/[5,6]|adj|1
+en/[4,5]|vg|-- / --|./[12,13]|punct|1
+en/[4,5]|vg|crd/cnj|krijg/[5,6]|verb|1
+en/[4,5]|vg|crd/cnj|word/[1,2]|verb|1
+krijg/[5,6]|verb|hd/su|ik/[0,1]|pron|1
+krijg/[5,6]|verb|hd/vc|wijs_toe/[8,9]|verb|1
+ontvang/[3,4]|verb|hd/mod|vriendelijk/[2,3]|adj|1
+ontvang/[3,4]|verb|hd/obj1|ik/[0,1]|pron|1
+persoon/[11,12]|noun|hd/det|twee/[10,11]|num|1
+tafel/[7,8]|noun|hd/det|een/[6,7]|det|1
+top/top|top|top/hd|en/[4,5]|vg|1
+voor/[9,10]|prep|hd/obj1|persoon/[11,12]|noun|1
+wijs_toe/[8,9]|verb|hd/mod|voor/[9,10]|prep|1
+wijs_toe/[8,9]|verb|hd/obj1|tafel/[7,8]|noun|1
+wijs_toe/[8,9]|verb|hd/obj2|ik/[0,1]|pron|1
+word/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+word/[1,2]|verb|hd/vc|ontvang/[3,4]|verb|1
+amuse/[5,6]|noun|hd/det|de/[4,5]|det|1
+dat/[3,4]|comp|cmp/body|word/[7,8]|verb|1
+loop/[8,9]|verb|-- / --|./[12,13]|punct|1
+loop/[8,9]|verb|hd/mod|echter/[10,11]|adv|1
+loop/[8,9]|verb|hd/mod|vanaf/[0,1]|prep|1
+loop/[8,9]|verb|hd/predc|fout/[11,12]|adj|1
+loop/[8,9]|verb|hd/su|alles/[9,10]|noun|1
+moment/[2,3]|noun|hd/det|het/[1,2]|det|1
+moment/[2,3]|noun|hd/vc|dat/[3,4]|comp|1
+presenteer/[6,7]|verb|hd/obj1|amuse/[5,6]|noun|1
+top/top|top|top/hd|loop/[8,9]|verb|1
+vanaf/[0,1]|prep|hd/obj1|moment/[2,3]|noun|1
+word/[7,8]|verb|hd/su|amuse/[5,6]|noun|1
+word/[7,8]|verb|hd/vc|presenteer/[6,7]|verb|1
+en/[6,7]|vg|crd/cnj|inefficiënt/[5,6]|adj|1
+en/[6,7]|vg|crd/cnj|ongeorganiseerd/[7,8]|adj|1
+manier/[8,9]|noun|hd/det|een/[4,5]|det|1
+manier/[8,9]|noun|hd/mod|en/[6,7]|vg|1
+ober/[1,2]|noun|hd/det|de/[0,1]|det|1
+op/[3,4]|prep|hd/obj1|manier/[8,9]|noun|1
+top/top|top|top/hd|werk/[2,3]|verb|1
+werk/[2,3]|verb|-- / --|./[9,10]|punct|1
+werk/[2,3]|verb|hd/mod|op/[3,4]|prep|1
+werk/[2,3]|verb|hd/su|ober/[1,2]|noun|1
+dat/[5,6]|pron|rhd/body|heb/[9,10]|verb|1
+gerecht/[4,5]|noun|hd/det|een/[3,4]|det|1
+gerecht/[4,5]|noun|hd/mod|dat/[5,6]|pron|1
+heb/[9,10]|verb|hd/su|ik/[6,7]|pron|1
+heb/[9,10]|verb|hd/vc|kies/[8,9]|verb|1
+kies/[8,9]|verb|hd/mod|niet/[7,8]|adv|1
+kies/[8,9]|verb|hd/obj1|dat/[5,6]|pron|1
+kies/[8,9]|verb|hd/su|ik/[6,7]|pron|1
+krijg/[1,2]|verb|-- / --|./[10,11]|punct|1
+krijg/[1,2]|verb|hd/mod|tweemaal/[0,1]|noun|1
+krijg/[1,2]|verb|hd/obj1|gerecht/[4,5]|noun|1
+krijg/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+top/top|top|top/hd|krijg/[1,2]|verb|1
+communicatie/[2,3]|noun|hd/det|de/[0,1]|det|1
+communicatie/[2,3]|noun|hd/mod|onder/[3,4]|prep|1
+communicatie/[2,3]|noun|hd/mod|slecht/[1,2]|adj|1
+en/[11,12]|vg|crd/cnj|bedrukt/[12,13]|adj|1
+en/[11,12]|vg|crd/cnj|gespannen/[10,11]|adj|1
+in/[14,15]|prep|hd/obj1|restaurant/[16,17]|noun|1
+onder/[3,4]|prep|hd/obj1|personeel_lid/[5,6]|noun|1
+personeel_lid/[5,6]|noun|hd/det|de/[4,5]|det|1
+restaurant/[16,17]|noun|hd/det|het/[15,16]|det|1
+sfeer/[13,14]|noun|hd/det|een/[9,10]|det|1
+sfeer/[13,14]|noun|hd/mod|en/[11,12]|vg|1
+sfeer/[13,14]|noun|hd/mod|in/[14,15]|prep|1
+top/top|top|top/hd|zorg/[6,7]|verb|1
+voor/[8,9]|prep|hd/obj1|sfeer/[13,14]|noun|1
+zorg/[6,7]|verb|-- / --|./[17,18]|punct|1
+zorg/[6,7]|verb|hd/mod|bovendien/[7,8]|adv|1
+zorg/[6,7]|verb|hd/pc|voor/[8,9]|prep|1
+zorg/[6,7]|verb|hd/su|communicatie/[2,3]|noun|1
+aan/[5,6]|prep|hd/obj1|verwachting/[7,8]|noun|1
+gerecht/[1,2]|noun|hd/det|de/[0,1]|det|1
+kan/[2,3]|verb|-- / --|./[8,9]|punct|1
+kan/[2,3]|verb|hd/su|gerecht/[1,2]|noun|1
+kan/[2,3]|verb|hd/vc|tip/[4,5]|verb|1
+tip/[4,5]|verb|hd/mod|niet/[3,4]|adv|1
+tip/[4,5]|verb|hd/pc|aan/[5,6]|prep|1
+tip/[4,5]|verb|hd/su|gerecht/[1,2]|noun|1
+top/top|top|top/hd|kan/[2,3]|verb|1
+verwachting/[7,8]|noun|hd/det|mijn/[6,7]|det|1
+amuse/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[6,7]|verb|-- / --|./[10,11]|punct|1
+ben/[6,7]|verb|hd/predc|en/[8,9]|vg|1
+ben/[6,7]|verb|hd/su|en/[2,3]|vg|1
+en/[2,3]|vg|crd/cnj|amuse/[1,2]|noun|1
+en/[2,3]|vg|crd/cnj|lasagne/[5,6]|noun|1
+en/[8,9]|vg|crd/cnj|kleurloos/[9,10]|adj|1
+en/[8,9]|vg|crd/cnj|smaak/[7,8]|prefix|1
+lasagne/[5,6]|noun|hd/det|de/[3,4]|det|1
+lasagne/[5,6]|noun|hd/mod|vegetarisch/[4,5]|adj|1
+top/top|top|top/hd|ben/[6,7]|verb|1
+afsluiter/[11,12]|noun|hd/det|een/[9,10]|det|1
+afsluiter/[11,12]|noun|hd/mod|lekker/[10,11]|adj|1
+als/[0,1]|comp|cmp/body|dessert/[1,2]|noun|1
+crème brulée/[5,7]|noun|hd/det|de/[4,5]|det|1
+crème brulée/[5,7]|noun|hd/mod|van/[7,8]|prep|1
+hoog_vlieger/[15,16]|noun|hd/det|geen/[14,15]|det|1
+hoog_vlieger/[15,16]|noun|hd/mod|zeker/[13,14]|adj|1
+kies/[2,3]|verb|-- / --|./[16,17]|punct|1
+kies/[2,3]|verb|dp/dp|maar/[12,13]|vg|1
+kies/[2,3]|verb|hd/obj1|crème brulée/[5,7]|noun|1
+kies/[2,3]|verb|hd/predm|als/[0,1]|comp|1
+kies/[2,3]|verb|hd/su|ik/[3,4]|pron|1
+maar/[12,13]|vg|crd/cnj|afsluiter/[11,12]|noun|1
+maar/[12,13]|vg|crd/cnj|hoog_vlieger/[15,16]|noun|1
+top/top|top|top/hd|kies/[2,3]|verb|1
+van/[7,8]|prep|hd/obj1|viool_DIM/[8,9]|noun|1
+aanrader/[14,15]|noun|hd/det|geen/[13,14]|det|1
+ben/[11,12]|verb|-- / --|./[15,16]|punct|1
+ben/[11,12]|verb|hd/mod|hoewel/[0,1]|comp|1
+ben/[11,12]|verb|hd/predc|aanrader/[14,15]|noun|1
+ben/[11,12]|verb|hd/su|het/[12,13]|det|1
+hoewel/[0,1]|comp|cmp/body|krijg/[5,6]|verb|1
+krijg/[5,6]|verb|hd/mod|op/[6,7]|prep|1
+krijg/[5,6]|verb|hd/obj1|score/[4,5]|noun|1
+krijg/[5,6]|verb|hd/su|PROPNAME/[1,2]|name|1
+netwerk_site/[9,10]|noun|hd/app|Tripadvisor,/[10,11]|name|1
+netwerk_site/[9,10]|noun|hd/det|de/[7,8]|det|1
+netwerk_site/[9,10]|noun|hd/mod|sociaal/[8,9]|adj|1
+op/[6,7]|prep|hd/obj1|netwerk_site/[9,10]|noun|1
+score/[4,5]|noun|hd/det|een/[2,3]|det|1
+score/[4,5]|noun|hd/mod|goed/[3,4]|adj|1
+top/top|top|top/hd|ben/[11,12]|verb|1
+en/[13,14]|vg|crd/cnj|te/[11,12]|comp|1
+en/[13,14]|vg|crd/cnj|te/[14,15]|comp|1
+in/[5,6]|prep|hd/pobj1|er/[3,4]|adv|1
+in/[5,6]|prep|hd/vc|om/[6,7]|comp|1
+maaltijd/[10,11]|noun|hd/det|een/[7,8]|det|1
+maaltijd/[10,11]|noun|hd/mod|lekker/[8,9]|adj|1
+maaltijd/[10,11]|noun|hd/mod|vegetarisch/[9,10]|adj|1
+om/[6,7]|comp|cmp/body|en/[13,14]|vg|1
+presenteer/[12,13]|verb|hd/obj1|maaltijd/[10,11]|noun|1
+presenteer/[12,13]|verb|hd/su|restaurant/[1,2]|noun|1
+restaurant/[1,2]|noun|hd/det|dit/[0,1]|det|1
+slaag/[2,3]|verb|-- / --|./[20,21]|punct|1
+slaag/[2,3]|verb|hd/mod|niet/[4,5]|adv|1
+slaag/[2,3]|verb|hd/pc|in/[5,6]|prep|1
+slaag/[2,3]|verb|hd/su|restaurant/[1,2]|noun|1
+te/[11,12]|comp|cmp/body|presenteer/[12,13]|verb|1
+te/[14,15]|comp|cmp/body|zorg/[15,16]|verb|1
+top/top|top|top/hd|slaag/[2,3]|verb|1
+totaal_ervaring/[19,20]|noun|hd/det|een/[17,18]|det|1
+totaal_ervaring/[19,20]|noun|hd/mod|aangenaam/[18,19]|adj|1
+voor/[16,17]|prep|hd/obj1|totaal_ervaring/[19,20]|noun|1
+zorg/[15,16]|verb|hd/pc|voor/[16,17]|prep|1
+zorg/[15,16]|verb|hd/su|restaurant/[1,2]|noun|1

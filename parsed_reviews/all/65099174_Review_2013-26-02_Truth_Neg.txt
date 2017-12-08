@@ -1,0 +1,94 @@
+die/[4,5]|pron|rhd/body|heb/[10,11]|verb|1
+film/[19,20]|noun|hd/det|de/[18,19]|det|1
+heb/[10,11]|verb|hd/su|ik/[5,6]|pron|1
+heb/[10,11]|verb|hd/vc|lees/[9,10]|verb|1
+in/[6,7]|prep|hd/obj1|jeugd/[8,9]|noun|1
+jeugd/[8,9]|noun|hd/det|mijn/[7,8]|det|1
+kijk_uit/[13,14]|verb|-- / --|./[20,21]|punct|1
+kijk_uit/[13,14]|verb|hd/mod|enorm/[15,16]|adj|1
+kijk_uit/[13,14]|verb|hd/mod|na/[0,1]|prep|1
+kijk_uit/[13,14]|verb|hd/pc|naar/[17,18]|prep|1
+kijk_uit/[13,14]|verb|hd/su|ik/[14,15]|pron|1
+kijk_uit/[13,14]|verb|hd/svp|uit/[16,17]|part|1
+lees/[9,10]|verb|hd/mod|in/[6,7]|prep|1
+lees/[9,10]|verb|hd/obj1|die/[4,5]|pron|1
+lees/[9,10]|verb|hd/pc|over/[11,12]|prep|1
+lees/[9,10]|verb|hd/su|ik/[5,6]|pron|1
+na/[0,1]|prep|hd/obj1|tientallen/[2,3]|noun|1
+naar/[17,18]|prep|hd/obj1|film/[19,20]|noun|1
+over/[11,12]|prep|hd/obj1|PROPNAME,/[12,13]|name|1
+strip/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+tientallen/[2,3]|noun|hd/det|de/[1,2]|det|1
+tientallen/[2,3]|noun|hd/mod|strip/[3,4]|noun|1
+top/top|top|top/hd|kijk_uit/[13,14]|verb|1
+ben/[8,9]|verb|-- / --|./[13,14]|punct|1
+ben/[8,9]|verb|hd/su|ik/[9,10]|pron|1
+ben/[8,9]|verb|hd/vc|ga/[11,12]|verb|1
+bioscoop/[7,8]|noun|hd/det|de/[6,7]|det|1
+ga/[11,12]|verb|hd/su|ik/[9,10]|pron|1
+ga/[11,12]|verb|hd/vc|kijk/[12,13]|verb|1
+in/[5,6]|prep|hd/obj1|bioscoop/[7,8]|noun|1
+kijk/[12,13]|verb|hd/mod|van zodra/[0,2]|comp|1
+kijk/[12,13]|verb|hd/obj1|hem/[10,11]|pron|1
+kijk/[12,13]|verb|hd/su|ik/[9,10]|pron|1
+kom_uit/[4,5]|verb|hd/mod|in/[5,6]|prep|1
+kom_uit/[4,5]|verb|hd/su|hij/[2,3]|pron|1
+kom_uit/[4,5]|verb|hd/svp|uit/[3,4]|part|1
+top/top|top|top/hd|ben/[8,9]|verb|1
+van zodra/[0,2]|comp|cmp/body|kom_uit/[4,5]|verb|1
+op/[7,8]|prep|hd/obj1|niets/[8,9]|noun|1
+spijt/[3,4]|noun|hd/det|mijn/[1,2]|det|1
+spijt/[3,4]|noun|hd/mod|groot/[2,3]|adj|1
+top/top|top|top/hd|trek/[4,5]|verb|1
+tot/[0,1]|prep|hd/obj1|spijt/[3,4]|noun|1
+trek/[4,5]|verb|-- / --|./[9,10]|punct|1
+trek/[4,5]|verb|hd/mod|echt/[6,7]|adj|1
+trek/[4,5]|verb|hd/mod|op/[7,8]|prep|1
+trek/[4,5]|verb|hd/mod|tot/[0,1]|prep|1
+trek/[4,5]|verb|hd/su|het/[5,6]|det|1
+ben/[17,18]|verb|hd/mod|ook/[18,19]|adv|1
+ben/[17,18]|verb|hd/predc|teleurstellend/[19,20]|adj|1
+ben/[17,18]|verb|hd/su|special effects/[15,17]|noun|1
+die/[9,10]|pron|rhd/body|heb/[12,13]|verb|1
+en/[13,14]|vg|-- / --|./[20,21]|punct|1
+en/[13,14]|vg|crd/cnj|ben/[17,18]|verb|1
+en/[13,14]|vg|crd/cnj|kom_overeen/[3,4]|verb|1
+heb/[12,13]|verb|hd/su|ik/[10,11]|pron|1
+heb/[12,13]|verb|hd/vc|lees/[11,12]|verb|1
+kom_overeen/[3,4]|verb|hd/mod|niet/[4,5]|adv|1
+kom_overeen/[3,4]|verb|hd/pc|met/[6,7]|prep|1
+kom_overeen/[3,4]|verb|hd/su|story line/[1,3]|name|1
+kom_overeen/[3,4]|verb|hd/svp|overeen/[5,6]|part|1
+lees/[11,12]|verb|hd/obj1|die/[9,10]|pron|1
+lees/[11,12]|verb|hd/su|ik/[10,11]|pron|1
+met/[6,7]|prep|hd/obj1|strip/[8,9]|noun|1
+special effects/[15,17]|noun|hd/det|de/[14,15]|det|1
+story line/[1,3]|name|hd/det|de/[0,1]|det|1
+strip/[8,9]|noun|hd/det|de/[7,8]|det|1
+strip/[8,9]|noun|hd/mod|die/[9,10]|pron|1
+top/top|top|top/hd|en/[13,14]|vg|1
+ben/[2,3]|verb|-- / --|./[22,23]|punct|1
+ben/[2,3]|verb|hd/su|conclusie/[1,2]|noun|1
+bioscoop/[12,13]|noun|hd/det|de/[11,12]|det|1
+conclusie/[1,2]|noun|hd/det|mijn/[0,1]|det|1
+conclusie/[1,2]|noun|hd/vc|dat/[3,4]|comp|1
+dat/[3,4]|comp|cmp/body|maar/[13,14]|vg|1
+film/[6,7]|noun|hd/det|de/[5,6]|det|1
+in/[10,11]|prep|hd/obj1|bioscoop/[12,13]|noun|1
+kan/[20,21]|verb|hd/su|je/[16,17]|pron|1
+kan/[20,21]|verb|hd/vc|leen/[21,22]|verb|1
+leen/[21,22]|verb|hd/obj1|hem/[17,18]|pron|1
+leen/[21,22]|verb|hd/pc|van/[18,19]|prep|1
+leen/[21,22]|verb|hd/su|je/[16,17]|pron|1
+maar/[13,14]|vg|crd/cnj|wacht/[14,15]|verb|1
+maar/[13,14]|vg|crd/cnj|zie/[9,10]|verb|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+tot/[15,16]|comp|cmp/body|kan/[20,21]|verb|1
+van/[18,19]|prep|hd/obj1|iemand/[19,20]|noun|1
+wacht/[14,15]|verb|hd/mod|tot/[15,16]|comp|1
+wacht/[14,15]|verb|hd/su|je/[4,5]|pron|1
+zie/[9,10]|verb|hd/mod|best/[7,8]|adj|1
+zie/[9,10]|verb|hd/mod|in/[10,11]|prep|1
+zie/[9,10]|verb|hd/mod|niet/[8,9]|adv|1
+zie/[9,10]|verb|hd/obj1|film/[6,7]|noun|1
+zie/[9,10]|verb|hd/su|je/[4,5]|pron|1

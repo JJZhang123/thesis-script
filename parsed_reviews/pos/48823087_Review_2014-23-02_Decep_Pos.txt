@@ -1,0 +1,181 @@
+gevoel/[3,4]|noun|dp/dp|held/[5,6]|noun|1
+gevoel/[3,4]|noun|hd/mod|onvervalst/[2,3]|adj|1
+held/[5,6]|noun|hd/mod|compromis_loos/[4,5]|adj|1
+landschap/[1,2]|noun|-- / --|./[6,7]|punct|1
+landschap/[1,2]|noun|dp/dp|gevoel/[3,4]|noun|1
+landschap/[1,2]|noun|hd/mod|woest/[0,1]|adj|1
+top/top|top|top/hd|landschap/[1,2]|noun|1
+acteur/[14,15]|noun|hd/mod|knap/[13,14]|adj|1
+acteur/[14,15]|noun|hd/mod|waarin/[7,8]|pp|1
+alles/[1,2]|noun|hd/det|dat/[0,1]|det|1
+avontuur/[18,19]|noun|hd/det|de/[15,16]|det|1
+avontuur/[18,19]|noun|hd/mod|wild/[17,18]|adj|1
+en/[11,12]|vg|crd/cnj|acteur/[14,15]|noun|1
+en/[11,12]|vg|crd/cnj|seksiëste filmdivas/[9,11]|name|1
+in/[4,5]|prep|hd/obj1|western/[6,7]|noun|1
+knap/[13,14]|adj|hd/mod|meest/[12,13]|adj|1
+maak_mee/[19,20]|verb|hd/obj1|avontuur/[18,19]|noun|1
+maak_mee/[19,20]|verb|hd/su|je/[3,4]|pron|1
+seksiëste filmdivas/[9,11]|name|hd/det|de/[8,9]|det|1
+seksiëste filmdivas/[9,11]|name|hd/mod|waarin/[7,8]|pp|1
+top/top|top|top/hd|vind/[2,3]|verb|1
+vind/[2,3]|verb|-- / --|./[20,21]|punct|1
+vind/[2,3]|verb|hd/mod|in/[4,5]|prep|1
+vind/[2,3]|verb|hd/obj1|je/[3,4]|pron|1
+vind/[2,3]|verb|hd/su|alles/[1,2]|noun|1
+vind/[2,3]|verb|hd/vc|maak_mee/[19,20]|verb|1
+waarin/[7,8]|pp|rhd/body|en/[11,12]|vg|1
+western/[6,7]|noun|hd/det|deze/[5,6]|det|1
+western/[6,7]|noun|hd/mod|waarin/[7,8]|pp|1
+wild/[17,18]|adj|hd/mod|meest/[16,17]|adj|1
+avontuur/[2,3]|noun|-- / --|./[7,8]|punct|1
+avontuur/[2,3]|noun|hd/det|de/[0,1]|det|1
+avontuur/[2,3]|noun|hd/mod|in/[3,4]|prep|1
+avontuur/[2,3]|noun|hd/mod|wild/[1,2]|adj|1
+in/[3,4]|prep|hd/obj1|natuur/[6,7]|noun|1
+natuur/[6,7]|noun|hd/det|een/[4,5]|det|1
+natuur/[6,7]|noun|hd/mod|prachtig/[5,6]|adj|1
+top/top|top|top/hd|avontuur/[2,3]|noun|1
+Wild West/[10,12]|name|hd/det|de/[9,10]|det|1
+aan/[4,5]|prep|hd/obj1|landschap/[7,8]|noun|1
+ben/[1,2]|verb|-- / --|./[12,13]|punct|1
+ben/[1,2]|verb|hd/predc|ode/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+landschap/[7,8]|noun|hd/det|het/[5,6]|det|1
+landschap/[7,8]|noun|hd/mod|ongerept/[6,7]|adj|1
+landschap/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+ode/[3,4]|noun|hd/det|een/[2,3]|det|1
+ode/[3,4]|noun|hd/mod|aan/[4,5]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[8,9]|prep|hd/obj1|Wild West/[10,12]|name|1
+avontuur/[8,9]|noun|hd/det|het/[7,8]|det|1
+ben/[3,4]|verb|-- / --|./[14,15]|punct|1
+ben/[3,4]|verb|hd/predc|deel/[5,6]|noun|1
+ben/[3,4]|verb|hd/su|en/[1,2]|vg|1
+deel/[5,6]|noun|hd/det|een/[4,5]|det|1
+deel/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+die/[9,10]|pron|rhd/body|mijd/[13,14]|verb|1
+dier/[2,3]|noun|hd/mod|die/[9,10]|pron|1
+en/[1,2]|vg|crd/cnj|dier/[2,3]|noun|1
+en/[1,2]|vg|crd/cnj|mens/[0,1]|noun|1
+humor/[11,12]|noun|hd/det|de/[10,11]|det|1
+mens/[0,1]|noun|hd/mod|die/[9,10]|pron|1
+mijd/[13,14]|verb|hd/mod|niet/[12,13]|adv|1
+mijd/[13,14]|verb|hd/obj1|humor/[11,12]|noun|1
+mijd/[13,14]|verb|hd/su|die/[9,10]|pron|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+van/[6,7]|prep|hd/obj1|avontuur/[8,9]|noun|1
+alles/[4,5]|noun|hd/det|dat/[3,4]|det|1
+en/[1,2]|vg|-- / --|./[10,11]|punct|1
+en/[1,2]|vg|crd/cnj|humor/[0,1]|noun|1
+en/[1,2]|vg|crd/cnj|liefde/[2,3]|noun|1
+en/[1,2]|vg|dp/dp|vind/[5,6]|verb|1
+film/[9,10]|noun|hd/det|deze/[8,9]|det|1
+in/[7,8]|prep|hd/obj1|film/[9,10]|noun|1
+top/top|top|top/hd|en/[1,2]|vg|1
+vind/[5,6]|verb|hd/ld|in/[7,8]|prep|1
+vind/[5,6]|verb|hd/obj1|alles/[4,5]|noun|1
+vind/[5,6]|verb|hd/su|je/[6,7]|pron|1
+eis/[4,5]|noun|hd/det|de/[3,4]|det|1
+eis/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+heb/[2,3]|verb|-- / --|./[10,11]|punct|1
+heb/[2,3]|verb|hd/su|regisseur/[1,2]|noun|1
+heb/[2,3]|verb|hd/vc|verloochen/[9,10]|verb|1
+natives/[7,8]|noun|hd/det|de/[6,7]|det|1
+regisseur/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|heb/[2,3]|verb|1
+van/[5,6]|prep|hd/obj1|natives/[7,8]|noun|1
+verloochen/[9,10]|verb|hd/mod|niet/[8,9]|adv|1
+verloochen/[9,10]|verb|hd/obj1|eis/[4,5]|noun|1
+verloochen/[9,10]|verb|hd/su|regisseur/[1,2]|noun|1
+cultuur/[11,12]|noun|hd/det|hun/[10,11]|det|1
+en/[9,10]|vg|crd/cnj|cultuur/[11,12]|noun|1
+en/[9,10]|vg|crd/cnj|land/[8,9]|noun|1
+land/[8,9]|noun|hd/det|hun/[7,8]|det|1
+om/[4,5]|prep|hd/obj1|zelfbehoud/[5,6]|noun|1
+om/[6,7]|prep|hd/obj1|en/[9,10]|vg|1
+strijd/[3,4]|noun|hd/det|hun/[2,3]|det|1
+strijd/[3,4]|noun|hd/mod|om/[4,5]|prep|1
+strijd/[3,4]|noun|hd/mod|om/[6,7]|prep|1
+toon/[1,2]|verb|-- / --|./[12,13]|punct|1
+toon/[1,2]|verb|hd/obj1|strijd/[3,4]|noun|1
+toon/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+top/top|top|top/hd|toon/[1,2]|verb|1
+ben/[5,6]|verb|-- / --|./[13,14]|punct|1
+ben/[5,6]|verb|hd/su|cultuur/[1,2]|noun|1
+ben/[5,6]|verb|hd/vc|film/[12,13]|verb|1
+cultuur/[1,2]|noun|hd/det|de/[0,1]|det|1
+cultuur/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+en/[9,10]|vg|crd/cnj|lyrisch/[10,11]|adj|1
+en/[9,10]|vg|crd/cnj|realistisch/[8,9]|adj|1
+film/[12,13]|verb|hd/mod|op/[6,7]|prep|1
+film/[12,13]|verb|hd/obj1|cultuur/[1,2]|noun|1
+natives/[4,5]|noun|hd/det|de/[3,4]|det|1
+op/[6,7]|prep|hd/obj1|wijze/[11,12]|noun|1
+top/top|top|top/hd|ben/[5,6]|verb|1
+van/[2,3]|prep|hd/obj1|natives/[4,5]|noun|1
+wijze/[11,12]|noun|hd/det|een/[7,8]|det|1
+wijze/[11,12]|noun|hd/mod|en/[9,10]|vg|1
+ben/[16,17]|verb|hd/vc|te/[14,15]|comp|1
+dat/[12,13]|comp|cmp/body|ben/[16,17]|verb|1
+dosis/[4,5]|noun|hd/det|een/[2,3]|det|1
+dosis/[4,5]|noun|hd/mod|flink/[3,4]|adj|1
+dosis/[4,5]|noun|hd/mod|romantiek/[5,6]|noun|1
+en/[1,2]|vg|crd/cnj|dosis/[4,5]|noun|1
+en/[1,2]|vg|crd/cnj|humor/[0,1]|noun|1
+ervaring/[11,12]|noun|hd/det|een/[10,11]|det|1
+ervaring/[11,12]|noun|hd/vc|dat/[12,13]|comp|1
+maak/[6,7]|verb|-- / --|./[17,18]|punct|1
+maak/[6,7]|verb|hd/obj1|ervaring/[11,12]|noun|1
+maak/[6,7]|verb|hd/pc|van/[7,8]|prep|1
+maak/[6,7]|verb|hd/su|en/[1,2]|vg|1
+mis/[15,16]|verb|hd/mod|niet/[13,14]|adv|1
+te/[14,15]|comp|cmp/body|mis/[15,16]|verb|1
+top/top|top|top/hd|maak/[6,7]|verb|1
+van/[7,8]|prep|hd/obj1|western/[9,10]|noun|1
+western/[9,10]|noun|hd/det|deze/[8,9]|det|1
+actrice/[7,8]|noun|hd/det|de/[4,5]|det|1
+actrice/[7,8]|noun|hd/mod|begeerd/[6,7]|adj|1
+actrice/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+begeerd/[6,7]|adj|hd/mod|meest/[5,6]|adj|1
+decenium/[11,12]|noun|hd/det|het/[9,10]|det|1
+decenium/[11,12]|noun|hd/mod|laat/[10,11]|adj|1
+in/[15,16]|prep|hd/obj1|Hollywood/[16,17]|name|1
+opschudding/[14,15]|noun|hd/mod|in/[15,16]|prep|1
+top/top|top|top/hd|zorg/[12,13]|verb|1
+van/[3,4]|prep|hd/obj1|actrice/[7,8]|noun|1
+van/[8,9]|prep|hd/obj1|decenium/[11,12]|noun|1
+voor/[13,14]|prep|hd/obj1|opschudding/[14,15]|noun|1
+vrouw_rol/[2,3]|noun|hd/det|de/[0,1]|det|1
+vrouw_rol/[2,3]|noun|hd/mod|sterk/[1,2]|adj|1
+vrouw_rol/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+zorg/[12,13]|verb|-- / --|./[17,18]|punct|1
+zorg/[12,13]|verb|hd/pc|voor/[13,14]|prep|1
+zorg/[12,13]|verb|hd/su|vrouw_rol/[2,3]|noun|1
+Western,/[11,12]|name|hd/det|een/[10,11]|det|1
+ben/[1,2]|verb|-- / --|./[17,18]|punct|1
+ben/[1,2]|verb|hd/mod|wel/[2,3]|adj|1
+ben/[1,2]|verb|hd/predc|keer/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|dat/[6,7]|comp|1
+ben/[1,2]|verb|hd/sup|het/[0,1]|noun|1
+dat/[6,7]|comp|cmp/body|dien/[16,17]|verb|1
+dien/[16,17]|verb|hd/mod|niet/[12,13]|adv|1
+dien/[16,17]|verb|hd/pc|voor/[14,15]|prep|1
+dien/[16,17]|verb|hd/su|vrouw/[8,9]|noun|1
+in/[9,10]|prep|hd/obj1|Western,/[11,12]|name|1
+keer/[5,6]|noun|hd/det|de/[3,4]|det|1
+keer/[5,6]|noun|hd/mod|eerste/[4,5]|num|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+voor/[14,15]|prep|hd/mod|louter/[13,14]|adv|1
+voor/[14,15]|prep|hd/obj1|figuratie/[15,16]|noun|1
+vrouw/[8,9]|noun|hd/det|een/[7,8]|det|1
+vrouw/[8,9]|noun|hd/mod|in/[9,10]|prep|1
+aanrader/[4,5]|noun|hd/det|een/[3,4]|det|1
+ben/[1,2]|verb|-- / --|!/[8,9]|punct|1
+ben/[1,2]|verb|hd/mod|zeker/[2,3]|adj|1
+ben/[1,2]|verb|hd/predc|en/[5,6]|vg|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+en/[5,6]|vg|crd/cnj|aanrader/[4,5]|noun|1
+en/[5,6]|vg|crd/cnj|ervaring/[7,8]|noun|1
+ervaring/[7,8]|noun|hd/mod|on_verg_eetbaar/[6,7]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1

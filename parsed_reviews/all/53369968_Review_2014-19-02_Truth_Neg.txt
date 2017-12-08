@@ -1,0 +1,169 @@
+PROPNAME, PROPNAME, PROPNAME…/[0,3]|name|-- / --|./[16,17]|punct|1
+PROPNAME, PROPNAME, PROPNAME…/[0,3]|name|dp/dp|ben/[7,8]|verb|1
+bekend/[5,6]|adj|hd/mod|alom/[4,5]|adv|1
+ben/[7,8]|verb|hd/mod|eigenlijk/[8,9]|adj|1
+ben/[7,8]|verb|hd/predc|goed/[11,12]|adj|1
+ben/[7,8]|verb|hd/su|lied/[6,7]|noun|1
+film/[15,16]|noun|hd/det|de/[13,14]|det|1
+film/[15,16]|noun|hd/mod|heel/[14,15]|adj|1
+goed/[11,12]|adj|hd/det|het/[9,10]|det|1
+goed/[11,12]|adj|hd/mod|enig/[10,11]|adj|1
+goed/[11,12]|adj|hd/mod|van/[12,13]|prep|1
+lied/[6,7]|noun|hd/det|het/[3,4]|det|1
+lied/[6,7]|noun|hd/mod|bekend/[5,6]|adj|1
+top/top|top|top/hd|PROPNAME, PROPNAME, PROPNAME…/[0,3]|name|1
+van/[12,13]|prep|hd/obj1|film/[15,16]|noun|1
+Matteo Simoni/[3,5]|name|hd/mod|misschien/[1,2]|adv|1
+Matteo Simoni/[3,5]|name|hd/mod|ook/[2,3]|adv|1
+en/[0,1]|comp|-- / --|./[5,6]|punct|1
+en/[0,1]|comp|dlink/nucl|Matteo Simoni/[3,5]|name|1
+top/top|top|top/hd|en/[0,1]|comp|1
+Ja,/[0,1]|name|-- / --|./[4,5]|punct|1
+Ja,/[0,1]|name|dp/dp|Matteo Simoni/[2,4]|name|1
+Matteo Simoni/[2,4]|name|hd/mod|zeker/[1,2]|adv|1
+top/top|top|top/hd|Ja,/[0,1]|name|1
+door/[9,10]|prep|hd/obj1|kwelling/[14,15]|noun|1
+durend/[13,14]|adj|hd/me|uur/[12,13]|noun|1
+en/[3,4]|vg|crd/cnj|looks/[5,6]|noun|1
+en/[3,4]|vg|crd/cnj|oog/[2,3]|noun|1
+heb/[6,7]|verb|-- / --|./[16,17]|punct|1
+heb/[6,7]|verb|hd/su|en/[3,4]|vg|1
+heb/[6,7]|verb|hd/vc|help/[15,16]|verb|1
+help/[15,16]|verb|hd/mod|zeker/[8,9]|adj|1
+help/[15,16]|verb|hd/obj1|mij/[7,8]|pron|1
+help/[15,16]|verb|hd/pc|door/[9,10]|prep|1
+help/[15,16]|verb|hd/su|en/[3,4]|vg|1
+kwelling/[14,15]|noun|hd/det|de/[10,11]|det|1
+kwelling/[14,15]|noun|hd/mod|durend/[13,14]|adj|1
+looks/[5,6]|noun|hd/det|zijn/[0,1]|det|1
+looks/[5,6]|noun|hd/mod|Italiaans/[4,5]|adj|1
+oog/[2,3]|noun|hd/det|zijn/[0,1]|det|1
+oog/[2,3]|noun|hd/mod|donkerbruin/[1,2]|adj|1
+top/top|top|top/hd|heb/[6,7]|verb|1
+uur/[12,13]|noun|hd/det|twee/[11,12]|num|1
+heb/[1,2]|verb|-- / --|./[9,10]|punct|1
+heb/[1,2]|verb|hd/mod|eigenlijk/[3,4]|adj|1
+heb/[1,2]|verb|hd/mod|er/[2,3]|adv|1
+heb/[1,2]|verb|hd/mod|maar/[4,5]|adv|1
+heb/[1,2]|verb|hd/mod|saai/[8,9]|adj|1
+heb/[1,2]|verb|hd/mod|voor/[7,8]|adj|1
+heb/[1,2]|verb|hd/obj1|woord/[6,7]|noun|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+woord/[6,7]|noun|hd/det|één/[5,6]|num|1
+ben/[11,12]|verb|hd/predc|vent/[10,11]|noun|1
+ben/[11,12]|verb|hd/su|je/[7,8]|pron|1
+betwijfel/[4,5]|verb|hd/mod|niet/[5,6]|adv|1
+betwijfel/[4,5]|verb|hd/su|ik/[3,4]|pron|1
+betwijfel/[4,5]|verb|hd/vc|dat/[6,7]|comp|1
+boei/[19,20]|verb|hd/mod|echt/[17,18]|adj|1
+boei/[19,20]|verb|hd/mod|niet/[18,19]|adv|1
+boei/[19,20]|verb|hd/obj1|mij/[16,17]|pron|1
+boei/[19,20]|verb|hd/su|film/[14,15]|noun|1
+dat/[6,7]|comp|cmp/body|ben/[11,12]|verb|1
+film/[14,15]|noun|hd/det|deze/[13,14]|det|1
+kan/[15,16]|verb|hd/su|film/[14,15]|noun|1
+kan/[15,16]|verb|hd/vc|boei/[19,20]|verb|1
+maar/[12,13]|vg|crd/cnj|betwijfel/[4,5]|verb|1
+maar/[12,13]|vg|crd/cnj|kan/[15,16]|verb|1
+sorry/[0,1]|tag|-- / --|./[20,21]|punct|1
+sorry/[0,1]|tag|dp/dp|maar/[12,13]|vg|1
+sorry/[0,1]|tag|tag/nucl|Stijn Coninx,/[1,3]|name|1
+top/top|top|top/hd|sorry/[0,1]|tag|1
+vent/[10,11]|noun|hd/det|een/[8,9]|det|1
+vent/[10,11]|noun|hd/mod|sympathiek/[9,10]|adj|1
+ben/[4,5]|verb|hd/mod|leven/[7,8]|noun|1
+ben/[4,5]|verb|hd/su|titel/[2,3]|noun|1
+leven/[7,8]|noun|hd/det|het/[5,6]|det|1
+leven/[7,8]|noun|hd/mod|saai/[6,7]|adj|1
+leven/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+titel/[2,3]|noun|hd/det|een/[0,1]|det|1
+titel/[2,3]|noun|hd/mod|goed/[1,2]|adj|1
+top/top|top|top/hd|zal/[3,4]|verb|1
+van/[8,9]|prep|hd/obj1|Rocco Granata/[9,11]|name|1
+zal/[3,4]|verb|-- / --|./[11,12]|punct|1
+zal/[3,4]|verb|hd/su|titel/[2,3]|noun|1
+zal/[3,4]|verb|hd/vc|ben/[4,5]|verb|1
+Ja,/[0,1]|name|-- / --|./[19,20]|punct|1
+Ja,/[0,1]|name|dp/dp|ben/[17,18]|verb|1
+Ja,/[0,1]|name|dp/dp|ga/[2,3]|verb|1
+ben/[17,18]|verb|hd/predc|erg/[16,17]|adj|1
+ben/[17,18]|verb|hd/su|het/[18,19]|det|1
+bioscoop/[6,7]|noun|hd/det|de/[5,6]|det|1
+erg/[16,17]|adj|hd/mod|zo/[15,16]|adv|1
+ga/[2,3]|verb|hd/su|ik/[1,2]|pron|1
+ga/[2,3]|verb|hd/vc|houd_bezig/[10,11]|verb|1
+houd_bezig/[10,11]|verb|hd/mod|in/[4,5]|prep|1
+houd_bezig/[10,11]|verb|hd/mod|spontaan/[8,9]|adj|1
+houd_bezig/[10,11]|verb|hd/obj1|me/[3,4]|pron|1
+houd_bezig/[10,11]|verb|hd/pc|met/[11,12]|prep|1
+houd_bezig/[10,11]|verb|hd/su|ik/[1,2]|pron|1
+houd_bezig/[10,11]|verb|hd/svp|bezig/[9,10]|part|1
+in/[4,5]|prep|hd/obj1|bioscoop/[6,7]|noun|1
+met/[11,12]|prep|hd/obj1|verzin/[14,15]|verb|1
+spontaan/[8,9]|adj|hd/mod|al/[7,8]|adv|1
+titel/[13,14]|noun|hd/mod|nieuw/[12,13]|adj|1
+top/top|top|top/hd|Ja,/[0,1]|name|1
+verzin/[14,15]|verb|hd/obj1|titel/[13,14]|noun|1
+aan/[10,11]|prep|hd/obj1|er/[7,8]|adv|1
+goed/[9,10]|adj|hd/mod|zo/[8,9]|adv|1
+niet/[4,5]|adv|hd/mod|echt/[3,4]|adj|1
+snap/[1,2]|verb|-- / --|./[12,13]|punct|1
+snap/[1,2]|verb|hd/mod|niet/[4,5]|adv|1
+snap/[1,2]|verb|hd/mod|ook/[2,3]|adv|1
+snap/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+snap/[1,2]|verb|hd/vc|wat/[5,6]|pron|1
+top/top|top|top/hd|snap/[1,2]|verb|1
+vind/[11,12]|verb|hd/mod|goed/[9,10]|adj|1
+vind/[11,12]|verb|hd/obj1|wat/[5,6]|pron|1
+vind/[11,12]|verb|hd/pc|aan/[10,11]|prep|1
+vind/[11,12]|verb|hd/su|iedereen/[6,7]|pron|1
+wat/[5,6]|pron|whd/body|vind/[11,12]|verb|1
+Italiaan/[3,4]|noun|hd/det|die/[2,3]|det|1
+ben/[5,6]|verb|hd/mod|wel/[4,5]|adj|1
+ben/[5,6]|verb|hd/predc|Italiaan/[3,4]|noun|1
+ben/[5,6]|verb|hd/su|het/[0,1]|noun|1
+top/top|top|top/hd|zal/[1,2]|verb|1
+zal/[1,2]|verb|-- / --|./[6,7]|punct|1
+zal/[1,2]|verb|hd/su|het/[0,1]|noun|1
+zal/[1,2]|verb|hd/vc|ben/[5,6]|verb|1
+aan/[7,8]|prep|hd/obj1|accent/[10,11]|noun|1
+accent/[10,11]|noun|hd/det|het/[8,9]|det|1
+accent/[10,11]|noun|hd/mod|Limburgs/[9,10]|adj|1
+accent/[10,11]|noun|hd/mod|van/[11,12]|prep|1
+erger/[2,3]|verb|-- / --|./[19,20]|punct|1
+erger/[2,3]|verb|hd/mod|gezegd/[1,2]|adj|1
+erger/[2,3]|verb|hd/mod|ook/[5,6]|adv|1
+erger/[2,3]|verb|hd/mod|wel/[6,7]|adj|1
+erger/[2,3]|verb|hd/pc|aan/[7,8]|prep|1
+erger/[2,3]|verb|hd/se|me/[4,5]|pron|1
+erger/[2,3]|verb|hd/su|ik/[3,4]|pron|1
+gezegd/[1,2]|adj|hd/mod|eerlijk/[0,1]|adj|1
+lied/[17,18]|noun|hd/det|dat/[16,17]|det|1
+meisje/[13,14]|noun|hd/det|dat/[12,13]|det|1
+meisje/[13,14]|noun|hd/mod|waarover/[14,15]|pp|1
+schrijf/[18,19]|verb|hd/obj1|lied/[17,18]|noun|1
+schrijf/[18,19]|verb|hd/pc|waarover/[14,15]|pp|1
+schrijf/[18,19]|verb|hd/su|Rocco/[15,16]|name|1
+top/top|top|top/hd|erger/[2,3]|verb|1
+van/[11,12]|prep|hd/obj1|meisje/[13,14]|noun|1
+waarover/[14,15]|pp|rhd/body|schrijf/[18,19]|verb|1
+afwijking/[7,8]|noun|hd/det|mijn/[5,6]|det|1
+afwijking/[7,8]|noun|hd/mod|aangeboren/[6,7]|adj|1
+afwijking/[7,8]|noun|hd/mod|tegenover/[8,9]|prep|1
+ben/[10,11]|verb|hd/mod|gewoon/[4,5]|adj|1
+ben/[10,11]|verb|hd/mod|wel/[3,4]|adj|1
+ben/[10,11]|verb|hd/predc|afwijking/[7,8]|noun|1
+ben/[10,11]|verb|hd/su|dat/[1,2]|det|1
+maar/[0,1]|comp|-- / --|./[11,12]|punct|1
+maar/[0,1]|comp|dlink/nucl|zal/[2,3]|verb|1
+tegenover/[8,9]|prep|hd/obj1|Limburger/[9,10]|noun|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+zal/[2,3]|verb|hd/su|dat/[1,2]|det|1
+zal/[2,3]|verb|hd/vc|ben/[10,11]|verb|1
+ben/[1,2]|verb|-- / --|./[6,7]|punct|1
+ben/[1,2]|verb|hd/mod|er/[2,3]|adv|1
+ben/[1,2]|verb|hd/mod|gelukkig/[0,1]|adj|1
+ben/[1,2]|verb|hd/mod|nog/[3,4]|adv|1
+ben/[1,2]|verb|hd/su|Matteo Simoni/[4,6]|name|1
+top/top|top|top/hd|ben/[1,2]|verb|1

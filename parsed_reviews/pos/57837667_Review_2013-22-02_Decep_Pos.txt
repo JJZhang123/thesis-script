@@ -1,0 +1,63 @@
+ben/[7,8]|verb|-- / --|./[11,12]|punct|1
+ben/[7,8]|verb|hd/su|ik/[8,9]|pron|1
+ben/[7,8]|verb|hd/vc|verkoop/[10,11]|verb|1
+kom/[6,7]|verb|hd/ld|op/[3,4]|prep|1
+kom/[6,7]|verb|hd/su|propname/[2,3]|noun|1
+markt/[5,6]|noun|hd/det|de/[4,5]|det|1
+op/[3,4]|prep|hd/obj1|markt/[5,6]|noun|1
+propname/[2,3]|noun|hd/det|de/[1,2]|det|1
+toen/[0,1]|comp|cmp/body|kom/[6,7]|verb|1
+top/top|top|top/hd|ben/[7,8]|verb|1
+verkoop/[10,11]|verb|hd/mod|meteen/[9,10]|adv|1
+verkoop/[10,11]|verb|hd/mod|toen/[0,1]|comp|1
+verkoop/[10,11]|verb|hd/obj1|ik/[8,9]|pron|1
+bediening/[10,11]|noun|hd/det|de/[7,8]|det|1
+bediening/[10,11]|noun|hd/mod|Wii/[9,10]|name|1
+bediening/[10,11]|noun|hd/mod|geïntegreerd/[8,9]|adj|1
+ben/[6,7]|verb|hd/predc|troef/[13,14]|noun|1
+ben/[6,7]|verb|hd/su|bediening/[10,11]|noun|1
+gamer ben,/[4,6]|name|hd/det|een/[2,3]|det|1
+gamer ben,/[4,6]|name|hd/mod|fervent/[3,4]|adj|1
+ik/[1,2]|pron|-- / --|./[14,15]|punct|1
+ik/[1,2]|pron|-- / --|aangezien/[0,1]|comp|1
+ik/[1,2]|pron|dp/dp|ben/[6,7]|verb|1
+ik/[1,2]|pron|dp/dp|gamer ben,/[4,6]|name|1
+top/top|top|top/hd|ik/[1,2]|pron|1
+troef/[13,14]|noun|hd/det|een/[11,12]|det|1
+troef/[13,14]|noun|hd/mod|groot/[12,13]|adj|1
+Wii-console/[9,10]|name|hd/det|de/[8,9]|det|1
+eenvoudig/[4,5]|adj|hd/mod|heel/[3,4]|adv|1
+game/[5,6]|verb|hd/mod|eenvoudig/[4,5]|adj|1
+game/[5,6]|verb|hd/mod|nu/[2,3]|adv|1
+game/[5,6]|verb|hd/mod|zonder/[6,7]|comp|1
+game/[5,6]|verb|hd/su|ik/[0,1]|pron|1
+kan/[1,2]|verb|-- / --|./[13,14]|punct|1
+kan/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+kan/[1,2]|verb|hd/vc|game/[5,6]|verb|1
+moet/[11,12]|verb|hd/vc|zoek/[12,13]|verb|1
+te/[10,11]|comp|cmp/body|moet/[11,12]|verb|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+zoek/[12,13]|verb|hd/mod|eerst/[7,8]|adv|1
+zoek/[12,13]|verb|hd/obj1|Wii-console/[9,10]|name|1
+zonder/[6,7]|comp|cmp/body|te/[10,11]|comp|1
+batterij/[5,6]|noun|hd/mod|leeg/[4,5]|adj|1
+ben/[6,7]|verb|-- / --|./[17,18]|punct|1
+ben/[6,7]|verb|hd/mod|door/[7,8]|prep|1
+ben/[6,7]|verb|hd/predc|van de baan/[14,17]|adj|1
+ben/[6,7]|verb|hd/su|probleem/[2,3]|noun|1
+door/[7,8]|prep|hd/obj1|laad_op/[9,10]|verb|1
+laad_op/[9,10]|verb|hd/det|het/[8,9]|det|1
+laad_op/[9,10]|verb|hd/mod|van/[10,11]|prep|1
+probleem/[2,3]|noun|hd/det|het/[1,2]|det|1
+probleem/[2,3]|noun|hd/mod|ook/[0,1]|adv|1
+probleem/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+smartphone/[12,13]|noun|hd/det|mijn/[11,12]|det|1
+top/top|top|top/hd|ben/[6,7]|verb|1
+van/[3,4]|prep|hd/obj1|batterij/[5,6]|noun|1
+van/[10,11]|prep|hd/obj1|smartphone/[12,13]|noun|1
+van de baan/[14,17]|adj|hd/mod|volledig/[13,14]|adj|1
+aanrader/[2,3]|noun|-- / --|./[4,5]|punct|1
+aanrader/[2,3]|noun|hd/det|een/[0,1]|det|1
+aanrader/[2,3]|noun|hd/mod|dus/[3,4]|adv|1
+aanrader/[2,3]|noun|hd/mod|echt/[1,2]|adj|1
+top/top|top|top/hd|aanrader/[2,3]|noun|1

@@ -1,0 +1,68 @@
+boek/[3,4]|noun|hd/app|PROPNAME/[4,5]|name|1
+boek/[3,4]|noun|hd/det|het/[2,3]|det|1
+duidelijk/[7,8]|adj|hd/mod|zeer/[6,7]|adv|1
+handleiding/[8,9]|noun|hd/det|een/[5,6]|det|1
+handleiding/[8,9]|noun|hd/mod|duidelijk/[7,8]|adj|1
+top/top|top|top/hd|vind/[1,2]|verb|1
+vind/[1,2]|verb|-- / --|./[9,10]|punct|1
+vind/[1,2]|verb|hd/obj1|boek/[3,4]|noun|1
+vind/[1,2]|verb|hd/predc|handleiding/[8,9]|noun|1
+vind/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+boek/[8,9]|noun|hd/app|waterboarden,/[9,10]|noun|1
+boek/[8,9]|noun|hd/det|dit/[7,8]|det|1
+dat/[15,16]|comp|cmp/body|heb/[20,21]|verb|1
+en/[10,11]|vg|-- / --|./[21,22]|punct|1
+en/[10,11]|vg|crd/cnj|leer/[2,3]|verb|1
+en/[10,11]|vg|crd/cnj|moet/[12,13]|verb|1
+geef_toe/[14,15]|verb|hd/mod|eerlijk/[13,14]|adj|1
+geef_toe/[14,15]|verb|hd/su|ik/[11,12]|pron|1
+geef_toe/[14,15]|verb|hd/vc|dat/[15,16]|comp|1
+heb/[20,21]|verb|hd/su|het/[16,17]|det|1
+heb/[20,21]|verb|hd/vc|help/[19,20]|verb|1
+help/[19,20]|verb|hd/mod|enorm/[18,19]|adj|1
+help/[19,20]|verb|hd/obj1|me/[17,18]|pron|1
+help/[19,20]|verb|hd/su|het/[16,17]|det|1
+leer/[2,3]|verb|hd/mod|met behulp van/[4,7]|prep|1
+leer/[2,3]|verb|hd/mod|zomer/[1,2]|noun|1
+leer/[2,3]|verb|hd/su|ik/[3,4]|pron|1
+met behulp van/[4,7]|prep|hd/obj1|boek/[8,9]|noun|1
+moet/[12,13]|verb|hd/su|ik/[11,12]|pron|1
+moet/[12,13]|verb|hd/vc|geef_toe/[14,15]|verb|1
+top/top|top|top/hd|en/[10,11]|vg|1
+zomer/[1,2]|noun|hd/mod|vorig/[0,1]|adj|1
+begin/[14,15]|verb|hd/pc|eraan/[12,13]|pp|1
+om/[11,12]|comp|cmp/body|te/[13,14]|comp|1
+pak/[8,9]|noun|hd/det|een/[7,8]|det|1
+te/[13,14]|comp|cmp/body|begin/[14,15]|verb|1
+top/top|top|top/hd|word/[1,2]|verb|1
+verduidelijk/[4,5]|verb|hd/mod|er/[2,3]|adv|1
+verduidelijk/[4,5]|verb|hd/mod|stapsgewijs/[3,4]|adj|1
+verduidelijk/[4,5]|verb|hd/mod|waardoor/[5,6]|pp|1
+verduidelijk/[4,5]|verb|hd/obj1|alles/[0,1]|noun|1
+waardoor/[5,6]|pp|rhd/body|word/[10,11]|verb|1
+word/[1,2]|verb|-- / --|./[15,16]|punct|1
+word/[1,2]|verb|hd/su|alles/[0,1]|noun|1
+word/[1,2]|verb|hd/vc|verduidelijk/[4,5]|verb|1
+word/[10,11]|verb|hd/mod|waardoor/[5,6]|pp|1
+word/[10,11]|verb|hd/obj2|pak/[8,9]|noun|1
+word/[10,11]|verb|hd/predc|makkelijk/[9,10]|adj|1
+word/[10,11]|verb|hd/su|om/[11,12]|comp|1
+word/[10,11]|verb|hd/sup|het/[6,7]|noun|1
+boek/[5,6]|noun|hd/det|het/[4,5]|det|1
+in/[3,4]|prep|hd/obj1|boek/[5,6]|noun|1
+krijg/[18,19]|verb|hd/mod|goed/[13,14]|adj|1
+krijg/[18,19]|verb|hd/mod|nog/[12,13]|adv|1
+krijg/[18,19]|verb|hd/obj1|waterboarden/[11,12]|noun|1
+krijg/[18,19]|verb|hd/svp|onder de knie/[14,17]|fixed|1
+oefening/[8,9]|noun|hd/mod|handig/[7,8]|adj|1
+oefening/[8,9]|noun|hd/vc|om/[9,10]|comp|1
+om/[9,10]|comp|cmp/body|te/[17,18]|comp|1
+te/[17,18]|comp|cmp/body|krijg/[18,19]|verb|1
+top/top|top|top/hd|vind/[1,2]|verb|1
+vind/[1,2]|verb|-- / --|./[19,20]|punct|1
+vind/[1,2]|verb|hd/mod|achteraan/[2,3]|adv|1
+vind/[1,2]|verb|hd/mod|in/[3,4]|prep|1
+vind/[1,2]|verb|hd/mod|ook/[6,7]|adv|1
+vind/[1,2]|verb|hd/obj1|oefening/[8,9]|noun|1
+vind/[1,2]|verb|hd/su|je/[0,1]|pron|1
+waterboarden/[11,12]|noun|hd/det|het/[10,11]|det|1

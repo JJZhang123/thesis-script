@@ -1,0 +1,60 @@
+PROPNAME/[0,1]|name|-- / --|./[1,2]|punct|1
+top/top|top|top/hd|PROPNAME/[0,1]|name|1
+./[1,2]|punct|-- / --|PROPNAME/[0,1]|name|1
+top/top|top|top/hd|./[1,2]|punct|1
+ben/[1,2]|verb|-- / --|./[3,4]|punct|1
+ben/[1,2]|verb|hd/predc|fan/[2,3]|noun|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+ben/[2,3]|verb|hd/predc|goedkoop/[3,4]|adj|1
+ben/[2,3]|verb|hd/su|koffie/[1,2]|noun|1
+ben/[7,8]|verb|hd/predc|onweerstaanbaar/[8,9]|adj|1
+ben/[7,8]|verb|hd/su|worst_broodje/[6,7]|noun|1
+en/[4,5]|vg|-- / --|./[9,10]|punct|1
+en/[4,5]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[4,5]|vg|crd/cnj|ben/[7,8]|verb|1
+koffie/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|en/[4,5]|vg|1
+worst_broodje/[6,7]|noun|hd/det|de/[5,6]|det|1
+geld/[3,4]|noun|hd/mod|slechts/[1,2]|adv|1
+geld/[3,4]|noun|hd/mod|wenig/[2,3]|adj|1
+kan/[4,5]|verb|-- / --|./[11,12]|punct|1
+kan/[4,5]|verb|hd/su|je/[5,6]|pron|1
+kan/[4,5]|verb|hd/vc|kies/[6,7]|verb|1
+kies/[6,7]|verb|hd/mod|met/[0,1]|prep|1
+kies/[6,7]|verb|hd/pc|uit/[7,8]|prep|1
+kies/[6,7]|verb|hd/su|je/[5,6]|pron|1
+met/[0,1]|prep|hd/obj1|geld/[3,4]|noun|1
+snack/[10,11]|noun|hd/det|veel/[8,9]|adj|1
+snack/[10,11]|noun|hd/mod|verschil/[9,10]|adj|1
+top/top|top|top/hd|kan/[4,5]|verb|1
+uit/[7,8]|prep|hd/obj1|snack/[10,11]|noun|1
+en/[6,7]|vg|crd/cnj|broodje/[7,8]|noun|1
+en/[6,7]|vg|crd/cnj|salade/[5,6]|noun|1
+koffie_koek/[3,4]|noun|hd/mod|tot/[4,5]|prep|1
+pizza/[1,2]|noun|hd/mod|tot/[2,3]|prep|1
+top/top|top|top/hd|van/[0,1]|prep|1
+tot/[2,3]|prep|hd/obj1|koffie_koek/[3,4]|noun|1
+tot/[4,5]|prep|hd/obj1|en/[6,7]|vg|1
+van/[0,1]|prep|-- / --|./[8,9]|punct|1
+van/[0,1]|prep|hd/obj1|pizza/[1,2]|noun|1
+bediening/[3,4]|noun|hd/det|de/[1,2]|det|1
+bediening/[3,4]|noun|hd/mod|ook/[0,1]|adv|1
+bediening/[3,4]|noun|hd/mod|snel/[2,3]|adj|1
+top/top|top|top/hd|vind/[4,5]|verb|1
+vind/[4,5]|verb|-- / --|./[7,8]|punct|1
+vind/[4,5]|verb|hd/obj1|bediening/[3,4]|noun|1
+vind/[4,5]|verb|hd/predc|super/[6,7]|adj|1
+vind/[4,5]|verb|hd/su|ik/[5,6]|pron|1
+ben/[1,2]|verb|-- / --|./[11,12]|punct|1
+ben/[1,2]|verb|hd/predc|concept/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+concept/[4,5]|noun|hd/det|het/[2,3]|det|1
+concept/[4,5]|noun|hd/mod|perfect/[3,4]|adj|1
+concept/[4,5]|noun|hd/mod|voor/[5,6]|prep|1
+knabbelaar/[8,9]|noun|hd/det|een/[6,7]|det|1
+knabbelaar/[8,9]|noun|hd/mod|echt/[7,8]|adj|1
+knabbelaar/[8,9]|noun|hd/mod|zoals/[9,10]|comp|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+voor/[5,6]|prep|hd/obj1|knabbelaar/[8,9]|noun|1
+zoals/[9,10]|comp|cmp/body|ik/[10,11]|pron|1

@@ -1,0 +1,114 @@
+ben/[10,11]|verb|-- / --|./[22,23]|punct|1
+ben/[10,11]|verb|hd/su|komedie/[14,15]|noun|1
+ben/[10,11]|verb|hd/vc|schrijf/[15,16]|verb|1
+door/[16,17]|prep|hd/obj1|en/[19,20]|vg|1
+en/[5,6]|vg|crd/cnj|Knocked-up/[4,5]|name|1
+en/[5,6]|vg|crd/cnj|The 40-year old virgin/[6,10]|name|1
+en/[19,20]|vg|crd/cnj|Annie Mumolo/[20,22]|name|1
+en/[19,20]|vg|crd/cnj|Kirsten Wiig/[17,19]|name|1
+komedie/[14,15]|noun|hd/mod|romantisch/[13,14]|adj|1
+maker/[2,3]|noun|hd/det|de/[1,2]|det|1
+maker/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+schrijf/[15,16]|verb|hd/mod|door/[16,17]|prep|1
+schrijf/[15,16]|verb|hd/mod|er/[11,12]|adv|1
+schrijf/[15,16]|verb|hd/mod|nu/[12,13]|adv|1
+schrijf/[15,16]|verb|hd/mod|van/[0,1]|prep|1
+schrijf/[15,16]|verb|hd/obj1|komedie/[14,15]|noun|1
+top/top|top|top/hd|ben/[10,11]|verb|1
+van/[0,1]|prep|hd/obj1|maker/[2,3]|noun|1
+van/[3,4]|prep|hd/obj1|en/[5,6]|vg|1
+ben/[2,3]|verb|-- / --|./[7,8]|punct|1
+ben/[2,3]|verb|hd/predc|chickflick/[6,7]|noun|1
+ben/[2,3]|verb|hd/su|PROPNAME 2011/[0,2]|name|1
+chickflick/[6,7]|noun|hd/det|een/[3,4]|det|1
+chickflick/[6,7]|noun|hd/mod|Amerikaans/[5,6]|adj|1
+chickflick/[6,7]|noun|hd/mod|typisch/[4,5]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+aandacht/[19,20]|noun|hd/det|de/[18,19]|det|1
+aandacht/[19,20]|noun|hd/mod|van/[20,21]|prep|1
+bruid/[22,23]|noun|hd/app|Lilian/[23,24]|name|1
+bruid/[22,23]|noun|hd/det|de/[21,22]|det|1
+bruid_meisje/[11,12]|noun|hd/app|Helen/[12,13]|name|1
+bruid_meisje/[11,12]|noun|hd/det|het/[10,11]|det|1
+competitie/[4,5]|noun|hd/det|de/[3,4]|det|1
+competitie/[4,5]|noun|hd/mod|tussen/[5,6]|prep|1
+competitie/[4,5]|noun|hd/mod|waar/[13,14]|adv|1
+en/[9,10]|vg|crd/cnj|bruid_meisje/[11,12]|noun|1
+en/[9,10]|vg|crd/cnj|getuige/[7,8]|noun|1
+ga/[1,2]|verb|-- / --|./[24,25]|punct|1
+ga/[1,2]|verb|hd/pc|over/[2,3]|prep|1
+ga/[1,2]|verb|hd/su|het/[0,1]|det|1
+getuige/[7,8]|noun|hd/app|Annie/[8,9]|name|1
+getuige/[7,8]|noun|hd/det|de/[6,7]|det|1
+over/[2,3]|prep|hd/obj1|competitie/[4,5]|noun|1
+top/top|top|top/hd|ga/[1,2]|verb|1
+tussen/[5,6]|prep|hd/obj1|en/[9,10]|vg|1
+van/[20,21]|prep|hd/obj1|bruid/[22,23]|noun|1
+vecht/[16,17]|verb|hd/mod|waar/[13,14]|adv|1
+vecht/[16,17]|verb|hd/pc|voor/[17,18]|prep|1
+vecht/[16,17]|verb|hd/predm|beide/[15,16]|adv|1
+vecht/[16,17]|verb|hd/su|ze/[14,15]|pron|1
+voor/[17,18]|prep|hd/obj1|aandacht/[19,20]|noun|1
+waar/[13,14]|adv|rhd/body|vecht/[16,17]|verb|1
+als/[4,5]|comp|cmp/body|getuige/[5,6]|noun|1
+besluit/[1,2]|verb|hd/su|Annie/[0,1]|name|1
+besluit/[1,2]|verb|hd/vc|te/[7,8]|comp|1
+en/[9,10]|vg|-- / --|./[14,15]|punct|1
+en/[9,10]|vg|crd/cnj|besluit/[1,2]|verb|1
+en/[9,10]|vg|crd/cnj|plan/[10,11]|verb|1
+neem/[8,9]|verb|hd/obj1|rol/[3,4]|noun|1
+neem/[8,9]|verb|hd/predc|serieus/[6,7]|adj|1
+neem/[8,9]|verb|hd/su|Annie/[0,1]|name|1
+plan/[10,11]|verb|hd/obj1|trip/[13,14]|noun|1
+plan/[10,11]|verb|hd/su|Annie/[0,1]|name|1
+rol/[3,4]|noun|hd/det|haar/[2,3]|det|1
+rol/[3,4]|noun|hd/mod|als/[4,5]|comp|1
+te/[7,8]|comp|cmp/body|neem/[8,9]|verb|1
+top/top|top|top/hd|en/[9,10]|vg|1
+trip/[13,14]|noun|hd/det|een/[11,12]|det|1
+trip/[13,14]|noun|hd/mod|wild/[12,13]|adj|1
+blijk/[2,3]|verb|-- / --|./[8,9]|punct|1
+blijk/[2,3]|verb|dp/dp|ben/[7,8]|verb|1
+blijk/[2,3]|verb|hd/mod|snel/[1,2]|adj|1
+blijk/[2,3]|verb|hd/predc|bruid_meisje/[6,7]|noun|1
+blijk/[2,3]|verb|hd/predm|allemaal/[4,5]|adv|1
+blijk/[2,3]|verb|hd/su|het/[3,4]|noun|1
+bruid_meisje/[6,7]|noun|hd/mod|snobistisch/[5,6]|adj|1
+snel/[1,2]|adj|hd/mod|al/[0,1]|adv|1
+top/top|top|top/hd|blijk/[2,3]|verb|1
+ben/[2,3]|verb|-- / --|./[4,5]|punct|1
+ben/[2,3]|verb|hd/predc|teleurstellend/[3,4]|adj|1
+ben/[2,3]|verb|hd/su|film/[1,2]|noun|1
+film/[1,2]|noun|hd/det|deze/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+los_in/[6,7]|verb|hd/mod|niet/[5,6]|adv|1
+los_in/[6,7]|verb|hd/mod|ook/[4,5]|adv|1
+los_in/[6,7]|verb|hd/obj1|verwachting/[2,3]|noun|1
+top/top|top|top/hd|word/[3,4]|verb|1
+verwachting/[2,3]|noun|hd/det|de/[0,1]|det|1
+verwachting/[2,3]|noun|hd/mod|hoog/[1,2]|adj|1
+word/[3,4]|verb|-- / --|./[7,8]|punct|1
+word/[3,4]|verb|hd/su|verwachting/[2,3]|noun|1
+word/[3,4]|verb|hd/vc|los_in/[6,7]|verb|1
+gedeelte/[8,9]|noun|hd/det|het/[6,7]|det|1
+gedeelte/[8,9]|noun|hd/mod|romantisch/[7,8]|adj|1
+komedie/[4,5]|noun|hd/det|de/[3,4]|det|1
+ontbreek/[1,2]|verb|-- / --|./[10,11]|punct|1
+ontbreek/[1,2]|verb|hd/mod|bovendien/[0,1]|adv|1
+ontbreek/[1,2]|verb|hd/mod|volledig/[9,10]|adj|1
+ontbreek/[1,2]|verb|hd/su|zowel/[2,3]|vg|1
+top/top|top|top/hd|ontbreek/[1,2]|verb|1
+zowel/[2,3]|vg|crd/cnj|gedeelte/[8,9]|noun|1
+zowel/[2,3]|vg|crd/cnj|komedie/[4,5]|noun|1
+zowel/[2,3]|vg|crd/crd|als/[5,6]|vg|1
+film/[1,2]|noun|hd/det|deze/[0,1]|det|1
+hoor_thuis/[2,3]|verb|-- / --|./[10,11]|punct|1
+hoor_thuis/[2,3]|verb|hd/ld|in/[5,6]|prep|1
+hoor_thuis/[2,3]|verb|hd/mod|niet/[3,4]|adv|1
+hoor_thuis/[2,3]|verb|hd/su|film/[1,2]|noun|1
+hoor_thuis/[2,3]|verb|hd/svp|thuis/[4,5]|part|1
+in/[5,6]|prep|hd/obj1|rij_DIM/[7,8]|noun|1
+rij_DIM/[7,8]|noun|hd/det|het/[6,7]|det|1
+rij_DIM/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+top/top|top|top/hd|hoor_thuis/[2,3]|verb|1
+van/[8,9]|prep|hd/obj1|klassieker/[9,10]|noun|1

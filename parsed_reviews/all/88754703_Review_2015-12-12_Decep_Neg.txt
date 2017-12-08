@@ -1,0 +1,66 @@
+en/[6,7]|vg|crd/cnj|kitsch/[5,6]|noun|1
+en/[6,7]|vg|crd/cnj|outdated_verhaal/[7,9]|noun|1
+in/[0,1]|prep|hd/obj1|PROPNAME/[1,2]|name|1
+kitsch/[5,6]|noun|hd/det|een/[3,4]|det|1
+kitsch/[5,6]|noun|hd/mod|volledig/[4,5]|adj|1
+outdated_verhaal/[7,9]|noun|hd/det|een/[3,4]|det|1
+outdated_verhaal/[7,9]|noun|hd/mod|volledig/[4,5]|adj|1
+top/top|top|top/hd|word/[2,3]|verb|1
+vertel/[9,10]|verb|hd/mod|in/[0,1]|prep|1
+vertel/[9,10]|verb|hd/obj1|en/[6,7]|vg|1
+word/[2,3]|verb|-- / --|./[10,11]|punct|1
+word/[2,3]|verb|hd/su|en/[6,7]|vg|1
+word/[2,3]|verb|hd/vc|vertel/[9,10]|verb|1
+eeuw/[11,12]|noun|hd/det|de/[9,10]|det|1
+eeuw/[11,12]|noun|hd/mod|17de/[10,11]|num|1
+eeuw/[11,12]|noun|hd/mod|dan/[12,13]|adv|1
+eeuw/[11,12]|noun|hd/mod|onder/[13,14]|prep|1
+hoor_thuis/[2,3]|verb|-- / --|./[18,19]|punct|1
+hoor_thuis/[2,3]|verb|hd/mod|onder/[5,6]|prep|1
+hoor_thuis/[2,3]|verb|hd/mod|veeleer/[3,4]|adv|1
+hoor_thuis/[2,3]|verb|hd/su|roman/[1,2]|noun|1
+hoor_thuis/[2,3]|verb|hd/svp|thuis/[4,5]|part|1
+onder/[5,6]|prep|hd/obj1|station_roman_DIM/[7,8]|noun|1
+onder/[13,14]|prep|hd/obj1|hip, hot and happening/[14,18]|name|1
+roman/[1,2]|noun|hd/det|deze/[0,1]|det|1
+station_roman_DIM/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+station_roman_DIM/[7,8]|noun|hd/mod|vergeten/[6,7]|adj|1
+top/top|top|top/hd|hoor_thuis/[2,3]|verb|1
+van/[8,9]|prep|hd/obj1|eeuw/[11,12]|noun|1
+ben/[5,6]|verb|hd/predc|simplistisch/[8,9]|adj|1
+ben/[5,6]|verb|hd/su|en/[2,3]|vg|1
+en/[2,3]|vg|crd/cnj|structuur/[4,5]|noun|1
+en/[2,3]|vg|crd/cnj|verhaal/[1,2]|noun|1
+en/[9,10]|vg|-- / --|./[30,31]|punct|1
+en/[9,10]|vg|-- / --|te/[28,29]|comp|1
+en/[9,10]|vg|-- / --|word/[29,30]|verb|1
+en/[9,10]|vg|crd/cnj|ben/[5,6]|verb|1
+en/[9,10]|vg|crd/cnj|geef/[10,11]|verb|1
+en/[9,10]|vg|dp/dp|laat/[19,20]|verb|1
+en/[9,10]|vg|dp/dp|werk/[27,28]|verb|1
+en/[25,26]|vg|crd/cnj|om/[21,22]|comp|1
+en/[25,26]|vg|crd/cnj|uit/[26,27]|adj|1
+geef/[10,11]|verb|hd/mod|niet/[13,14]|adv|1
+geef/[10,11]|verb|hd/obj1|ruimte/[15,16]|noun|1
+geef/[10,11]|verb|hd/obj2|personage/[12,13]|noun|1
+geef/[10,11]|verb|hd/su|en/[2,3]|vg|1
+groei/[24,25]|verb|hd/mod|psychologisch/[22,23]|adj|1
+laat/[19,20]|verb|hd/mod|en/[25,26]|vg|1
+laat/[19,20]|verb|hd/vc|sta/[20,21]|verb|1
+om/[16,17]|comp|cmp/body|te/[17,18]|comp|1
+om/[21,22]|comp|cmp/body|te/[23,24]|comp|1
+personage/[12,13]|noun|hd/det|de/[11,12]|det|1
+ruimte/[15,16]|noun|hd/det|de/[14,15]|det|1
+ruimte/[15,16]|noun|hd/vc|om/[16,17]|comp|1
+simplistisch/[8,9]|adj|hd/mod|te/[7,8]|adv|1
+structuur/[4,5]|noun|hd/det|zijn/[3,4]|det|1
+te/[7,8]|adv|hd/me|veel/[6,7]|adj|1
+te/[17,18]|comp|cmp/body|adem/[18,19]|verb|1
+te/[23,24]|comp|cmp/body|groei/[24,25]|verb|1
+top/top|top|top/hd|en/[9,10]|vg|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+in/[1,2]|prep|hd/obj1|kitsch_jas_DIM/[3,5]|noun|1
+kitsch/[0,1]|noun|-- / --|./[5,6]|punct|1
+kitsch/[0,1]|noun|hd/mod|in/[1,2]|prep|1
+kitsch_jas_DIM/[3,5]|noun|hd/det|een/[2,3]|det|1
+top/top|top|top/hd|kitsch/[0,1]|noun|1

@@ -1,0 +1,143 @@
+afkorting/[5,6]|noun|hd/det|de/[4,5]|det|1
+afkorting/[5,6]|noun|hd/mod|voor/[6,7]|prep|1
+ben/[12,13]|verb|hd/predc|lachwekkend/[14,15]|adj|1
+ben/[12,13]|verb|hd/su|afkorting/[5,6]|noun|1
+lachwekkend/[14,15]|adj|hd/mod|ronduit/[13,14]|adv|1
+muziek_duo/[2,3]|noun|-- / --|./[15,16]|punct|1
+muziek_duo/[2,3]|noun|dp/dp|ben/[12,13]|verb|1
+muziek_duo/[2,3]|noun|hd/app|PROPNAME/[3,4]|name|1
+muziek_duo/[2,3]|noun|hd/det|het/[0,1]|det|1
+muziek_duo/[2,3]|noun|hd/mod|Amerikaans/[1,2]|adj|1
+top/top|top|top/hd|muziek_duo/[2,3]|noun|1
+voor/[6,7]|prep|hd/obj1|Laughing My Fucking Ass Off/[7,12]|name|1
+ben/[17,18]|verb|hd/mod|allesbehalve/[19,20]|adv|1
+ben/[17,18]|verb|hd/predc|prestatie/[21,22]|noun|1
+ben/[17,18]|verb|hd/su|dat/[18,19]|det|1
+ben/[17,18]|verb|sat/nucl|ben/[27,28]|verb|1
+ben/[27,28]|verb|hd/mod|in/[22,23]|prep|1
+ben/[27,28]|verb|hd/mod|namelijk/[29,30]|adv|1
+ben/[27,28]|verb|hd/predc|koning/[30,31]|noun|1
+ben/[27,28]|verb|hd/su|één_oog/[28,29]|noun|1
+binnen/[12,13]|prep|hd/obj1|competitie/[16,17]|noun|1
+competitie/[16,17]|noun|hd/det|de/[15,16]|det|1
+duik/[5,6]|verb|-- / --|./[31,32]|punct|1
+duik/[5,6]|verb|dp/dp|ben/[17,18]|verb|1
+duik/[5,6]|verb|hd/mod|keer op keer/[7,10]|adv|1
+duik/[5,6]|verb|hd/mod|maar/[13,14]|vg|1
+duik/[5,6]|verb|hd/mod|met/[0,1]|prep|1
+duik/[5,6]|verb|hd/obj1|hit_lijst/[11,12]|noun|1
+duik/[5,6]|verb|hd/su|ze/[6,7]|pron|1
+gezien/[14,15]|prep|hd/obj1|competitie/[16,17]|noun|1
+hit_lijst/[11,12]|noun|hd/det|de/[10,11]|det|1
+in/[22,23]|prep|hd/obj1|land/[24,25]|noun|1
+land/[24,25]|noun|hd/det|het/[23,24]|det|1
+land/[24,25]|noun|hd/mod|van/[25,26]|prep|1
+maar/[13,14]|vg|crd/cnj|binnen/[12,13]|prep|1
+maar/[13,14]|vg|crd/cnj|gezien/[14,15]|prep|1
+met/[0,1]|prep|hd/obj1|rap_muziek/[4,5]|noun|1
+prestatie/[21,22]|noun|hd/det|een/[20,21]|det|1
+rap_muziek/[4,5]|noun|hd/det|hun/[1,2]|det|1
+rap_muziek/[4,5]|noun|hd/mod|electronisch/[3,4]|adj|1
+rap_muziek/[4,5]|noun|hd/mod|ongeïnspireerd/[2,3]|adj|1
+top/top|top|top/hd|duik/[5,6]|verb|1
+van/[25,26]|prep|hd/obj1|blind/[26,27]|adj|1
+als/[1,2]|comp|cmp/body|en/[7,8]|vg|1
+duur/[19,20]|verb|hd/me|lang/[21,22]|adj|1
+duur/[19,20]|verb|hd/mod|niet/[20,21]|adv|1
+duur/[19,20]|verb|hd/su|het/[18,19]|det|1
+en/[7,8]|vg|crd/cnj|Party Rock Anthem/[8,11]|name|1
+en/[7,8]|vg|crd/cnj|Sexy and I know it/[2,7]|name|1
+leuk/[15,16]|adj|hd/mod|even/[14,15]|adj|1
+lied_DIM/[0,1]|noun|hd/mod|als/[1,2]|comp|1
+mag/[11,12]|verb|-- / --|./[28,29]|punct|1
+mag/[11,12]|verb|dp/dp|of/[22,23]|vg|1
+mag/[11,12]|verb|hd/mod|dan/[12,13]|adv|1
+mag/[11,12]|verb|hd/mod|voor/[13,14]|prep|1
+mag/[11,12]|verb|hd/su|lied_DIM/[0,1]|noun|1
+meezingers zijn,/[16,18]|name|hd/mod|leuk/[15,16]|adj|1
+of/[22,23]|vg|crd/cnj|duur/[19,20]|verb|1
+of/[22,23]|vg|crd/cnj|word/[24,25]|verb|1
+top/top|top|top/hd|mag/[11,12]|verb|1
+van/[27,28]|prep|hd/obj1|er/[25,26]|adv|1
+voor/[13,14]|prep|hd/obj1|meezingers zijn,/[16,18]|name|1
+word/[24,25]|verb|hd/pc|van/[27,28]|prep|1
+word/[24,25]|verb|hd/predc|kot_misselijk/[26,27]|adj|1
+word/[24,25]|verb|hd/su|je/[23,24]|pron|1
+aan/[1,2]|prep|hd/obj1|of/[4,5]|vg|1
+band_lid/[8,9]|noun|hd/app|en/[10,11]|vg|1
+en/[10,11]|vg|crd/cnj|BlueSky/[11,12]|name|1
+en/[10,11]|vg|crd/cnj|Redfoo/[9,10]|name|1
+heb/[7,8]|verb|hd/mod|blijkbaar/[12,13]|adj|1
+heb/[7,8]|verb|hd/pc|aan/[1,2]|prep|1
+heb/[7,8]|verb|hd/su|band_lid/[8,9]|noun|1
+heb/[7,8]|verb|hd/svp|een broertje dood/[13,16]|fixed|1
+of/[4,5]|vg|crd/cnj|diepgang_variatie/[2,4]|noun|1
+of/[4,5]|vg|crd/cnj|talent/[6,7]|noun|1
+talent/[6,7]|noun|hd/mod|lyrisch/[5,6]|adj|1
+top/top|top|top/hd|want/[0,1]|comp|1
+want/[0,1]|comp|-- / --|./[16,17]|punct|1
+want/[0,1]|comp|dlink/nucl|heb/[7,8]|verb|1
+die/[9,10]|pron|rhd/body|moet/[20,21]|verb|1
+eeuw/[17,18]|noun|hd/det|de/[15,16]|det|1
+eeuw/[17,18]|noun|hd/mod|21ste/[16,17]|num|1
+en/[29,30]|vg|crd/cnj|luid/[28,29]|adj|1
+en/[29,30]|vg|crd/cnj|sexy/[30,31]|adj|1
+geld/[19,20]|noun|hd/det|zijn/[18,19]|det|1
+in/[0,1]|prep|hd/obj1|traditie/[2,3]|noun|1
+in/[10,11]|prep|hd/obj1|jaar/[12,13]|noun|1
+jaar/[12,13]|noun|hd/app|10/[13,14]|num|1
+jaar/[12,13]|noun|hd/det|de/[11,12]|det|1
+jaar/[12,13]|noun|hd/mod|van/[14,15]|prep|1
+kom/[35,36]|verb|hd/svp|voor de dag/[32,35]|fixed|1
+luid/[28,29]|adj|hd/mod|zo/[27,28]|adv|1
+moet/[20,21]|verb|hd/su|die/[9,10]|pron|1
+moet/[20,21]|verb|hd/vc|verdien/[21,22]|verb|1
+op/[26,27]|prep|hd/obj1|en/[29,30]|vg|1
+pop_artiest/[8,9]|noun|hd/det|elk/[7,8]|det|1
+pop_artiest/[8,9]|noun|hd/mod|die/[9,10]|pron|1
+pop_artiest/[8,9]|noun|hd/mod|zo goed als/[4,7]|adv|1
+sexy/[30,31]|adj|hd/mod|zo/[27,28]|adv|1
+top/top|top|top/hd|zet_in/[22,23]|verb|1
+traditie/[2,3]|noun|hd/det|de/[1,2]|det|1
+traditie/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+van/[3,4]|prep|hd/obj1|pop_artiest/[8,9]|noun|1
+van/[14,15]|prep|hd/obj1|eeuw/[17,18]|noun|1
+verdien/[21,22]|verb|hd/mod|in/[10,11]|prep|1
+verdien/[21,22]|verb|hd/obj1|geld/[19,20]|noun|1
+verdien/[21,22]|verb|hd/su|die/[9,10]|pron|1
+zet_in/[22,23]|verb|-- / --|./[36,37]|punct|1
+zet_in/[22,23]|verb|dp/dp|kom/[35,36]|verb|1
+zet_in/[22,23]|verb|hd/mod|in/[0,1]|prep|1
+zet_in/[22,23]|verb|hd/mod|ook/[23,24]|adv|1
+zet_in/[22,23]|verb|hd/obj1|PROPNAME/[24,25]|name|1
+zet_in/[22,23]|verb|hd/pc|op/[26,27]|prep|1
+zet_in/[22,23]|verb|hd/svp|in/[25,26]|part|1
+zo/[27,28]|adv|hd/obcomp|mogelijk/[31,32]|adj|1
+aangezien/[10,11]|comp|cmp/body|ben/[14,15]|verb|1
+aardig/[8,9]|adj|hd/mod|te/[7,8]|adv|1
+ben/[14,15]|verb|hd/predc|lelijkaards/[13,14]|noun|1
+ben/[14,15]|verb|hd/su|ze/[11,12]|pron|1
+eerste/[1,2]|num|hd/det|dat/[0,1]|det|1
+en/[4,5]|vg|crd/cnj|BlueSky/[5,6]|name|1
+en/[4,5]|vg|crd/cnj|Redfoo/[3,4]|name|1
+gebruik/[15,16]|verb|hd/mod|aangezien/[10,11]|comp|1
+gebruik/[15,16]|verb|hd/obj1|resem/[21,22]|noun|1
+gebruik/[15,16]|verb|hd/pc|voor/[17,18]|prep|1
+gebruik/[15,16]|verb|hd/su|ze/[16,17]|pron|1
+lelijkaards/[13,14]|noun|hd/det|beide/[12,13]|det|1
+luk/[2,3]|verb|hd/mod|aardig/[8,9]|adj|1
+luk/[2,3]|verb|hd/obj2|en/[4,5]|vg|1
+luk/[2,3]|verb|hd/su|eerste/[1,2]|num|1
+maar/[9,10]|vg|-- / --|./[25,26]|punct|1
+maar/[9,10]|vg|crd/cnj|gebruik/[15,16]|verb|1
+maar/[9,10]|vg|crd/cnj|luk/[2,3]|verb|1
+resem/[21,22]|noun|hd/det|een/[20,21]|det|1
+resem/[21,22]|noun|hd/mod|babes in bikinis/[22,25]|name|1
+te/[7,8]|adv|hd/mod|al/[6,7]|adv|1
+top/top|top|top/hd|maar/[9,10]|vg|1
+tweede/[19,20]|num|hd/det|dat/[18,19]|det|1
+voor/[17,18]|prep|hd/obj1|tweede/[19,20]|num|1
+top/top|top|top/hd|zucht/[0,1]|noun|1
+zucht/[0,1]|noun|-- / --|./[1,2]|punct|1
+./[1,2]|punct|-- / --|zucht/[0,1]|noun|1
+top/top|top|top/hd|./[1,2]|punct|1

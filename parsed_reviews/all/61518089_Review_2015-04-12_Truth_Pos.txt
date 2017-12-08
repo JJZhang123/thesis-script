@@ -1,0 +1,102 @@
+ben/[10,11]|verb|-- / --|./[18,19]|punct|1
+ben/[10,11]|verb|hd/mod|toen/[14,15]|comp|1
+ben/[10,11]|verb|hd/obj2|fan/[2,3]|noun|1
+ben/[10,11]|verb|hd/predc|benieuwd/[13,14]|adj|1
+ben/[10,11]|verb|hd/su|ik/[11,12]|pron|1
+benieuwd/[13,14]|adj|hd/mod|erg/[12,13]|adj|1
+fan/[2,3]|noun|hd/det|een/[0,1]|det|1
+fan/[2,3]|noun|hd/mod|groot/[1,2]|adj|1
+fan/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+film/[16,17]|noun|hd/det|deze/[15,16]|det|1
+heer/[6,7]|noun|hd/app|Woody Allen zijnde,/[7,10]|name|1
+heer/[6,7]|noun|hd/det|de/[4,5]|det|1
+heer/[6,7]|noun|hd/mod|groot/[5,6]|adj|1
+kom_uit/[17,18]|verb|hd/su|film/[16,17]|noun|1
+toen/[14,15]|comp|cmp/body|kom_uit/[17,18]|verb|1
+top/top|top|top/hd|ben/[10,11]|verb|1
+van/[3,4]|prep|hd/obj1|heer/[6,7]|noun|1
+ben/[9,10]|verb|hd/su|ik/[10,11]|pron|1
+ben/[9,10]|verb|hd/vc|kom/[17,18]|verb|1
+cinema_zaal/[16,17]|noun|hd/det|een/[15,16]|det|1
+en/[7,8]|vg|-- / --|./[18,19]|punct|1
+en/[7,8]|vg|crd/cnj|ben/[9,10]|verb|1
+en/[7,8]|vg|crd/cnj|ga/[1,2]|verb|1
+ga/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+ga/[1,2]|verb|hd/vc|zie/[6,7]|verb|1
+gelukkig/[12,13]|adj|hd/mod|zo/[11,12]|adv|1
+in/[4,5]|prep|hd/obj1|première/[5,6]|noun|1
+kom/[17,18]|verb|hd/ld|uit/[14,15]|prep|1
+kom/[17,18]|verb|hd/mod|gelukkig/[12,13]|adj|1
+kom/[17,18]|verb|hd/mod|nooit/[8,9]|adv|1
+kom/[17,18]|verb|hd/mod|ontroerd/[13,14]|adj|1
+kom/[17,18]|verb|hd/su|ik/[10,11]|pron|1
+top/top|top|top/hd|en/[7,8]|vg|1
+uit/[14,15]|prep|hd/obj1|cinema_zaal/[16,17]|noun|1
+zie/[6,7]|verb|hd/mod|in/[4,5]|prep|1
+zie/[6,7]|verb|hd/mod|onmiddellijk/[3,4]|adj|1
+zie/[6,7]|verb|hd/obj1|hem/[2,3]|pron|1
+zie/[6,7]|verb|hd/su|ik/[0,1]|pron|1
+acteur/[18,19]|noun|hd/det|de/[17,18]|det|1
+hoewel/[0,1]|comp|cmp/body|vind/[6,7]|verb|1
+in/[22,23]|prep|hd/obj1|oeuvre/[24,25]|noun|1
+niet/[10,11]|adv|hd/mod|meer/[11,12]|adv|1
+oeuvre/[24,25]|noun|hd/det|het/[23,24]|det|1
+oeuvre/[24,25]|noun|hd/mod|van/[25,26]|prep|1
+om/[7,8]|comp|cmp/body|te/[12,13]|comp|1
+pas/[21,22]|verb|hd/ld|in/[22,23]|prep|1
+pas/[21,22]|verb|hd/mod|prachtig/[20,21]|adj|1
+pas/[21,22]|verb|hd/su|acteur/[18,19]|noun|1
+prachtig/[20,21]|adj|hd/mod|absoluut/[19,20]|adj|1
+speel/[14,15]|verb|hd/su|hem/[8,9]|pron|1
+te/[12,13]|comp|cmp/body|zie/[13,14]|verb|1
+top/top|top|top/hd|vind/[15,16]|verb|1
+van/[25,26]|prep|hd/obj1|Allen/[26,27]|name|1
+vind/[6,7]|verb|hd/mod|altijd/[3,4]|adv|1
+vind/[6,7]|verb|hd/pobj1|het/[2,3]|noun|1
+vind/[6,7]|verb|hd/predc|vreemd/[5,6]|adj|1
+vind/[6,7]|verb|hd/su|ik/[1,2]|pron|1
+vind/[6,7]|verb|hd/vc|om/[7,8]|comp|1
+vind/[15,16]|verb|-- / --|./[27,28]|punct|1
+vind/[15,16]|verb|hd/mod|hoewel/[0,1]|comp|1
+vind/[15,16]|verb|hd/obj1|acteur/[18,19]|noun|1
+vind/[15,16]|verb|hd/su|ik/[16,17]|pron|1
+vind/[15,16]|verb|hd/vc|pas/[21,22]|verb|1
+vreemd/[5,6]|adj|hd/mod|wat/[4,5]|adv|1
+zie/[13,14]|verb|hd/mod|niet/[10,11]|adv|1
+zie/[13,14]|verb|hd/obj1|hem/[8,9]|pron|1
+zie/[13,14]|verb|hd/predm|zelf/[9,10]|adv|1
+zie/[13,14]|verb|hd/vc|speel/[14,15]|verb|1
+die/[2,3]|pron|rhd/body|transformeer/[7,8]|verb|1
+die/[16,17]|pron|rhd/body|zie/[21,22]|verb|1
+film/[15,16]|noun|hd/det|de/[13,14]|det|1
+film/[15,16]|noun|hd/mod|die/[16,17]|pron|1
+film/[15,16]|noun|hd/mod|eerste/[14,15]|num|1
+in/[4,5]|prep|hd/obj1|tijd/[6,7]|noun|1
+liefde_intrige/[1,2]|noun|hd/mod|die/[2,3]|pron|1
+naar/[12,13]|prep|hd/obj1|film/[15,16]|noun|1
+terug/[11,12]|adv|hd/mod|naar/[12,13]|prep|1
+tijd/[6,7]|noun|hd/det|de/[5,6]|det|1
+top/top|top|top/hd|van/[0,1]|prep|1
+transformeer/[7,8]|verb|hd/mod|in/[4,5]|prep|1
+transformeer/[7,8]|verb|hd/mod|terug/[3,4]|adv|1
+transformeer/[7,8]|verb|hd/su|die/[2,3]|pron|1
+transformeer/[9,10]|verb|hd/mod|terug/[11,12]|adv|1
+transformeer/[9,10]|verb|hd/mod|zo/[8,9]|adv|1
+transformeer/[9,10]|verb|hd/su|ik/[10,11]|pron|1
+van/[0,1]|prep|-- / --|./[22,23]|punct|1
+van/[0,1]|prep|dp/dp|transformeer/[9,10]|verb|1
+van/[0,1]|prep|hd/obj1|liefde_intrige/[1,2]|noun|1
+van/[18,19]|prep|hd/obj1|Woody Allen/[19,21]|name|1
+zie/[21,22]|verb|hd/obj1|die/[16,17]|pron|1
+zie/[21,22]|verb|hd/pc|van/[18,19]|prep|1
+zie/[21,22]|verb|hd/su|ik/[17,18]|pron|1
+Nostalgisch, oprecht,/[0,2]|name|-- / --|./[10,11]|punct|1
+Nostalgisch, oprecht,/[0,2]|name|dp/dp|ben/[4,5]|verb|1
+Nostalgisch, oprecht,/[0,2]|name|dp/dp|fascinerend/[2,3]|adj|1
+ben/[4,5]|verb|hd/predc|woord/[6,7]|noun|1
+ben/[4,5]|verb|hd/su|dat/[3,4]|noun|1
+pracht_film/[9,10]|noun|hd/det|die/[8,9]|det|1
+top/top|top|top/hd|Nostalgisch, oprecht,/[0,2]|name|1
+voor/[7,8]|prep|hd/obj1|pracht_film/[9,10]|noun|1
+woord/[6,7]|noun|hd/det|mijn/[5,6]|det|1
+woord/[6,7]|noun|hd/mod|voor/[7,8]|prep|1

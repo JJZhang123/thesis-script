@@ -1,0 +1,122 @@
+film/[4,5]|noun|hd/det|de/[2,3]|det|1
+film/[4,5]|noun|hd/mod|nieuw/[3,4]|adj|1
+in/[0,1]|prep|-- / --|./[15,16]|punct|1
+in/[0,1]|prep|dp/dp|film/[4,5]|noun|1
+in/[0,1]|prep|dp/dp|krijg/[8,9]|verb|1
+in/[0,1]|prep|hd/obj1|PROPNAME,/[1,2]|name|1
+kater/[11,12]|noun|hd/det|een/[10,11]|det|1
+kater/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+krijg/[8,9]|verb|hd/su|we/[9,10]|pron|1
+krijg/[8,9]|verb|hd/vc|schotel_voor/[14,15]|verb|1
+regisseur/[6,7]|noun|hd/app|X,/[7,8]|name|1
+schotel_voor/[14,15]|verb|hd/mod|van/[5,6]|prep|1
+schotel_voor/[14,15]|verb|hd/obj1|kater/[11,12]|noun|1
+schotel_voor/[14,15]|verb|hd/obj2|we/[9,10]|pron|1
+top/top|top|top/hd|in/[0,1]|prep|1
+van/[5,6]|prep|hd/obj1|regisseur/[6,7]|noun|1
+van/[12,13]|prep|hd/obj1|formaat/[13,14]|noun|1
+Bahamas/[15,16]|name|hd/det|de/[14,15]|det|1
+Dennis/[0,1]|name|-- / --|./[20,21]|punct|1
+Dennis/[0,1]|name|dp/dp|besluit/[4,5]|verb|1
+besluit/[4,5]|verb|hd/su|vrijgezel/[3,4]|noun|1
+besluit/[4,5]|verb|hd/vc|te/[11,12]|comp|1
+groep/[7,8]|noun|hd/det|een/[6,7]|det|1
+groep/[7,8]|noun|hd/mod|vriend/[8,9]|noun|1
+maak/[12,13]|verb|hd/mod|met/[5,6]|prep|1
+maak/[12,13]|verb|hd/mod|voor/[16,17]|prep|1
+maak/[12,13]|verb|hd/obj1|reis/[10,11]|noun|1
+maak/[12,13]|verb|hd/su|vrijgezel/[3,4]|noun|1
+met/[5,6]|prep|hd/obj1|groep/[7,8]|noun|1
+naar/[13,14]|prep|hd/obj1|Bahamas/[15,16]|name|1
+reis/[10,11]|noun|hd/det|een/[9,10]|det|1
+reis/[10,11]|noun|hd/mod|naar/[13,14]|prep|1
+te/[11,12]|comp|cmp/body|maak/[12,13]|verb|1
+top/top|top|top/hd|Dennis/[0,1]|name|1
+verjaar_dag/[19,20]|noun|hd/det|hun/[17,18]|det|1
+verjaar_dag/[19,20]|noun|hd/mod|25ste/[18,19]|num|1
+voor/[16,17]|prep|hd/obj1|verjaar_dag/[19,20]|noun|1
+vrijgezel/[3,4]|noun|hd/det|een/[1,2]|det|1
+vrijgezel/[3,4]|noun|hd/mod|jong/[2,3]|adj|1
+aaneenschakeling/[6,7]|noun|hd/det|een/[5,6]|det|1
+aaneenschakeling/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+ben/[3,4]|verb|hd/mod|voorspelbaar/[4,5]|adj|1
+ben/[3,4]|verb|hd/predc|en/[10,11]|vg|1
+ben/[3,4]|verb|hd/su|wat/[1,2]|pron|1
+en/[0,1]|comp|-- / --|./[13,14]|punct|1
+en/[0,1]|comp|dlink/nucl|ben/[3,4]|verb|1
+en/[10,11]|vg|crd/cnj|aaneenschakeling/[6,7]|noun|1
+en/[10,11]|vg|crd/cnj|meisje/[12,13]|noun|1
+feest_DIM/[9,10]|noun|hd/mod|wild/[8,9]|adj|1
+meisje/[12,13]|noun|hd/det|veel/[11,12]|adj|1
+top/top|top|top/hd|en/[0,1]|comp|1
+van/[7,8]|prep|hd/obj1|feest_DIM/[9,10]|noun|1
+volg/[2,3]|verb|hd/su|wat/[1,2]|pron|1
+wat/[1,2]|pron|rhd/body|volg/[2,3]|verb|1
+hotel_kamer/[9,10]|noun|hd/det|een/[8,9]|det|1
+hotel_kamer/[9,10]|noun|hd/mod|in/[10,11]|prep|1
+in/[7,8]|prep|hd/obj1|hotel_kamer/[9,10]|noun|1
+in/[10,11]|prep|hd/obj1|Miami/[11,12]|name|1
+ochtend/[4,5]|noun|hd/det|een/[3,4]|det|1
+op/[2,3]|prep|hd/obj1|ochtend/[4,5]|noun|1
+top/top|top|top/hd|tot/[0,1]|comp|1
+tot/[0,1]|comp|-- / --|./[12,13]|punct|1
+tot/[0,1]|comp|cmp/body|word/[6,7]|verb|1
+word/[6,7]|verb|hd/mod|in/[7,8]|prep|1
+word/[6,7]|verb|hd/mod|op/[2,3]|prep|1
+word/[6,7]|verb|hd/predc|wakker/[5,6]|adj|1
+word/[6,7]|verb|hd/su|Dennis/[1,2]|name|1
+ben/[5,6]|verb|hd/su|Dennis/[1,2]|name|1
+ben/[5,6]|verb|hd/vc|kom_terecht/[4,5]|verb|1
+hoe/[0,1]|adj|whd/body|ben/[5,6]|verb|1
+kom_terecht/[4,5]|verb|hd/mod|daar/[2,3]|adv|1
+kom_terecht/[4,5]|verb|hd/mod|hoe/[0,1]|adj|1
+kom_terecht/[4,5]|verb|hd/su|Dennis/[1,2]|name|1
+kom_terecht/[4,5]|verb|hd/svp|terecht/[3,4]|part|1
+laat/[6,7]|verb|-- / --|./[20,21]|punct|1
+laat/[6,7]|verb|-- / --|kwestie/[12,13]|noun|1
+laat/[6,7]|verb|-- / --|van/[13,14]|comp|1
+laat/[6,7]|verb|dp/dp|te/[18,19]|comp|1
+laat/[6,7]|verb|hd/mod|lief/[9,10]|adj|1
+laat/[6,7]|verb|hd/obj1|u/[8,9]|pron|1
+laat/[6,7]|verb|hd/predm|zelf/[10,11]|adv|1
+laat/[6,7]|verb|hd/su|we/[7,8]|pron|1
+laat/[6,7]|verb|hd/vc|ontdek/[11,12]|verb|1
+niet/[16,17]|adv|hd/mod|nog/[15,16]|adv|1
+ontdek/[11,12]|verb|hd/su|u/[8,9]|pron|1
+ontdek/[11,12]|verb|hd/vc|hoe/[0,1]|adj|1
+te/[18,19]|comp|cmp/body|verklap/[19,20]|verb|1
+top/top|top|top/hd|laat/[6,7]|verb|1
+verklap/[19,20]|verb|hd/mod|niet/[16,17]|adv|1
+verklap/[19,20]|verb|hd/mod|toch/[14,15]|adv|1
+verklap/[19,20]|verb|hd/obj1|alles/[17,18]|noun|1
+al/[0,1]|comp|-- / --|./[13,14]|punct|1
+al/[0,1]|comp|cmp/body|kan/[1,2]|verb|1
+beeld/[8,9]|noun|hd/det|een/[7,8]|det|1
+bij/[10,11]|prep|hd/obj1|gebeurtenis/[12,13]|noun|1
+gebeurtenis/[12,13]|noun|hd/det|de/[11,12]|det|1
+kan/[1,2]|verb|hd/su|u/[2,3]|pron|1
+kan/[1,2]|verb|hd/vc|vorm/[9,10]|verb|1
+top/top|top|top/hd|al/[0,1]|comp|1
+vorm/[9,10]|verb|hd/mod|al/[6,7]|adv|1
+vorm/[9,10]|verb|hd/mod|bij/[10,11]|prep|1
+vorm/[9,10]|verb|hd/mod|waarschijnlijk/[4,5]|adj|1
+vorm/[9,10]|verb|hd/mod|wel/[5,6]|adj|1
+vorm/[9,10]|verb|hd/obj1|beeld/[8,9]|noun|1
+vorm/[9,10]|verb|hd/obj2|zich/[3,4]|pron|1
+vorm/[9,10]|verb|hd/su|u/[2,3]|pron|1
+acteer_prestatie/[7,8]|noun|hd/det|de/[6,7]|det|1
+acteer_prestatie/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+ben/[11,12]|verb|-- / --|./[20,21]|punct|1
+ben/[11,12]|verb|dp/dp|om over naar huis te schrijven/[14,20]|adj|1
+ben/[11,12]|verb|hd/mod|wat/[0,1]|pron|1
+ben/[11,12]|verb|hd/predc|acteer_prestatie/[7,8]|noun|1
+om over naar huis te schrijven/[14,20]|adj|hd/mod|alvast/[12,13]|adv|1
+om over naar huis te schrijven/[14,20]|adj|hd/mod|niet/[13,14]|adv|1
+top/top|top|top/hd|ben/[11,12]|verb|1
+van/[8,9]|prep|hd/obj1|John Ix/[9,11]|name|1
+wat/[0,1]|pron|rhd/body|wil_kwijt/[5,6]|verb|1
+wil_kwijt/[5,6]|verb|hd/mod|nog/[3,4]|adv|1
+wil_kwijt/[5,6]|verb|hd/mod|wel/[2,3]|adj|1
+wil_kwijt/[5,6]|verb|hd/obj1|wat/[0,1]|pron|1
+wil_kwijt/[5,6]|verb|hd/su|we/[1,2]|pron|1
+wil_kwijt/[5,6]|verb|hd/svp|kwijt/[4,5]|part|1

@@ -1,0 +1,55 @@
+aanrader/[1,2]|noun|-- / --|!/[2,3]|punct|1
+aanrader/[1,2]|noun|hd/det|een/[0,1]|det|1
+top/top|top|top/hd|aanrader/[1,2]|noun|1
+ben/[2,3]|verb|hd/predc|en/[4,5]|vg|1
+ben/[2,3]|verb|hd/su|personeel/[1,2]|noun|1
+en/[4,5]|vg|crd/cnj|aangenaam/[5,6]|adj|1
+en/[4,5]|vg|crd/cnj|vriendelijk/[3,4]|adj|1
+en/[6,7]|vg|-- / --|./[12,13]|punct|1
+en/[6,7]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[6,7]|vg|crd/cnj|kom_af/[7,8]|verb|1
+kom/[10,11]|noun|hd/mod|verschil/[9,10]|adj|1
+kom_af/[7,8]|verb|hd/mod|uit/[8,9]|prep|1
+kom_af/[7,8]|verb|hd/su|personeel/[1,2]|noun|1
+kom_af/[7,8]|verb|hd/svp|af/[11,12]|part|1
+personeel/[1,2]|noun|hd/det|het/[0,1]|det|1
+top/top|top|top/hd|en/[6,7]|vg|1
+uit/[8,9]|prep|hd/obj1|kom/[10,11]|noun|1
+ben/[2,3]|verb|hd/predc|schappelijk/[3,4]|adj|1
+ben/[2,3]|verb|hd/su|prijs/[1,2]|noun|1
+ben/[6,7]|verb|hd/mod|er/[5,6]|adv|1
+ben/[6,7]|verb|hd/su|wacht_tijd/[9,10]|noun|1
+en/[4,5]|vg|-- / --|./[10,11]|punct|1
+en/[4,5]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[4,5]|vg|crd/cnj|ben/[6,7]|verb|1
+prijs/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|en/[4,5]|vg|1
+wacht_tijd/[9,10]|noun|hd/det|geen/[7,8]|det|1
+wacht_tijd/[9,10]|noun|hd/mod|lang/[8,9]|adj|1
+ben/[4,5]|verb|-- / --|./[7,8]|punct|1
+ben/[4,5]|verb|hd/predc|specialiteit/[6,7]|noun|1
+ben/[4,5]|verb|hd/su|kip/[3,4]|noun|1
+en/[1,2]|vg|crd/cnj|uniek/[0,1]|adj|1
+en/[1,2]|vg|crd/cnj|verfijnd/[2,3]|adj|1
+kip/[3,4]|noun|hd/mod|en/[1,2]|vg|1
+specialiteit/[6,7]|noun|hd/det|hun/[5,6]|det|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+en/[8,9]|vg|-- / --|./[17,18]|punct|1
+en/[8,9]|vg|crd/cnj|geniet/[1,2]|verb|1
+en/[8,9]|vg|crd/cnj|krijg_mee/[9,10]|verb|1
+geniet/[1,2]|verb|hd/mod|bovendien/[0,1]|adv|1
+geniet/[1,2]|verb|hd/pc|van/[3,4]|prep|1
+geniet/[1,2]|verb|hd/su|je/[2,3]|pron|1
+krijg_mee/[9,10]|verb|hd/mod|bovendien/[0,1]|adv|1
+krijg_mee/[9,10]|verb|hd/mod|met/[14,15]|prep|1
+krijg_mee/[9,10]|verb|hd/obj1|stuk_DIM/[12,13]|noun|1
+krijg_mee/[9,10]|verb|hd/su|je/[10,11]|pron|1
+krijg_mee/[9,10]|verb|hd/svp|mee/[16,17]|part|1
+met/[14,15]|prep|hd/obj1|je/[15,16]|pron|1
+sfeer/[7,8]|noun|hd/det|een/[4,5]|det|1
+sfeer/[7,8]|noun|hd/mod|Spaans/[6,7]|adj|1
+sfeer/[7,8]|noun|hd/mod|romantisch/[5,6]|adj|1
+stuk_DIM/[12,13]|noun|hd/det|een/[11,12]|det|1
+stuk_DIM/[12,13]|noun|hd/mod|cultuur/[13,14]|noun|1
+top/top|top|top/hd|en/[8,9]|vg|1
+van/[3,4]|prep|hd/obj1|sfeer/[7,8]|noun|1

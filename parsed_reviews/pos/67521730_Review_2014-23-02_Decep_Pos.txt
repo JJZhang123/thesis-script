@@ -1,0 +1,190 @@
+ben/[1,2]|verb|-- / --|./[13,14]|punct|1
+ben/[1,2]|verb|hd/predc|komedie/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+bij/[6,7]|prep|hd/obj1|iedereen/[7,8]|pron|1
+die/[5,6]|pron|rhd/body|zal/[11,12]|verb|1
+komedie/[4,5]|noun|hd/det|een/[2,3]|det|1
+komedie/[4,5]|noun|hd/mod|die/[5,6]|pron|1
+komedie/[4,5]|noun|hd/mod|romantisch/[3,4]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+val/[12,13]|verb|hd/mod|bij/[6,7]|prep|1
+val/[12,13]|verb|hd/su|die/[5,6]|pron|1
+val/[12,13]|verb|hd/svp|in de smaak/[8,11]|fixed|1
+zal/[11,12]|verb|hd/su|die/[5,6]|pron|1
+zal/[11,12]|verb|hd/vc|val/[12,13]|verb|1
+bij/[3,4]|prep|hd/mod|zeker/[2,3]|adv|1
+bij/[3,4]|prep|hd/obj1|type_DIM/[6,7]|noun|1
+of/[0,1]|comp|-- / --|./[9,10]|punct|1
+of/[0,1]|comp|dlink/nucl|toch/[1,2]|adv|1
+onder/[7,8]|prep|hd/obj1|ons/[8,9]|pron|1
+toch/[1,2]|adv|dp/dp|bij/[3,4]|prep|1
+top/top|top|top/hd|of/[0,1]|comp|1
+type_DIM/[6,7]|noun|hd/det|de/[4,5]|det|1
+type_DIM/[6,7]|noun|hd/mod|onder/[7,8]|prep|1
+type_DIM/[6,7]|noun|hd/mod|romantisch/[5,6]|adj|1
+ben/[1,2]|verb|-- / --|./[20,21]|punct|1
+ben/[1,2]|verb|hd/predc|film/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+en/[11,12]|vg|crd/cnj|waarbij/[4,5]|pp|1
+en/[11,12]|vg|crd/cnj|waarbij/[12,13]|pp|1
+film/[3,4]|noun|hd/det|een/[2,3]|det|1
+film/[3,4]|noun|hd/mod|en/[11,12]|vg|1
+film/[19,20]|noun|hd/det|de/[18,19]|det|1
+geniet/[16,17]|verb|hd/mod|gewoon/[14,15]|adj|1
+geniet/[16,17]|verb|hd/mod|waarbij/[12,13]|pp|1
+geniet/[16,17]|verb|hd/pc|van/[17,18]|prep|1
+geniet/[16,17]|verb|hd/su|je/[13,14]|pron|1
+kan/[9,10]|verb|hd/su|je/[5,6]|pron|1
+kan/[9,10]|verb|hd/vc|vergeet/[10,11]|verb|1
+kan/[15,16]|verb|hd/su|je/[13,14]|pron|1
+kan/[15,16]|verb|hd/vc|geniet/[16,17]|verb|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[17,18]|prep|hd/obj1|film/[19,20]|noun|1
+vergeet/[10,11]|verb|hd/mod|al/[6,7]|adv|1
+vergeet/[10,11]|verb|hd/mod|waarbij/[4,5]|pp|1
+vergeet/[10,11]|verb|hd/obj1|zorg/[8,9]|noun|1
+vergeet/[10,11]|verb|hd/su|je/[5,6]|pron|1
+waarbij/[4,5]|pp|rhd/body|kan/[9,10]|verb|1
+waarbij/[12,13]|pp|rhd/body|kan/[15,16]|verb|1
+zorg/[8,9]|noun|hd/det|je/[7,8]|det|1
+ander/[18,19]|adj|hd/mod|van/[16,17]|prep|1
+ander/[18,19]|adj|hd/mod|waarschijnlijk/[14,15]|adj|1
+ben/[7,8]|verb|-- / --|./[19,20]|punct|1
+ben/[7,8]|verb|hd/predc|en/[13,14]|vg|1
+ben/[7,8]|verb|hd/su|weg_droom/[0,1]|verb|1
+bezigheid/[12,13]|noun|hd/det|mijn/[10,11]|det|1
+bezigheid/[12,13]|noun|hd/mod|favoriet/[11,12]|adj|1
+bij/[1,2]|prep|hd/obj1|romantiek/[3,4]|noun|1
+en/[13,14]|vg|crd/cnj|ander/[18,19]|adj|1
+en/[13,14]|vg|crd/cnj|één/[8,9]|pron|1
+film/[6,7]|noun|hd/det|de/[5,6]|det|1
+romantiek/[3,4]|noun|hd/det|de/[2,3]|det|1
+romantiek/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+top/top|top|top/hd|ben/[7,8]|verb|1
+van/[4,5]|prep|hd/obj1|film/[6,7]|noun|1
+van/[9,10]|prep|hd/obj1|bezigheid/[12,13]|noun|1
+van/[16,17]|prep|hd/mod|ook/[15,16]|adv|1
+van/[16,17]|prep|hd/obj1|veel/[17,18]|adj|1
+weg_droom/[0,1]|verb|hd/mod|bij/[1,2]|prep|1
+één/[8,9]|pron|hd/mod|van/[9,10]|prep|1
+cast/[2,3]|noun|-- / --|./[10,11]|punct|1
+cast/[2,3]|noun|dp/dp|en/[6,7]|vg|1
+cast/[2,3]|noun|hd/det|een/[0,1]|det|1
+cast/[2,3]|noun|hd/mod|leuk/[1,2]|adj|1
+en/[6,7]|vg|crd/cnj|soundtrack/[9,10]|noun|1
+en/[6,7]|vg|crd/cnj|verhaal/[5,6]|noun|1
+soundtrack/[9,10]|noun|hd/det|een/[7,8]|det|1
+soundtrack/[9,10]|noun|hd/mod|goed/[8,9]|adj|1
+top/top|top|top/hd|cast/[2,3]|noun|1
+verhaal/[5,6]|noun|hd/det|een/[3,4]|det|1
+verhaal/[5,6]|noun|hd/mod|origineel/[4,5]|adj|1
+film/[3,4]|noun|hd/det|een/[2,3]|det|1
+heb/[1,2]|verb|-- / --|./[9,10]|punct|1
+heb/[1,2]|verb|hd/me|meer/[0,1]|adj|1
+heb/[1,2]|verb|hd/mod|niet/[4,5]|adv|1
+heb/[1,2]|verb|hd/predc|nodig/[5,6]|adj|1
+heb/[1,2]|verb|hd/su|film/[3,4]|noun|1
+heb/[1,2]|verb|hd/vc|om/[6,7]|comp|1
+om/[6,7]|comp|cmp/body|te/[7,8]|comp|1
+slaag/[8,9]|verb|hd/su|film/[3,4]|noun|1
+te/[7,8]|comp|cmp/body|slaag/[8,9]|verb|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+ben/[3,4]|verb|-- / --|./[9,10]|punct|1
+ben/[3,4]|verb|hd/mod|er/[4,5]|adv|1
+ben/[3,4]|verb|hd/mod|in/[0,1]|prep|1
+ben/[3,4]|verb|hd/mod|voor/[5,6]|prep|1
+ben/[3,4]|verb|hd/su|wat wils/[7,9]|noun|1
+film/[2,3]|noun|hd/det|deze/[1,2]|det|1
+in/[0,1]|prep|hd/obj1|film/[2,3]|noun|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+voor/[5,6]|prep|hd/obj1|elk/[6,7]|det|1
+bij/[3,4]|prep|hd/obj1|hoofd_rol_speler/[4,5]|noun|1
+droom_weg/[2,3]|verb|hd/mod|bij/[3,4]|prep|1
+droom_weg/[2,3]|verb|hd/su|vrouw/[0,1]|noun|1
+hoofd_rol_speler/[4,5]|noun|hd/app|Channing Tatum/[5,7]|name|1
+kan/[1,2]|verb|-- / --|./[7,8]|punct|1
+kan/[1,2]|verb|hd/su|vrouw/[0,1]|noun|1
+kan/[1,2]|verb|hd/vc|droom_weg/[2,3]|verb|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+acteer_prestatie/[8,9]|noun|hd/det|de/[7,8]|det|1
+acteer_prestatie/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+geniet/[5,6]|verb|hd/mod|dan/[3,4]|adv|1
+geniet/[5,6]|verb|hd/mod|weer/[4,5]|adv|1
+geniet/[5,6]|verb|hd/pc|van/[6,7]|prep|1
+geniet/[5,6]|verb|hd/su|man/[0,1]|noun|1
+hoofdrol_speelster/[10,11]|noun|hd/app|Emma Stone/[11,13]|name|1
+kan/[2,3]|verb|-- / --|./[13,14]|punct|1
+kan/[2,3]|verb|hd/su|man/[0,1]|noun|1
+kan/[2,3]|verb|hd/vc|geniet/[5,6]|verb|1
+man/[0,1]|noun|hd/mod|daarentegen/[1,2]|adv|1
+top/top|top|top/hd|kan/[2,3]|verb|1
+van/[6,7]|prep|hd/obj1|acteer_prestatie/[8,9]|noun|1
+van/[9,10]|prep|hd/obj1|hoofdrol_speelster/[10,11]|noun|1
+bied/[2,3]|verb|-- / --|./[18,19]|punct|1
+bied/[2,3]|verb|hd/obj1|en/[13,14]|vg|1
+bied/[2,3]|verb|hd/obj2|mix/[5,6]|noun|1
+bied/[2,3]|verb|hd/su|film/[1,2]|noun|1
+en/[13,14]|vg|crd/cnj|portie/[11,12]|noun|1
+en/[13,14]|vg|crd/cnj|wending/[17,18]|noun|1
+film/[1,2]|noun|hd/det|deze/[0,1]|det|1
+mix/[5,6]|noun|hd/det|een/[3,4]|det|1
+mix/[5,6]|noun|hd/mod|perfect/[4,5]|adj|1
+mix/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+portie/[11,12]|noun|hd/det|een/[9,10]|det|1
+portie/[11,12]|noun|hd/mod|goed/[10,11]|adj|1
+portie/[11,12]|noun|hd/mod|humor/[12,13]|noun|1
+romantiek/[8,9]|noun|hd/mod|eindeloos/[7,8]|adj|1
+top/top|top|top/hd|bied/[2,3]|verb|1
+van/[6,7]|prep|hd/obj1|romantiek/[8,9]|noun|1
+wending/[17,18]|noun|hd/det|de/[14,15]|det|1
+wending/[17,18]|noun|hd/mod|dramatisch/[16,17]|adj|1
+wending/[17,18]|noun|hd/mod|nodig/[15,16]|adj|1
+ben/[1,2]|verb|-- / --|./[4,5]|punct|1
+ben/[1,2]|verb|hd/mod|hier/[2,3]|adv|1
+ben/[1,2]|verb|hd/predc|verzekerd/[3,4]|adj|1
+ben/[1,2]|verb|hd/su|Inleving/[0,1]|name|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+en/[6,7]|vg|-- / --|./[10,11]|punct|1
+en/[6,7]|vg|crd/cnj|heb/[1,2]|verb|1
+en/[6,7]|vg|crd/cnj|heb/[8,9]|verb|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|pink_weg/[5,6]|verb|1
+heb/[8,9]|verb|hd/su|ik/[7,8]|pron|1
+heb/[8,9]|verb|hd/vc|lach/[9,10]|verb|1
+lach/[9,10]|verb|hd/su|ik/[7,8]|pron|1
+pink_weg/[5,6]|verb|hd/obj1|traan_DIM/[4,5]|noun|1
+pink_weg/[5,6]|verb|hd/su|ik/[0,1]|pron|1
+top/top|top|top/hd|en/[6,7]|vg|1
+traan_DIM/[4,5]|noun|hd/det|de/[2,3]|det|1
+traan_DIM/[4,5]|noun|hd/mod|nodig/[3,4]|adj|1
+ben/[2,3]|verb|-- / --|./[7,8]|punct|1
+ben/[2,3]|verb|hd/mod|voor/[0,1]|prep|1
+ben/[2,3]|verb|hd/predc|feelgoodfilm/[6,7]|noun|1
+ben/[2,3]|verb|hd/su|PROPNAME/[3,4]|name|1
+feelgoodfilm/[6,7]|noun|hd/det|een/[4,5]|det|1
+feelgoodfilm/[6,7]|noun|hd/mod|echt/[5,6]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+voor/[0,1]|prep|hd/obj1|mij/[1,2]|pron|1
+en/[9,10]|vg|crd/cnj|haal/[5,6]|verb|1
+en/[9,10]|vg|crd/cnj|zet/[10,11]|verb|1
+haal/[5,6]|verb|hd/ld|in/[7,8]|prep|1
+haal/[5,6]|verb|hd/obj1|popcorn/[6,7]|noun|1
+in/[7,8]|prep|hd/obj1|huis/[8,9]|noun|1
+nodig/[0,1]|verb|-- / --|./[16,17]|punct|1
+nodig/[0,1]|verb|dp/dp|en/[9,10]|vg|1
+nodig/[0,1]|verb|hd/mod|uit/[4,5]|adj|1
+nodig/[0,1]|verb|hd/obj1|vriend/[3,4]|noun|1
+op/[14,15]|prep|hd/obj1|tafel/[15,16]|noun|1
+paar/[2,3]|noun|hd/det|een/[1,2]|det|1
+tissues/[12,13]|noun|hd/det|de/[11,12]|det|1
+top/top|top|top/hd|nodig/[0,1]|verb|1
+vriend/[3,4]|noun|hd/det|paar/[2,3]|noun|1
+zet/[10,11]|verb|hd/ld|op/[14,15]|prep|1
+zet/[10,11]|verb|hd/mod|maar/[13,14]|adv|1
+zet/[10,11]|verb|hd/obj1|tissues/[12,13]|noun|1
+avond/[2,3]|noun|hd/det|een/[0,1]|det|1
+avond/[2,3]|noun|hd/mod|perfect/[1,2]|adj|1
+ben/[3,4]|verb|-- / --|./[5,6]|punct|1
+ben/[3,4]|verb|hd/predc|verzekerd/[4,5]|adj|1
+ben/[3,4]|verb|hd/su|avond/[2,3]|noun|1
+top/top|top|top/hd|ben/[3,4]|verb|1

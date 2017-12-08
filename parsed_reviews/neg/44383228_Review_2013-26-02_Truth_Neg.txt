@@ -1,0 +1,33 @@
+ben/[19,20]|verb|hd/su|hij/[18,19]|pron|1
+ben/[19,20]|verb|hd/vc|groei_op/[20,21]|verb|1
+beschrijf/[6,7]|verb|-- / --|./[21,22]|punct|1
+beschrijf/[6,7]|verb|hd/mod|in/[0,1]|prep|1
+beschrijf/[6,7]|verb|hd/mod|lang/[11,12]|adj|1
+beschrijf/[6,7]|verb|hd/obj1|omstandigheid/[16,17]|noun|1
+beschrijf/[6,7]|verb|hd/su|PROPNAME/[7,8]|name|1
+boek/[10,11]|noun|hd/det|een/[8,9]|det|1
+boek/[10,11]|noun|hd/mod|heel/[9,10]|adj|1
+en/[14,15]|vg|crd/cnj|slecht/[15,16]|adj|1
+en/[14,15]|vg|crd/cnj|vies/[13,14]|adj|1
+groei_op/[20,21]|verb|hd/mod|waarin/[17,18]|pp|1
+groei_op/[20,21]|verb|hd/su|hij/[18,19]|pron|1
+in/[0,1]|prep|hd/obj1|werk/[4,5]|noun|1
+lang/[11,12]|adj|hd/me|boek/[10,11]|noun|1
+omstandigheid/[16,17]|noun|hd/det|de/[12,13]|det|1
+omstandigheid/[16,17]|noun|hd/mod|en/[14,15]|vg|1
+omstandigheid/[16,17]|noun|hd/mod|waarin/[17,18]|pp|1
+top/top|top|top/hd|beschrijf/[6,7]|verb|1
+waarin/[17,18]|pp|rhd/body|ben/[19,20]|verb|1
+werk/[4,5]|noun|hd/app|PROPNAME/[5,6]|name|1
+werk/[4,5]|noun|hd/det|zijn/[1,2]|det|1
+werk/[4,5]|noun|hd/mod|overdreven/[2,3]|adj|1
+werk/[4,5]|noun|hd/mod|populair/[3,4]|adj|1
+alleen/[4,5]|adv|hd/mod|maar/[5,6]|adv|1
+boek/[2,3]|noun|hd/det|het/[0,1]|det|1
+boek/[2,3]|noun|hd/mod|heel/[1,2]|adj|1
+ga/[3,4]|verb|-- / --|./[11,12]|punct|1
+ga/[3,4]|verb|hd/mod|alleen/[4,5]|adv|1
+ga/[3,4]|verb|hd/pc|over/[6,7]|prep|1
+ga/[3,4]|verb|hd/su|boek/[2,3]|noun|1
+over/[6,7]|prep|hd/obj1|stank, viezigheid en drankproblemen/[7,11]|name|1
+top/top|top|top/hd|ga/[3,4]|verb|1

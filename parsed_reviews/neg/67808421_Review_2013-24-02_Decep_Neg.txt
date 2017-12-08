@@ -1,0 +1,81 @@
+beslis/[10,11]|verb|hd/mod|in/[0,1]|prep|1
+beslis/[10,11]|verb|hd/su|ze/[11,12]|pron|1
+beslis/[10,11]|verb|hd/vc|om/[12,13]|comp|1
+en/[6,7]|vg|crd/cnj|Alex/[7,8]|name|1
+en/[6,7]|vg|crd/cnj|Sarah/[5,6]|name|1
+en/[9,10]|vg|-- / --|./[18,19]|punct|1
+en/[9,10]|vg|crd/cnj|beslis/[10,11]|verb|1
+en/[9,10]|vg|crd/cnj|ontmoet/[4,5]|verb|1
+film/[2,3]|noun|hd/app|PROPNAME/[3,4]|name|1
+film/[2,3]|noun|hd/det|de/[1,2]|det|1
+ga/[17,18]|verb|hd/pc|op/[14,15]|prep|1
+ga/[17,18]|verb|hd/predm|samen/[13,14]|adj|1
+ga/[17,18]|verb|hd/su|ze/[11,12]|pron|1
+in/[0,1]|prep|hd/obj1|film/[2,3]|noun|1
+om/[12,13]|comp|cmp/body|te/[16,17]|comp|1
+ontmoet/[4,5]|verb|hd/mod|in/[0,1]|prep|1
+ontmoet/[4,5]|verb|hd/obj1|elkaar/[8,9]|pron|1
+ontmoet/[4,5]|verb|hd/su|en/[6,7]|vg|1
+op/[14,15]|prep|hd/obj1|date/[15,16]|noun|1
+te/[16,17]|comp|cmp/body|ga/[17,18]|verb|1
+top/top|top|top/hd|en/[9,10]|vg|1
+date/[1,2]|noun|hd/det|deze/[0,1]|det|1
+eindig/[2,3]|verb|-- / --|./[21,22]|punct|1
+eindig/[2,3]|verb|hd/mod|echter/[3,4]|adv|1
+eindig/[2,3]|verb|hd/mod|zodat/[8,9]|comp|1
+eindig/[2,3]|verb|hd/pc|met/[4,5]|prep|1
+eindig/[2,3]|verb|hd/su|date/[1,2]|noun|1
+heb/[20,21]|verb|hd/su|ze/[17,18]|pron|1
+heb/[20,21]|verb|hd/vc|ontmoet/[19,20]|verb|1
+hoe/[16,17]|adj|whd/body|heb/[20,21]|verb|1
+met/[4,5]|prep|hd/obj1|persoon/[7,8]|noun|1
+niet/[13,14]|adv|hd/mod|meer/[14,15]|adv|1
+ochtend/[12,13]|noun|hd/det|de/[10,11]|det|1
+ochtend/[12,13]|noun|hd/mod|volg/[11,12]|adj|1
+ontmoet/[19,20]|verb|hd/mod|hoe/[16,17]|adj|1
+ontmoet/[19,20]|verb|hd/obj1|elkaar/[18,19]|pron|1
+ontmoet/[19,20]|verb|hd/su|ze/[17,18]|pron|1
+persoon/[7,8]|noun|hd/det|twee/[5,6]|num|1
+persoon/[7,8]|noun|hd/mod|dronken/[6,7]|adj|1
+top/top|top|top/hd|eindig/[2,3]|verb|1
+weet/[15,16]|verb|hd/mod|niet/[13,14]|adv|1
+weet/[15,16]|verb|hd/mod|ochtend/[12,13]|noun|1
+weet/[15,16]|verb|hd/su|ze/[9,10]|pron|1
+weet/[15,16]|verb|hd/vc|hoe/[16,17]|adj|1
+zodat/[8,9]|comp|cmp/body|weet/[15,16]|verb|1
+door/[3,4]|prep|hd/obj1|en/[6,7]|vg|1
+en/[6,7]|vg|crd/cnj|Matthew Dempsey/[7,9]|name|1
+en/[6,7]|vg|crd/cnj|Sandra Roberts/[4,6]|name|1
+gespeeld/[2,3]|adj|hd/mod|door/[3,4]|prep|1
+karakter/[1,2]|noun|hd/det|de/[0,1]|det|1
+karakter/[1,2]|noun|hd/mod|gespeeld/[2,3]|adj|1
+manier/[13,14]|noun|hd/det|een/[11,12]|det|1
+manier/[13,14]|noun|hd/mod|flauw/[12,13]|adj|1
+op/[10,11]|prep|hd/obj1|manier/[13,14]|noun|1
+top/top|top|top/hd|word/[9,10]|verb|1
+word/[9,10]|verb|-- / --|./[15,16]|punct|1
+word/[9,10]|verb|hd/su|karakter/[1,2]|noun|1
+word/[9,10]|verb|hd/vc|zet_neer/[14,15]|verb|1
+zet_neer/[14,15]|verb|hd/mod|op/[10,11]|prep|1
+zet_neer/[14,15]|verb|hd/obj1|karakter/[1,2]|noun|1
+ben/[3,4]|verb|hd/predc|en/[6,7]|vg|1
+ben/[3,4]|verb|hd/su|verhaal/[2,3]|noun|1
+cliché/[1,2]|noun|-- / --|./[9,10]|punct|1
+cliché/[1,2]|noun|dp/dp|ben/[3,4]|verb|1
+cliché/[1,2]|noun|hd/det|het/[0,1]|det|1
+en/[6,7]|vg|crd/cnj|vernieuw/[5,6]|adj|1
+en/[6,7]|vg|crd/cnj|voorspelbaar/[8,9]|adj|1
+top/top|top|top/hd|cliché/[1,2]|noun|1
+vernieuw/[5,6]|adj|hd/mod|weinig/[4,5]|adj|1
+voorspelbaar/[8,9]|adj|hd/mod|erg/[7,8]|adj|1
+apprecieer/[8,9]|verb|hd/mod|matig/[7,8]|adj|1
+apprecieer/[8,9]|verb|hd/mod|ook/[5,6]|adv|1
+apprecieer/[8,9]|verb|hd/obj1|grap_DIM/[2,3]|noun|1
+apprecieer/[8,9]|verb|hd/su|we/[4,5]|pron|1
+grap_DIM/[2,3]|noun|hd/det|de/[0,1]|det|1
+grap_DIM/[2,3]|noun|hd/mod|zwak/[1,2]|adj|1
+kan/[3,4]|verb|-- / --|./[9,10]|punct|1
+kan/[3,4]|verb|hd/su|we/[4,5]|pron|1
+kan/[3,4]|verb|hd/vc|apprecieer/[8,9]|verb|1
+matig/[7,8]|adj|hd/mod|maar/[6,7]|adv|1
+top/top|top|top/hd|kan/[3,4]|verb|1

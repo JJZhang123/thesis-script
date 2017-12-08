@@ -1,0 +1,262 @@
+Smartphones/[9,10]|name|hd/mod|straf/[8,9]|adj|1
+jaar/[4,5]|noun|hd/det|de/[2,3]|det|1
+jaar/[4,5]|noun|hd/mod|laat/[3,4]|adj|1
+met/[6,7]|prep|hd/obj1|Smartphones/[9,10]|name|1
+pak_uit/[1,2]|verb|-- / --|./[10,11]|punct|1
+pak_uit/[1,2]|verb|hd/mod|met/[6,7]|prep|1
+pak_uit/[1,2]|verb|hd/obj1|jaar/[4,5]|noun|1
+pak_uit/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+pak_uit/[1,2]|verb|hd/svp|uit/[5,6]|part|1
+straf/[8,9]|adj|hd/mod|zeer/[7,8]|adv|1
+top/top|top|top/hd|pak_uit/[1,2]|verb|1
+groei/[5,6]|noun|hd/det|een/[3,4]|det|1
+groei/[5,6]|noun|hd/mod|enorm/[4,5]|adj|1
+heb/[2,3]|verb|-- / --|./[20,21]|punct|1
+heb/[2,3]|verb|hd/su|product/[1,2]|noun|1
+heb/[2,3]|verb|hd/vc|ken/[6,7]|verb|1
+jaar/[9,10]|noun|hd/det|de/[7,8]|det|1
+jaar/[9,10]|noun|hd/mod|laat/[8,9]|adj|1
+ken/[6,7]|verb|hd/mod|jaar/[9,10]|noun|1
+ken/[6,7]|verb|hd/mod|zowel/[10,11]|vg|1
+ken/[6,7]|verb|hd/obj1|groei/[5,6]|noun|1
+ken/[6,7]|verb|hd/su|product/[1,2]|noun|1
+niveau/[13,14]|noun|hd/det|het/[12,13]|det|1
+niveau/[13,14]|noun|hd/mod|van/[14,15]|prep|1
+niveau/[19,20]|noun|hd/mod|kwalitatief/[18,19]|adj|1
+op/[11,12]|prep|hd/obj1|niveau/[13,14]|noun|1
+op/[17,18]|prep|hd/obj1|niveau/[19,20]|noun|1
+product/[1,2]|noun|hd/det|het/[0,1]|det|1
+top/top|top|top/hd|heb/[2,3]|verb|1
+van/[14,15]|prep|hd/obj1|marketing/[15,16]|noun|1
+zowel/[10,11]|vg|crd/cnj|op/[11,12]|prep|1
+zowel/[10,11]|vg|crd/cnj|op/[17,18]|prep|1
+zowel/[10,11]|vg|crd/crd|als/[16,17]|vg|1
+behoor/[2,3]|verb|-- / --|./[12,13]|punct|1
+behoor/[2,3]|verb|hd/mod|zonder/[3,4]|prep|1
+behoor/[2,3]|verb|hd/pc|tot/[5,6]|prep|1
+behoor/[2,3]|verb|hd/su|merk/[1,2]|noun|1
+markt/[11,12]|noun|hd/det|de/[10,11]|det|1
+merk/[1,2]|noun|hd/det|het/[0,1]|det|1
+op/[9,10]|prep|hd/obj1|markt/[11,12]|noun|1
+top/top|top|top/hd|behoor/[2,3]|verb|1
+top_product/[7,9]|noun|hd/det|de/[6,7]|det|1
+top_product/[7,9]|noun|hd/mod|op/[9,10]|prep|1
+tot/[5,6]|prep|hd/obj1|top_product/[7,9]|noun|1
+zonder/[3,4]|prep|hd/obj1|twijfel/[4,5]|noun|1
+blik/[6,7]|noun|hd/det|een/[4,5]|det|1
+blik/[6,7]|noun|hd/mod|kritisch/[5,6]|adj|1
+blik/[6,7]|noun|hd/mod|op/[7,8]|prep|1
+geef/[1,2]|verb|-- / --|./[10,11]|punct|1
+geef/[1,2]|verb|hd/mod|hier/[3,4]|adv|1
+geef/[1,2]|verb|hd/mod|toch/[0,1]|adv|1
+geef/[1,2]|verb|hd/obj1|blik/[6,7]|noun|1
+geef/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+op/[7,8]|prep|hd/obj1|propname/[9,10]|noun|1
+propname/[9,10]|noun|hd/det|de/[8,9]|det|1
+top/top|top|top/hd|geef/[1,2]|verb|1
+beeld/[5,6]|noun|hd/mod|in/[6,7]|prep|1
+beeld/[5,6]|noun|hd/mod|leesbaar/[4,5]|adj|1
+beeldscherm/[1,2]|noun|hd/det|het/[0,1]|det|1
+geef/[2,3]|verb|-- / --|./[9,10]|punct|1
+geef/[2,3]|verb|hd/obj1|beeld/[5,6]|noun|1
+geef/[2,3]|verb|hd/su|beeldscherm/[1,2]|noun|1
+in/[6,7]|prep|hd/obj1|zon_licht/[8,9]|noun|1
+leesbaar/[4,5]|adj|hd/mod|slecht/[3,4]|adj|1
+top/top|top|top/hd|geef/[2,3]|verb|1
+zon_licht/[8,9]|noun|hd/mod|direct/[7,8]|adj|1
+ben/[1,2]|verb|-- / --|./[7,8]|punct|1
+ben/[1,2]|verb|hd/mod|daarnaast/[0,1]|pp|1
+ben/[1,2]|verb|hd/mod|er/[2,3]|adv|1
+ben/[1,2]|verb|hd/su|tekortkoming/[3,4]|noun|1
+design/[6,7]|noun|hd/det|het/[5,6]|det|1
+in/[4,5]|prep|hd/obj1|design/[6,7]|noun|1
+tekortkoming/[3,4]|noun|hd/mod|in/[4,5]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+raak_aan/[7,8]|verb|-- / --|./[8,9]|punct|1
+raak_aan/[7,8]|verb|-- / --|de/[2,3]|det|1
+raak_aan/[7,8]|verb|-- / --|word/[1,2]|verb|1
+raak_aan/[7,8]|verb|-- / --|zo/[0,1]|adv|1
+raak_aan/[7,8]|verb|hd/mod|snel/[6,7]|adj|1
+raak_aan/[7,8]|verb|hd/mod|terug/[3,4]|adv|1
+raak_aan/[7,8]|verb|hd/obj1|toets/[4,5]|noun|1
+snel/[6,7]|adj|hd/mod|te/[5,6]|adv|1
+top/top|top|top/hd|raak_aan/[7,8]|verb|1
+behuizing/[3,4]|noun|hd/det|de/[1,2]|det|1
+behuizing/[3,4]|noun|hd/mod|ook/[0,1]|adv|1
+behuizing/[3,4]|noun|hd/mod|plastiek/[2,3]|adj|1
+behuizing/[15,16]|noun|hd/det|de/[13,14]|det|1
+behuizing/[15,16]|noun|hd/mod|aluminium/[14,15]|adj|1
+behuizing/[15,16]|noun|hd/mod|van/[16,17]|prep|1
+gevoel/[11,12]|noun|hd/det|het/[10,11]|det|1
+gevoel/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+in vergelijking met/[7,10]|prep|hd/obj1|gevoel/[11,12]|noun|1
+propname/[18,19]|noun|hd/det|een/[17,18]|det|1
+top/top|top|top/hd|voel_aan/[4,5]|verb|1
+van/[12,13]|prep|hd/obj1|behuizing/[15,16]|noun|1
+van/[16,17]|prep|hd/obj1|propname/[18,19]|noun|1
+voel_aan/[4,5]|verb|-- / --|./[19,20]|punct|1
+voel_aan/[4,5]|verb|hd/mod|in vergelijking met/[7,10]|prep|1
+voel_aan/[4,5]|verb|hd/predc|goedkoop/[5,6]|adj|1
+voel_aan/[4,5]|verb|hd/su|behuizing/[3,4]|noun|1
+voel_aan/[4,5]|verb|hd/svp|aan/[6,7]|part|1
+Smart/[6,7]|name|dp/dp|Stay, Direct Call/[7,10]|name|1
+ben/[13,14]|verb|hd/mod|niet/[14,15]|adv|1
+ben/[13,14]|verb|hd/predc|en/[17,18]|vg|1
+ben/[13,14]|verb|hd/su|die/[12,13]|det|1
+bevat/[2,3]|verb|hd/obj1|features/[4,5]|noun|1
+bevat/[2,3]|verb|hd/su|toestel/[1,2]|noun|1
+en/[17,18]|vg|crd/cnj|onhandig/[20,21]|adj|1
+en/[17,18]|vg|crd/cnj|uitgewerkt/[16,17]|adj|1
+features/[4,5]|noun|hd/mod|Smart/[6,7]|name|1
+features/[4,5]|noun|hd/mod|nieuw/[3,4]|adj|1
+maar/[11,12]|vg|-- / --|(-)/[5,6]|punct|1
+maar/[11,12]|vg|-- / --|(-)/[10,11]|punct|1
+maar/[11,12]|vg|-- / --|./[21,22]|punct|1
+maar/[11,12]|vg|crd/cnj|ben/[13,14]|verb|1
+maar/[11,12]|vg|crd/cnj|bevat/[2,3]|verb|1
+onhandig/[20,21]|adj|hd/mod|dus/[18,19]|adv|1
+onhandig/[20,21]|adj|hd/mod|soms/[19,20]|adv|1
+toestel/[1,2]|noun|hd/det|het/[0,1]|det|1
+top/top|top|top/hd|maar/[11,12]|vg|1
+uitgewerkt/[16,17]|adj|hd/mod|genoeg/[15,16]|adj|1
+actief/[7,8]|adj|hd/mod|te/[6,7]|adv|1
+doe/[4,5]|verb|hd/mod|actief/[7,8]|adj|1
+doe/[4,5]|verb|hd/obj1|dit/[5,6]|det|1
+doe/[4,5]|verb|hd/su|toetsenbord/[1,2]|noun|1
+maar/[3,4]|vg|-- / --|./[8,9]|punct|1
+maar/[3,4]|vg|crd/cnj|doe/[4,5]|verb|1
+maar/[3,4]|vg|crd/cnj|verbeter/[2,3]|verb|1
+toetsenbord/[1,2]|noun|hd/det|het/[0,1]|det|1
+top/top|top|top/hd|maar/[3,4]|vg|1
+verbeter/[2,3]|verb|hd/mod|actief/[7,8]|adj|1
+verbeter/[2,3]|verb|hd/obj1|dit/[5,6]|det|1
+verbeter/[2,3]|verb|hd/su|toetsenbord/[1,2]|noun|1
+Smartphone/[3,4]|name|hd/det|de/[2,3]|det|1
+batterij_duur/[8,9]|noun|hd/det|de/[7,8]|det|1
+blik/[1,2]|verb|-- / --|./[9,10]|punct|1
+blik/[1,2]|verb|hd/mod|niet/[4,5]|adv|1
+blik/[1,2]|verb|hd/mod|op/[6,7]|prep|1
+blik/[1,2]|verb|hd/mod|uit/[5,6]|adj|1
+blik/[1,2]|verb|hd/mod|ver/[0,1]|adj|1
+blik/[1,2]|verb|hd/su|Smartphone/[3,4]|name|1
+op/[6,7]|prep|hd/obj1|batterij_duur/[8,9]|noun|1
+top/top|top|top/hd|blik/[1,2]|verb|1
+ben/[1,2]|verb|-- / --|./[10,11]|punct|1
+ben/[1,2]|verb|hd/mod|daarnaast/[0,1]|pp|1
+ben/[1,2]|verb|hd/mod|in vergelijking met/[4,7]|prep|1
+ben/[1,2]|verb|hd/predc|sterk/[9,10]|adj|1
+ben/[1,2]|verb|hd/su|besturing_systeem/[3,4]|noun|1
+besturing_systeem/[3,4]|noun|hd/det|het/[2,3]|det|1
+in vergelijking met/[4,7]|prep|hd/obj1|apple,/[7,8]|noun|1
+sterk/[9,10]|adj|hd/mod|minder/[8,9]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+app/[21,22]|noun|hd/det|de/[20,21]|det|1
+bepaal/[22,23]|verb|hd/obj1|gevoel/[25,26]|noun|1
+bepaal/[22,23]|verb|hd/su|en/[19,20]|vg|1
+en/[12,13]|vg|crd/cnj|hard/[11,12]|prefix|1
+en/[12,13]|vg|crd/cnj|software/[13,14]|noun|1
+en/[19,20]|vg|crd/cnj|app/[21,22]|noun|1
+en/[19,20]|vg|crd/cnj|kwaliteit/[15,16]|noun|1
+focus/[5,6]|verb|hd/mod|ook/[4,5]|adv|1
+focus/[5,6]|verb|hd/mod|sterk/[1,2]|adj|1
+focus/[5,6]|verb|hd/pc|op/[6,7]|prep|1
+focus/[5,6]|verb|hd/su|maker/[3,4]|noun|1
+gevoel/[25,26]|noun|hd/det|het/[23,24]|det|1
+gevoel/[25,26]|noun|hd/mod|uiteindelijk/[24,25]|adj|1
+gevoel/[25,26]|noun|hd/vc|wanneer/[26,27]|adv|1
+kwaliteit/[15,16]|noun|hd/det|de/[14,15]|det|1
+kwaliteit/[15,16]|noun|hd/mod|van/[16,17]|prep|1
+maker/[3,4]|noun|hd/det|de/[2,3]|det|1
+met/[28,29]|prep|hd/obj1|smartphone/[30,31]|noun|1
+op/[6,7]|prep|hd/obj1|specificatie/[7,8]|noun|1
+samenwerking/[9,10]|noun|hd/det|de/[8,9]|det|1
+samenwerking/[9,10]|noun|hd/mod|tussen/[10,11]|prep|1
+smartphone/[30,31]|noun|hd/det|de/[29,30]|det|1
+software/[18,19]|noun|hd/det|de/[17,18]|det|1
+sterk/[1,2]|adj|-- / --|./[32,33]|punct|1
+sterk/[1,2]|adj|dp/dp|bepaal/[22,23]|verb|1
+sterk/[1,2]|adj|dp/dp|samenwerking/[9,10]|noun|1
+sterk/[1,2]|adj|hd/mod|hoe/[0,1]|adj|1
+sterk/[1,2]|adj|rhd/body|focus/[5,6]|verb|1
+top/top|top|top/hd|sterk/[1,2]|adj|1
+tussen/[10,11]|prep|hd/obj1|en/[12,13]|vg|1
+van/[16,17]|prep|hd/obj1|software/[18,19]|noun|1
+wanneer/[26,27]|adv|whd/body|werk/[31,32]|verb|1
+werk/[31,32]|verb|hd/mod|wanneer/[26,27]|adv|1
+werk/[31,32]|verb|hd/pc|met/[28,29]|prep|1
+werk/[31,32]|verb|hd/su|je/[27,28]|pron|1
+blijf/[1,2]|verb|-- / --|./[5,6]|punct|1
+blijf/[1,2]|verb|dp/dp|in/[4,5]|adj|1
+blijf/[1,2]|verb|hd/mod|hier/[2,3]|adv|1
+blijf/[1,2]|verb|hd/predc|leider/[3,4]|noun|1
+blijf/[1,2]|verb|hd/su|Apple/[0,1]|name|1
+top/top|top|top/hd|blijf/[1,2]|verb|1
+beloof/[2,3]|verb|hd/obj2|scherm/[1,2]|noun|1
+beloof/[2,3]|verb|hd/vc|te/[6,7]|comp|1
+ben/[7,8]|verb|hd/predc|en/[4,5]|vg|1
+ben/[16,17]|verb|hd/mod|niet/[13,14]|adv|1
+ben/[16,17]|verb|hd/predc|zo/[14,15]|adj|1
+ben/[16,17]|verb|hd/su|dit/[11,12]|det|1
+blijk/[12,13]|verb|hd/su|dit/[11,12]|det|1
+blijk/[12,13]|verb|hd/vc|te/[15,16]|comp|1
+dan/[8,9]|comparative|cmp/body|voordien/[9,10]|pp|1
+en/[4,5]|vg|crd/cnj|sterk/[3,4]|adj|1
+en/[4,5]|vg|crd/cnj|weerbaar/[5,6]|adj|1
+maar/[10,11]|vg|-- / --|./[17,18]|punct|1
+maar/[10,11]|vg|crd/cnj|beloof/[2,3]|verb|1
+maar/[10,11]|vg|crd/cnj|blijk/[12,13]|verb|1
+scherm/[1,2]|noun|hd/det|het/[0,1]|det|1
+sterk/[3,4]|adj|hd/obcomp|dan/[8,9]|comparative|1
+te/[6,7]|comp|cmp/body|ben/[7,8]|verb|1
+te/[15,16]|comp|cmp/body|ben/[16,17]|verb|1
+top/top|top|top/hd|maar/[10,11]|vg|1
+weerbaar/[5,6]|adj|hd/obcomp|dan/[8,9]|comparative|1
+barst/[10,11]|verb|hd/su|scherm/[9,10]|noun|1
+dat/[7,8]|comp|cmp/body|barst/[10,11]|verb|1
+ervoor/[5,6]|pp|hd/vc|dat/[7,8]|comp|1
+geval/[4,5]|noun|hd/det|een/[2,3]|det|1
+geval/[4,5]|noun|hd/mod|banaal/[3,4]|adj|1
+kan/[1,2]|verb|-- / --|./[11,12]|punct|1
+kan/[1,2]|verb|hd/su|geval/[4,5]|noun|1
+kan/[1,2]|verb|hd/vc|zorg/[6,7]|verb|1
+scherm/[9,10]|noun|hd/det|het/[8,9]|det|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+zorg/[6,7]|verb|hd/mod|soms/[0,1]|adv|1
+zorg/[6,7]|verb|hd/pc|ervoor/[5,6]|pp|1
+zorg/[6,7]|verb|hd/su|geval/[4,5]|noun|1
+ben/[4,5]|verb|-- / --|./[16,17]|punct|1
+ben/[4,5]|verb|hd/mod|dan/[5,6]|adv|1
+ben/[4,5]|verb|hd/mod|soms/[6,7]|adv|1
+ben/[4,5]|verb|hd/predc|traag/[7,8]|adj|1
+ben/[4,5]|verb|hd/su|service/[1,2]|noun|1
+her_stelling/[15,16]|noun|hd/det|de/[14,15]|det|1
+kan/[11,12]|verb|hd/su|je/[9,10]|pron|1
+kan/[11,12]|verb|hd/vc|wacht/[12,13]|verb|1
+op/[13,14]|prep|hd/obj1|her_stelling/[15,16]|noun|1
+propname/[3,4]|noun|hd/mod|waardoor/[8,9]|pp|1
+service/[1,2]|noun|hd/det|de/[0,1]|det|1
+service/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+van/[2,3]|prep|hd/obj1|propname/[3,4]|noun|1
+waardoor/[8,9]|pp|rhd/body|kan/[11,12]|verb|1
+wacht/[12,13]|verb|hd/mod|lang/[10,11]|adj|1
+wacht/[12,13]|verb|hd/mod|waardoor/[8,9]|pp|1
+wacht/[12,13]|verb|hd/pc|op/[13,14]|prep|1
+wacht/[12,13]|verb|hd/su|je/[9,10]|pron|1
+ben/[2,3]|verb|hd/mod|niet/[7,8]|adv|1
+ben/[2,3]|verb|hd/mod|samengevat/[1,2]|adj|1
+ben/[2,3]|verb|hd/predc|slecht/[8,9]|adj|1
+ben/[2,3]|verb|hd/su|telefoon/[5,6]|noun|1
+ben/[11,12]|verb|hd/mod|er/[10,11]|adv|1
+ben/[11,12]|verb|hd/mod|nog/[12,13]|adv|1
+ben/[11,12]|verb|hd/su|ruimte/[13,14]|noun|1
+maar/[9,10]|vg|-- / --|./[16,17]|punct|1
+maar/[9,10]|vg|crd/cnj|ben/[2,3]|verb|1
+maar/[9,10]|vg|crd/cnj|ben/[11,12]|verb|1
+niet/[7,8]|adv|hd/mod|zeker/[6,7]|adj|1
+ruimte/[13,14]|noun|hd/mod|voor/[14,15]|prep|1
+samengevat/[1,2]|adj|hd/mod|kort/[0,1]|adj|1
+telefoon/[5,6]|noun|hd/det|de/[3,4]|det|1
+telefoon/[5,6]|noun|hd/mod|mobiel/[4,5]|adj|1
+top/top|top|top/hd|maar/[9,10]|vg|1
+voor/[14,15]|prep|hd/obj1|verbetering/[15,16]|noun|1

@@ -1,0 +1,77 @@
+ben/[12,13]|verb|-- / --|./[16,17]|punct|1
+ben/[12,13]|verb|hd/mod|meteen/[14,15]|adv|1
+ben/[12,13]|verb|hd/mod|toen/[0,1]|comp|1
+ben/[12,13]|verb|hd/predc|enthousiast/[15,16]|adj|1
+ben/[12,13]|verb|hd/su|ik/[13,14]|pron|1
+dat/[3,4]|comp|cmp/body|ga/[10,11]|verb|1
+film/[7,8]|noun|hd/det|een/[6,7]|det|1
+film/[7,8]|noun|hd/mod|over/[8,9]|prep|1
+ga/[10,11]|verb|hd/su|Steven Spielberg/[4,6]|name|1
+ga/[10,11]|verb|hd/vc|maak/[11,12]|verb|1
+hoor/[2,3]|verb|hd/su|ik/[1,2]|pron|1
+hoor/[2,3]|verb|hd/vc|dat/[3,4]|comp|1
+maak/[11,12]|verb|hd/obj1|film/[7,8]|noun|1
+maak/[11,12]|verb|hd/su|Steven Spielberg/[4,6]|name|1
+over/[8,9]|prep|hd/obj1|PROPNAME/[9,10]|name|1
+toen/[0,1]|comp|cmp/body|hoor/[2,3]|verb|1
+top/top|top|top/hd|ben/[12,13]|verb|1
+ben/[1,2]|verb|-- / --|./[9,10]|punct|1
+ben/[1,2]|verb|hd/mod|lang/[4,5]|adj|1
+ben/[1,2]|verb|hd/mod|namelijk/[2,3]|adv|1
+ben/[1,2]|verb|hd/predc|fan/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+fan/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+lang/[4,5]|adj|hd/mod|al/[3,4]|adv|1
+reporter/[8,9]|noun|hd/det|de/[7,8]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[6,7]|prep|hd/obj1|reporter/[8,9]|noun|1
+creëer/[5,6]|verb|hd/mod|dus/[2,3]|adv|1
+creëer/[5,6]|verb|hd/obj1|verwachting/[4,5]|noun|1
+creëer/[5,6]|verb|hd/su|Spielberg/[0,1]|name|1
+heb/[1,2]|verb|hd/su|Spielberg/[0,1]|name|1
+heb/[1,2]|verb|hd/vc|creëer/[5,6]|verb|1
+kan/[8,9]|verb|hd/su|hij/[9,10]|pron|1
+kan/[8,9]|verb|hd/vc|maak_waar/[11,12]|verb|1
+maak_waar/[11,12]|verb|hd/mod|grotendeels/[10,11]|adv|1
+maak_waar/[11,12]|verb|hd/obj1|die/[7,8]|det|1
+maak_waar/[11,12]|verb|hd/su|hij/[9,10]|pron|1
+maar/[6,7]|vg|-- / --|./[12,13]|punct|1
+maar/[6,7]|vg|crd/cnj|heb/[1,2]|verb|1
+maar/[6,7]|vg|crd/cnj|kan/[8,9]|verb|1
+top/top|top|top/hd|maar/[6,7]|vg|1
+verwachting/[4,5]|noun|hd/mod|groot/[3,4]|adj|1
+en/[6,7]|vg|-- / --|./[14,15]|punct|1
+en/[6,7]|vg|crd/cnj|heb/[1,2]|verb|1
+en/[6,7]|vg|crd/cnj|heb/[7,8]|verb|1
+film_parel_DIM/[10,11]|noun|hd/det|een/[9,10]|det|1
+heb/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|verkracht/[5,6]|verb|1
+heb/[7,8]|verb|hd/su|hij/[0,1]|pron|1
+heb/[7,8]|verb|hd/vc|kan/[12,13]|verb|1
+kan/[12,13]|verb|hd/su|hij/[0,1]|pron|1
+kan/[12,13]|verb|hd/vc|maak/[13,14]|verb|1
+maak/[13,14]|verb|hd/obj1|film_parel_DIM/[10,11]|noun|1
+maak/[13,14]|verb|hd/pc|van/[11,12]|prep|1
+maak/[13,14]|verb|hd/su|hij/[0,1]|pron|1
+nostalgie/[3,4]|noun|hd/det|ons/[2,3]|det|1
+top/top|top|top/hd|en/[6,7]|vg|1
+van/[11,12]|prep|hd/obj1|er/[8,9]|adv|1
+verkracht/[5,6]|verb|hd/mod|niet/[4,5]|adv|1
+verkracht/[5,6]|verb|hd/obj1|nostalgie/[3,4]|noun|1
+verkracht/[5,6]|verb|hd/su|hij/[0,1]|pron|1
+Oscar/[9,10]|name|hd/det|enkel/[8,9]|det|1
+Oscar/[9,10]|name|hd/det|geen/[7,8]|det|1
+ben/[1,2]|verb|-- / --|./[13,14]|punct|1
+ben/[1,2]|verb|hd/mod|dus/[2,3]|adv|1
+ben/[1,2]|verb|hd/predc|jammer/[3,4]|adj|1
+ben/[1,2]|verb|hd/su|dat/[4,5]|comp|1
+ben/[1,2]|verb|hd/sup|het/[0,1]|noun|1
+dat/[4,5]|comp|cmp/body|heb/[10,11]|verb|1
+film/[6,7]|noun|hd/det|de/[5,6]|det|1
+heb/[10,11]|verb|hd/su|film/[6,7]|noun|1
+heb/[10,11]|verb|hd/vc|kan/[11,12]|verb|1
+kan/[11,12]|verb|hd/su|film/[6,7]|noun|1
+kan/[11,12]|verb|hd/vc|win/[12,13]|verb|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+win/[12,13]|verb|hd/obj1|Oscar/[9,10]|name|1
+win/[12,13]|verb|hd/su|film/[6,7]|noun|1

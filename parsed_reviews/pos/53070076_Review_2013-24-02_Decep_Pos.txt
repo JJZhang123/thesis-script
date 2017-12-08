@@ -1,0 +1,108 @@
+ben/[1,2]|verb|-- / --|./[12,13]|punct|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+ben/[1,2]|verb|hd/vc|ga/[8,9]|verb|1
+eet/[9,10]|verb|hd/mod|in/[10,11]|prep|1
+eet/[9,10]|verb|hd/mod|voor/[4,5]|prep|1
+eet/[9,10]|verb|hd/obj1|weekend/[3,4]|noun|1
+eet/[9,10]|verb|hd/su|ik/[0,1]|pron|1
+ga/[8,9]|verb|hd/su|ik/[0,1]|pron|1
+ga/[8,9]|verb|hd/vc|eet/[9,10]|verb|1
+in/[10,11]|prep|hd/obj1|PROPNAME/[11,12]|name|1
+keer/[7,8]|noun|hd/det|de/[5,6]|det|1
+keer/[7,8]|noun|hd/mod|eerste/[6,7]|num|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+voor/[4,5]|prep|hd/obj1|keer/[7,8]|noun|1
+weekend/[3,4]|noun|hd/det|dit/[2,3]|det|1
+aanrader/[5,6]|noun|hd/det|een/[3,4]|det|1
+aanrader/[5,6]|noun|hd/mod|dik/[4,5]|adj|1
+aanrader/[5,6]|noun|hd/mod|voor/[6,7]|prep|1
+ben/[2,3]|verb|-- / --|!/[9,10]|punct|1
+ben/[2,3]|verb|hd/predc|aanrader/[5,6]|noun|1
+ben/[2,3]|verb|hd/su|restaurant/[1,2]|noun|1
+restaurant/[1,2]|noun|hd/det|het/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+vis_liefhebber/[8,9]|noun|hd/det|de/[7,8]|det|1
+voor/[6,7]|prep|hd/obj1|vis_liefhebber/[8,9]|noun|1
+ben/[18,19]|verb|hd/su|het/[15,16]|det|1
+ben/[18,19]|verb|hd/vc|val_mee/[19,20]|verb|1
+dat/[14,15]|comp|cmp/body|ben/[18,19]|verb|1
+en/[10,11]|vg|-- / --|./[20,21]|punct|1
+en/[10,11]|vg|crd/cnj|heb/[1,2]|verb|1
+en/[10,11]|vg|crd/cnj|moet/[12,13]|verb|1
+goed/[17,18]|adj|hd/mod|heel/[16,17]|adv|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|hoor/[6,7]|verb|1
+hoor/[6,7]|verb|hd/mod|al/[2,3]|adv|1
+hoor/[6,7]|verb|hd/obj1|reactie/[5,6]|noun|1
+hoor/[6,7]|verb|hd/pc|over/[7,8]|prep|1
+hoor/[6,7]|verb|hd/su|ik/[0,1]|pron|1
+moet/[12,13]|verb|hd/su|ik/[11,12]|pron|1
+moet/[12,13]|verb|hd/vc|zeg/[13,14]|verb|1
+over/[7,8]|prep|hd/obj1|zaak/[9,10]|noun|1
+reactie/[5,6]|noun|hd/det|veel/[3,4]|adj|1
+reactie/[5,6]|noun|hd/mod|goed/[4,5]|adj|1
+top/top|top|top/hd|en/[10,11]|vg|1
+val_mee/[19,20]|verb|hd/mod|goed/[17,18]|adj|1
+val_mee/[19,20]|verb|hd/su|het/[15,16]|det|1
+zaak/[9,10]|noun|hd/det|de/[8,9]|det|1
+zeg/[13,14]|verb|hd/su|ik/[11,12]|pron|1
+zeg/[13,14]|verb|hd/vc|dat/[14,15]|comp|1
+ben/[2,3]|verb|-- / --|./[5,6]|punct|1
+ben/[2,3]|verb|hd/predc|goed/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|prijs_kwaliteit/[1,2]|noun|1
+goed/[4,5]|adj|hd/mod|zeer/[3,4]|adv|1
+prijs_kwaliteit/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+en/[6,7]|vg|crd/cnj|menu_kaart/[10,11]|noun|1
+en/[6,7]|vg|crd/cnj|product/[5,6]|noun|1
+menu_kaart/[10,11]|noun|hd/det|een/[8,9]|det|1
+menu_kaart/[10,11]|noun|hd/mod|ook/[7,8]|adv|1
+menu_kaart/[10,11]|noun|hd/mod|uitgebreid/[9,10]|adj|1
+met/[2,3]|prep|hd/obj1|en/[6,7]|vg|1
+product/[5,6]|noun|hd/mod|vers/[4,5]|adj|1
+top/top|top|top/hd|werk/[1,2]|verb|1
+vers/[4,5]|adj|hd/mod|zeer/[3,4]|adv|1
+werk/[1,2]|verb|-- / --|./[11,12]|punct|1
+werk/[1,2]|verb|hd/pc|met/[2,3]|prep|1
+werk/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+ben/[2,3]|verb|-- / --|./[5,6]|punct|1
+ben/[2,3]|verb|hd/mod|ook/[3,4]|adv|1
+ben/[2,3]|verb|hd/predc|uitstekend/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|service/[1,2]|noun|1
+service/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+aangezien/[10,11]|comp|cmp/body|zit/[14,15]|verb|1
+bediening/[1,2]|noun|-- / --|./[17,18]|punct|1
+bediening/[1,2]|noun|-- / --|en/[2,3]|vg|1
+bediening/[1,2]|noun|dp/dp|lang/[4,5]|adj|1
+bediening/[1,2]|noun|dp/dp|moet/[5,6]|verb|1
+bediening/[1,2]|noun|hd/mod|vriendelijk/[0,1]|adj|1
+eet/[9,10]|verb|hd/det|het/[8,9]|det|1
+lang/[4,5]|adj|hd/mod|niet/[3,4]|adv|1
+moet/[5,6]|verb|hd/vc|wacht/[6,7]|verb|1
+op/[7,8]|prep|hd/obj1|eet/[9,10]|verb|1
+op/[15,16]|prep|hd/obj1|zaterdag_avond/[16,17]|noun|1
+restaurant/[12,13]|noun|hd/det|het/[11,12]|det|1
+top/top|top|top/hd|bediening/[1,2]|noun|1
+wacht/[6,7]|verb|hd/mod|aangezien/[10,11]|comp|1
+wacht/[6,7]|verb|hd/pc|op/[7,8]|prep|1
+zit/[14,15]|verb|hd/ld|op/[15,16]|prep|1
+zit/[14,15]|verb|hd/obj2|volume_zet/[13,14]|noun|1
+zit/[14,15]|verb|hd/su|restaurant/[12,13]|noun|1
+pluim/[1,2]|noun|-- / --|!/[5,6]|punct|1
+pluim/[1,2]|noun|hd/mod|dik/[0,1]|adj|1
+pluim/[1,2]|noun|hd/mod|voor/[2,3]|prep|1
+restaurant/[4,5]|noun|hd/det|dit/[3,4]|det|1
+top/top|top|top/hd|pluim/[1,2]|noun|1
+voor/[2,3]|prep|hd/obj1|restaurant/[4,5]|noun|1
+nog/[5,6]|adv|hd/mod|zeker/[4,5]|adv|1
+top/top|top|top/hd|zal/[1,2]|verb|1
+zal/[1,2]|verb|-- / --|!/[9,10]|punct|1
+zal/[1,2]|verb|hd/su|ze/[2,3]|pron|1
+zal/[1,2]|verb|hd/vc|zie_terug/[8,9]|verb|1
+zie_terug/[8,9]|verb|hd/mod|eens/[6,7]|adv|1
+zie_terug/[8,9]|verb|hd/mod|er/[3,4]|adv|1
+zie_terug/[8,9]|verb|hd/mod|nog/[5,6]|adv|1
+zie_terug/[8,9]|verb|hd/obj1|mij/[0,1]|pron|1
+zie_terug/[8,9]|verb|hd/su|ze/[2,3]|pron|1
+zie_terug/[8,9]|verb|hd/svp|terug/[7,8]|part|1

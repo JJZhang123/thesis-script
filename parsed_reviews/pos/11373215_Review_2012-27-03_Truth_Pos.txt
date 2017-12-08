@@ -1,0 +1,238 @@
+Woody Allen/[27,29]|name|hd/det|een/[23,24]|det|1
+Woody Allen/[27,29]|name|hd/mod|en/[25,26]|vg|1
+aan/[7,8]|prep|hd/obj1|verhaal/[11,12]|noun|1
+ben/[12,13]|verb|hd/mod|hoewel/[0,1]|comp|1
+ben/[12,13]|verb|hd/mod|in/[19,20]|prep|1
+ben/[12,13]|verb|hd/mod|toch/[17,18]|adv|1
+ben/[12,13]|verb|hd/predc|Woody Allen/[27,29]|name|1
+ben/[12,13]|verb|hd/su|prent/[16,17]|noun|1
+bij/[3,4]|prep|hd/obj1|titel/[5,6]|noun|1
+blijf/[14,15]|verb|hd/mod|hoewel/[0,1]|comp|1
+blijf/[14,15]|verb|hd/mod|in/[19,20]|prep|1
+blijf/[14,15]|verb|hd/mod|toch/[17,18]|adv|1
+blijf/[14,15]|verb|hd/predc|Woody Allen/[27,29]|name|1
+blijf/[14,15]|verb|hd/su|prent/[16,17]|noun|1
+en/[13,14]|vg|-- / --|./[29,30]|punct|1
+en/[13,14]|vg|crd/cnj|ben/[12,13]|verb|1
+en/[13,14]|vg|crd/cnj|blijf/[14,15]|verb|1
+en/[25,26]|vg|crd/cnj|echt/[24,25]|adj|1
+en/[25,26]|vg|crd/cnj|origenel/[26,27]|adj|1
+hoewel/[0,1]|comp|cmp/body|verwacht/[6,7]|verb|1
+in/[19,20]|prep|hd/mod|vooral/[18,19]|adv|1
+in/[19,20]|prep|hd/obj1|plaats/[22,23]|noun|1
+plaats/[22,23]|noun|hd/det|de/[20,21]|det|1
+plaats/[22,23]|noun|hd/mod|eerste/[21,22]|num|1
+prent/[16,17]|noun|hd/det|deze/[15,16]|det|1
+titel/[5,6]|noun|hd/det|de/[4,5]|det|1
+top/top|top|top/hd|en/[13,14]|vg|1
+verhaal/[11,12]|noun|hd/det|een/[8,9]|det|1
+verhaal/[11,12]|noun|hd/mod|romantisch/[10,11]|adj|1
+verhaal/[11,12]|noun|hd/mod|uiterst/[9,10]|adj|1
+verwacht/[6,7]|verb|hd/mod|bij/[3,4]|prep|1
+verwacht/[6,7]|verb|hd/pc|aan/[7,8]|prep|1
+verwacht/[6,7]|verb|hd/se|zich/[2,3]|pron|1
+verwacht/[6,7]|verb|hd/su|men/[1,2]|pron|1
+absurd/[10,11]|adj|hd/det|het/[9,10]|det|1
+als/[3,4]|comp|cmp/body|ander/[5,6]|adj|1
+ander/[5,6]|adj|hd/det|geen/[4,5]|det|1
+combineer/[1,2]|verb|-- / --|./[15,16]|punct|1
+combineer/[1,2]|verb|hd/mod|hier/[2,3]|adv|1
+combineer/[1,2]|verb|hd/obj1|en/[11,12]|vg|1
+combineer/[1,2]|verb|hd/predm|als/[3,4]|comp|1
+combineer/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+drang/[7,8]|noun|hd/det|zijn/[6,7]|det|1
+drang/[7,8]|noun|hd/mod|naar/[8,9]|prep|1
+en/[11,12]|vg|crd/cnj|drang/[7,8]|noun|1
+en/[11,12]|vg|crd/cnj|verhaal_lijn/[14,15]|noun|1
+naar/[8,9]|prep|hd/obj1|absurd/[10,11]|adj|1
+top/top|top|top/hd|combineer/[1,2]|verb|1
+verhaal_lijn/[14,15]|noun|hd/det|een/[12,13]|det|1
+verhaal_lijn/[14,15]|noun|hd/mod|duidelijk/[13,14]|adj|1
+Parijs/[18,19]|name|hd/det|het/[16,17]|det|1
+Parijs/[18,19]|name|hd/mod|nachtelijk/[17,18]|adj|1
+avontuur/[14,15]|noun|hd/mod|in/[15,16]|prep|1
+avontuur/[14,15]|noun|hd/mod|vreemd/[13,14]|adj|1
+beleef/[10,11]|verb|-- / --|./[19,20]|punct|1
+beleef/[10,11]|verb|hd/mod|wel/[11,12]|adj|1
+beleef/[10,11]|verb|hd/obj1|avontuur/[14,15]|noun|1
+beleef/[10,11]|verb|hd/su|droom/[9,10]|verb|1
+droom/[9,10]|verb|hd/det|een/[0,1]|det|1
+droom/[9,10]|verb|hd/obj1|jongeman/[1,2]|noun|1
+droom/[9,10]|verb|hd/predm|op zoek/[3,4]|adj|1
+in/[15,16]|prep|hd/obj1|Parijs/[18,19]|name|1
+inspiratie/[5,6]|noun|hd/mod|voor/[6,7]|prep|1
+literair/[8,9]|adj|hd/det|zijn/[7,8]|det|1
+naar/[4,5]|prep|hd/obj1|inspiratie/[5,6]|noun|1
+op zoek/[3,4]|adj|hd/mod|wanhopig/[2,3]|adj|1
+op zoek/[3,4]|adj|hd/pc|naar/[4,5]|prep|1
+top/top|top|top/hd|beleef/[10,11]|verb|1
+voor/[6,7]|prep|hd/obj1|literair/[8,9]|adj|1
+vreemd/[13,14]|adj|hd/mod|heel/[12,13]|adv|1
+eeuw/[20,21]|noun|hd/det|de/[18,19]|det|1
+eeuw/[20,21]|noun|hd/mod|20e/[19,20]|num|1
+en/[6,7]|vg|-- / --|./[21,22]|punct|1
+en/[6,7]|vg|crd/cnj|ontmoet/[7,8]|verb|1
+en/[6,7]|vg|crd/cnj|word/[1,2]|verb|1
+en/[13,14]|vg|crd/cnj|bekend/[12,13]|adj|1
+en/[13,14]|vg|crd/cnj|succesvol/[15,16]|adj|1
+enkel/[9,10]|det|hd/mod|van/[10,11]|prep|1
+in/[2,3]|prep|hd/obj1|tijd/[4,5]|noun|1
+ontmoet/[7,8]|verb|hd/mod|zo/[8,9]|adv|1
+ontmoet/[7,8]|verb|hd/obj1|enkel/[9,10]|det|1
+ontmoet/[7,8]|verb|hd/su|hij/[0,1]|pron|1
+schrijver/[16,17]|noun|hd/det|de/[11,12]|det|1
+schrijver/[16,17]|noun|hd/mod|en/[13,14]|vg|1
+schrijver/[16,17]|noun|hd/mod|van/[17,18]|prep|1
+succesvol/[15,16]|adj|hd/mod|meest/[14,15]|adj|1
+teruggekatapulteer/[5,6]|verb|hd/mod|in/[2,3]|prep|1
+teruggekatapulteer/[5,6]|verb|hd/obj1|hij/[0,1]|pron|1
+tijd/[4,5]|noun|hd/det|de/[3,4]|det|1
+top/top|top|top/hd|en/[6,7]|vg|1
+van/[10,11]|prep|hd/obj1|schrijver/[16,17]|noun|1
+van/[17,18]|prep|hd/obj1|eeuw/[20,21]|noun|1
+word/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+word/[1,2]|verb|hd/vc|teruggekatapulteer/[5,6]|verb|1
+aangenaam/[5,6]|adj|hd/obcomp|dan/[8,9]|comparative|1
+begin/[1,2]|verb|-- / --|./[15,16]|punct|1
+begin/[1,2]|verb|hd/mod|stilaan/[0,1]|adv|1
+begin/[1,2]|verb|hd/su|hij/[2,3]|pron|1
+begin/[1,2]|verb|hd/vc|te/[6,7]|comp|1
+dan/[8,9]|comparative|cmp/body|diegene/[9,10]|pron|1
+diegene/[9,10]|pron|hd/mod|waar/[10,11]|adv|1
+in/[13,14]|prep|hd/obj1|waar/[10,11]|adv|1
+leef/[14,15]|verb|hd/ld|in/[13,14]|prep|1
+leef/[14,15]|verb|hd/mod|echt/[12,13]|adj|1
+leef/[14,15]|verb|hd/su|hij/[11,12]|pron|1
+te/[6,7]|comp|cmp/body|vind/[7,8]|verb|1
+top/top|top|top/hd|begin/[1,2]|verb|1
+vind/[7,8]|verb|hd/obj1|wereld/[4,5]|noun|1
+vind/[7,8]|verb|hd/predc|aangenaam/[5,6]|adj|1
+vind/[7,8]|verb|hd/su|hij/[2,3]|pron|1
+waar/[10,11]|adv|rhd/body|leef/[14,15]|verb|1
+wereld/[4,5]|noun|hd/det|die/[3,4]|det|1
+aan/[10,11]|prep|hd/obj1|omgeving/[12,13]|noun|1
+en/[5,6]|vg|crd/cnj|hoe/[6,7]|adj|1
+en/[5,6]|vg|crd/cnj|houd/[1,2]|verb|1
+hoe/[6,7]|adj|whd/body|vertel/[7,8]|verb|1
+houd/[1,2]|verb|hd/obj1|volume/[4,5]|noun|1
+houd/[1,2]|verb|hd/su|hij/[2,3]|pron|1
+maar/[0,1]|comp|-- / --|? /[13,14]|punct|1
+maar/[0,1]|comp|dlink/nucl|en/[5,6]|vg|1
+omgeving/[12,13]|noun|hd/det|zijn/[11,12]|det|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+vertel/[7,8]|verb|hd/mod|hoe/[6,7]|adj|1
+vertel/[7,8]|verb|hd/obj1|dit/[9,10]|det|1
+vertel/[7,8]|verb|hd/obj2|aan/[10,11]|prep|1
+vertel/[7,8]|verb|hd/su|hij/[8,9]|pron|1
+volume/[4,5]|noun|hd/det|dit/[3,4]|det|1
+acteur/[9,10]|noun|hd/det|deze/[8,9]|det|1
+hoewel/[7,8]|comp|cmp/body|presteer/[17,18]|verb|1
+hoofdrol/[4,5]|noun|hd/det|de/[3,4]|det|1
+jaar/[12,13]|noun|hd/det|de/[10,11]|det|1
+jaar/[12,13]|noun|hd/mod|laat/[11,12]|adj|1
+jaar/[12,13]|noun|hd/mod|naar/[13,14]|prep|1
+mening/[15,16]|noun|hd/det|mijn/[14,15]|det|1
+naar/[13,14]|prep|hd/obj1|mening/[15,16]|noun|1
+presteer/[17,18]|verb|hd/mod|jaar/[12,13]|noun|1
+presteer/[17,18]|verb|hd/mod|pover/[16,17]|adj|1
+presteer/[17,18]|verb|hd/su|acteur/[9,10]|noun|1
+top/top|top|top/hd|zet/[2,3]|verb|1
+zet/[2,3]|verb|-- / --|./[18,19]|punct|1
+zet/[2,3]|verb|hd/mod|hoewel/[7,8]|comp|1
+zet/[2,3]|verb|hd/mod|neer/[6,7]|adv|1
+zet/[2,3]|verb|hd/mod|uitstekend/[5,6]|adj|1
+zet/[2,3]|verb|hd/obj1|hoofdrol/[4,5]|noun|1
+zet/[2,3]|verb|hd/su|Owen Wilson/[0,2]|name|1
+die/[19,20]|pron|rhd/body|lijk/[22,23]|verb|1
+iets/[14,15]|noun|hd/mod|net/[13,14]|adv|1
+lijk/[22,23]|verb|hd/su|ze/[20,21]|pron|1
+lijk/[22,23]|verb|hd/vc|te/[23,24]|comp|1
+maar/[11,12]|vg|-- / --|./[25,26]|punct|1
+maar/[11,12]|vg|crd/cnj|speel/[12,13]|verb|1
+maar/[11,12]|vg|crd/cnj|zet/[6,7]|verb|1
+prestatie/[9,10]|noun|hd/det|een/[7,8]|det|1
+prestatie/[9,10]|noun|hd/mod|goed/[8,9]|adj|1
+rol/[18,19]|noun|hd/det|de/[17,18]|det|1
+rol/[18,19]|noun|hd/mod|die/[19,20]|pron|1
+speel/[12,13]|verb|hd/mod|veel/[16,17]|adj|1
+speel/[12,13]|verb|hd/obj1|rol/[18,19]|noun|1
+speel/[12,13]|verb|hd/su|tegen_speelster/[3,4]|noun|1
+speel/[24,25]|verb|hd/mod|altijd/[21,22]|adv|1
+speel/[24,25]|verb|hd/obj1|die/[19,20]|pron|1
+speel/[24,25]|verb|hd/su|ze/[20,21]|pron|1
+te/[15,16]|adv|hd/me|iets/[14,15]|noun|1
+te/[23,24]|comp|cmp/body|speel/[24,25]|verb|1
+tegen_speelster/[3,4]|noun|hd/app|Rachel McAdams,/[4,6]|name|1
+tegen_speelster/[3,4]|noun|hd/det|zijn/[1,2]|det|1
+tegen_speelster/[3,4]|noun|hd/mod|ook/[0,1]|adv|1
+tegen_speelster/[3,4]|noun|hd/mod|vrouwelijk/[2,3]|adj|1
+top/top|top|top/hd|maar/[11,12]|vg|1
+veel/[16,17]|adj|hd/mod|te/[15,16]|adv|1
+zet/[6,7]|verb|hd/obj1|prestatie/[9,10]|noun|1
+zet/[6,7]|verb|hd/predc|naar/[10,11]|adj|1
+zet/[6,7]|verb|hd/su|tegen_speelster/[3,4]|noun|1
+Carla Brunis acteurkunsten,/[1,4]|name|hd/mod|waarover/[4,5]|pp|1
+aan/[21,22]|prep|hd/obj1|kwaliteit/[23,24]|noun|1
+draag_bij/[17,18]|verb|hd/obj1|niets/[19,20]|noun|1
+draag_bij/[17,18]|verb|hd/pc|aan/[21,22]|prep|1
+draag_bij/[17,18]|verb|hd/su|ze/[16,17]|pron|1
+draag_bij/[17,18]|verb|hd/svp|bij/[20,21]|part|1
+kan_kwijt/[10,11]|verb|-- / --|./[27,28]|punct|1
+kan_kwijt/[10,11]|verb|dp/dp|draag_bij/[17,18]|verb|1
+kan_kwijt/[10,11]|verb|hd/mod|over/[0,1]|prep|1
+kan_kwijt/[10,11]|verb|hd/obj1|volg/[14,15]|adj|1
+kan_kwijt/[10,11]|verb|hd/su|ik/[11,12]|pron|1
+kan_kwijt/[10,11]|verb|hd/svp|kwijt/[15,16]|part|1
+kwaliteit/[23,24]|noun|hd/det|de/[22,23]|det|1
+kwaliteit/[23,24]|noun|hd/mod|van/[24,25]|prep|1
+maak/[8,9]|verb|hd/mod|er/[5,6]|adv|1
+maak/[8,9]|verb|hd/mod|waarover/[4,5]|pp|1
+maak/[8,9]|verb|hd/obj1|ophef/[7,8]|noun|1
+meester_werk/[26,27]|noun|hd/det|dit/[25,26]|det|1
+niets/[19,20]|noun|hd/mod|absoluut/[18,19]|adj|1
+ophef/[7,8]|noun|hd/det|veel/[6,7]|adj|1
+over/[0,1]|prep|hd/obj1|Carla Brunis acteurkunsten,/[1,4]|name|1
+top/top|top|top/hd|kan_kwijt/[10,11]|verb|1
+van/[24,25]|prep|hd/obj1|meester_werk/[26,27]|noun|1
+volg/[14,15]|adj|hd/det|het/[13,14]|det|1
+volg/[14,15]|adj|hd/mod|enkel/[12,13]|adv|1
+waarover/[4,5]|pp|rhd/body|word/[9,10]|verb|1
+word/[9,10]|verb|hd/su|ophef/[7,8]|noun|1
+word/[9,10]|verb|hd/vc|maak/[8,9]|verb|1
+carrière/[4,5]|noun|hd/det|die/[3,4]|det|1
+kan/[1,2]|verb|-- / --|./[8,9]|punct|1
+kan/[1,2]|verb|hd/su|ze/[2,3]|pron|1
+kan/[1,2]|verb|hd/vc|verberg/[7,8]|verb|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+verberg/[7,8]|verb|hd/mod|diep/[6,7]|adj|1
+verberg/[7,8]|verb|hd/mod|ergens/[5,6]|adv|1
+verberg/[7,8]|verb|hd/mod|goed/[0,1]|adj|1
+verberg/[7,8]|verb|hd/obj1|carrière/[4,5]|noun|1
+verberg/[7,8]|verb|hd/su|ze/[2,3]|pron|1
+avond/[7,8]|noun|hd/det|een/[5,6]|det|1
+avond/[7,8]|noun|hd/mod|ontspan/[6,7]|adj|1
+avond/[7,8]|noun|hd/mod|waarin/[8,9]|pp|1
+ben/[3,4]|verb|hd/predc|op zoek/[2,3]|adj|1
+ben/[3,4]|verb|hd/su|wie/[1,2]|pron|1
+ben/[15,16]|verb|-- / --|./[21,22]|punct|1
+ben/[15,16]|verb|hd/mod|voor/[0,1]|prep|1
+ben/[15,16]|verb|hd/predc|keuze/[20,21]|noun|1
+ben/[15,16]|verb|hd/su|film/[17,18]|noun|1
+droom_weg/[12,13]|verb|hd/mod|waarin/[8,9]|pp|1
+droom_weg/[12,13]|verb|hd/su|men/[9,10]|pron|1
+en/[13,14]|vg|crd/cnj|droom_weg/[12,13]|verb|1
+en/[13,14]|vg|crd/cnj|fantaseer/[14,15]|verb|1
+fantaseer/[14,15]|verb|hd/mod|waarin/[8,9]|pp|1
+fantaseer/[14,15]|verb|hd/su|men/[9,10]|pron|1
+film/[17,18]|noun|hd/det|deze/[16,17]|det|1
+kan/[11,12]|verb|hd/predm|zelf/[10,11]|adv|1
+kan/[11,12]|verb|hd/su|men/[9,10]|pron|1
+kan/[11,12]|verb|hd/vc|en/[13,14]|vg|1
+keuze/[20,21]|noun|hd/det|een/[18,19]|det|1
+keuze/[20,21]|noun|hd/mod|excellent/[19,20]|adj|1
+naar/[4,5]|prep|hd/obj1|avond/[7,8]|noun|1
+op zoek/[2,3]|adj|hd/pc|naar/[4,5]|prep|1
+top/top|top|top/hd|ben/[15,16]|verb|1
+voor/[0,1]|prep|hd/obj1|wie/[1,2]|pron|1
+waarin/[8,9]|pp|rhd/body|kan/[11,12]|verb|1
+wie/[1,2]|pron|rhd/body|ben/[3,4]|verb|1

@@ -1,0 +1,90 @@
+ben/[3,4]|verb|hd/predc|trots/[2,3]|adj|1
+ben/[3,4]|verb|hd/su|Steve/[0,1]|name|1
+ben/[4,5]|verb|hd/su|Steve/[0,1]|name|1
+ben/[4,5]|verb|hd/vc|ben/[3,4]|verb|1
+ben/[8,9]|verb|hd/mod|weer/[9,10]|adv|1
+ben/[8,9]|verb|hd/predc|parel_DIM/[11,12]|noun|1
+ben/[8,9]|verb|hd/su|propname/[7,8]|noun|1
+parel_DIM/[11,12]|noun|hd/det|een/[10,11]|det|1
+propname/[7,8]|noun|hd/det|de/[5,6]|det|1
+propname/[7,8]|noun|hd/mod|nieuw/[6,7]|adj|1
+top/top|top|top/hd|zal/[1,2]|verb|1
+zal/[1,2]|verb|-- / --|./[12,13]|punct|1
+zal/[1,2]|verb|dp/dp|ben/[8,9]|verb|1
+zal/[1,2]|verb|hd/su|Steve/[0,1]|name|1
+zal/[1,2]|verb|hd/vc|ben/[4,5]|verb|1
+1GHz rekenkracht/[12,14]|name|hd/det|de/[10,11]|det|1
+1GHz rekenkracht/[12,14]|name|hd/mod|verbluffend/[11,12]|adj|1
+4,6_inch_retina_scherm/[7,9]|noun|hd/det|het/[6,7]|det|1
+en/[3,4]|vg|crd/cnj|vijand/[4,5]|noun|1
+en/[3,4]|vg|crd/cnj|vriend/[2,3]|noun|1
+en/[9,10]|vg|crd/cnj|1GHz rekenkracht/[12,14]|name|1
+en/[9,10]|vg|crd/cnj|4,6_inch_retina_scherm/[7,9]|noun|1
+met/[5,6]|prep|hd/obj1|en/[9,10]|vg|1
+top/top|top|top/hd|verbaas/[1,2]|verb|1
+verbaas/[1,2]|verb|-- / --|./[14,15]|punct|1
+verbaas/[1,2]|verb|hd/mod|met/[5,6]|prep|1
+verbaas/[1,2]|verb|hd/obj2|en/[3,4]|vg|1
+verbaas/[1,2]|verb|hd/su|Apple/[0,1]|name|1
+aan/[5,6]|prep|hd/obj1|kwaliteit/[7,8]|noun|1
+game/[9,10]|verb|hd/mod|aan/[5,6]|prep|1
+kwaliteit/[7,8]|noun|hd/mod|hoog/[6,7]|adj|1
+om/[4,5]|comp|cmp/body|te/[8,9]|comp|1
+te/[8,9]|comp|cmp/body|game/[9,10]|verb|1
+top/top|top|top/hd|word/[1,2]|verb|1
+word/[1,2]|verb|-- / --|./[10,11]|punct|1
+word/[1,2]|verb|hd/mod|hierdoor/[0,1]|pp|1
+word/[1,2]|verb|hd/predc|mogelijk/[3,4]|adj|1
+word/[1,2]|verb|hd/su|om/[4,5]|comp|1
+word/[1,2]|verb|hd/sup|het/[2,3]|noun|1
+LTE verbindingsmogelijkheid,/[10,12]|name|hd/det|4G/[9,10]|num|1
+LTE verbindingsmogelijkheid,/[10,12]|name|hd/det|de/[7,8]|det|1
+LTE verbindingsmogelijkheid,/[10,12]|name|hd/mod|nieuw/[8,9]|adj|1
+WiFi_netwerk/[5,6]|noun|hd/det|een/[3,4]|det|1
+WiFi_netwerk/[5,6]|noun|hd/mod|goed/[4,5]|adj|1
+geef/[12,13]|verb|-- / --|./[27,28]|punct|1
+geef/[12,13]|verb|-- / --|de/[15,16]|det|1
+geef/[12,13]|verb|-- / --|mogelijkheid/[16,17]|noun|1
+geef/[12,13]|verb|-- / --|of/[20,21]|vg|1
+geef/[12,13]|verb|-- / --|om/[17,18]|comp|1
+geef/[12,13]|verb|-- / --|zonder/[18,19]|pp|1
+geef/[12,13]|verb|dp/dp|lig/[19,20]|verb|1
+geef/[12,13]|verb|dp/dp|te/[25,26]|comp|1
+geef/[12,13]|verb|hd/mod|in combinatie met/[0,3]|prep|1
+geef/[12,13]|verb|hd/su|processor/[14,15]|noun|1
+in combinatie met/[0,3]|prep|hd/obj1|of/[6,7]|vg|1
+multiplayer_game/[24,25]|noun|hd/mod|online/[23,24]|adj|1
+of/[6,7]|vg|crd/cnj|LTE verbindingsmogelijkheid,/[10,12]|name|1
+of/[6,7]|vg|crd/cnj|WiFi_netwerk/[5,6]|noun|1
+probleem/[22,23]|noun|hd/mod|ander/[21,22]|adj|1
+processor/[14,15]|noun|hd/det|deze/[13,14]|det|1
+speel/[26,27]|verb|hd/mod|multiplayer_game/[24,25]|noun|1
+speel/[26,27]|verb|hd/obj1|probleem/[22,23]|noun|1
+te/[25,26]|comp|cmp/body|speel/[26,27]|verb|1
+top/top|top|top/hd|geef/[12,13]|verb|1
+die/[17,18]|pron|rhd/body|ga/[20,21]|verb|1
+ga/[20,21]|verb|hd/mod|vaak/[18,19]|adj|1
+ga/[20,21]|verb|hd/predc|gepaard/[19,20]|adj|1
+ga/[20,21]|verb|hd/su|die/[17,18]|pron|1
+gepaard/[19,20]|adj|hd/pc|met/[21,22]|prep|1
+hand/[9,10]|noun|hd/det|de/[8,9]|det|1
+hand/[9,10]|noun|hd/mod|in/[10,11]|prep|1
+in/[7,8]|prep|hd/obj1|hand/[9,10]|noun|1
+in/[10,11]|prep|hd/obj1|vooruitzicht/[12,13]|noun|1
+met/[21,22]|prep|hd/obj1|wacht_rij/[23,24]|noun|1
+stormloop/[16,17]|noun|hd/det|de/[14,15]|det|1
+stormloop/[16,17]|noun|hd/mod|die/[17,18]|pron|1
+stormloop/[16,17]|noun|hd/mod|traditioneel/[15,16]|adj|1
+top/top|top|top/hd|wrijf/[3,4]|verb|1
+van/[13,14]|prep|hd/obj1|stormloop/[16,17]|noun|1
+verkooppunt/[2,3]|noun|hd/det|de/[0,1]|det|1
+verkooppunt/[2,3]|noun|hd/mod|gecertificeerd/[1,2]|adj|1
+vooruitzicht/[12,13]|noun|hd/det|het/[11,12]|det|1
+vooruitzicht/[12,13]|noun|hd/mod|van/[13,14]|prep|1
+wacht_rij/[23,24]|noun|hd/mod|enorm/[22,23]|adj|1
+wrijf/[3,4]|verb|-- / --|./[24,25]|punct|1
+wrijf/[3,4]|verb|hd/ld|in/[7,8]|prep|1
+wrijf/[3,4]|verb|hd/mod|al/[6,7]|adv|1
+wrijf/[3,4]|verb|hd/mod|nu/[5,6]|adv|1
+wrijf/[3,4]|verb|hd/obj1|zich/[4,5]|pron|1
+wrijf/[3,4]|verb|hd/su|verkooppunt/[2,3]|noun|1

@@ -1,0 +1,75 @@
+film/[3,4]|noun|hd/det|de/[2,3]|det|1
+top/top|top|top/hd|vind/[1,2]|verb|1
+vind/[1,2]|verb|-- / --|./[7,8]|punct|1
+vind/[1,2]|verb|hd/mod|allesbehalve/[4,6]|adv|1
+vind/[1,2]|verb|hd/obj1|film/[3,4]|noun|1
+vind/[1,2]|verb|hd/predc|goed/[6,7]|adj|1
+vind/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+en/[4,5]|vg|-- / --|./[11,12]|punct|1
+en/[4,5]|vg|crd/cnj|lijk/[1,2]|verb|1
+en/[4,5]|vg|crd/cnj|zit/[6,7]|verb|1
+in/[10,11]|prep|hd/obj1|nergens/[7,8]|adv|1
+lijk/[1,2]|verb|hd/predc|voorspelbaar/[3,4]|adj|1
+lijk/[1,2]|verb|hd/su|alles/[0,1]|noun|1
+spanning_opbouw/[9,10]|noun|hd/det|een/[8,9]|det|1
+top/top|top|top/hd|en/[4,5]|vg|1
+voorspelbaar/[3,4]|adj|hd/mod|zo/[2,3]|adv|1
+zit/[6,7]|verb|hd/ld|in/[10,11]|prep|1
+zit/[6,7]|verb|hd/mod|er/[5,6]|adv|1
+zit/[6,7]|verb|hd/su|spanning_opbouw/[9,10]|noun|1
+ben/[3,4]|verb|hd/predc|cliché/[5,6]|adj|1
+ben/[3,4]|verb|hd/su|The happy ending/[0,3]|name|1
+boei/[11,12]|verb|hd/mod|niet/[10,11]|adv|1
+boei/[11,12]|verb|hd/obj1|me/[8,9]|pron|1
+boei/[11,12]|verb|hd/su|The happy ending/[0,3]|name|1
+cliché/[5,6]|adj|hd/mod|te/[4,5]|adv|1
+en/[6,7]|vg|-- / --|./[12,13]|punct|1
+en/[6,7]|vg|crd/cnj|ben/[3,4]|verb|1
+en/[6,7]|vg|crd/cnj|kan/[7,8]|verb|1
+kan/[7,8]|verb|hd/su|The happy ending/[0,3]|name|1
+kan/[7,8]|verb|hd/vc|boei/[11,12]|verb|1
+niet/[10,11]|adv|hd/mod|absoluut/[9,10]|adj|1
+top/top|top|top/hd|en/[6,7]|vg|1
+comedy/[7,8]|noun|hd/det|een/[5,6]|det|1
+comedy/[7,8]|noun|hd/mod|romantisch/[6,7]|adj|1
+dat/[2,3]|comp|cmp/body|en/[13,14]|vg|1
+denk/[1,2]|verb|-- / --|./[22,23]|punct|1
+denk/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+denk/[1,2]|verb|hd/vc|dat/[2,3]|comp|1
+denk/[21,22]|verb|hd/mod|eens/[15,16]|adv|1
+denk/[21,22]|verb|hd/mod|ook/[14,15]|adv|1
+denk/[21,22]|verb|hd/obj1|out of the box/[16,20]|name|1
+denk/[21,22]|verb|hd/su|je/[3,4]|pron|1
+en/[13,14]|vg|crd/cnj|kan/[11,12]|verb|1
+en/[13,14]|vg|crd/cnj|kan/[20,21]|verb|1
+grens/[10,11]|noun|hd/det|meer/[9,10]|adj|1
+kan/[11,12]|verb|hd/su|je/[3,4]|pron|1
+kan/[11,12]|verb|hd/vc|tast_af/[12,13]|verb|1
+kan/[20,21]|verb|hd/su|je/[3,4]|pron|1
+kan/[20,21]|verb|hd/vc|denk/[21,22]|verb|1
+meer/[9,10]|adj|hd/mod|veel/[8,9]|adj|1
+met/[4,5]|prep|hd/obj1|comedy/[7,8]|noun|1
+tast_af/[12,13]|verb|hd/mod|met/[4,5]|prep|1
+tast_af/[12,13]|verb|hd/obj1|grens/[10,11]|noun|1
+tast_af/[12,13]|verb|hd/su|je/[3,4]|pron|1
+top/top|top|top/hd|denk/[1,2]|verb|1
+dat/[1,2]|comp|cmp/body|en/[9,10]|vg|1
+en/[9,10]|vg|crd/cnj|heb/[8,9]|verb|1
+en/[9,10]|vg|crd/cnj|heb/[10,11]|verb|1
+film/[3,4]|noun|hd/det|deze/[2,3]|det|1
+heb/[8,9]|verb|hd/su|film/[3,4]|noun|1
+heb/[8,9]|verb|hd/vc|probeer/[7,8]|verb|1
+heb/[10,11]|verb|hd/su|film/[3,4]|noun|1
+heb/[10,11]|verb|hd/vc|kies/[11,12]|verb|1
+jammer/[0,1]|adj|-- / --|./[16,17]|punct|1
+jammer/[0,1]|adj|dp/dp|dat/[1,2]|comp|1
+kies/[11,12]|verb|hd/pc|voor/[12,13]|prep|1
+kies/[11,12]|verb|hd/su|film/[3,4]|noun|1
+probeer/[7,8]|verb|hd/mod|eens/[5,6]|adv|1
+probeer/[7,8]|verb|hd/mod|niet/[6,7]|adv|1
+probeer/[7,8]|verb|hd/obj1|dat/[4,5]|det|1
+probeer/[7,8]|verb|hd/su|film/[3,4]|noun|1
+top/top|top|top/hd|jammer/[0,1]|adj|1
+voor/[12,13]|prep|hd/obj1|weg/[15,16]|noun|1
+weg/[15,16]|noun|hd/det|de/[13,14]|det|1
+weg/[15,16]|noun|hd/mod|veilig/[14,15]|adj|1

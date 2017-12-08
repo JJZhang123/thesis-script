@@ -1,0 +1,112 @@
+drank_DIM/[14,15]|noun|hd/det|de/[11,12]|det|1
+drank_DIM/[14,15]|noun|hd/mod|gesuikerd/[13,14]|adj|1
+drank_DIM/[14,15]|noun|hd/mod|van/[15,16]|prep|1
+gesuikerd/[13,14]|adj|hd/mod|sterk/[12,13]|adj|1
+heb/[0,1]|verb|-- / --|? /[17,18]|punct|1
+heb/[0,1]|verb|-- / --|en/[8,9]|vg|1
+heb/[0,1]|verb|dp/dp|in/[10,11]|prep|1
+heb/[0,1]|verb|dp/dp|koffie/[7,8]|noun|1
+heb/[0,1]|verb|dp/dp|niet/[9,10]|adv|1
+heb/[0,1]|verb|hd/mod|ook/[2,3]|adv|1
+heb/[0,1]|verb|hd/obj1|zin/[3,4]|noun|1
+heb/[0,1]|verb|hd/su|jij/[1,2]|pron|1
+in/[4,5]|prep|hd/obj1|échte,/[5,6]|noun|1
+in/[10,11]|prep|hd/obj1|drank_DIM/[14,15]|noun|1
+koffie/[7,8]|noun|hd/mod|vers/[6,7]|adj|1
+top/top|top|top/hd|heb/[0,1]|verb|1
+van/[15,16]|prep|hd/obj1|propname/[16,17]|noun|1
+zin/[3,4]|noun|hd/mod|in/[4,5]|prep|1
+raad_aan/[1,2]|verb|-- / --|./[6,7]|punct|1
+raad_aan/[1,2]|verb|hd/mod|dan/[0,1]|adv|1
+raad_aan/[1,2]|verb|hd/mod|zeker/[3,4]|adj|1
+raad_aan/[1,2]|verb|hd/obj1|PROPNAME/[4,5]|name|1
+raad_aan/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+raad_aan/[1,2]|verb|hd/svp|aan/[5,6]|part|1
+top/top|top|top/hd|raad_aan/[1,2]|verb|1
+Groen_plaats/[9,10]|noun|hd/det|de/[8,9]|det|1
+ben/[1,2]|verb|-- / --|./[10,11]|punct|1
+ben/[1,2]|verb|hd/predc|koffie_bar/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+gelegen/[6,7]|adj|hd/mod|op/[7,8]|prep|1
+koffie_bar/[5,6]|noun|hd/det|een/[2,3]|det|1
+koffie_bar/[5,6]|noun|hd/mod|gelegen/[6,7]|adj|1
+koffie_bar/[5,6]|noun|hd/mod|nieuw/[3,4]|adj|1
+koffie_bar/[5,6]|noun|hd/mod|zelfstandig/[4,5]|adj|1
+op/[7,8]|prep|hd/obj1|Groen_plaats/[9,10]|noun|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+ben/[2,3]|verb|-- / --|./[6,7]|punct|1
+ben/[2,3]|verb|hd/predc|maar/[4,5]|vg|1
+ben/[2,3]|verb|hd/su|keuze/[1,2]|noun|1
+keuze/[1,2]|noun|hd/det|hun/[0,1]|det|1
+maar/[4,5]|vg|crd/cnj|beperkt/[3,4]|adj|1
+maar/[4,5]|vg|crd/cnj|kwaliteit/[5,6]|noun|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+frappucino/[1,2]|noun|hd/det|een/[0,1]|det|1
+koffie/[11,12]|noun|hd/mod|pik_zwart/[10,11]|adj|1
+maar/[7,8]|vg|-- / --|./[12,13]|punct|1
+maar/[7,8]|vg|crd/cnj|wel/[8,9]|adj|1
+maar/[7,8]|vg|crd/cnj|zal/[2,3]|verb|1
+maar/[7,8]|vg|dp/dp|échte,/[9,10]|noun|1
+top/top|top|top/hd|maar/[7,8]|vg|1
+vind/[6,7]|verb|hd/mod|er/[4,5]|adv|1
+vind/[6,7]|verb|hd/mod|niet/[5,6]|adv|1
+vind/[6,7]|verb|hd/obj1|frappucino/[1,2]|noun|1
+vind/[6,7]|verb|hd/su|je/[3,4]|pron|1
+zal/[2,3]|verb|hd/su|je/[3,4]|pron|1
+zal/[2,3]|verb|hd/vc|vind/[6,7]|verb|1
+échte,/[9,10]|noun|dp/dp|koffie/[11,12]|noun|1
+ben/[8,9]|verb|hd/su|koffie/[5,6]|noun|1
+ben/[8,9]|verb|hd/vc|maak/[9,10]|verb|1
+dat/[3,4]|comp|cmp/body|ben/[8,9]|verb|1
+dat/[11,12]|comp|cmp/body|weet/[14,15]|verb|1
+doe/[17,18]|verb|hd/obj1|wat/[15,16]|pron|1
+doe/[17,18]|verb|hd/su|ze/[16,17]|pron|1
+eigenaar/[13,14]|noun|hd/det|de/[12,13]|det|1
+en/[10,11]|vg|crd/cnj|dat/[3,4]|comp|1
+en/[10,11]|vg|crd/cnj|dat/[11,12]|comp|1
+koffie/[5,6]|noun|hd/det|de/[4,5]|det|1
+koffie/[5,6]|noun|hd/mod|met/[6,7]|prep|1
+maak/[9,10]|verb|hd/obj1|koffie/[5,6]|noun|1
+met/[6,7]|prep|hd/obj1|liefde/[7,8]|noun|1
+proef/[1,2]|verb|-- / --|./[18,19]|punct|1
+proef/[1,2]|verb|hd/mod|bovendien/[0,1]|adv|1
+proef/[1,2]|verb|hd/su|je/[2,3]|pron|1
+proef/[1,2]|verb|hd/vc|en/[10,11]|vg|1
+top/top|top|top/hd|proef/[1,2]|verb|1
+wat/[15,16]|pron|whd/body|doe/[17,18]|verb|1
+weet/[14,15]|verb|hd/su|eigenaar/[13,14]|noun|1
+weet/[14,15]|verb|hd/vc|wat/[15,16]|pron|1
+PROPNAMEies of chocoladetaarten/[6,9]|name|hd/det|de/[4,5]|det|1
+PROPNAMEies of chocoladetaarten/[6,9]|name|hd/mod|vers_gebakken/[5,6]|adj|1
+raad_aan/[2,3]|verb|-- / --|./[10,11]|punct|1
+raad_aan/[2,3]|verb|hd/mod|voor/[0,1]|prep|1
+raad_aan/[2,3]|verb|hd/obj1|PROPNAMEies of chocoladetaarten/[6,9]|name|1
+raad_aan/[2,3]|verb|hd/su|ik/[3,4]|pron|1
+raad_aan/[2,3]|verb|hd/svp|aan/[9,10]|part|1
+top/top|top|top/hd|raad_aan/[2,3]|verb|1
+voor/[0,1]|prep|hd/obj1|zoetebekken,/[1,2]|noun|1
+als/[0,1]|comp|-- / --|./[21,22]|punct|1
+als/[0,1]|comp|cmp/body|en/[7,8]|vg|1
+als/[0,1]|comp|dp/dp|ga/[14,15]|verb|1
+doe/[6,7]|verb|hd/obj1|wat/[4,5]|pron|1
+en/[7,8]|vg|crd/cnj|heb/[9,10]|verb|1
+en/[7,8]|vg|crd/cnj|weet/[3,4]|verb|1
+ga/[14,15]|verb|hd/su|zin/[10,11]|noun|1
+ga/[14,15]|verb|hd/vc|neem/[20,21]|verb|1
+heb/[9,10]|verb|hd/obj1|je/[8,9]|pron|1
+heb/[9,10]|verb|hd/su|je/[1,2]|pron|1
+in/[11,12]|prep|hd/obj1|koffie/[13,14]|noun|1
+kijk_DIM/[19,20]|noun|hd/det|een/[18,19]|det|1
+koffie/[13,14]|noun|hd/mod|goed/[12,13]|adj|1
+neem/[20,21]|verb|hd/mod|dan/[15,16]|adv|1
+neem/[20,21]|verb|hd/mod|eens/[17,18]|adv|1
+neem/[20,21]|verb|hd/mod|zeker/[16,17]|adj|1
+neem/[20,21]|verb|hd/obj1|kijk_DIM/[19,20]|noun|1
+neem/[20,21]|verb|hd/su|zin/[10,11]|noun|1
+te/[5,6]|comp|cmp/body|doe/[6,7]|verb|1
+top/top|top|top/hd|als/[0,1]|comp|1
+wat/[4,5]|pron|whd/body|te/[5,6]|comp|1
+weet/[3,4]|verb|hd/mod|niet/[2,3]|adv|1
+weet/[3,4]|verb|hd/su|je/[1,2]|pron|1
+weet/[3,4]|verb|hd/vc|wat/[4,5]|pron|1
+zin/[10,11]|noun|hd/mod|in/[11,12]|prep|1

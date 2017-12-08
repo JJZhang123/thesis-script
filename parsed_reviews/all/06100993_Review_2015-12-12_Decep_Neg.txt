@@ -1,0 +1,78 @@
+ben/[1,2]|verb|-- / --|!/[11,12]|punct|1
+ben/[1,2]|verb|hd/predc|rom_kom/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+boei/[10,11]|verb|hd/mod|niet/[8,9]|adv|1
+boei/[10,11]|verb|hd/mod|totaal/[7,8]|adj|1
+boei/[10,11]|verb|hd/obj1|me/[6,7]|pron|1
+boei/[10,11]|verb|hd/su|die/[5,6]|pron|1
+die/[5,6]|pron|rhd/body|kan/[9,10]|verb|1
+kan/[9,10]|verb|hd/su|die/[5,6]|pron|1
+kan/[9,10]|verb|hd/vc|boei/[10,11]|verb|1
+rom_kom/[4,5]|noun|hd/det|de/[2,3]|det|1
+rom_kom/[4,5]|noun|hd/mod|die/[5,6]|pron|1
+rom_kom/[4,5]|noun|hd/mod|zoveelste/[3,4]|num|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+ben/[1,2]|verb|-- / --|./[13,14]|punct|1
+ben/[1,2]|verb|dp/dp|kom/[12,13]|verb|1
+ben/[1,2]|verb|dp/dp|regisseur/[5,6]|noun|1
+ben/[1,2]|verb|hd/predc|verschrikkelijk/[3,4]|adj|1
+ben/[1,2]|verb|hd/su|hoe/[4,5]|adj|1
+ben/[1,2]|verb|hd/sup|het/[0,1]|noun|1
+debiel/[10,11]|adj|hd/mod|met/[8,9]|prep|1
+debiel/[10,11]|adj|hd/mod|weer/[7,8]|adv|1
+kom/[12,13]|verb|hd/su|script/[11,12]|noun|1
+met/[8,9]|prep|hd/obj1|zon/[9,10]|noun|1
+script/[11,12]|noun|hd/mod|debiel/[10,11]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+verschrikkelijk/[3,4]|adj|hd/mod|echt/[2,3]|adj|1
+weer/[7,8]|adv|hd/mod|telkens/[6,7]|adv|1
+ben/[3,4]|verb|-- / --|./[9,10]|punct|1
+ben/[3,4]|verb|hd/mod|al/[6,7]|adv|1
+ben/[3,4]|verb|hd/mod|hier/[4,5]|adv|1
+ben/[3,4]|verb|hd/mod|zelfs/[5,6]|adv|1
+ben/[3,4]|verb|hd/predc|cliché/[8,9]|noun|1
+ben/[3,4]|verb|hd/su|herval/[0,1]|verb|1
+cliché/[8,9]|noun|hd/det|een/[7,8]|det|1
+herval/[0,1]|verb|hd/mod|in/[1,2]|prep|1
+in/[1,2]|prep|hd/obj1|cliché/[2,3]|noun|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+acteer_prestatie/[9,10]|noun|hd/det|de/[7,8]|det|1
+acteer_prestatie/[9,10]|noun|hd/mod|pover/[8,9]|adj|1
+acteer_prestatie/[9,10]|noun|hd/mod|van/[10,11]|prep|1
+door/[6,7]|prep|hd/obj1|acteer_prestatie/[9,10]|noun|1
+erg/[5,6]|adj|hd/mod|nog/[4,5]|adv|1
+film/[1,2]|noun|hd/det|deze/[0,1]|det|1
+hoofd_rol_speler/[14,15]|noun|hd/det|de/[12,13]|det|1
+hoofd_rol_speler/[14,15]|noun|hd/mod|mannelijk/[13,14]|adj|1
+hoofd_rol_speler/[14,15]|noun|hd/mod|vooral/[11,12]|adv|1
+maak/[2,3]|verb|-- / --|./[15,16]|punct|1
+maak/[2,3]|verb|hd/mod|door/[6,7]|prep|1
+maak/[2,3]|verb|hd/obj1|het/[3,4]|det|1
+maak/[2,3]|verb|hd/predc|erg/[5,6]|adj|1
+maak/[2,3]|verb|hd/su|film/[1,2]|noun|1
+top/top|top|top/hd|maak/[2,3]|verb|1
+van/[10,11]|prep|hd/obj1|hoofd_rol_speler/[14,15]|noun|1
+bad_boy/[8,9]|noun|hd/det|deze/[6,7]|det|1
+bad_boy/[8,9]|noun|hd/mod|belachelijk/[7,8]|adj|1
+bad_boy/[8,9]|noun|hd/mod|met/[9,10]|prep|1
+in/[2,3]|prep|hd/obj1|val/[4,5]|noun|1
+kern/[11,12]|noun|hd/mod|zoet/[10,11]|adj|1
+met/[9,10]|prep|hd/obj1|kern/[11,12]|noun|1
+top/top|top|top/hd|trap/[1,2]|verb|1
+trap/[1,2]|verb|-- / --|./[12,13]|punct|1
+trap/[1,2]|verb|hd/ld|in/[2,3]|prep|1
+trap/[1,2]|verb|hd/su|niemand/[0,1]|pron|1
+val/[4,5]|noun|hd/det|de/[3,4]|det|1
+val/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+van/[5,6]|prep|hd/obj1|bad_boy/[8,9]|noun|1
+ben/[1,2]|verb|-- / --|./[6,7]|punct|1
+ben/[1,2]|verb|hd/mod|zo/[2,3]|adv|1
+ben/[1,2]|verb|hd/predc|en/[4,5]|vg|1
+ben/[1,2]|verb|hd/su|alles/[0,1]|noun|1
+en/[4,5]|vg|crd/cnj|overdone/[3,4]|noun|1
+en/[4,5]|vg|crd/cnj|zoet_sappig/[5,6]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+aanrader/[2,3]|noun|hd/det|geen/[1,2]|det|1
+echt/[0,1]|tag|-- / --|./[3,4]|punct|1
+echt/[0,1]|tag|tag/nucl|aanrader/[2,3]|noun|1
+top/top|top|top/hd|echt/[0,1]|tag|1

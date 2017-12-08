@@ -1,0 +1,75 @@
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/mod|absoluut/[2,3]|adj|1
+ben/[1,2]|verb|hd/predc|fan/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+fan/[4,5]|noun|hd/det|geen/[3,4]|det|1
+fan/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+stemgeluid/[7,8]|noun|hd/det|PROPNAMEs/[6,7]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|stemgeluid/[7,8]|noun|1
+en/[4,5]|vg|crd/cnj|saai/[5,6]|adj|1
+en/[4,5]|vg|crd/cnj|zagerig/[3,4]|adj|1
+klink/[1,2]|verb|-- / --|./[6,7]|punct|1
+klink/[1,2]|verb|-- / --|ze/[0,1]|fixed|1
+klink/[1,2]|verb|hd/predc|en/[4,5]|vg|1
+saai/[5,6]|adj|hd/mod|nogal/[2,3]|adv|1
+top/top|top|top/hd|klink/[1,2]|verb|1
+zagerig/[3,4]|adj|hd/mod|nogal/[2,3]|adv|1
+blijf/[8,9]|verb|hd/su|ze/[0,1]|pron|1
+blijf/[8,9]|verb|hd/vc|zit/[12,13]|verb|1
+en/[7,8]|vg|-- / --|./[13,14]|punct|1
+en/[7,8]|vg|crd/cnj|blijf/[8,9]|verb|1
+en/[7,8]|vg|crd/cnj|kom_af/[1,2]|verb|1
+iets/[5,6]|noun|hd/mod|vernieuw/[6,7]|adj|1
+in/[9,10]|prep|hd/obj1|straat_DIM/[11,12]|noun|1
+kom_af/[1,2]|verb|hd/mod|met/[4,5]|prep|1
+kom_af/[1,2]|verb|hd/mod|nooit/[2,3]|adv|1
+kom_af/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+kom_af/[1,2]|verb|hd/svp|af/[3,4]|part|1
+met/[4,5]|prep|hd/obj1|iets/[5,6]|noun|1
+straat_DIM/[11,12]|noun|hd/det|hetzelfde/[10,11]|det|1
+top/top|top|top/hd|en/[7,8]|vg|1
+zit/[12,13]|verb|hd/ld|in/[9,10]|prep|1
+zit/[12,13]|verb|hd/su|ze/[0,1]|pron|1
+haar/[1,2]|det|hd/mod|al/[0,1]|det|1
+klink/[3,4]|verb|-- / --|./[8,9]|punct|1
+klink/[3,4]|verb|hd/mod|min of meer/[4,7]|adv|1
+klink/[3,4]|verb|hd/obj1|hetzelfde/[7,8]|det|1
+klink/[3,4]|verb|hd/su|lied_DIM/[2,3]|noun|1
+lied_DIM/[2,3]|noun|hd/det|haar/[1,2]|det|1
+top/top|top|top/hd|klink/[3,4]|verb|1
+aandacht/[7,8]|noun|hd/det|de/[6,7]|det|1
+kleding_stijl/[3,4]|noun|hd/det|haar/[1,2]|det|1
+kleding_stijl/[3,4]|noun|hd/mod|extravagant/[2,3]|adj|1
+leid_af/[14,15]|verb|hd/obj1|aandacht/[7,8]|noun|1
+leid_af/[14,15]|verb|hd/pc|van/[8,9]|prep|1
+leid_af/[14,15]|verb|hd/su|ze/[5,6]|pron|1
+leid_af/[14,15]|verb|hd/svp|af/[12,13]|part|1
+met/[0,1]|prep|hd/obj1|kleding_stijl/[3,4]|noun|1
+prestatie/[11,12]|noun|hd/det|haar/[9,10]|det|1
+prestatie/[11,12]|noun|hd/mod|muzikaal/[10,11]|adj|1
+probeer/[4,5]|verb|-- / --|./[15,16]|punct|1
+probeer/[4,5]|verb|hd/mod|met/[0,1]|prep|1
+probeer/[4,5]|verb|hd/su|ze/[5,6]|pron|1
+probeer/[4,5]|verb|hd/vc|te/[13,14]|comp|1
+te/[13,14]|comp|cmp/body|leid_af/[14,15]|verb|1
+top/top|top|top/hd|probeer/[4,5]|verb|1
+van/[8,9]|prep|hd/obj1|prestatie/[11,12]|noun|1
+in/[5,6]|prep|hd/obj1|daar/[3,4]|adv|1
+slaag/[1,2]|verb|-- / --|./[6,7]|punct|1
+slaag/[1,2]|verb|hd/mod|helaas/[0,1]|adv|1
+slaag/[1,2]|verb|hd/mod|niet/[4,5]|adv|1
+slaag/[1,2]|verb|hd/pc|in/[5,6]|prep|1
+slaag/[1,2]|verb|hd/su|ze/[2,3]|pron|1
+top/top|top|top/hd|slaag/[1,2]|verb|1
+bied/[6,7]|verb|hd/mod|daarenboven/[7,8]|adv|1
+bied/[6,7]|verb|hd/obj1|totaal_spektakel/[9,10]|noun|1
+bied/[6,7]|verb|hd/su|Lady Gaga/[0,2]|name|1
+en/[5,6]|vg|-- / --|./[10,11]|punct|1
+en/[5,6]|vg|crd/cnj|bied/[6,7]|verb|1
+en/[5,6]|vg|crd/cnj|zing/[2,3]|verb|1
+goed/[4,5]|adj|hd/mod|veel/[3,4]|adj|1
+top/top|top|top/hd|en/[5,6]|vg|1
+totaal_spektakel/[9,10]|noun|hd/det|een/[8,9]|det|1
+zing/[2,3]|verb|hd/mod|goed/[4,5]|adj|1
+zing/[2,3]|verb|hd/su|Lady Gaga/[0,2]|name|1

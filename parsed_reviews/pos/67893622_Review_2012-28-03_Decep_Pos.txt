@@ -1,0 +1,54 @@
+ben/[1,2]|verb|-- / --|./[9,10]|punct|1
+ben/[1,2]|verb|hd/predc|meer/[2,3]|adj|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+dan/[3,4]|comparative|cmp/body|verhaal/[8,9]|noun|1
+meer/[2,3]|adj|hd/obcomp|dan/[3,4]|comparative|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+verhaal/[8,9]|noun|hd/det|een/[4,5]|det|1
+verhaal/[8,9]|noun|hd/mod|Science fiction/[6,8]|name|1
+verhaal/[8,9]|noun|hd/mod|origineel/[5,6]|adj|1
+als/[3,4]|comp|cmp/body|sneltrein,/[5,6]|noun|1
+boek/[1,2]|noun|hd/det|het/[0,1]|det|1
+dat/[12,13]|comp|cmp/body|sta/[23,24]|verb|1
+lees/[2,3]|verb|hd/predm|als/[3,4]|comp|1
+lees/[2,3]|verb|hd/su|boek/[1,2]|noun|1
+lezer/[9,10]|noun|hd/det|de/[7,8]|det|1
+lezer/[9,10]|noun|hd/mod|aandachtig/[8,9]|adj|1
+maar/[6,7]|vg|-- / --|./[24,25]|punct|1
+maar/[6,7]|vg|crd/cnj|lees/[2,3]|verb|1
+maar/[6,7]|vg|crd/cnj|zal/[10,11]|verb|1
+merk/[11,12]|verb|hd/su|lezer/[9,10]|noun|1
+merk/[11,12]|verb|hd/vc|dat/[12,13]|comp|1
+regel/[16,17]|noun|hd/det|de/[15,16]|det|1
+sneltrein,/[5,6]|noun|hd/det|een/[4,5]|det|1
+sta/[23,24]|verb|hd/ld|tussen/[14,15]|prep|1
+sta/[23,24]|verb|hd/mod|beschreven/[22,23]|adj|1
+sta/[23,24]|verb|hd/mod|er/[13,14]|adv|1
+sta/[23,24]|verb|hd/mod|ook/[18,19]|adv|1
+sta/[23,24]|verb|hd/su|utopie/[21,22]|noun|1
+top/top|top|top/hd|maar/[6,7]|vg|1
+tussen/[14,15]|prep|hd/hdf|door/[17,18]|part|1
+tussen/[14,15]|prep|hd/obj1|regel/[16,17]|noun|1
+utopie/[21,22]|noun|hd/det|een/[19,20]|det|1
+utopie/[21,22]|noun|hd/mod|heel/[20,21]|adj|1
+zal/[10,11]|verb|hd/su|lezer/[9,10]|noun|1
+zal/[10,11]|verb|hd/vc|merk/[11,12]|verb|1
+aan/[5,6]|prep|hd/obj1|licht/[7,8]|noun|1
+ben/[15,16]|verb|-- / --|./[17,18]|punct|1
+ben/[15,16]|verb|hd/predc|subliem/[16,17]|adj|1
+ben/[15,16]|verb|hd/su|subtiliteit/[1,2]|noun|1
+bij/[9,10]|prep|hd/obj1|vertel/[11,12]|verb|1
+die/[2,3]|pron|rhd/body|stel/[8,9]|verb|1
+licht/[7,8]|noun|hd/det|het/[6,7]|det|1
+schrijver/[4,5]|noun|hd/det|de/[3,4]|det|1
+schrijver/[4,5]|noun|hd/mod|aan/[5,6]|prep|1
+stel/[8,9]|verb|hd/mod|bij/[9,10]|prep|1
+stel/[8,9]|verb|hd/obj1|die/[2,3]|pron|1
+stel/[8,9]|verb|hd/su|schrijver/[4,5]|noun|1
+subtiliteit/[1,2]|noun|hd/det|de/[0,1]|det|1
+subtiliteit/[1,2]|noun|hd/mod|die/[2,3]|pron|1
+top/top|top|top/hd|ben/[15,16]|verb|1
+van/[12,13]|prep|hd/obj1|verhaal/[14,15]|noun|1
+verhaal/[14,15]|noun|hd/det|zijn/[13,14]|det|1
+vertel/[11,12]|verb|hd/det|het/[10,11]|det|1
+vertel/[11,12]|verb|hd/mod|van/[12,13]|prep|1

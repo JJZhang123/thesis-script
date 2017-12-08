@@ -1,0 +1,61 @@
+ben/[1,2]|verb|-- / --|./[5,6]|punct|1
+ben/[1,2]|verb|hd/mod|vroeg/[0,1]|adj|1
+ben/[1,2]|verb|hd/predc|vernieuw/[4,5]|adj|1
+ben/[1,2]|verb|hd/su|PROPNAME/[2,3]|name|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+vernieuw/[4,5]|adj|hd/mod|heel/[3,4]|adv|1
+brood/[7,8]|noun|hd/mod|gebakken/[6,7]|adj|1
+brood/[7,8]|noun|hd/mod|vers/[5,6]|adj|1
+deur/[0,1]|noun|-- / --|./[10,11]|punct|1
+deur/[0,1]|noun|dp/dp|groentjes/[9,10]|noun|1
+deur/[0,1]|noun|dp/dp|open/[1,2]|verb|1
+geur/[3,4]|noun|hd/det|de/[2,3]|det|1
+geur/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+groentjes/[9,10]|noun|hd/mod|vers/[8,9]|adj|1
+open/[1,2]|verb|hd/obj1|geur/[3,4]|noun|1
+top/top|top|top/hd|deur/[0,1]|noun|1
+van/[4,5]|prep|hd/obj1|brood/[7,8]|noun|1
+ben/[3,4]|verb|hd/su|broodje/[5,6]|noun|1
+ben/[3,4]|verb|hd/vc|maak_klaar/[9,10]|verb|1
+broodje/[5,6]|noun|hd/det|de/[4,5]|det|1
+en/[10,11]|vg|-- / --|./[18,19]|punct|1
+en/[10,11]|vg|crd/cnj|ben/[3,4]|verb|1
+en/[10,11]|vg|crd/cnj|lig/[11,12]|verb|1
+in/[14,15]|prep|hd/obj1|omhulsel/[17,18]|noun|1
+lig/[11,12]|verb|hd/ld|in/[14,15]|prep|1
+lig/[11,12]|verb|hd/mod|uur/[13,14]|noun|1
+lig/[11,12]|verb|hd/mod|vandaag de dag/[0,3]|adv|1
+lig/[11,12]|verb|hd/su|ze/[12,13]|pron|1
+maak_klaar/[9,10]|verb|hd/mod|vaak/[8,9]|adj|1
+maak_klaar/[9,10]|verb|hd/mod|vandaag de dag/[0,3]|adv|1
+maak_klaar/[9,10]|verb|hd/obj1|broodje/[5,6]|noun|1
+omhulsel/[17,18]|noun|hd/det|een/[15,16]|det|1
+omhulsel/[17,18]|noun|hd/mod|plastic/[16,17]|adj|1
+top/top|top|top/hd|en/[10,11]|vg|1
+vaak/[8,9]|adj|hd/mod|al/[6,7]|adv|1
+vaak/[8,9]|adj|hd/mod|heel/[7,8]|adv|1
+Gevolg,/[0,1]|name|-- / --|./[8,9]|punct|1
+Gevolg,/[0,1]|name|dp/dp|groentjes,/[2,3]|noun|1
+Gevolg,/[0,1]|name|dp/dp|hesp/[4,5]|noun|1
+gesmolten/[6,7]|adj|hd/mod|half/[5,6]|adj|1
+groentjes,/[2,3]|noun|hd/mod|plat/[1,2]|adj|1
+hesp/[4,5]|noun|dp/dp|kaas/[7,8]|noun|1
+hesp/[4,5]|noun|hd/mod|lauw/[3,4]|adj|1
+kaas/[7,8]|noun|hd/mod|gesmolten/[6,7]|adj|1
+top/top|top|top/hd|Gevolg,/[0,1]|name|1
+smakelijk/[2,3]|adj|-- / --|./[3,4]|punct|1
+smakelijk/[2,3]|adj|hd/mod|verre van/[0,2]|adv|1
+top/top|top|top/hd|smakelijk/[2,3]|adj|1
+ben/[3,4]|verb|-- / --|./[11,12]|punct|1
+ben/[3,4]|verb|hd/su|PROPNAME/[4,5]|name|1
+ben/[3,4]|verb|hd/vc|word/[10,11]|verb|1
+broodje_zaak/[9,10]|noun|hd/det|de/[8,9]|det|1
+fastfood/[6,7]|noun|hd/det|de/[5,6]|det|1
+fastfood/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+manier/[2,3]|noun|hd/det|die/[1,2]|det|1
+op/[0,1]|prep|hd/obj1|manier/[2,3]|noun|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+van/[7,8]|prep|hd/obj1|broodje_zaak/[9,10]|noun|1
+word/[10,11]|verb|hd/mod|op/[0,1]|prep|1
+word/[10,11]|verb|hd/predc|fastfood/[6,7]|noun|1
+word/[10,11]|verb|hd/su|PROPNAME/[4,5]|name|1

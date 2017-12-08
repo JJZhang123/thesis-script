@@ -1,0 +1,72 @@
+behuizing/[5,6]|noun|hd/det|een/[3,4]|det|1
+behuizing/[5,6]|noun|hd/mod|mooi/[4,5]|adj|1
+design/[9,10]|noun|hd/det|een/[7,8]|det|1
+design/[9,10]|noun|hd/mod|strak/[8,9]|adj|1
+en/[6,7]|vg|crd/cnj|behuizing/[5,6]|noun|1
+en/[6,7]|vg|crd/cnj|design/[9,10]|noun|1
+heb/[2,3]|verb|-- / --|./[10,11]|punct|1
+heb/[2,3]|verb|hd/obj1|en/[6,7]|vg|1
+heb/[2,3]|verb|hd/su|propname/[1,2]|noun|1
+propname/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|heb/[2,3]|verb|1
+PROPNAME gamma,/[7,9]|name|hd/det|het/[6,7]|det|1
+ben/[1,2]|verb|hd/predc|product/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+en/[9,10]|vg|-- / --|./[15,16]|punct|1
+en/[9,10]|vg|crd/cnj|ben/[1,2]|verb|1
+en/[9,10]|vg|crd/cnj|val/[11,12]|verb|1
+in/[5,6]|prep|hd/obj1|PROPNAME gamma,/[7,9]|name|1
+product/[4,5]|noun|hd/det|het/[2,3]|det|1
+product/[4,5]|noun|hd/mod|in/[5,6]|prep|1
+product/[4,5]|noun|hd/mod|nieuw/[3,4]|adj|1
+te/[13,14]|comp|cmp/body|zie/[14,15]|verb|1
+top/top|top|top/hd|en/[9,10]|vg|1
+val/[11,12]|verb|hd/su|dat/[10,11]|det|1
+val/[11,12]|verb|hd/vc|te/[13,14]|comp|1
+zie/[14,15]|verb|hd/obj1|dat/[10,11]|det|1
+zie/[14,15]|verb|hd/pc|eraan/[12,13]|pp|1
+ben/[5,6]|verb|hd/predc|goed/[7,8]|adj|1
+ben/[5,6]|verb|hd/su|kwaliteit/[1,2]|noun|1
+ben/[14,15]|verb|hd/predc|onbeperkt/[16,17]|adj|1
+ben/[14,15]|verb|hd/su|opslag_capaciteit/[13,14]|noun|1
+camera/[4,5]|noun|hd/det|de/[3,4]|det|1
+en/[11,12]|vg|-- / --|./[17,18]|punct|1
+en/[11,12]|vg|crd/cnj|ben/[5,6]|verb|1
+en/[11,12]|vg|crd/cnj|ben/[14,15]|verb|1
+goed/[7,8]|adj|hd/mod|enorm/[6,7]|adj|1
+goed/[7,8]|adj|hd/pc|voor/[8,9]|prep|1
+gsm-camera,/[10,11]|noun|hd/det|een/[9,10]|det|1
+kwaliteit/[1,2]|noun|hd/det|de/[0,1]|det|1
+kwaliteit/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+onbeperkt/[16,17]|adj|hd/mod|practisch/[15,16]|adj|1
+opslag_capaciteit/[13,14]|noun|hd/det|de/[12,13]|det|1
+top/top|top|top/hd|en/[11,12]|vg|1
+van/[2,3]|prep|hd/obj1|camera/[4,5]|noun|1
+voor/[8,9]|prep|hd/obj1|gsm-camera,/[10,11]|noun|1
+applicatie/[4,5]|noun|hd/det|veel/[3,4]|adj|1
+applicatie/[4,5]|noun|hd/mod|die/[7,8]|pron|1
+ben/[1,2]|verb|-- / --|./[17,18]|punct|1
+ben/[1,2]|verb|hd/su|applicatie/[4,5]|noun|1
+ben/[1,2]|verb|hd/vc|te/[5,6]|comp|1
+ben/[10,11]|verb|hd/predc|compatibel/[9,10]|noun|1
+ben/[10,11]|verb|hd/predm|allemaal/[8,9]|adv|1
+ben/[10,11]|verb|hd/su|die/[7,8]|pron|1
+besturing_systeem/[13,14]|noun|hd/det|het/[12,13]|det|1
+besturing_systeem/[13,14]|noun|hd/mod|van/[14,15]|prep|1
+compatibel/[9,10]|noun|hd/mod|met/[11,12]|prep|1
+die/[7,8]|pron|rhd/body|ben/[10,11]|verb|1
+download/[6,7]|verb|hd/mod|er/[0,1]|adv|1
+download/[6,7]|verb|hd/obj1|applicatie/[4,5]|noun|1
+met/[11,12]|prep|hd/obj1|besturing_systeem/[13,14]|noun|1
+te/[5,6]|comp|cmp/body|download/[6,7]|verb|1
+toestel/[16,17]|noun|hd/det|het/[15,16]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[14,15]|prep|hd/obj1|toestel/[16,17]|noun|1
+veel/[3,4]|adj|hd/mod|ontzettend/[2,3]|adj|1
+aanrader/[5,6]|noun|hd/det|een/[4,5]|det|1
+ben/[2,3]|verb|-- / --|!/[6,7]|punct|1
+ben/[2,3]|verb|hd/mod|absoluut/[3,4]|adj|1
+ben/[2,3]|verb|hd/predc|aanrader/[5,6]|noun|1
+ben/[2,3]|verb|hd/su|propname/[1,2]|noun|1
+propname/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1

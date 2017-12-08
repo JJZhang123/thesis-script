@@ -1,0 +1,94 @@
+ben/[2,3]|verb|-- / --|./[14,15]|punct|1
+ben/[2,3]|verb|hd/predc|toestel/[6,7]|noun|1
+ben/[2,3]|verb|hd/su|propname/[1,2]|noun|1
+ben/[12,13]|verb|hd/su|dat/[7,8]|pron|1
+ben/[12,13]|verb|hd/vc|breng/[13,14]|verb|1
+breng/[13,14]|verb|hd/mod|ooit/[8,9]|adv|1
+breng/[13,14]|verb|hd/obj1|dat/[7,8]|pron|1
+breng/[13,14]|verb|hd/svp|op de markt/[9,12]|fixed|1
+dat/[7,8]|pron|rhd/body|ben/[12,13]|verb|1
+overbodig/[5,6]|adj|hd/mod|meest/[4,5]|adj|1
+propname/[1,2]|noun|hd/det|de/[0,1]|det|1
+toestel/[6,7]|noun|hd/det|het/[3,4]|det|1
+toestel/[6,7]|noun|hd/mod|dat/[7,8]|pron|1
+toestel/[6,7]|noun|hd/mod|overbodig/[5,6]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+ben/[2,3]|verb|-- / --|./[11,12]|punct|1
+ben/[2,3]|verb|hd/mod|toen/[4,5]|comp|1
+ben/[2,3]|verb|hd/predc|hoog/[3,4]|adj|1
+ben/[2,3]|verb|hd/su|verwachting/[1,2]|noun|1
+breng_uit/[10,11]|verb|hd/obj1|telefoon/[9,10]|noun|1
+breng_uit/[10,11]|verb|hd/su|PROPNAME/[5,6]|name|1
+telefoon/[9,10]|noun|hd/det|de/[6,7]|det|1
+telefoon/[9,10]|noun|hd/mod|mobiel/[8,9]|adj|1
+telefoon/[9,10]|noun|hd/mod|nieuw/[7,8]|adj|1
+toen/[4,5]|comp|cmp/body|breng_uit/[10,11]|verb|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+verwachting/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[1,2]|verb|-- / --|./[11,12]|punct|1
+ben/[1,2]|verb|hd/mod|er/[0,1]|adv|1
+ben/[1,2]|verb|hd/mod|ooit/[10,11]|adv|1
+ben/[1,2]|verb|hd/pc|van/[3,4]|prep|1
+ben/[1,2]|verb|hd/su|sprake/[2,3]|noun|1
+geheugen/[6,7]|noun|hd/det|het/[4,5]|det|1
+geheugen/[6,7]|noun|hd/mod|groot/[5,6]|adj|1
+geheugen/[6,7]|noun|hd/mod|voor/[7,8]|prep|1
+telefoon/[9,10]|noun|hd/det|een/[8,9]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[3,4]|prep|hd/obj1|geheugen/[6,7]|noun|1
+voor/[7,8]|prep|hd/obj1|telefoon/[9,10]|noun|1
+blokkeer/[14,15]|verb|hd/mod|constant/[13,14]|adj|1
+blokkeer/[14,15]|verb|hd/mod|snel/[10,11]|adj|1
+blokkeer/[14,15]|verb|hd/su|toestel/[8,9]|noun|1
+crash/[11,12]|verb|hd/mod|snel/[10,11]|adj|1
+crash/[11,12]|verb|hd/su|toestel/[8,9]|noun|1
+dat/[6,7]|comp|cmp/body|en/[12,13]|vg|1
+en/[12,13]|vg|crd/cnj|blokkeer/[14,15]|verb|1
+en/[12,13]|vg|crd/cnj|crash/[11,12]|verb|1
+snel/[10,11]|adj|hd/mod|enorm/[9,10]|adj|1
+spijtig/[0,1]|adj|hd/mod|genoeg/[1,2]|adv|1
+toestel/[8,9]|noun|hd/det|het/[7,8]|det|1
+top/top|top|top/hd|word/[2,3]|verb|1
+vermeld/[5,6]|verb|hd/mod|niet/[4,5]|adv|1
+vermeld/[5,6]|verb|hd/mod|spijtig/[0,1]|adj|1
+vermeld/[5,6]|verb|hd/mod|toen/[3,4]|adv|1
+vermeld/[5,6]|verb|hd/vc|dat/[6,7]|comp|1
+word/[2,3]|verb|-- / --|./[15,16]|punct|1
+word/[2,3]|verb|hd/vc|vermeld/[5,6]|verb|1
+SD-card/[1,2]|name|hd/det|de/[0,1]|det|1
+SD-card/[1,2]|name|hd/mod|van/[2,3]|prep|1
+ben/[5,6]|verb|hd/mod|niet/[7,8]|adv|1
+ben/[5,6]|verb|hd/mod|ook/[6,7]|adv|1
+ben/[5,6]|verb|hd/predc|beveiligd/[9,10]|adj|1
+ben/[5,6]|verb|hd/su|SD-card/[1,2]|name|1
+beveiligd/[9,10]|adj|hd/mod|goed/[8,9]|adj|1
+computer/[16,17]|noun|hd/det|de/[15,16]|det|1
+en/[10,11]|vg|-- / --|./[17,18]|punct|1
+en/[10,11]|vg|crd/cnj|ben/[5,6]|verb|1
+en/[10,11]|vg|crd/cnj|kan/[11,12]|verb|1
+giga_byte/[4,5]|noun|hd/det|100/[3,4]|num|1
+kan/[11,12]|verb|hd/su|SD-card/[1,2]|name|1
+kan/[11,12]|verb|hd/vc|neem_over/[13,14]|verb|1
+neem_over/[13,14]|verb|hd/mod|vanaf/[14,15]|prep|1
+neem_over/[13,14]|verb|hd/obj1|virus/[12,13]|noun|1
+neem_over/[13,14]|verb|hd/su|SD-card/[1,2]|name|1
+top/top|top|top/hd|en/[10,11]|vg|1
+van/[2,3]|prep|hd/obj1|giga_byte/[4,5]|noun|1
+vanaf/[14,15]|prep|hd/obj1|computer/[16,17]|noun|1
+Phone XL/[6,8]|name|hd/det|de/[5,6]|det|1
+besta/[1,2]|verb|-- / --|./[17,18]|punct|1
+besta/[1,2]|verb|hd/mod|hierdoor/[0,1]|pp|1
+besta/[1,2]|verb|hd/su|mogelijkheid/[3,4]|noun|1
+crash/[9,10]|verb|hd/mod|snel/[8,9]|adj|1
+crash/[9,10]|verb|hd/su|Phone XL/[6,8]|name|1
+dat/[4,5]|comp|cmp/body|en/[10,11]|vg|1
+en/[10,11]|vg|crd/cnj|crash/[9,10]|verb|1
+en/[10,11]|vg|crd/cnj|verdwijn/[13,14]|verb|1
+gegeven/[12,13]|noun|hd/mod|van/[14,15]|prep|1
+mogelijkheid/[3,4]|noun|hd/det|de/[2,3]|det|1
+mogelijkheid/[3,4]|noun|hd/vc|dat/[4,5]|comp|1
+toestel/[16,17]|noun|hd/det|het/[15,16]|det|1
+top/top|top|top/hd|besta/[1,2]|verb|1
+van/[14,15]|prep|hd/obj1|toestel/[16,17]|noun|1
+verdwijn/[13,14]|verb|hd/mod|er/[11,12]|adv|1
+verdwijn/[13,14]|verb|hd/su|gegeven/[12,13]|noun|1

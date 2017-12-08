@@ -1,0 +1,130 @@
+ben/[1,2]|verb|-- / --|./[13,14]|punct|1
+ben/[1,2]|verb|hd/predc|voorbeeld/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+cinema/[8,9]|noun|hd/det|de/[5,6]|det|1
+cinema/[8,9]|noun|hd/mod|Belgisch/[7,8]|adj|1
+cinema/[8,9]|noun|hd/mod|geregisseerd/[9,10]|adj|1
+cinema/[8,9]|noun|hd/mod|puur/[6,7]|adj|1
+door/[10,11]|prep|hd/obj1|Nic Balthazar/[11,13]|name|1
+geregisseerd/[9,10]|adj|hd/mod|door/[10,11]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[4,5]|prep|hd/obj1|cinema/[8,9]|noun|1
+voorbeeld/[3,4]|noun|hd/det|een/[2,3]|det|1
+voorbeeld/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+Koen De Graeve,/[5,8]|name|hd/mod|die/[8,9]|pron|1
+MS_patiënt/[12,13]|noun|hd/mod|met/[13,14]|prep|1
+als/[11,12]|comp|cmp/body|MS_patiënt/[12,13]|noun|1
+die/[8,9]|pron|rhd/body|vertolk/[15,16]|verb|1
+hoofdrol/[2,3]|noun|hd/det|de/[1,2]|det|1
+in/[0,1]|prep|hd/obj1|hoofdrol/[2,3]|noun|1
+met/[13,14]|prep|hd/obj1|glans/[14,15]|noun|1
+rol/[10,11]|noun|hd/det|zijn/[9,10]|det|1
+rol/[10,11]|noun|hd/mod|als/[11,12]|comp|1
+top/top|top|top/hd|zie/[3,4]|verb|1
+vertolk/[15,16]|verb|hd/obj1|rol/[10,11]|noun|1
+vertolk/[15,16]|verb|hd/su|die/[8,9]|pron|1
+zie/[3,4]|verb|-- / --|./[16,17]|punct|1
+zie/[3,4]|verb|hd/mod|in/[0,1]|prep|1
+zie/[3,4]|verb|hd/obj1|Koen De Graeve,/[5,8]|name|1
+zie/[3,4]|verb|hd/su|we/[4,5]|pron|1
+MS_patiënt/[12,13]|noun|hd/det|een/[11,12]|det|1
+MS_patiënt/[12,13]|noun|hd/mod|die/[13,14]|pron|1
+ben/[2,3]|verb|-- / --|./[34,35]|punct|1
+ben/[2,3]|verb|hd/mod|gebaseerd/[3,4]|adj|1
+ben/[2,3]|verb|hd/predc|film/[1,2]|noun|1
+ben/[2,3]|verb|hd/su|en/[24,25]|vg|1
+die/[13,14]|pron|rhd/body|strijd/[15,16]|verb|1
+die/[30,31]|pron|rhd/body|maak/[33,34]|verb|1
+en/[24,25]|vg|crd/cnj|MS_patiënt/[12,13]|noun|1
+en/[24,25]|vg|crd/cnj|was/[29,30]|noun|1
+euthanansiewetgeving/[21,22]|noun|hd/det|de/[20,21]|det|1
+euthanansiewetgeving/[21,22]|noun|hd/mod|in/[22,23]|prep|1
+film/[1,2]|noun|hd/det|de/[0,1]|det|1
+gebaseerd/[3,4]|adj|hd/pc|op/[4,5]|prep|1
+in/[22,23]|prep|hd/obj1|België/[23,24]|name|1
+maak/[33,34]|verb|hd/obj1|gebruik/[32,33]|noun|1
+maak/[33,34]|verb|hd/pc|hiervan/[31,32]|pp|1
+maak/[33,34]|verb|hd/su|die/[30,31]|pron|1
+op/[4,5]|prep|hd/obj1|verhaal/[7,8]|noun|1
+strijd/[15,16]|verb|hd/mod|jaar_lang/[14,15]|adj|1
+strijd/[15,16]|verb|hd/pc|voor/[16,17]|prep|1
+strijd/[15,16]|verb|hd/su|die/[13,14]|pron|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+uitvoering/[18,19]|noun|hd/det|de/[17,18]|det|1
+uitvoering/[18,19]|noun|hd/mod|van/[19,20]|prep|1
+van/[8,9]|prep|hd/obj1|Mario Verstraete,/[9,11]|name|1
+van/[19,20]|prep|hd/obj1|euthanansiewetgeving/[21,22]|noun|1
+verhaal/[7,8]|noun|hd/det|het/[5,6]|det|1
+verhaal/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+verhaal/[7,8]|noun|hd/mod|waargebeurd/[6,7]|adj|1
+voor/[16,17]|prep|hd/obj1|uitvoering/[18,19]|noun|1
+was/[29,30]|noun|hd/det|de/[27,28]|det|1
+was/[29,30]|noun|hd/mod|die/[30,31]|pron|1
+was/[29,30]|noun|hd/mod|eerste/[28,29]|num|1
+was/[29,30]|noun|hd/mod|finaal/[25,26]|adj|1
+was/[29,30]|noun|hd/mod|ook/[26,27]|adv|1
+als/[16,17]|comp|cmp/body|ga_om/[19,20]|verb|1
+balans/[12,13]|noun|hd/det|een/[10,11]|det|1
+balans/[12,13]|noun|hd/mod|goed/[11,12]|adj|1
+balans/[12,13]|noun|hd/mod|tussen/[14,15]|prep|1
+en/[22,23]|vg|crd/cnj|emotie/[21,22]|noun|1
+en/[22,23]|vg|crd/cnj|pijn/[23,24]|noun|1
+en/[22,23]|vg|crd/cnj|zin/[26,27]|noun|1
+en/[22,23]|vg|crd/crd|en/[24,25]|vg|1
+film/[6,7]|noun|hd/det|deze/[5,6]|det|1
+ga_om/[19,20]|verb|hd/pc|met/[20,21]|prep|1
+ga_om/[19,20]|verb|hd/su|humor, verdriet,/[17,19]|name|1
+leven/[29,30]|noun|hd/det|het/[28,29]|det|1
+met/[20,21]|prep|hd/obj1|en/[22,23]|vg|1
+ondanks/[0,1]|prep|hd/obj1|thema/[3,4]|noun|1
+thema/[3,4]|noun|hd/det|het/[1,2]|det|1
+thema/[3,4]|noun|hd/mod|moeilijk/[2,3]|adj|1
+thema/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+top/top|top|top/hd|word/[7,8]|verb|1
+tussen/[14,15]|prep|hd/obj1|themas/[15,16]|noun|1
+van/[4,5]|prep|hd/obj1|film/[6,7]|noun|1
+van/[27,28]|prep|hd/obj1|leven/[29,30]|noun|1
+vind/[13,14]|verb|hd/mod|als/[16,17]|comp|1
+vind/[13,14]|verb|hd/mod|er/[8,9]|adv|1
+vind/[13,14]|verb|hd/mod|ondanks/[0,1]|prep|1
+vind/[13,14]|verb|hd/mod|toch/[9,10]|adv|1
+vind/[13,14]|verb|hd/obj1|balans/[12,13]|noun|1
+word/[7,8]|verb|-- / --|./[30,31]|punct|1
+word/[7,8]|verb|hd/su|balans/[12,13]|noun|1
+word/[7,8]|verb|hd/vc|vind/[13,14]|verb|1
+zin/[26,27]|noun|hd/det|de/[25,26]|det|1
+zin/[26,27]|noun|hd/mod|van/[27,28]|prep|1
+aanrader/[2,3]|noun|-- / --|!/[34,35]|punct|1
+aanrader/[2,3]|noun|dp/dp|al/[22,23]|comp|1
+aanrader/[2,3]|noun|hd/det|een/[1,2]|det|1
+aanrader/[2,3]|noun|hd/mod|voor/[3,4]|prep|1
+aanrader/[2,3]|noun|hd/mod|zeker/[0,1]|adv|1
+al/[22,23]|comp|cmp/body|kan/[23,24]|verb|1
+dat/[28,29]|comp|cmp/body|zal/[32,33]|verb|1
+die/[5,6]|pron|rhd/body|wil/[15,16]|verb|1
+en/[12,13]|vg|crd/cnj|Koen De Graeve, Geert Van Rampelberg/[6,12]|name|1
+en/[12,13]|vg|crd/cnj|Lotte Pinoy/[13,15]|name|1
+houd/[33,34]|verb|hd/obj1|het/[30,31]|det|1
+houd/[33,34]|verb|hd/predc|droog/[31,32]|adj|1
+houd/[33,34]|verb|hd/su|je/[29,30]|pron|1
+iedereen/[4,5]|pron|hd/mod|die/[5,6]|pron|1
+in/[18,19]|prep|hd/obj1|verhaal/[21,22]|noun|1
+kan/[23,24]|verb|hd/su|ik/[24,25]|pron|1
+kan/[23,24]|verb|hd/vc|verzeker/[27,28]|verb|1
+schitter/[17,18]|verb|hd/su|en/[12,13]|vg|1
+top/top|top|top/hd|aanrader/[2,3]|noun|1
+verhaal/[21,22]|noun|hd/det|dit/[19,20]|det|1
+verhaal/[21,22]|noun|hd/mod|prachtig/[20,21]|adj|1
+verzeker/[27,28]|verb|hd/mod|niet/[26,27]|adv|1
+verzeker/[27,28]|verb|hd/obj2|je/[25,26]|pron|1
+verzeker/[27,28]|verb|hd/su|ik/[24,25]|pron|1
+verzeker/[27,28]|verb|hd/vc|dat/[28,29]|comp|1
+voor/[3,4]|prep|hd/obj1|iedereen/[4,5]|pron|1
+wil/[15,16]|verb|hd/su|die/[5,6]|pron|1
+wil/[15,16]|verb|hd/vc|zie/[16,17]|verb|1
+zal/[32,33]|verb|hd/su|je/[29,30]|pron|1
+zal/[32,33]|verb|hd/vc|houd/[33,34]|verb|1
+zie/[16,17]|verb|hd/mod|in/[18,19]|prep|1
+zie/[16,17]|verb|hd/obj1|en/[12,13]|vg|1
+zie/[16,17]|verb|hd/su|die/[5,6]|pron|1
+zie/[16,17]|verb|hd/vc|schitter/[17,18]|verb|1

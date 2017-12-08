@@ -1,0 +1,84 @@
+die/[3,4]|pron|rhd/body|spreek_aan/[7,8]|verb|1
+dubstep_dj/[2,3]|noun|-- / --|./[8,9]|punct|1
+dubstep_dj/[2,3]|noun|hd/det|een/[0,1]|det|1
+dubstep_dj/[2,3]|noun|hd/mod|die/[3,4]|pron|1
+dubstep_dj/[2,3]|noun|hd/mod|middelmatig/[1,2]|adj|1
+spreek_aan/[7,8]|verb|hd/mod|erg/[6,7]|adj|1
+spreek_aan/[7,8]|verb|hd/mod|vooral/[4,5]|adv|1
+spreek_aan/[7,8]|verb|hd/obj1|puber/[5,6]|noun|1
+spreek_aan/[7,8]|verb|hd/su|die/[3,4]|pron|1
+top/top|top|top/hd|dubstep_dj/[2,3]|noun|1
+aaneenschakeling/[4,5]|noun|hd/det|een/[3,4]|det|1
+aaneenschakeling/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+ben/[2,3]|verb|-- / --|./[11,12]|punct|1
+ben/[2,3]|verb|hd/predc|aaneenschakeling/[4,5]|noun|1
+ben/[2,3]|verb|hd/su|muziek/[1,2]|noun|1
+en/[8,9]|vg|crd/cnj|fabriekslawaai, cirkelzagen/[6,8]|name|1
+en/[8,9]|vg|crd/cnj|robot/[10,11]|noun|1
+muziek/[1,2]|noun|hd/det|zijn/[0,1]|det|1
+robot/[10,11]|noun|hd/mod|sterf/[9,10]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+van/[5,6]|prep|hd/obj1|en/[8,9]|vg|1
+dit/[0,1]|det|-- / --|./[9,10]|punct|1
+dit/[0,1]|det|dp/dp|in combinatie met/[1,4]|prep|1
+in combinatie met/[1,4]|prep|hd/obj1|sample/[4,5]|noun|1
+mens/[8,9]|noun|hd/mod|schreeuw/[7,8]|adj|1
+sample/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+schreeuw/[7,8]|adj|hd/mod|veelal/[6,7]|adv|1
+top/top|top|top/hd|dit/[0,1]|det|1
+van/[5,6]|prep|hd/obj1|mens/[8,9]|noun|1
+aan/[5,6]|prep|hd/obj1|elkaar/[6,7]|pron|1
+aanval/[30,31]|noun|hd/det|een/[28,29]|det|1
+aanval/[30,31]|noun|hd/mod|epileptisch/[29,30]|adj|1
+aanval/[30,31]|noun|hd/mod|op/[34,35]|prep|1
+beat/[11,12]|noun|hd/mod|onregelmatig/[10,11]|adj|1
+ben/[16,17]|verb|hd/mod|waardoor/[12,13]|pp|1
+ben/[16,17]|verb|hd/predc|onmogelijk/[15,16]|adj|1
+ben/[16,17]|verb|hd/su|om/[17,18]|comp|1
+ben/[16,17]|verb|hd/sup|het/[13,14]|noun|1
+bij/[26,27]|prep|hd/obj1|jezelf/[27,28]|pron|1
+dans/[22,23]|verb|hd/pc|op/[18,19]|prep|1
+dansvloer/[36,37]|noun|hd/det|de/[35,36]|det|1
+door middel van/[7,10]|prep|hd/obj1|beat/[11,12]|noun|1
+geluid/[2,3]|noun|hd/det|deze/[0,1]|det|1
+geluid/[2,3]|noun|hd/mod|willekeurig/[1,2]|adj|1
+kan/[31,32]|verb|hd/su|je/[24,25]|pron|1
+kan/[31,32]|verb|hd/vc|lok_uit/[32,33]|verb|1
+lijm/[3,4]|verb|hd/ld|aan/[5,6]|prep|1
+lijm/[3,4]|verb|hd/mod|door middel van/[7,10]|prep|1
+lijm/[3,4]|verb|hd/mod|waardoor/[12,13]|pp|1
+lijm/[3,4]|verb|hd/obj1|geluid/[2,3]|noun|1
+lijm/[3,4]|verb|hd/su|hij/[4,5]|pron|1
+lok_uit/[32,33]|verb|hd/mod|bij/[26,27]|prep|1
+lok_uit/[32,33]|verb|hd/obj1|aanval/[30,31]|noun|1
+lok_uit/[32,33]|verb|hd/su|je/[24,25]|pron|1
+moet/[25,26]|verb|hd/su|je/[24,25]|pron|1
+moet/[25,26]|verb|hd/vc|kan/[31,32]|verb|1
+muziek/[20,21]|noun|hd/det|zijn/[19,20]|det|1
+of/[23,24]|vg|-- / --|./[37,38]|punct|1
+of/[23,24]|vg|crd/cnj|lijm/[3,4]|verb|1
+of/[23,24]|vg|crd/cnj|moet/[25,26]|verb|1
+om/[17,18]|comp|cmp/body|te/[21,22]|comp|1
+onmogelijk/[15,16]|adj|hd/mod|compleet/[14,15]|adj|1
+op/[18,19]|prep|hd/obj1|muziek/[20,21]|noun|1
+op/[34,35]|prep|hd/mod|midden/[33,34]|adv|1
+op/[34,35]|prep|hd/obj1|dansvloer/[36,37]|noun|1
+te/[21,22]|comp|cmp/body|dans/[22,23]|verb|1
+top/top|top|top/hd|of/[23,24]|vg|1
+waardoor/[12,13]|pp|rhd/body|ben/[16,17]|verb|1
+Complete overhypete opportunist,/[0,3]|name|-- / --|./[15,16]|punct|1
+Complete overhypete opportunist,/[0,3]|name|hd/mod|die/[3,4]|pron|1
+die/[3,4]|pron|rhd/body|heb/[13,14]|verb|1
+heb/[13,14]|verb|hd/su|die/[3,4]|pron|1
+heb/[13,14]|verb|hd/vc|maak/[14,15]|verb|1
+in/[6,7]|prep|hd/obj1|punk_genre/[8,9]|noun|1
+maak/[14,15]|verb|hd/mod|in/[6,7]|prep|1
+maak/[14,15]|verb|hd/mod|na/[4,5]|prep|1
+maak/[14,15]|verb|hd/obj1|trash/[12,13]|noun|1
+maak/[14,15]|verb|hd/su|die/[3,4]|pron|1
+na/[4,5]|prep|hd/obj1|mislukking/[5,6]|noun|1
+punk_genre/[8,9]|noun|hd/det|het/[7,8]|det|1
+punk_genre/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+top/top|top|top/hd|Complete overhypete opportunist,/[0,3]|name|1
+trash/[12,13]|noun|hd/mod|mainstream/[11,12]|adj|1
+van/[9,10]|prep|hd/obj1|dub_step/[10,11]|noun|1

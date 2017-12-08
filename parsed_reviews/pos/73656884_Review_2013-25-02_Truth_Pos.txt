@@ -1,0 +1,63 @@
+muzikant/[6,7]|noun|hd/mod|interessant/[5,6]|adj|1
+top/top|top|top/hd|vind/[1,2]|verb|1
+uiters/[4,5]|noun|hd/det|een/[3,4]|det|1
+vind/[1,2]|verb|-- / --|./[7,8]|punct|1
+vind/[1,2]|verb|dp/dp|muzikant/[6,7]|noun|1
+vind/[1,2]|verb|hd/obj1|propname/[2,3]|noun|1
+vind/[1,2]|verb|hd/predc|uiters/[4,5]|noun|1
+vind/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+Nederlands/[7,8]|noun|hd/det|het/[6,7]|det|1
+ga/[1,2]|verb|-- / --|./[9,10]|punct|1
+ga/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+ga/[1,2]|verb|hd/vc|vertaal/[8,9]|verb|1
+naar/[5,6]|prep|hd/obj1|Nederlands/[7,8]|noun|1
+rap/[4,5]|noun|hd/det|de/[2,3]|det|1
+rap/[4,5]|noun|hd/mod|Amerikaans/[3,4]|adj|1
+top/top|top|top/hd|ga/[1,2]|verb|1
+vertaal/[8,9]|verb|hd/obj1|rap/[4,5]|noun|1
+vertaal/[8,9]|verb|hd/pc|naar/[5,6]|prep|1
+vertaal/[8,9]|verb|hd/su|hij/[0,1]|pron|1
+ga/[1,2]|verb|-- / --|./[13,14]|punct|1
+ga/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+ga/[1,2]|verb|hd/vc|geef/[12,13]|verb|1
+geef/[12,13]|verb|hd/mod|met/[2,3]|prep|1
+geef/[12,13]|verb|hd/obj1|jas_DIM/[11,12]|noun|1
+geef/[12,13]|verb|hd/obj2|taal/[8,9]|noun|1
+geef/[12,13]|verb|hd/su|hij/[0,1]|pron|1
+jas_DIM/[11,12]|noun|hd/det|een/[9,10]|det|1
+jas_DIM/[11,12]|noun|hd/mod|nieuw/[10,11]|adj|1
+met/[2,3]|prep|hd/obj1|rb/[4,5]|noun|1
+met/[2,3]|prep|hd/predc|invloed/[5,6]|noun|1
+rb/[4,5]|noun|hd/det|zijn/[3,4]|det|1
+taal/[8,9]|noun|hd/det|de/[6,7]|det|1
+taal/[8,9]|noun|hd/mod|Nederlands/[7,8]|adj|1
+top/top|top|top/hd|ga/[1,2]|verb|1
+bij wijze van/[4,7]|prep|hd/obj1|spreek/[7,8]|verb|1
+taal/[2,3]|noun|hd/det|de/[0,1]|det|1
+taal/[2,3]|noun|hd/mod|Nederlands/[1,2]|adj|1
+top/top|top|top/hd|word/[3,4]|verb|1
+word/[3,4]|verb|-- / --|./[10,11]|punct|1
+word/[3,4]|verb|hd/mod|bij wijze van/[4,7]|prep|1
+word/[3,4]|verb|hd/mod|opnieuw/[8,9]|adv|1
+word/[3,4]|verb|hd/predc|hip/[9,10]|adj|1
+word/[3,4]|verb|hd/su|taal/[2,3]|noun|1
+Nederlands/[7,8]|noun|hd/det|het/[6,7]|det|1
+dat/[3,4]|comp|cmp/body|kan/[15,16]|verb|1
+en/[11,12]|vg|crd/cnj|nummer/[13,14]|noun|1
+en/[11,12]|vg|crd/cnj|tekst/[10,11]|noun|1
+in/[5,6]|prep|hd/obj1|Nederlands/[7,8]|noun|1
+kan/[15,16]|verb|hd/su|en/[11,12]|vg|1
+kan/[15,16]|verb|hd/vc|word/[16,17]|verb|1
+laat/[1,2]|verb|-- / --|./[17,18]|punct|1
+laat/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+laat/[1,2]|verb|hd/svp|zie/[2,3]|verb|1
+laat/[1,2]|verb|hd/vc|dat/[3,4]|comp|1
+nummer/[13,14]|noun|hd/mod|goed/[12,13]|adj|1
+schrijf/[14,15]|verb|hd/mod|er/[8,9]|adv|1
+schrijf/[14,15]|verb|hd/mod|in/[5,6]|prep|1
+schrijf/[14,15]|verb|hd/mod|ook/[4,5]|adv|1
+schrijf/[14,15]|verb|hd/obj1|en/[11,12]|vg|1
+tekst/[10,11]|noun|hd/mod|fijn/[9,10]|adj|1
+top/top|top|top/hd|laat/[1,2]|verb|1
+word/[16,17]|verb|hd/su|en/[11,12]|vg|1
+word/[16,17]|verb|hd/vc|schrijf/[14,15]|verb|1

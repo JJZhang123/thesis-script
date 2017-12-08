@@ -1,0 +1,77 @@
+filiaal/[7,8]|noun|hd/det|een/[6,7]|det|1
+filiaal/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+hap/[13,14]|noun|hd/det|een/[11,12]|det|1
+hap/[13,14]|noun|hd/mod|snel/[12,13]|adj|1
+langs/[5,6]|prep|hd/obj1|filiaal/[7,8]|noun|1
+passeer/[1,2]|verb|-- / --|./[14,15]|punct|1
+passeer/[1,2]|verb|hd/mod|eens/[4,5]|adv|1
+passeer/[1,2]|verb|hd/mod|langs/[5,6]|prep|1
+passeer/[1,2]|verb|hd/mod|nog/[3,4]|adv|1
+passeer/[1,2]|verb|hd/mod|onlangs/[0,1]|adv|1
+passeer/[1,2]|verb|hd/pc|voor/[10,11]|prep|1
+passeer/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+top/top|top|top/hd|passeer/[1,2]|verb|1
+van/[8,9]|prep|hd/obj1|PROPNAME/[9,10]|name|1
+voor/[10,11]|prep|hd/obj1|hap/[13,14]|noun|1
+dat/[5,6]|comp|cmp/body|straal_uit/[11,12]|verb|1
+onthaal/[10,11]|noun|hd/det|geen/[8,9]|det|1
+onthaal/[10,11]|noun|hd/mod|warm/[9,10]|adj|1
+personeel/[7,8]|noun|hd/det|het/[6,7]|det|1
+straal_uit/[11,12]|verb|hd/obj1|onthaal/[10,11]|noun|1
+straal_uit/[11,12]|verb|hd/su|personeel/[7,8]|noun|1
+top/top|top|top/hd|val_op/[1,2]|verb|1
+val_op/[1,2]|verb|-- / --|./[12,13]|punct|1
+val_op/[1,2]|verb|hd/mod|enorm/[3,4]|adj|1
+val_op/[1,2]|verb|hd/obj2|mij/[2,3]|pron|1
+val_op/[1,2]|verb|hd/su|dat/[5,6]|comp|1
+val_op/[1,2]|verb|hd/sup|het/[0,1]|noun|1
+val_op/[1,2]|verb|hd/svp|op/[4,5]|part|1
+en/[8,9]|vg|-- / --|./[14,15]|punct|1
+en/[8,9]|vg|crd/cnj|sta/[2,3]|verb|1
+en/[8,9]|vg|crd/cnj|word/[11,12]|verb|1
+sta/[2,3]|verb|hd/ld|tegen/[5,6]|prep|1
+sta/[2,3]|verb|hd/mod|er/[3,4]|adv|1
+sta/[2,3]|verb|hd/su|werknemer/[1,2]|noun|1
+tegen/[5,6]|prep|hd/mod|bijna/[4,5]|adv|1
+tegen/[5,6]|prep|hd/obj1|zin/[7,8]|noun|1
+top/top|top|top/hd|en/[8,9]|vg|1
+uigevoerd/[13,14]|noun|hd/mod|slordig/[12,13]|adj|1
+werk/[10,11]|noun|hd/det|het/[9,10]|det|1
+werknemer/[1,2]|noun|hd/det|de/[0,1]|det|1
+word/[11,12]|verb|hd/predc|uigevoerd/[13,14]|noun|1
+word/[11,12]|verb|hd/su|werk/[10,11]|noun|1
+zin/[7,8]|noun|hd/det|hun/[6,7]|det|1
+ben/[1,2]|verb|-- / --|./[34,35]|punct|1
+ben/[1,2]|verb|dp/dp|dat/[21,22]|comp|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+ben/[1,2]|verb|hd/svp|van mening/[2,4]|fixed|1
+ben/[1,2]|verb|hd/vc|dat/[4,5]|comp|1
+ben/[29,30]|verb|hd/mod|in/[24,25]|prep|1
+ben/[29,30]|verb|hd/predc|vriendelijk/[27,28]|adj|1
+ben/[29,30]|verb|hd/su|verkoper/[23,24]|noun|1
+contact/[18,19]|noun|hd/mod|fysiek/[17,18]|adj|1
+dat/[4,5]|comp|cmp/body|heb/[20,21]|verb|1
+dat/[21,22]|comp|cmp/body|en/[30,31]|vg|1
+draag_uit/[33,34]|verb|hd/obj1|waarde/[32,33]|noun|1
+draag_uit/[33,34]|verb|hd/su|verkoper/[23,24]|noun|1
+en/[30,31]|vg|crd/cnj|draag_uit/[33,34]|verb|1
+en/[30,31]|vg|crd/cnj|mag/[28,29]|verb|1
+geval/[26,27]|noun|hd/det|ieder/[25,26]|det|1
+heb/[20,21]|verb|hd/mod|al dan niet/[14,17]|adv|1
+heb/[20,21]|verb|hd/mod|mee/[19,20]|adv|1
+heb/[20,21]|verb|hd/mod|wanneer/[5,6]|comp|1
+heb/[20,21]|verb|hd/obj1|contact/[18,19]|noun|1
+heb/[20,21]|verb|hd/su|je/[13,14]|pron|1
+in/[24,25]|prep|hd/obj1|geval/[26,27]|noun|1
+koop/[9,10]|verb|hd/obj1|poduct/[8,9]|noun|1
+koop/[9,10]|verb|hd/pc|van/[10,11]|prep|1
+koop/[9,10]|verb|hd/su|je/[6,7]|pron|1
+mag/[28,29]|verb|hd/su|verkoper/[23,24]|noun|1
+mag/[28,29]|verb|hd/vc|ben/[29,30]|verb|1
+mens/[11,12]|noun|hd/mod|waar/[12,13]|adv|1
+poduct/[8,9]|noun|hd/det|een/[7,8]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[10,11]|prep|hd/obj1|mens/[11,12]|noun|1
+verkoper/[23,24]|noun|hd/det|deze/[22,23]|det|1
+waarde/[32,33]|noun|hd/mod|positief/[31,32]|adj|1
+wanneer/[5,6]|comp|cmp/body|koop/[9,10]|verb|1

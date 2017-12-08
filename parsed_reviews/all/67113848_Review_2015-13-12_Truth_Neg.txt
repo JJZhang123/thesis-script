@@ -1,0 +1,161 @@
+Michaël Roskam/[4,6]|name|hd/mod|met/[6,7]|prep|1
+PROPNAME,/[0,1]|name|-- / --|./[12,13]|punct|1
+PROPNAME,/[0,1]|name|dp/dp|film/[2,3]|noun|1
+film/[2,3]|noun|hd/det|een/[1,2]|det|1
+film/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+hoofdrol/[11,12]|noun|hd/det|de/[10,11]|det|1
+in/[9,10]|prep|hd/obj1|hoofdrol/[11,12]|noun|1
+met/[6,7]|prep|hd/mod|in/[9,10]|prep|1
+met/[6,7]|prep|hd/obj1|Matthias Schoenaerts/[7,9]|name|1
+top/top|top|top/hd|PROPNAME,/[0,1]|name|1
+van/[3,4]|prep|hd/obj1|Michaël Roskam/[4,6]|name|1
+aan/[4,5]|prep|hd/obj1|acteer_talent/[6,7]|noun|1
+acteer_talent/[6,7]|noun|hd/det|de/[5,6]|det|1
+acteer_talent/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+heb/[11,12]|verb|hd/su|ik/[10,11]|pron|1
+heb/[11,12]|verb|hd/vc|verwacht/[13,14]|verb|1
+merk_op/[3,4]|verb|hd/mod|aan/[4,5]|prep|1
+merk_op/[3,4]|verb|hd/obj1|niets/[0,1]|noun|1
+merk_op/[3,4]|verb|hd/svp|op/[1,2]|part|1
+te/[2,3]|comp|-- / --|./[14,15]|punct|1
+te/[2,3]|comp|-- / --|maar/[9,10]|vg|1
+te/[2,3]|comp|cmp/body|merk_op/[3,4]|verb|1
+te/[2,3]|comp|dp/dp|heb/[11,12]|verb|1
+top/top|top|top/hd|te/[2,3]|comp|1
+van/[7,8]|prep|hd/obj1|Schoenaerts,/[8,9]|name|1
+verwacht/[13,14]|verb|hd/obj1|meer/[12,13]|adj|1
+verwacht/[13,14]|verb|hd/su|ik/[10,11]|pron|1
+ben/[7,8]|verb|-- / --|./[11,12]|punct|1
+ben/[7,8]|verb|hd/mod|waarschijnlijk/[8,9]|adj|1
+ben/[7,8]|verb|hd/predc|taal_gebruik/[10,11]|noun|1
+ben/[7,8]|verb|hd/su|struikelblok/[2,3]|noun|1
+mens/[6,7]|noun|hd/det|de/[4,5]|det|1
+mens/[6,7]|noun|hd/mod|meest/[5,6]|adj|1
+struikelblok/[2,3]|noun|hd/det|het/[0,1]|det|1
+struikelblok/[2,3]|noun|hd/mod|groot/[1,2]|adj|1
+struikelblok/[2,3]|noun|hd/mod|voor/[3,4]|prep|1
+taal_gebruik/[10,11]|noun|hd/det|het/[9,10]|det|1
+top/top|top|top/hd|ben/[7,8]|verb|1
+voor/[3,4]|prep|hd/obj1|mens/[6,7]|noun|1
+ben/[5,6]|verb|hd/obj2|ondertiteling/[3,4]|noun|1
+ben/[5,6]|verb|hd/predc|dankbaar/[4,5]|adj|1
+ben/[5,6]|verb|hd/su|we/[0,1]|pron|1
+film/[13,14]|noun|hd/det|de/[12,13]|det|1
+heb/[8,9]|verb|hd/su|we/[7,8]|pron|1
+heb/[8,9]|verb|hd/vc|versta/[15,16]|verb|1
+helft/[10,11]|noun|hd/det|de/[9,10]|det|1
+helft/[10,11]|noun|hd/mod|van/[11,12]|prep|1
+mag/[1,2]|verb|hd/su|we/[0,1]|pron|1
+mag/[1,2]|verb|hd/vc|ben/[5,6]|verb|1
+of/[6,7]|vg|-- / --|./[16,17]|punct|1
+of/[6,7]|vg|crd/cnj|heb/[8,9]|verb|1
+of/[6,7]|vg|crd/cnj|mag/[1,2]|verb|1
+ondertiteling/[3,4]|noun|hd/det|de/[2,3]|det|1
+top/top|top|top/hd|of/[6,7]|vg|1
+van/[11,12]|prep|hd/obj1|film/[13,14]|noun|1
+versta/[15,16]|verb|hd/mod|niet/[14,15]|adv|1
+versta/[15,16]|verb|hd/obj1|helft/[10,11]|noun|1
+versta/[15,16]|verb|hd/su|we/[7,8]|pron|1
+beet_DIM/[20,21]|noun|hd/det|een/[19,20]|det|1
+ben/[11,12]|verb|hd/predc|hoog/[12,13]|adj|1
+ben/[11,12]|verb|hd/su|verwachting/[10,11]|noun|1
+besta/[1,2]|verb|hd/mod|er/[0,1]|adv|1
+besta/[1,2]|verb|hd/su|hype/[4,5]|noun|1
+dus/[8,9]|vg|-- / --|./[22,23]|punct|1
+dus/[8,9]|vg|crd/cnj|ben/[11,12]|verb|1
+dus/[8,9]|vg|crd/cnj|besta/[1,2]|verb|1
+dus/[8,9]|vg|crd/cnj|heb/[16,17]|verb|1
+dus/[8,9]|vg|crd/crd|maar/[13,14]|vg|1
+faal/[21,22]|verb|hd/mod|beet_DIM/[20,21]|noun|1
+faal/[21,22]|verb|hd/mod|toch/[18,19]|adv|1
+faal/[21,22]|verb|hd/mod|voor/[14,15]|prep|1
+faal/[21,22]|verb|hd/su|PROPNAME/[17,18]|name|1
+film/[7,8]|noun|hd/det|de/[6,7]|det|1
+heb/[16,17]|verb|hd/su|PROPNAME/[17,18]|name|1
+heb/[16,17]|verb|hd/vc|faal/[21,22]|verb|1
+hype/[4,5]|noun|hd/det|een/[2,3]|det|1
+hype/[4,5]|noun|hd/mod|groot/[3,4]|adj|1
+hype/[4,5]|noun|hd/mod|rond/[5,6]|prep|1
+rond/[5,6]|prep|hd/obj1|film/[7,8]|noun|1
+top/top|top|top/hd|dus/[8,9]|vg|1
+verwachting/[10,11]|noun|hd/det|de/[9,10]|det|1
+voor/[14,15]|prep|hd/obj1|mij/[15,16]|pron|1
+acteer_prestatie/[1,2]|noun|hd/det|de/[0,1]|det|1
+acteer_prestatie/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+als/[11,12]|comp|cmp/body|regisseur/[12,13]|noun|1
+capaciteit/[7,8]|noun|hd/det|de/[6,7]|det|1
+capaciteit/[7,8]|noun|hd/mod|als/[11,12]|comp|1
+capaciteit/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+en/[5,6]|vg|crd/cnj|acteer_prestatie/[1,2]|noun|1
+en/[5,6]|vg|crd/cnj|capaciteit/[7,8]|noun|1
+pluim/[16,17]|noun|hd/det|een/[15,16]|det|1
+top/top|top|top/hd|verdien/[13,14]|verb|1
+van/[2,3]|prep|hd/obj1|Matthias Schoenaerts/[3,5]|name|1
+van/[8,9]|prep|hd/obj1|Michaël Roskam/[9,11]|name|1
+verdien/[13,14]|verb|-- / --|./[17,18]|punct|1
+verdien/[13,14]|verb|hd/mod|zeker/[14,15]|adj|1
+verdien/[13,14]|verb|hd/obj1|pluim/[16,17]|noun|1
+verdien/[13,14]|verb|hd/su|en/[5,6]|vg|1
+heb/[1,2]|verb|-- / --|./[7,8]|punct|1
+heb/[1,2]|verb|hd/mod|vooral/[2,3]|adv|1
+heb/[1,2]|verb|hd/obj1|probleem/[3,4]|noun|1
+heb/[1,2]|verb|hd/pc|met/[4,5]|prep|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+met/[4,5]|prep|hd/obj1|verhaal/[6,7]|noun|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+verhaal/[6,7]|noun|hd/det|het/[5,6]|det|1
+beet_DIM/[5,6]|noun|hd/det|een/[4,5]|det|1
+klink/[1,2]|verb|-- / --|./[7,8]|punct|1
+klink/[1,2]|verb|hd/mod|voor/[2,3]|prep|1
+klink/[1,2]|verb|hd/predc|ongeloofwaardig/[6,7]|adj|1
+klink/[1,2]|verb|hd/su|het/[0,1]|det|1
+ongeloofwaardig/[6,7]|adj|hd/mod|beet_DIM/[5,6]|noun|1
+top/top|top|top/hd|klink/[1,2]|verb|1
+voor/[2,3]|prep|hd/obj1|mij/[3,4]|pron|1
+ben/[2,3]|verb|-- / --|? /[15,16]|punct|1
+ben/[2,3]|verb|hd/mod|iets/[3,4]|noun|1
+ben/[2,3]|verb|hd/obj2|je/[11,12]|pron|1
+ben/[2,3]|verb|hd/predc|zoiets/[12,13]|pron|1
+ben/[2,3]|verb|hd/su|hormoon_maffia/[1,2]|noun|1
+dat/[4,5]|pron|rhd/body|maar/[9,10]|vg|1
+hormoon_maffia/[1,2]|noun|hd/det|de/[0,1]|det|1
+iets/[3,4]|noun|hd/mod|dat/[4,5]|pron|1
+in/[6,7]|prep|hd/obj1|Amerika/[7,8]|name|1
+in/[13,14]|prep|hd/obj1|België/[14,15]|name|1
+kom_voor/[8,9]|verb|hd/ld|in/[6,7]|prep|1
+kom_voor/[8,9]|verb|hd/mod|misschien/[5,6]|adv|1
+kom_voor/[8,9]|verb|hd/su|dat/[4,5]|pron|1
+maar/[9,10]|vg|crd/cnj|kom_voor/[8,9]|verb|1
+maar/[9,10]|vg|crd/cnj|verwacht/[10,11]|verb|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+verwacht/[10,11]|verb|hd/su|dat/[4,5]|pron|1
+zoiets/[12,13]|pron|hd/mod|in/[13,14]|prep|1
+ik/[0,1]|pron|-- / --|./[3,4]|punct|1
+ik/[0,1]|pron|dp/dp|niet/[1,2]|adv|1
+niet/[1,2]|adv|hd/mod|althans/[2,3]|adv|1
+top/top|top|top/hd|ik/[0,1]|pron|1
+heb/[1,2]|verb|-- / --|./[6,7]|punct|1
+heb/[1,2]|verb|hd/mod|natuurlijk/[2,3]|adj|1
+heb/[1,2]|verb|hd/obj1|smaak/[5,6]|noun|1
+heb/[1,2]|verb|hd/su|iedereen/[0,1]|pron|1
+smaak/[5,6]|noun|hd/det|zijn/[3,4]|det|1
+smaak/[5,6]|noun|hd/mod|eigen/[4,5]|adj|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+aan/[4,5]|prep|hd/obj1|film/[6,7]|noun|1
+die/[3,4]|pron|rhd/body|heb/[7,8]|verb|1
+film/[6,7]|noun|hd/det|de/[5,6]|det|1
+heb/[7,8]|verb|hd/su|die/[3,4]|pron|1
+heb/[7,8]|verb|hd/vc|werk_mee/[8,9]|verb|1
+iedereen/[2,3]|pron|hd/mod|die/[3,4]|pron|1
+kan/[12,13]|verb|hd/mod|voor/[10,11]|prep|1
+kan/[12,13]|verb|hd/predc|goed/[14,15]|adj|1
+kan/[12,13]|verb|hd/su|het/[13,14]|det|1
+maar/[9,10]|vg|-- / --|./[15,16]|punct|1
+maar/[9,10]|vg|crd/cnj|kan/[12,13]|verb|1
+maar/[9,10]|vg|crd/cnj|spijtig/[0,1]|adj|1
+spijtig/[0,1]|adj|hd/mod|voor/[1,2]|prep|1
+top/top|top|top/hd|maar/[9,10]|vg|1
+voor/[1,2]|prep|hd/obj1|iedereen/[2,3]|pron|1
+voor/[10,11]|prep|hd/obj1|mij/[11,12]|pron|1
+werk_mee/[8,9]|verb|hd/pc|aan/[4,5]|prep|1
+werk_mee/[8,9]|verb|hd/su|die/[3,4]|pron|1

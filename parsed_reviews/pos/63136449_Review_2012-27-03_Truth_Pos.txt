@@ -1,0 +1,99 @@
+aan/[10,11]|prep|hd/obj1|lach/[12,13]|verb|1
+ben/[1,2]|verb|-- / --|./[15,16]|punct|1
+ben/[1,2]|verb|hd/predc|komedie/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+breng/[14,15]|verb|hd/obj1|die/[5,6]|pron|1
+breng/[14,15]|verb|hd/obj2|aan/[10,11]|prep|1
+die/[5,6]|pron|rhd/body|doe/[13,14]|verb|1
+doe/[13,14]|verb|hd/su|zowel/[6,7]|vg|1
+doe/[13,14]|verb|hd/vc|breng/[14,15]|verb|1
+komedie/[4,5]|noun|hd/det|een/[2,3]|det|1
+komedie/[4,5]|noun|hd/mod|die/[5,6]|pron|1
+komedie/[4,5]|noun|hd/mod|schitterend/[3,4]|adj|1
+lach/[12,13]|verb|hd/det|het/[11,12]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+zowel/[6,7]|vg|crd/cnj|man/[9,10]|noun|1
+zowel/[6,7]|vg|crd/cnj|vrouw/[7,8]|noun|1
+zowel/[6,7]|vg|crd/crd|als/[8,9]|vg|1
+Annie Kristen Wiig,/[4,7]|name|hd/mod|leven/[8,9]|noun|1
+bereik/[12,13]|verb|hd/obj1|dieptepunt/[10,11]|noun|1
+bereik/[12,13]|verb|hd/su|leven/[8,9]|noun|1
+dieptepunt/[10,11]|noun|hd/det|een/[9,10]|det|1
+ga/[2,3]|verb|-- / --|./[13,14]|punct|1
+ga/[2,3]|verb|hd/pc|over/[3,4]|prep|1
+ga/[2,3]|verb|hd/su|verhaal/[1,2]|noun|1
+heb/[11,12]|verb|hd/su|leven/[8,9]|noun|1
+heb/[11,12]|verb|hd/vc|bereik/[12,13]|verb|1
+leven/[8,9]|noun|hd/det|wier/[7,8]|det|1
+leven/[8,9]|noun|rhd/body|heb/[11,12]|verb|1
+over/[3,4]|prep|hd/obj1|Annie Kristen Wiig,/[4,7]|name|1
+top/top|top|top/hd|ga/[2,3]|verb|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+dat/[5,6]|comp|cmp/body|ga/[9,10]|verb|1
+eer/[14,15]|noun|hd/det|de/[13,14]|det|1
+eer/[14,15]|noun|hd/vc|om/[15,16]|comp|1
+ga/[9,10]|verb|hd/su|vriendin/[8,9]|noun|1
+ga/[9,10]|verb|hd/vc|trouw/[10,11]|verb|1
+hoor/[3,4]|verb|hd/su|Annie/[1,2]|name|1
+hoor/[3,4]|verb|hd/vc|dat/[5,6]|comp|1
+krijg/[4,5]|verb|hd/su|Annie/[1,2]|name|1
+krijg/[4,5]|verb|hd/vc|te/[2,3]|comp|1
+krijg/[11,12]|verb|-- / --|./[26,27]|punct|1
+krijg/[11,12]|verb|hd/mod|wanneer/[0,1]|comp|1
+krijg/[11,12]|verb|hd/obj1|eer/[14,15]|noun|1
+krijg/[11,12]|verb|hd/su|Annie/[12,13]|name|1
+neem/[25,26]|verb|hd/obj1|rol/[17,18]|noun|1
+neem/[25,26]|verb|hd/pc|op/[22,23]|prep|1
+om/[15,16]|comp|cmp/body|te/[24,25]|comp|1
+op/[22,23]|prep|hd/se|zich/[23,24]|pron|1
+rol/[17,18]|noun|hd/det|de/[16,17]|det|1
+rol/[17,18]|noun|hd/mod|van/[18,19]|prep|1
+te/[2,3]|comp|cmp/body|hoor/[3,4]|verb|1
+te/[24,25]|comp|cmp/body|neem/[25,26]|verb|1
+top/top|top|top/hd|krijg/[11,12]|verb|1
+trouw/[10,11]|verb|hd/su|vriendin/[8,9]|noun|1
+van/[18,19]|prep|hd/obj1|maid of honor/[19,22]|name|1
+vriendin/[8,9]|noun|hd/det|haar/[6,7]|det|1
+vriendin/[8,9]|noun|hd/mod|goed/[7,8]|adj|1
+wanneer/[0,1]|comp|cmp/body|krijg/[4,5]|verb|1
+loop_mis/[1,2]|verb|-- / --|./[4,5]|punct|1
+loop_mis/[1,2]|verb|hd/mod|helaas/[0,1]|adv|1
+loop_mis/[1,2]|verb|hd/su|alles/[2,3]|noun|1
+loop_mis/[1,2]|verb|hd/svp|mis/[3,4]|part|1
+top/top|top|top/hd|loop_mis/[1,2]|verb|1
+en/[9,10]|vg|crd/cnj|scène/[14,15]|noun|1
+en/[9,10]|vg|crd/cnj|voedsel_vergiftiging/[0,1]|noun|1
+film/[17,18]|noun|hd/det|deze/[16,17]|det|1
+geslaagd/[19,20]|adj|hd/mod|zeer/[18,19]|adv|1
+gevolg/[3,4]|noun|hd/mod|gênant/[2,3]|adj|1
+maak/[15,16]|verb|-- / --|./[20,21]|punct|1
+maak/[15,16]|verb|hd/obj1|film/[17,18]|noun|1
+maak/[15,16]|verb|hd/predc|geslaagd/[19,20]|adj|1
+maak/[15,16]|verb|hd/su|en/[9,10]|vg|1
+meer/[12,13]|adj|hd/mod|nog/[10,11]|adv|1
+meer/[12,13]|adj|hd/mod|veel/[11,12]|adj|1
+met/[1,2]|prep|hd/obj1|word/[5,6]|verb|1
+op/[6,7]|prep|hd/obj1|vliegtuig_vlucht/[8,9]|noun|1
+scène/[14,15]|noun|hd/det|meer/[12,13]|adj|1
+scène/[14,15]|noun|hd/mod|hilarisch/[13,14]|adj|1
+top/top|top|top/hd|maak/[15,16]|verb|1
+vliegtuig_vlucht/[8,9]|noun|hd/det|een/[7,8]|det|1
+voedsel_vergiftiging/[0,1]|noun|hd/mod|met/[1,2]|prep|1
+word/[5,6]|verb|hd/mod|op/[6,7]|prep|1
+word/[5,6]|verb|hd/predc|gevolg/[3,4]|noun|1
+word/[5,6]|verb|hd/predm|dronken/[4,5]|adj|1
+avond/[9,10]|noun|hd/mod|komisch/[8,9]|adj|1
+beleef/[11,12]|verb|hd/obj1|avond/[9,10]|noun|1
+beleef/[11,12]|verb|hd/su|die/[7,8]|pron|1
+die/[7,8]|pron|rhd/body|wil/[10,11]|verb|1
+film/[3,4]|noun|hd/det|deze/[2,3]|det|1
+iedereen/[6,7]|pron|hd/mod|die/[7,8]|pron|1
+raad_aan/[1,2]|verb|-- / --|!/[12,13]|punct|1
+raad_aan/[1,2]|verb|hd/mod|voor/[5,6]|prep|1
+raad_aan/[1,2]|verb|hd/obj1|film/[3,4]|noun|1
+raad_aan/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+raad_aan/[1,2]|verb|hd/svp|aan/[4,5]|part|1
+top/top|top|top/hd|raad_aan/[1,2]|verb|1
+voor/[5,6]|prep|hd/obj1|iedereen/[6,7]|pron|1
+wil/[10,11]|verb|hd/su|die/[7,8]|pron|1
+wil/[10,11]|verb|hd/vc|beleef/[11,12]|verb|1

@@ -1,0 +1,63 @@
+film/[2,3]|noun|-- / --|./[7,8]|punct|1
+film/[2,3]|noun|hd/det|een/[0,1]|det|1
+film/[2,3]|noun|hd/mod|met/[3,4]|prep|1
+film/[2,3]|noun|hd/mod|prachtig/[1,2]|adj|1
+met/[3,4]|prep|hd/obj1|special effects/[5,7]|noun|1
+special effects/[5,7]|noun|hd/mod|geweldig/[4,5]|adj|1
+top/top|top|top/hd|film/[2,3]|noun|1
+ben/[1,2]|verb|-- / --|./[15,16]|punct|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+ben/[1,2]|verb|hd/vc|word/[7,8]|verb|1
+heb/[13,14]|verb|hd/su|reeks/[10,11]|noun|1
+heb/[13,14]|verb|hd/vc|verdien/[14,15]|verb|1
+mooi/[4,5]|adj|hd/mod|heel/[3,4]|adv|1
+reeks/[10,11]|noun|hd/det|de/[9,10]|det|1
+strijd/[6,7]|noun|hd/det|een/[2,3]|det|1
+strijd/[6,7]|noun|hd/mod|episch/[5,6]|adj|1
+strijd/[6,7]|noun|hd/mod|mooi/[4,5]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+verdien/[14,15]|verb|hd/mod|ook/[12,13]|adv|1
+verdien/[14,15]|verb|hd/mod|uiteraard/[11,12]|adv|1
+verdien/[14,15]|verb|hd/obj1|wat/[8,9]|pron|1
+verdien/[14,15]|verb|hd/su|reeks/[10,11]|noun|1
+wat/[8,9]|pron|rhd/body|heb/[13,14]|verb|1
+word/[7,8]|verb|hd/mod|wat/[8,9]|pron|1
+word/[7,8]|verb|hd/predc|strijd/[6,7]|noun|1
+word/[7,8]|verb|hd/su|het/[0,1]|det|1
+bioscoop/[7,8]|noun|hd/det|de/[6,7]|det|1
+film/[2,3]|noun|hd/det|de/[1,2]|det|1
+heb/[0,1]|verb|-- / --|./[16,17]|punct|1
+heb/[0,1]|verb|dp/dp|vind/[9,10]|verb|1
+heb/[0,1]|verb|hd/vc|zie/[8,9]|verb|1
+in/[5,6]|prep|hd/obj1|bioscoop/[7,8]|noun|1
+keer/[4,5]|noun|hd/det|twee/[3,4]|num|1
+keer/[13,14]|noun|hd/det|de/[11,12]|det|1
+keer/[13,14]|noun|hd/mod|tweede/[12,13]|num|1
+top/top|top|top/hd|heb/[0,1]|verb|1
+vind/[9,10]|verb|hd/mod|keer/[13,14]|noun|1
+vind/[9,10]|verb|hd/mod|nog/[14,15]|adv|1
+vind/[9,10]|verb|hd/obj1|hem/[10,11]|pron|1
+vind/[9,10]|verb|hd/predc|goed/[15,16]|adj|1
+zie/[8,9]|verb|hd/mod|keer/[4,5]|noun|1
+zie/[8,9]|verb|hd/obj1|film/[2,3]|noun|1
+zie/[8,9]|verb|hd/pc|in/[5,6]|prep|1
+beteken/[18,19]|verb|hd/mod|helaas/[11,12]|adv|1
+beteken/[18,19]|verb|hd/obj1|einde/[13,14]|noun|1
+beteken/[18,19]|verb|hd/su|dit/[10,11]|det|1
+einde/[13,14]|noun|hd/det|het/[12,13]|det|1
+einde/[13,14]|noun|hd/mod|van/[14,15]|prep|1
+gevoel/[5,6]|noun|hd/det|een/[3,4]|det|1
+gevoel/[5,6]|noun|hd/mod|dubbel/[4,5]|adj|1
+loop_uit/[1,2]|verb|-- / --|./[19,20]|punct|1
+loop_uit/[1,2]|verb|hd/mod|met/[2,3]|prep|1
+loop_uit/[1,2]|verb|hd/mod|omdat/[9,10]|comp|1
+loop_uit/[1,2]|verb|hd/obj1|zaal/[7,8]|noun|1
+loop_uit/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+loop_uit/[1,2]|verb|hd/svp|uit/[8,9]|part|1
+met/[2,3]|prep|hd/obj1|gevoel/[5,6]|noun|1
+omdat/[9,10]|comp|cmp/body|beteken/[18,19]|verb|1
+reeks/[17,18]|noun|hd/det|de/[15,16]|det|1
+reeks/[17,18]|noun|hd/mod|HP/[16,17]|name|1
+top/top|top|top/hd|loop_uit/[1,2]|verb|1
+van/[14,15]|prep|hd/obj1|reeks/[17,18]|noun|1
+zaal/[7,8]|noun|hd/det|de/[6,7]|det|1

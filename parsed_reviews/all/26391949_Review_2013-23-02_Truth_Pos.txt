@@ -1,0 +1,60 @@
+ben/[1,2]|verb|-- / --|./[20,21]|punct|1
+ben/[1,2]|verb|hd/predc|film/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+en/[11,12]|vg|crd/cnj|Emma Stone Hannah/[12,15]|name|1
+en/[11,12]|vg|crd/cnj|Steve Carell Carl, Ryan Gosling Jacob/[5,11]|name|1
+film/[3,4]|noun|hd/det|een/[2,3]|det|1
+film/[3,4]|noun|hd/mod|waarin/[4,5]|pp|1
+hoofdrol/[16,17]|noun|hd/det|de/[15,16]|det|1
+neem/[19,20]|verb|hd/mod|waarin/[4,5]|pp|1
+neem/[19,20]|verb|hd/obj1|hoofdrol/[16,17]|noun|1
+neem/[19,20]|verb|hd/pc|op/[17,18]|prep|1
+neem/[19,20]|verb|hd/su|en/[11,12]|vg|1
+op/[17,18]|prep|hd/se|zich/[18,19]|pron|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+waarin/[4,5]|pp|rhd/body|neem/[19,20]|verb|1
+afloop/[3,4]|noun|hd/det|de/[1,2]|det|1
+afloop/[3,4]|noun|hd/mod|voorspelbaar/[2,3]|adj|1
+blijf/[4,5]|verb|-- / --|./[12,13]|punct|1
+blijf/[4,5]|verb|hd/mod|ondanks/[0,1]|prep|1
+blijf/[4,5]|verb|hd/mod|tot/[9,10]|prep|1
+blijf/[4,5]|verb|hd/predc|interessant/[8,9]|adj|1
+blijf/[4,5]|verb|hd/su|komedie/[7,8]|noun|1
+einde/[11,12]|noun|hd/det|het/[10,11]|det|1
+komedie/[7,8]|noun|hd/det|de/[5,6]|det|1
+komedie/[7,8]|noun|hd/mod|romantisch/[6,7]|adj|1
+ondanks/[0,1]|prep|hd/obj1|afloop/[3,4]|noun|1
+top/top|top|top/hd|blijf/[4,5]|verb|1
+tot/[9,10]|prep|hd/obj1|einde/[11,12]|noun|1
+die/[6,7]|pron|rhd/body|voer_mee/[14,15]|verb|1
+humor/[10,11]|noun|hd/det|de/[8,9]|det|1
+humor/[10,11]|noun|hd/mod|nodig/[9,10]|adj|1
+kijker/[12,13]|noun|hd/det|de/[11,12]|det|1
+kom/[1,2]|verb|-- / --|./[15,16]|punct|1
+kom/[1,2]|verb|hd/mod|er/[0,1]|adv|1
+kom/[1,2]|verb|hd/su|wending/[5,6]|noun|1
+met/[7,8]|prep|hd/obj1|humor/[10,11]|noun|1
+top/top|top|top/hd|kom/[1,2]|verb|1
+voer_mee/[14,15]|verb|hd/mod|helemaal/[13,14]|adv|1
+voer_mee/[14,15]|verb|hd/mod|met/[7,8]|prep|1
+voer_mee/[14,15]|verb|hd/obj1|kijker/[12,13]|noun|1
+voer_mee/[14,15]|verb|hd/su|die/[6,7]|pron|1
+wending/[5,6]|noun|hd/det|enkel/[2,3]|det|1
+wending/[5,6]|noun|hd/mod|die/[6,7]|pron|1
+wending/[5,6]|noun|hd/mod|nieuw/[4,5]|adj|1
+wending/[5,6]|noun|hd/mod|verrassend/[3,4]|adj|1
+aanrader/[1,2]|noun|hd/det|een/[0,1]|det|1
+aanrader/[1,2]|noun|hd/mod|voor/[2,3]|prep|1
+bekijk/[13,14]|verb|hd/obj1|keer/[11,12]|noun|1
+en/[5,6]|vg|-- / --|./[14,15]|punct|1
+en/[5,6]|vg|crd/cnj|aanrader/[1,2]|noun|1
+en/[5,6]|vg|crd/cnj|moeite/[8,9]|noun|1
+film_liefhebber/[4,5]|noun|hd/det|elk/[3,4]|det|1
+keer/[11,12]|noun|hd/det|meerdere/[10,11]|det|1
+moeite/[8,9]|noun|hd/det|de/[7,8]|det|1
+moeite/[8,9]|noun|hd/mod|zelfs/[6,7]|adv|1
+moeite/[8,9]|noun|hd/vc|om/[9,10]|comp|1
+om/[9,10]|comp|cmp/body|te/[12,13]|comp|1
+te/[12,13]|comp|cmp/body|bekijk/[13,14]|verb|1
+top/top|top|top/hd|en/[5,6]|vg|1
+voor/[2,3]|prep|hd/obj1|film_liefhebber/[4,5]|noun|1

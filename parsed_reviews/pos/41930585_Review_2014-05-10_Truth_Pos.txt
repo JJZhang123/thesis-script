@@ -1,0 +1,208 @@
+boek/[14,15]|noun|hd/app|Elle SAppelait Sarah/[15,18]|name|1
+boek/[14,15]|noun|hd/det|het/[13,14]|det|1
+boek/[14,15]|noun|hd/mod|van/[18,19]|prep|1
+geschiedenis/[6,7]|noun|hd/det|de/[4,5]|det|1
+geschiedenis/[6,7]|noun|hd/mod|Frans/[5,6]|adj|1
+naar/[12,13]|prep|hd/obj1|boek/[14,15]|noun|1
+pagina/[2,3]|noun|hd/det|een/[0,1]|det|1
+pagina/[2,3]|noun|hd/mod|inkt_zwart/[1,2]|adj|1
+pagina/[2,3]|noun|hd/mod|uit/[3,4]|prep|1
+top/top|top|top/hd|vorm/[7,8]|verb|1
+uit/[3,4]|prep|hd/obj1|geschiedenis/[6,7]|noun|1
+uitgangspunt/[9,10]|noun|hd/det|het/[8,9]|det|1
+uitgangspunt/[9,10]|noun|hd/mod|voor/[10,11]|prep|1
+van/[18,19]|prep|hd/obj1|PROPNAME/[19,20]|name|1
+voor/[10,11]|prep|hd/obj1|PROPNAME,/[11,12]|name|1
+vorm/[7,8]|verb|-- / --|./[20,21]|punct|1
+vorm/[7,8]|verb|hd/obj1|uitgangspunt/[9,10]|noun|1
+vorm/[7,8]|verb|hd/pc|naar/[12,13]|prep|1
+vorm/[7,8]|verb|hd/su|pagina/[2,3]|noun|1
+Française/[6,7]|noun|hd/app|PROPNAME/[7,8]|name|1
+Française/[6,7]|noun|hd/det|de/[5,6]|det|1
+Sarah/[19,20]|name|hd/det|de/[17,18]|det|1
+Sarah/[19,20]|name|hd/mod|Joods/[18,19]|adj|1
+Sarah/[19,20]|name|hd/mod|ten tijde van/[20,23]|prep|1
+Tweede Wereldoorlog/[24,26]|name|hd/det|de/[23,24]|det|1
+baseer/[12,13]|verb|hd/mod|met/[9,10]|prep|1
+baseer/[12,13]|verb|hd/obj1|mij/[8,9]|pron|1
+baseer/[12,13]|verb|hd/pc|op/[13,14]|prep|1
+feit/[15,16]|noun|hd/mod|over/[16,17]|prep|1
+feit/[15,16]|noun|hd/mod|waargebeurd/[14,15]|adj|1
+letter/[3,4]|noun|hd/det|de/[1,2]|det|1
+letter/[3,4]|noun|hd/mod|eerste/[2,3]|num|1
+letter/[3,4]|noun|hd/mod|verdoofd/[4,5]|adj|1
+met/[9,10]|prep|hd/obj1|verhaal/[11,12]|noun|1
+op/[13,14]|prep|hd/obj1|feit/[15,16]|noun|1
+over/[16,17]|prep|hd/obj1|Sarah/[19,20]|name|1
+ten tijde van/[20,23]|prep|hd/obj1|Tweede Wereldoorlog/[24,26]|name|1
+top/top|top|top/hd|vanaf/[0,1]|prep|1
+vanaf/[0,1]|prep|-- / --|./[26,27]|punct|1
+vanaf/[0,1]|prep|dp/dp|Française/[6,7]|noun|1
+vanaf/[0,1]|prep|dp/dp|baseer/[12,13]|verb|1
+vanaf/[0,1]|prep|hd/obj1|letter/[3,4]|noun|1
+verhaal/[11,12]|noun|hd/det|haar/[10,11]|det|1
+ben/[20,21]|verb|hd/su|ze/[12,13]|pron|1
+ben/[20,21]|verb|hd/vc|pluk/[21,22]|verb|1
+bezitter/[16,17]|noun|hd/det|de/[14,15]|det|1
+bezitter/[16,17]|noun|hd/mod|Duits/[15,16]|adj|1
+door/[13,14]|prep|hd/obj1|bezitter/[16,17]|noun|1
+duizenden/[8,9]|noun|hd/mod|jood/[9,10]|noun|1
+duizenden/[8,9]|noun|hd/mod|veel/[7,8]|adj|1
+houd_vast/[10,11]|verb|hd/mod|in/[0,1]|prep|1
+houd_vast/[10,11]|verb|hd/mod|nadat/[11,12]|comp|1
+houd_vast/[10,11]|verb|hd/obj1|duizenden/[8,9]|noun|1
+huis/[19,20]|noun|hd/det|hun/[18,19]|det|1
+in/[0,1]|prep|hd/obj1|wielerstadion/[3,4]|noun|1
+in/[4,5]|prep|hd/obj1|Parijs/[5,6]|name|1
+nadat/[11,12]|comp|cmp/body|ben/[20,21]|verb|1
+pluk/[21,22]|verb|hd/mod|door/[13,14]|prep|1
+pluk/[21,22]|verb|hd/mod|uit/[17,18]|prep|1
+pluk/[21,22]|verb|hd/obj1|ze/[12,13]|pron|1
+top/top|top|top/hd|word/[6,7]|verb|1
+uit/[17,18]|prep|hd/obj1|huis/[19,20]|noun|1
+wielerstadion/[3,4]|noun|hd/det|een/[1,2]|det|1
+wielerstadion/[3,4]|noun|hd/mod|in/[4,5]|prep|1
+wielerstadion/[3,4]|noun|hd/mod|voormalig/[2,3]|adj|1
+word/[6,7]|verb|-- / --|./[22,23]|punct|1
+word/[6,7]|verb|hd/su|duizenden/[8,9]|noun|1
+word/[6,7]|verb|hd/vc|houd_vast/[10,11]|verb|1
+breng_over/[6,7]|verb|hd/ld|naar/[3,4]|prep|1
+breng_over/[6,7]|verb|hd/mod|ook/[2,3]|adv|1
+breng_over/[6,7]|verb|hd/obj1|Sarah/[0,1]|name|1
+naar/[3,4]|prep|hd/obj1|wielerstadion/[5,6]|noun|1
+top/top|top|top/hd|word/[1,2]|verb|1
+wielerstadion/[5,6]|noun|hd/det|het/[4,5]|det|1
+word/[1,2]|verb|-- / --|./[7,8]|punct|1
+word/[1,2]|verb|hd/su|Sarah/[0,1]|name|1
+word/[1,2]|verb|hd/vc|breng_over/[6,7]|verb|1
+broer_DIM/[10,11]|noun|hd/det|haar/[9,10]|det|1
+dat/[17,18]|comp|cmp/body|zal/[23,24]|verb|1
+haal/[25,26]|verb|hd/mod|vlug/[21,22]|adj|1
+haal/[25,26]|verb|hd/obj1|hem/[19,20]|pron|1
+haal/[25,26]|verb|hd/su|ze/[18,19]|pron|1
+in/[11,12]|prep|hd/obj1|kast/[13,14]|noun|1
+kast/[13,14]|noun|hd/det|een/[12,13]|det|1
+kom/[24,25]|verb|hd/su|ze/[18,19]|pron|1
+kom/[24,25]|verb|hd/vc|haal/[25,26]|verb|1
+maar/[0,1]|comp|-- / --|./[26,27]|punct|1
+maar/[0,1]|comp|-- / --|en/[14,15]|vg|1
+maar/[0,1]|comp|-- / --|val_binnen/[6,7]|verb|1
+maar/[0,1]|comp|dlink/nucl|nog/[1,2]|adv|1
+maar/[0,1]|comp|dp/dp|verstop/[7,8]|verb|1
+maar/[0,1]|comp|dp/dp|zeg/[15,16]|verb|1
+nog/[1,2]|adv|dp/dp|voor/[2,3]|prep|1
+politie/[5,6]|noun|hd/det|de/[3,4]|det|1
+politie/[5,6]|noun|hd/mod|Frans/[4,5]|adj|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+verstop/[7,8]|verb|hd/ld|in/[11,12]|prep|1
+verstop/[7,8]|verb|hd/obj1|broer_DIM/[10,11]|noun|1
+verstop/[7,8]|verb|hd/su|zij/[8,9]|pron|1
+vlug/[21,22]|adj|hd/mod|zo/[20,21]|adv|1
+voor/[2,3]|prep|hd/obj1|politie/[5,6]|noun|1
+zal/[23,24]|verb|hd/su|ze/[18,19]|pron|1
+zal/[23,24]|verb|hd/vc|kom/[24,25]|verb|1
+zeg/[15,16]|verb|hd/obj2|hem/[16,17]|pron|1
+zeg/[15,16]|verb|hd/vc|dat/[17,18]|comp|1
+zo/[20,21]|adv|hd/obcomp|mogelijk/[22,23]|adj|1
+afschuwelijk/[8,9]|adj|hd/mod|nog/[7,8]|adv|1
+ben/[2,3]|verb|-- / --|./[10,11]|punct|1
+ben/[2,3]|verb|hd/predc|zoek_tocht/[4,5]|noun|1
+ben/[2,3]|verb|hd/su|wat/[0,1]|pron|1
+einde/[9,10]|noun|hd/det|een/[6,7]|det|1
+einde/[9,10]|noun|hd/mod|afschuwelijk/[8,9]|adj|1
+met/[5,6]|prep|hd/obj1|einde/[9,10]|noun|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+volg/[1,2]|verb|hd/su|wat/[0,1]|pron|1
+wat/[0,1]|pron|rhd/body|volg/[1,2]|verb|1
+zoek_tocht/[4,5]|noun|hd/mod|afschuwelijk/[3,4]|adj|1
+zoek_tocht/[4,5]|noun|hd/mod|met/[5,6]|prep|1
+achter/[14,15]|prep|hd/obj1|deportatie/[16,17]|noun|1
+dat/[5,6]|comp|cmp/body|zit/[13,14]|verb|1
+deportatie/[16,17]|noun|hd/det|de/[15,16]|det|1
+nazis,/[8,9]|noun|hd/det|de/[7,8]|det|1
+niet/[6,7]|vg|crd/cnj|nazis,/[8,9]|noun|1
+niet/[6,7]|vg|crd/cnj|regering/[12,13]|noun|1
+niet/[6,7]|vg|crd/crd|maar/[9,10]|vg|1
+regering/[12,13]|noun|hd/det|de/[10,11]|det|1
+regering/[12,13]|noun|hd/mod|eigen/[11,12]|adj|1
+top/top|top|top/hd|word/[1,2]|verb|1
+word/[1,2]|verb|-- / --|./[17,18]|punct|1
+word/[1,2]|verb|hd/mod|dan/[0,1]|adv|1
+word/[1,2]|verb|hd/mod|ook/[2,3]|adv|1
+word/[1,2]|verb|hd/mod|pas/[3,4]|adv|1
+word/[1,2]|verb|hd/predc|duidelijk/[4,5]|adj|1
+word/[1,2]|verb|hd/su|dat/[5,6]|comp|1
+zit/[13,14]|verb|hd/pc|achter/[14,15]|prep|1
+zit/[13,14]|verb|hd/su|niet/[6,7]|vg|1
+deel/[5,6]|noun|hd/det|het/[3,4]|det|1
+deel/[5,6]|noun|hd/mod|tweede/[4,5]|num|1
+top/top|top|top/hd|vorm/[1,2]|verb|1
+vorm/[1,2]|verb|-- / --|./[6,7]|punct|1
+vorm/[1,2]|verb|hd/mod|direct/[2,3]|adj|1
+vorm/[1,2]|verb|hd/obj1|deel/[5,6]|noun|1
+vorm/[1,2]|verb|hd/su|dit/[0,1]|det|1
+door/[5,6]|prep|hd/hdf|heen/[7,8]|part|1
+door/[5,6]|prep|hd/obj1|elkaar/[6,7]|pron|1
+top/top|top|top/hd|vertel/[1,2]|verb|1
+verhaal_lijn/[4,5]|noun|hd/det|de/[3,4]|det|1
+vertel/[1,2]|verb|-- / --|./[8,9]|punct|1
+vertel/[1,2]|verb|hd/mod|door/[5,6]|prep|1
+vertel/[1,2]|verb|hd/obj1|verhaal_lijn/[4,5]|noun|1
+vertel/[1,2]|verb|hd/pc|hierbij/[2,3]|pp|1
+vertel/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+afwisseling/[7,8]|noun|hd/det|de/[6,7]|det|1
+bedoel/[13,14]|verb|hd/mod|hoofdzakelijk/[12,13]|adj|1
+bedoel/[13,14]|verb|hd/vc|om/[15,16]|comp|1
+ben/[14,15]|verb|hd/vc|bedoel/[13,14]|verb|1
+doseer/[9,10]|verb|hd/mod|goed/[8,9]|adj|1
+doseer/[9,10]|verb|hd/obj1|afwisseling/[7,8]|noun|1
+en/[11,12]|vg|crd/cnj|ben/[14,15]|verb|1
+en/[11,12]|vg|crd/cnj|word/[10,11]|verb|1
+goed/[4,5]|adj|hd/mod|bijzonder/[3,4]|adj|1
+hap/[20,21]|verb|hd/ld|naar/[16,17]|prep|1
+kan/[19,20]|verb|hd/vc|hap/[20,21]|verb|1
+naar/[16,17]|prep|hd/obj1|adem/[17,18]|noun|1
+om/[15,16]|comp|cmp/body|te/[18,19]|comp|1
+omdat/[5,6]|comp|cmp/body|en/[11,12]|vg|1
+slaag/[1,2]|verb|-- / --|./[21,22]|punct|1
+slaag/[1,2]|verb|hd/mod|goed/[4,5]|adj|1
+slaag/[1,2]|verb|hd/mod|omdat/[5,6]|comp|1
+slaag/[1,2]|verb|hd/pc|hierin/[0,1]|pp|1
+slaag/[1,2]|verb|hd/su|zij/[2,3]|pron|1
+te/[18,19]|comp|cmp/body|kan/[19,20]|verb|1
+top/top|top|top/hd|slaag/[1,2]|verb|1
+word/[10,11]|verb|hd/su|afwisseling/[7,8]|noun|1
+word/[10,11]|verb|hd/vc|doseer/[9,10]|verb|1
+en/[4,5]|vg|crd/cnj|Sarah/[3,4]|name|1
+en/[4,5]|vg|crd/cnj|familie/[6,7]|noun|1
+familie/[6,7]|noun|hd/det|haar/[5,6]|det|1
+lieg/[7,8]|verb|-- / --|./[11,12]|punct|1
+lieg/[7,8]|verb|hd/mod|niet/[9,10]|adv|1
+lieg/[7,8]|verb|hd/pc|om/[10,11]|prep|1
+lieg/[7,8]|verb|hd/su|ontbering/[1,2]|noun|1
+om/[10,11]|prep|hd/obj1|er/[8,9]|adv|1
+ontbering/[1,2]|noun|hd/det|de/[0,1]|det|1
+ontbering/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+top/top|top|top/hd|lieg/[7,8]|verb|1
+van/[2,3]|prep|hd/obj1|en/[4,5]|vg|1
+Tweede Wereldoorlog/[6,8]|name|hd/det|de/[5,6]|det|1
+boek/[13,14]|noun|hd/det|dit/[12,13]|det|1
+en/[8,9]|vg|crd/cnj|Tweede Wereldoorlog/[6,8]|name|1
+en/[8,9]|vg|crd/cnj|na_slaap/[10,11]|noun|1
+geïnteresseerd/[3,4]|adj|hd/det|elk/[2,3]|det|1
+geïnteresseerd/[3,4]|adj|hd/mod|in/[4,5]|prep|1
+heb/[17,18]|verb|hd/mod|toch/[0,1]|adv|1
+heb/[17,18]|verb|hd/obj1|boek/[13,14]|noun|1
+heb/[17,18]|verb|hd/su|geïnteresseerd/[3,4]|adj|1
+heb/[17,18]|verb|hd/vc|lig/[18,19]|verb|1
+in/[4,5]|prep|hd/obj1|en/[8,9]|vg|1
+in/[14,15]|prep|hd/obj1|kast/[16,17]|noun|1
+kast/[16,17]|noun|hd/det|de/[15,16]|det|1
+lig/[18,19]|verb|hd/ld|in/[14,15]|prep|1
+lig/[18,19]|verb|hd/su|boek/[13,14]|noun|1
+moet/[1,2]|verb|-- / --|./[19,20]|punct|1
+moet/[1,2]|verb|hd/su|geïnteresseerd/[3,4]|adj|1
+moet/[1,2]|verb|hd/vc|heb/[17,18]|verb|1
+na_slaap/[10,11]|noun|hd/det|de/[9,10]|det|1
+na_slaap/[10,11]|noun|hd/mod|ervan/[11,12]|pp|1
+top/top|top|top/hd|moet/[1,2]|verb|1

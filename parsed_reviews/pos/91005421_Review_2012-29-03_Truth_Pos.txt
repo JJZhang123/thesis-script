@@ -1,0 +1,136 @@
+Centraal Station/[6,8]|name|hd/det|het/[5,6]|det|1
+Centraal Station/[6,8]|name|hd/mod|van/[8,9]|prep|1
+alles/[15,16]|noun|hd/mod|wat/[16,17]|pron|1
+ben/[10,11]|verb|hd/su|filiaal/[1,2]|noun|1
+ben/[10,11]|verb|hd/vc|richt_in/[12,13]|verb|1
+coffeeshop/[18,19]|noun|hd/det|een/[17,18]|det|1
+en/[13,14]|vg|-- / --|./[21,22]|punct|1
+en/[13,14]|vg|crd/cnj|ben/[10,11]|verb|1
+en/[13,14]|vg|crd/cnj|heb/[14,15]|verb|1
+filiaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+filiaal/[1,2]|noun|hd/mod|in/[4,5]|prep|1
+filiaal/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+heb/[14,15]|verb|hd/obj1|alles/[15,16]|noun|1
+heb/[14,15]|verb|hd/su|filiaal/[1,2]|noun|1
+heb/[20,21]|verb|hd/obj1|wat/[16,17]|pron|1
+heb/[20,21]|verb|hd/predc|nodig/[19,20]|adj|1
+heb/[20,21]|verb|hd/su|coffeeshop/[18,19]|noun|1
+in/[4,5]|prep|hd/obj1|Centraal Station/[6,8]|name|1
+richt_in/[12,13]|verb|hd/mod|gezellig/[11,12]|adj|1
+richt_in/[12,13]|verb|hd/obj1|filiaal/[1,2]|noun|1
+top/top|top|top/hd|en/[13,14]|vg|1
+van/[2,3]|prep|hd/obj1|propname/[3,4]|noun|1
+van/[8,9]|prep|hd/obj1|Antwerpen/[9,10]|name|1
+wat/[16,17]|pron|rhd/body|heb/[20,21]|verb|1
+American Cookies/[12,14]|name|hd/mod|hoe/[15,16]|adj|1
+drank/[29,30]|noun|hd/mod|lekker/[28,29]|adj|1
+en/[25,26]|vg|crd/cnj|American Cookies/[12,14]|name|1
+en/[25,26]|vg|crd/cnj|één/[27,28]|pron|1
+hoe/[15,16]|adj|whd/body|kan/[16,17]|verb|1
+in/[20,21]|prep|hd/obj1|keten/[23,24]|noun|1
+kan/[16,17]|verb|hd/ld|in/[20,21]|prep|1
+kan/[16,17]|verb|hd/mod|anders/[19,20]|adj|1
+kan/[16,17]|verb|hd/mod|hoe/[15,16]|adj|1
+kan/[16,17]|verb|hd/mod|ook/[18,19]|adv|1
+kan/[16,17]|verb|hd/su|het/[17,18]|det|1
+keten/[23,24]|noun|hd/det|een/[21,22]|det|1
+keten/[23,24]|noun|hd/mod|Amerikaans/[22,23]|adj|1
+lekkernij/[7,8]|noun|hd/det|een/[5,6]|det|1
+lekkernij/[7,8]|noun|hd/mod|klein/[6,7]|adj|1
+lekkernij/[7,8]|noun|hd/mod|voor/[8,9]|prep|1
+lekkernij/[7,8]|noun|hd/mod|zoals/[11,12]|comp|1
+sfeer/[4,5]|noun|hd/det|een/[2,3]|det|1
+sfeer/[4,5]|noun|hd/mod|rustig/[3,4]|adj|1
+top/top|top|top/hd|zetel_DIM/[1,2]|noun|1
+voor/[8,9]|prep|hd/obj1|zoetebekken,/[10,11]|noun|1
+zetel_DIM/[1,2]|noun|-- / --|(-)/[14,15]|punct|1
+zetel_DIM/[1,2]|noun|-- / --|(-)/[24,25]|punct|1
+zetel_DIM/[1,2]|noun|-- / --|./[30,31]|punct|1
+zetel_DIM/[1,2]|noun|dp/dp|drank/[29,30]|noun|1
+zetel_DIM/[1,2]|noun|dp/dp|lekkernij/[7,8]|noun|1
+zetel_DIM/[1,2]|noun|dp/dp|sfeer/[4,5]|noun|1
+zetel_DIM/[1,2]|noun|hd/mod|comfortabel/[0,1]|adj|1
+zoals/[11,12]|comp|cmp/body|en/[25,26]|vg|1
+zoetebekken,/[10,11]|noun|hd/det|de/[9,10]|det|1
+één/[27,28]|pron|hd/mod|uiteraard/[26,27]|adv|1
+aanwezig/[4,5]|adj|hd/mod|voldoende/[3,4]|adj|1
+ben/[2,3]|verb|hd/predc|aanwezig/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|werknemer/[1,2]|noun|1
+bestelling/[7,8]|noun|hd/det|je/[6,7]|det|1
+en/[11,12]|vg|-- / --|./[21,22]|punct|1
+en/[11,12]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[11,12]|vg|crd/cnj|hoef/[13,14]|verb|1
+hoef/[13,14]|verb|hd/su|je/[14,15]|pron|1
+hoef/[13,14]|verb|hd/vc|te/[19,20]|comp|1
+neem/[10,11]|verb|hd/ld|aan/[8,9]|prep|1
+neem/[10,11]|verb|hd/obj1|bestelling/[7,8]|noun|1
+nooit/[16,17]|adv|hd/mod|ook/[15,16]|adv|1
+om/[5,6]|comp|cmp/body|te/[9,10]|comp|1
+schuif_aan/[20,21]|verb|hd/mod|bijgevolg/[12,13]|adv|1
+schuif_aan/[20,21]|verb|hd/mod|lang/[17,18]|adj|1
+schuif_aan/[20,21]|verb|hd/mod|nooit/[16,17]|adv|1
+schuif_aan/[20,21]|verb|hd/su|je/[14,15]|pron|1
+schuif_aan/[20,21]|verb|hd/svp|aan/[18,19]|part|1
+te/[9,10]|comp|cmp/body|neem/[10,11]|verb|1
+te/[19,20]|comp|cmp/body|schuif_aan/[20,21]|verb|1
+top/top|top|top/hd|en/[11,12]|vg|1
+voldoende/[3,4]|adj|hd/vc|om/[5,6]|comp|1
+werknemer/[1,2]|noun|hd/det|de/[0,1]|det|1
+en/[8,9]|vg|crd/cnj|betaal/[7,8]|verb|1
+en/[8,9]|vg|crd/cnj|haal_af/[9,10]|verb|1
+gebeur/[10,11]|verb|hd/su|en/[8,9]|vg|1
+plaats/[6,7]|verb|hd/obj1|bestelling/[5,6]|noun|1
+rij/[15,16]|noun|hd/mod|lang/[14,15]|adj|1
+stadium/[4,5]|noun|hd/mod|verschil/[3,4]|adj|1
+systeem/[1,2]|noun|-- / --|./[18,19]|punct|1
+systeem/[1,2]|noun|dp/dp|gebeur/[10,11]|verb|1
+systeem/[1,2]|noun|dp/dp|plaats/[6,7]|verb|1
+systeem/[1,2]|noun|dp/dp|werk/[12,13]|verb|1
+systeem/[1,2]|noun|hd/det|het/[0,1]|det|1
+systeem/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+top/top|top|top/hd|systeem/[1,2]|noun|1
+van/[2,3]|prep|hd/obj1|stadium/[4,5]|noun|1
+vermijd/[16,17]|verb|hd/mod|waardoor/[13,14]|pp|1
+vermijd/[16,17]|verb|hd/obj1|rij/[15,16]|noun|1
+waardoor/[13,14]|pp|rhd/body|word/[17,18]|verb|1
+werk/[12,13]|verb|hd/mod|apart/[11,12]|adj|1
+werk/[12,13]|verb|hd/su|waardoor/[13,14]|pp|1
+word/[17,18]|verb|hd/su|rij/[15,16]|noun|1
+word/[17,18]|verb|hd/vc|vermijd/[16,17]|verb|1
+breng/[13,14]|verb|hd/ld|op/[10,11]|prep|1
+breng/[13,14]|verb|hd/mod|daarna/[7,8]|pp|1
+breng/[13,14]|verb|hd/mod|met/[14,15]|prep|1
+breng/[13,14]|verb|hd/mod|nog/[8,9]|adv|1
+breng/[13,14]|verb|hd/mod|volledig/[9,10]|adj|1
+breng/[13,14]|verb|hd/obj1|of/[5,6]|vg|1
+breng/[13,14]|verb|hd/su|je/[0,1]|pron|1
+chocolade_melk/[6,7]|noun|hd/det|je/[2,3]|det|1
+kan/[1,2]|verb|-- / --|./[16,17]|punct|1
+kan/[1,2]|verb|hd/su|je/[0,1]|pron|1
+kan/[1,2]|verb|hd/vc|breng/[13,14]|verb|1
+koffie_thee/[3,5]|noun|hd/det|je/[2,3]|det|1
+met/[14,15]|prep|hd/obj1|o/[15,16]|noun|1
+of/[5,6]|vg|crd/cnj|chocolade_melk/[6,7]|noun|1
+of/[5,6]|vg|crd/cnj|koffie_thee/[3,5]|noun|1
+op/[10,11]|prep|hd/obj1|smaak/[12,13]|noun|1
+smaak/[12,13]|noun|hd/mod|eigen/[11,12]|adj|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+a/[0,1]|noun|-- / --|./[1,2]|punct|1
+top/top|top|top/hd|a/[0,1]|noun|1
+./[1,2]|punct|-- / --|a/[0,1]|noun|1
+top/top|top|top/hd|./[1,2]|punct|1
+en/[1,2]|vg|-- / --|./[3,4]|punct|1
+en/[1,2]|vg|crd/cnj|melk/[2,3]|noun|1
+en/[1,2]|vg|crd/cnj|suiker/[0,1]|noun|1
+top/top|top|top/hd|en/[1,2]|vg|1
+alleen/[5,6]|adv|hd/mod|maar/[6,7]|adv|1
+bij/[9,10]|prep|hd/obj1|PROPNAME/[10,11]|name|1
+en/[4,5]|vg|crd/cnj|gezicht/[8,9]|noun|1
+en/[4,5]|vg|crd/cnj|wat wils/[2,4]|noun|1
+gezicht/[8,9]|noun|hd/mod|alleen/[5,6]|adv|1
+gezicht/[8,9]|noun|hd/mod|bij/[9,10]|prep|1
+gezicht/[8,9]|noun|hd/mod|blij/[7,8]|adj|1
+top/top|top|top/hd|voor/[0,1]|prep|1
+voor/[0,1]|prep|-- / --|./[11,12]|punct|1
+voor/[0,1]|prep|dp/dp|en/[4,5]|vg|1
+voor/[0,1]|prep|hd/obj1|ieder/[1,2]|pron|1

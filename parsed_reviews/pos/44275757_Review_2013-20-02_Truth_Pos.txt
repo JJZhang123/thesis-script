@@ -1,0 +1,53 @@
+ben/[2,3]|verb|-- / --|./[6,7]|punct|1
+ben/[2,3]|verb|hd/predc|product/[5,6]|noun|1
+ben/[2,3]|verb|hd/su|propname/[1,2]|noun|1
+product/[5,6]|noun|hd/det|een/[3,4]|det|1
+product/[5,6]|noun|hd/mod|goed/[4,5]|adj|1
+propname/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+applicatie/[5,6]|noun|hd/det|de/[4,5]|det|1
+ben/[6,7]|verb|-- / --|./[10,11]|punct|1
+ben/[6,7]|verb|hd/predc|voordeel/[9,10]|noun|1
+ben/[6,7]|verb|hd/su|gebruik/[2,3]|noun|1
+gebruik/[2,3]|noun|hd/det|het/[1,2]|det|1
+gebruik/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+gebruik/[2,3]|noun|hd/mod|vooral/[0,1]|adv|1
+top/top|top|top/hd|ben/[6,7]|verb|1
+van/[3,4]|prep|hd/obj1|applicatie/[5,6]|noun|1
+voordeel/[9,10]|noun|hd/det|een/[7,8]|det|1
+voordeel/[9,10]|noun|hd/mod|groot/[8,9]|adj|1
+applicatie/[2,3]|noun|hd/det|de/[0,1]|det|1
+applicatie/[2,3]|noun|hd/mod|meest/[1,2]|adj|1
+ben/[3,4]|verb|-- / --|./[7,8]|punct|1
+ben/[3,4]|verb|hd/su|applicatie/[2,3]|noun|1
+ben/[3,4]|verb|hd/vc|te/[5,6]|comp|1
+download/[6,7]|verb|hd/mod|gratis/[4,5]|adj|1
+download/[6,7]|verb|hd/obj1|applicatie/[2,3]|noun|1
+te/[5,6]|comp|cmp/body|download/[6,7]|verb|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+ben/[5,6]|verb|-- / --|./[16,17]|punct|1
+ben/[5,6]|verb|dp/dp|ben/[12,13]|verb|1
+ben/[5,6]|verb|hd/mod|ook/[6,7]|adv|1
+ben/[5,6]|verb|hd/predc|van/[7,8]|prep|1
+ben/[5,6]|verb|hd/su|camera/[1,2]|noun|1
+ben/[12,13]|verb|hd/predc|en/[14,15]|vg|1
+ben/[12,13]|verb|hd/su|foto/[11,12]|noun|1
+camera/[1,2]|noun|hd/det|de/[0,1]|det|1
+camera/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+en/[14,15]|vg|crd/cnj|duidelijk/[15,16]|adj|1
+en/[14,15]|vg|crd/cnj|helder/[13,14]|adj|1
+foto/[11,12]|noun|hd/det|de/[10,11]|det|1
+kwaliteit/[9,10]|noun|hd/mod|goed/[8,9]|adj|1
+propname/[4,5]|noun|hd/det|de/[3,4]|det|1
+top/top|top|top/hd|ben/[5,6]|verb|1
+van/[2,3]|prep|hd/obj1|propname/[4,5]|noun|1
+van/[7,8]|prep|hd/obj1|kwaliteit/[9,10]|noun|1
+ben/[1,2]|verb|-- / --|./[7,8]|punct|1
+ben/[1,2]|verb|hd/su|propname/[3,4]|noun|1
+ben/[1,2]|verb|hd/vc|te/[5,6]|comp|1
+personaliseren/[6,7]|verb|hd/mod|gemakkelijk/[4,5]|adj|1
+personaliseren/[6,7]|verb|hd/mod|ver/[0,1]|adj|1
+personaliseren/[6,7]|verb|hd/obj1|propname/[3,4]|noun|1
+propname/[3,4]|noun|hd/det|de/[2,3]|det|1
+te/[5,6]|comp|cmp/body|personaliseren/[6,7]|verb|1
+top/top|top|top/hd|ben/[1,2]|verb|1

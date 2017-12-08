@@ -1,0 +1,65 @@
+PROPNAME/[0,1]|name|-- / --|./[21,22]|punct|1
+PROPNAME/[0,1]|name|dp/dp|heet/[17,18]|verb|1
+PROPNAME/[0,1]|name|dp/dp|kom/[11,12]|verb|1
+film/[8,9]|noun|hd/det|een/[7,8]|det|1
+ga/[9,10]|verb|hd/su|ik/[2,3]|pron|1
+ga/[9,10]|verb|hd/vc|kijk/[10,11]|verb|1
+heet/[17,18]|verb|hd/obj1|deze/[18,19]|det|1
+heet/[17,18]|verb|hd/predc|horror_film/[20,21]|noun|1
+heet/[17,18]|verb|hd/su|parel_DIM/[14,15]|noun|1
+horror_film/[20,21]|noun|hd/det|een/[19,20]|det|1
+kijk/[10,11]|verb|hd/mod|met/[4,5]|prep|1
+kijk/[10,11]|verb|hd/mod|onlangs/[3,4]|adv|1
+kijk/[10,11]|verb|hd/obj1|film/[8,9]|noun|1
+kijk/[10,11]|verb|hd/su|ik/[2,3]|pron|1
+kom/[11,12]|verb|hd/mod|toen/[1,2]|comp|1
+kom/[11,12]|verb|hd/su|ik/[12,13]|pron|1
+met/[4,5]|prep|hd/obj1|vriend/[6,7]|noun|1
+parel_DIM/[14,15]|noun|hd/det|dit/[13,14]|det|1
+parel_DIM/[14,15]|noun|hd/mod|tegen/[15,16]|prep|1
+tegen/[15,16]|prep|hd/obj1|PROPNAME,/[16,17]|name|1
+toen/[1,2]|comp|cmp/body|ga/[9,10]|verb|1
+top/top|top|top/hd|PROPNAME/[0,1]|name|1
+vriend/[6,7]|noun|hd/det|mijn/[5,6]|det|1
+beeld/[6,7]|noun|hd/mod|die/[7,8]|pron|1
+die/[7,8]|pron|rhd/body|spat/[11,12]|verb|1
+goed/[3,4]|adj|hd/mod|ongelooflijk/[2,3]|adj|1
+met/[5,6]|prep|hd/obj1|beeld/[6,7]|noun|1
+scenario/[4,5]|noun|-- / --|!/[12,13]|punct|1
+scenario/[4,5]|noun|hd/det|wat een/[0,2]|det|1
+scenario/[4,5]|noun|hd/mod|goed/[3,4]|adj|1
+scenario/[4,5]|noun|hd/mod|met/[5,6]|prep|1
+scherm/[10,11]|noun|hd/det|het/[9,10]|det|1
+spat/[11,12]|verb|hd/ld|van/[8,9]|prep|1
+spat/[11,12]|verb|hd/su|die/[7,8]|pron|1
+top/top|top|top/hd|scenario/[4,5]|noun|1
+van/[8,9]|prep|hd/obj1|scherm/[10,11]|noun|1
+ben/[2,3]|verb|-- / --|./[16,17]|punct|1
+ben/[2,3]|verb|hd/mod|gemakkelijk/[3,4]|adj|1
+ben/[2,3]|verb|hd/mod|zoals/[10,11]|comp|1
+ben/[2,3]|verb|hd/predc|maar/[6,7]|vg|1
+ben/[2,3]|verb|hd/su|verhaal_lijn/[1,2]|noun|1
+ben/[15,16]|verb|hd/mod|van/[12,13]|prep|1
+ben/[15,16]|verb|hd/predc|gewoon/[14,15]|adj|1
+ben/[15,16]|verb|hd/su|we/[11,12]|pron|1
+maar/[6,7]|vg|crd/cnj|platvloers/[9,10]|adj|1
+maar/[6,7]|vg|crd/cnj|volgen,/[5,6]|adj|1
+platvloers/[9,10]|adj|hd/mod|daarentegen/[7,8]|adv|1
+platvloers/[9,10]|adj|hd/mod|niet/[8,9]|adv|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+van/[12,13]|prep|hd/obj1|horror_film/[13,14]|noun|1
+verhaal_lijn/[1,2]|noun|hd/det|de/[0,1]|det|1
+volgen,/[5,6]|adj|hd/mod|te/[4,5]|adv|1
+zoals/[10,11]|comp|cmp/body|ben/[15,16]|verb|1
+aan/[5,6]|prep|hd/obj1|pracht_exemplaar/[7,8]|noun|1
+ga/[9,10]|verb|hd/vc|schouw_aan/[10,11]|verb|1
+pracht_exemplaar/[7,8]|noun|hd/det|dit/[6,7]|det|1
+raad/[1,2]|verb|-- / --|!/[11,12]|punct|1
+raad/[1,2]|verb|dp/dp|te/[8,9]|comp|1
+raad/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+schouw_aan/[10,11]|verb|hd/mod|ten/[3,4]|prep|1
+schouw_aan/[10,11]|verb|hd/obj1|je/[2,3]|pron|1
+sterk/[4,5]|adj|hd/mod|aan/[5,6]|prep|1
+te/[8,9]|comp|cmp/body|ga/[9,10]|verb|1
+ten/[3,4]|prep|hd/obj1|sterk/[4,5]|adj|1
+top/top|top|top/hd|raad/[1,2]|verb|1

@@ -1,0 +1,308 @@
+ben/[12,13]|verb|-- / --|./[23,24]|punct|1
+ben/[12,13]|verb|hd/mod|met/[0,1]|prep|1
+ben/[12,13]|verb|hd/mod|zonder/[14,15]|prep|1
+ben/[12,13]|verb|hd/predc|markt_leider/[17,18]|noun|1
+ben/[12,13]|verb|hd/su|PROPNAME/[13,14]|name|1
+dag/[7,8]|noun|hd/mod|in/[8,9]|prep|1
+fast food_markt/[20,23]|noun|hd/det|de/[19,20]|det|1
+in/[8,9]|prep|hd/obj1|honderd_zes_tien/[9,10]|noun|1
+land/[11,12]|noun|hd/mod|goed/[2,3]|adj|1
+land/[11,12]|noun|hd/mod|verschil/[10,11]|adj|1
+markt_leider/[17,18]|noun|hd/det|de/[16,17]|det|1
+markt_leider/[17,18]|noun|hd/mod|op/[18,19]|prep|1
+met/[0,1]|prep|hd/obj1|één/[1,2]|pron|1
+met/[0,1]|prep|hd/predc|land/[11,12]|noun|1
+miljoen/[4,5]|noun|hd/det|zeventig/[3,4]|num|1
+miljoen/[4,5]|noun|hd/mod|klant/[5,6]|noun|1
+miljoen/[4,5]|noun|hd/mod|per/[6,7]|prep|1
+op/[18,19]|prep|hd/obj1|fast food_markt/[20,23]|noun|1
+per/[6,7]|prep|hd/obj1|dag/[7,8]|noun|1
+top/top|top|top/hd|ben/[12,13]|verb|1
+verschil/[10,11]|adj|hd/obj1|miljoen/[4,5]|noun|1
+zonder/[14,15]|prep|hd/obj1|twijfel/[15,16]|noun|1
+aan/[9,10]|prep|hd/obj1|en/[11,12]|vg|1
+behoud/[19,20]|verb|hd/obj1|klant_aantal/[17,18]|noun|1
+en/[11,12]|vg|crd/cnj|marketing_activiteit/[13,14]|noun|1
+en/[11,12]|vg|crd/cnj|reclame_campagne/[10,11]|noun|1
+en/[20,21]|vg|crd/cnj|te/[18,19]|comp|1
+en/[20,21]|vg|crd/cnj|te/[22,23]|comp|1
+klant_aantal/[17,18]|noun|hd/det|dat/[15,16]|det|1
+klant_aantal/[17,18]|noun|hd/mod|gigantisch/[16,17]|adj|1
+marketing_activiteit/[13,14]|noun|hd/mod|ander/[12,13]|adj|1
+miljoen/[7,8]|noun|hd/mod|dollar/[8,9]|noun|1
+multinational/[2,3]|noun|hd/det|de/[0,1]|det|1
+multinational/[2,3]|noun|hd/mod|Amerikaans/[1,2]|adj|1
+om/[14,15]|comp|cmp/body|en/[20,21]|vg|1
+spendeer/[3,4]|verb|-- / --|./[24,25]|punct|1
+spendeer/[3,4]|verb|hd/mod|dan/[5,6]|adv|1
+spendeer/[3,4]|verb|hd/mod|jaarlijks/[4,5]|adj|1
+spendeer/[3,4]|verb|hd/mod|om/[14,15]|comp|1
+spendeer/[3,4]|verb|hd/mod|ook/[6,7]|adv|1
+spendeer/[3,4]|verb|hd/obj1|miljoen/[7,8]|noun|1
+spendeer/[3,4]|verb|hd/pc|aan/[9,10]|prep|1
+spendeer/[3,4]|verb|hd/su|multinational/[2,3]|noun|1
+te/[18,19]|comp|cmp/body|behoud/[19,20]|verb|1
+te/[22,23]|comp|cmp/body|vergroot/[23,24]|verb|1
+top/top|top|top/hd|spendeer/[3,4]|verb|1
+vergroot/[23,24]|verb|hd/mod|liefst/[21,22]|adj|1
+vergroot/[23,24]|verb|hd/obj1|klant_aantal/[17,18]|noun|1
+bij/[14,15]|prep|hd/obj1|PROPNAME/[15,16]|name|1
+cijfer/[3,4]|noun|hd/det|zulk/[1,2]|det|1
+cijfer/[3,4]|noun|hd/mod|indrukwekkend/[2,3]|adj|1
+kwaliteit/[8,9]|noun|hd/mod|indrukwekkend/[7,8]|adj|1
+maar/[9,10]|vg|-- / --|./[16,17]|punct|1
+maar/[9,10]|vg|crd/cnj|verwacht/[4,5]|verb|1
+maar/[9,10]|vg|crd/cnj|wring/[11,12]|verb|1
+met/[0,1]|prep|hd/obj1|cijfer/[3,4]|noun|1
+schoen_DIM/[13,14]|noun|hd/det|het/[12,13]|det|1
+schoen_DIM/[13,14]|noun|hd/mod|bij/[14,15]|prep|1
+top/top|top|top/hd|maar/[9,10]|vg|1
+verwacht/[4,5]|verb|hd/mod|met/[0,1]|prep|1
+verwacht/[4,5]|verb|hd/mod|ook/[6,7]|adv|1
+verwacht/[4,5]|verb|hd/obj1|kwaliteit/[8,9]|noun|1
+verwacht/[4,5]|verb|hd/su|we/[5,6]|pron|1
+wring/[11,12]|verb|hd/mod|daar/[10,11]|adv|1
+wring/[11,12]|verb|hd/su|schoen_DIM/[13,14]|noun|1
+benoeming/[9,10]|noun|hd/det|de/[8,9]|det|1
+benoeming/[9,10]|noun|hd/mod|van/[10,11]|prep|1
+fast food/[14,16]|noun|hd/det|hun/[11,12]|det|1
+fast food/[14,16]|noun|hd/mod|core business/[12,14]|name|1
+in/[7,8]|prep|hd/obj1|benoeming/[9,10]|noun|1
+probleem/[6,7]|noun|hd/det|een/[5,6]|det|1
+top/top|top|top/hd|zit/[2,3]|verb|1
+van/[10,11]|prep|hd/obj1|fast food/[14,16]|noun|1
+zit/[2,3]|verb|-- / --|./[16,17]|punct|1
+zit/[2,3]|verb|hd/ld|in/[7,8]|prep|1
+zit/[2,3]|verb|hd/mod|al/[4,5]|adv|1
+zit/[2,3]|verb|hd/mod|er/[3,4]|adv|1
+zit/[2,3]|verb|hd/mod|ten eerste/[0,2]|adv|1
+zit/[2,3]|verb|hd/su|probleem/[6,7]|noun|1
+aan/[13,14]|prep|hd/obj1|PROPNAME,/[14,15]|name|1
+aantal/[19,20]|noun|hd/det|het/[17,18]|det|1
+aantal/[19,20]|noun|hd/mod|gigantisch/[18,19]|adj|1
+aantal/[19,20]|noun|hd/mod|job_student/[20,21]|noun|1
+aantal/[19,20]|noun|hd/mod|om/[21,22]|comp|1
+ben/[8,9]|verb|-- / --|./[26,27]|punct|1
+ben/[8,9]|verb|hd/mod|aan/[13,14]|prep|1
+ben/[8,9]|verb|hd/mod|door/[16,17]|prep|1
+ben/[8,9]|verb|hd/mod|er/[9,10]|adv|1
+ben/[8,9]|verb|hd/mod|tijdens/[0,1]|prep|1
+ben/[8,9]|verb|hd/predc|snel/[12,13]|adj|1
+ben/[8,9]|verb|hd/su|niets/[11,12]|noun|1
+diner_tijd/[3,4]|noun|hd/mod|in/[4,5]|prep|1
+door/[16,17]|prep|hd/mod|mede/[15,16]|adv|1
+door/[16,17]|prep|hd/obj1|aantal/[19,20]|noun|1
+druk/[25,26]|verb|hd/obj1|kosten/[23,24]|noun|1
+en/[2,3]|vg|crd/cnj|diner_tijd/[3,4]|noun|1
+en/[2,3]|vg|crd/cnj|lunch/[1,2]|prefix|1
+in/[4,5]|prep|hd/obj1|winkel_straat/[7,8]|noun|1
+kosten/[23,24]|noun|hd/det|de/[22,23]|det|1
+niets/[11,12]|noun|hd/mod|helemaal/[10,11]|adv|1
+om/[21,22]|comp|cmp/body|te/[24,25]|comp|1
+te/[24,25]|comp|cmp/body|druk/[25,26]|verb|1
+tijdens/[0,1]|prep|hd/obj1|en/[2,3]|vg|1
+top/top|top|top/hd|ben/[8,9]|verb|1
+winkel_straat/[7,8]|noun|hd/det|een/[5,6]|det|1
+winkel_straat/[7,8]|noun|hd/mod|druk/[6,7]|adj|1
+daarnaast/[0,1]|pp|-- / --|./[16,17]|punct|1
+daarnaast/[0,1]|pp|-- / --|word/[5,6]|verb|1
+daarnaast/[0,1]|pp|dp/dp|denk_na/[6,7]|verb|1
+daarnaast/[0,1]|pp|dp/dp|moet/[1,2]|verb|1
+denk_na/[6,7]|verb|hd/mod|over/[7,8]|prep|1
+moet/[1,2]|verb|hd/mod|eens/[3,4]|adv|1
+moet/[1,2]|verb|hd/mod|er/[2,3]|adv|1
+moet/[1,2]|verb|hd/predc|goed/[4,5]|adj|1
+over/[7,8]|prep|hd/obj1|woord/[10,11]|noun|1
+term/[13,14]|noun|hd/app|fast food/[14,16]|noun|1
+term/[13,14]|noun|hd/det|de/[12,13]|det|1
+top/top|top|top/hd|daarnaast/[0,1]|pp|1
+van/[11,12]|prep|hd/obj1|term/[13,14]|noun|1
+woord/[10,11]|noun|hd/det|het/[8,9]|det|1
+woord/[10,11]|noun|hd/mod|tweede/[9,10]|num|1
+woord/[10,11]|noun|hd/mod|van/[11,12]|prep|1
+ben/[0,1]|verb|-- / --|? /[4,5]|punct|1
+ben/[0,1]|verb|hd/predc|voedsel/[3,4]|noun|1
+ben/[0,1]|verb|hd/su|dit/[1,2]|det|1
+top/top|top|top/hd|ben/[0,1]|verb|1
+voedsel/[3,4]|noun|hd/mod|werkelijk/[2,3]|adj|1
+blik/[2,3]|noun|hd/det|een/[0,1]|det|1
+blik/[2,3]|noun|hd/mod|op/[3,4]|prep|1
+blik/[2,3]|noun|hd/mod|snel/[1,2]|adj|1
+categoriseer/[15,16]|verb|hd/mod|niet/[13,14]|adv|1
+categoriseer/[15,16]|verb|hd/mod|om/[11,12]|prep|1
+categoriseer/[15,16]|verb|hd/mod|onder/[16,17]|prep|1
+categoriseer/[15,16]|verb|hd/obj1|dit/[10,11]|det|1
+categoriseer/[15,16]|verb|hd/su|we/[9,10]|pron|1
+dat/[8,9]|comp|cmp/body|mag/[14,15]|verb|1
+leer/[6,7]|verb|-- / --|./[18,19]|punct|1
+leer/[6,7]|verb|hd/obj2|ons/[7,8]|pron|1
+leer/[6,7]|verb|hd/su|blik/[2,3]|noun|1
+leer/[6,7]|verb|hd/vc|dat/[8,9]|comp|1
+mag/[14,15]|verb|hd/su|we/[9,10]|pron|1
+mag/[14,15]|verb|hd/vc|categoriseer/[15,16]|verb|1
+om/[11,12]|prep|hd/obj1|gezondheid_reden/[12,13]|noun|1
+onder/[16,17]|prep|hd/obj1|voedsel/[17,18]|noun|1
+op/[3,4]|prep|hd/obj1|voedsel_waarde_tabel/[5,6]|noun|1
+top/top|top|top/hd|leer/[6,7]|verb|1
+voedsel_waarde_tabel/[5,6]|noun|hd/det|de/[4,5]|det|1
+boorde_vol/[3,4]|prep|dp/dp|en/[8,9]|vg|1
+boorde_vol/[3,4]|prep|hd/obj1|vet/[5,6]|noun|1
+dat/[13,14]|comp|cmp/body|heb/[22,23]|verb|1
+en/[1,2]|vg|-- / --|./[23,24]|punct|1
+en/[1,2]|vg|crd/cnj|friet/[2,3]|noun|1
+en/[1,2]|vg|crd/cnj|hamburger/[0,1]|noun|1
+en/[1,2]|vg|dp/dp|boorde_vol/[3,4]|prep|1
+en/[1,2]|vg|dp/dp|proteïnen/[10,11]|noun|1
+en/[8,9]|vg|crd/cnj|koolhydraat/[7,8]|noun|1
+en/[8,9]|vg|crd/cnj|weinig/[9,10]|adj|1
+heb/[22,23]|verb|hd/mod|alweer/[20,21]|adv|1
+heb/[22,23]|verb|hd/mod|na/[17,18]|prep|1
+heb/[22,23]|verb|hd/obj1|honger/[21,22]|noun|1
+heb/[22,23]|verb|hd/su|ik/[14,15]|pron|1
+koolhydraat/[7,8]|noun|hd/mod|snel/[6,7]|adj|1
+maaltijd/[19,20]|noun|hd/det|mijn/[18,19]|det|1
+na/[17,18]|prep|hd/mod|uur_DIM/[16,17]|noun|1
+na/[17,18]|prep|hd/obj1|maaltijd/[19,20]|noun|1
+proteïnen/[10,11]|noun|dp/dp|wonder/[12,13]|noun|1
+top/top|top|top/hd|en/[1,2]|vg|1
+uur_DIM/[16,17]|noun|hd/det|een/[15,16]|det|1
+vet/[5,6]|noun|hd/mod|verzadigd/[4,5]|adj|1
+wonder/[12,13]|noun|hd/det|geen/[11,12]|det|1
+wonder/[12,13]|noun|hd/vc|dat/[13,14]|comp|1
+bevind/[3,4]|verb|-- / --|./[11,12]|punct|1
+bevind/[3,4]|verb|dp/dp|traditie/[10,11]|noun|1
+bevind/[3,4]|verb|hd/ld|in/[6,7]|prep|1
+bevind/[3,4]|verb|hd/mod|meer/[5,6]|adj|1
+bevind/[3,4]|verb|hd/se|zich/[4,5]|pron|1
+bevind/[3,4]|verb|hd/su|probleem/[2,3]|noun|1
+fast food/[8,10]|noun|hd/det|de/[7,8]|det|1
+in/[6,7]|prep|hd/obj1|fast food/[8,10]|noun|1
+probleem/[2,3]|noun|hd/det|een/[0,1]|det|1
+probleem/[2,3]|noun|hd/mod|tweede/[1,2]|num|1
+top/top|top|top/hd|bevind/[3,4]|verb|1
+achter/[3,4]|prep|hd/obj1|fast food/[6,8]|noun|1
+ben/[9,10]|verb|hd/mod|om/[10,11]|comp|1
+ben/[9,10]|verb|hd/su|concept/[8,9]|noun|1
+bied_aan/[21,22]|verb|hd/mod|naast/[12,13]|prep|1
+bied_aan/[21,22]|verb|hd/mod|ook/[15,16]|adv|1
+bied_aan/[21,22]|verb|hd/obj1|maaltijd/[18,19]|noun|1
+bied_aan/[21,22]|verb|hd/obj2|mens/[11,12]|noun|1
+bied_aan/[21,22]|verb|hd/svp|aan/[19,20]|part|1
+fast food/[6,8]|noun|hd/det|het/[5,6]|det|1
+fast food/[6,8]|noun|hd/mod|heel/[4,5]|adv|1
+idee/[2,3]|noun|-- / --|./[22,23]|punct|1
+idee/[2,3]|noun|dp/dp|ben/[9,10]|verb|1
+idee/[2,3]|noun|hd/det|het/[0,1]|det|1
+idee/[2,3]|noun|hd/mod|achter/[3,4]|prep|1
+idee/[2,3]|noun|hd/mod|oorspronkelijk/[1,2]|adj|1
+maaltijd/[18,19]|noun|hd/det|een/[16,17]|det|1
+maaltijd/[18,19]|noun|hd/mod|goedkoop/[17,18]|adj|1
+naast/[12,13]|prep|hd/obj1|snel/[14,15]|adj|1
+om/[10,11]|comp|cmp/body|te/[20,21]|comp|1
+snel/[14,15]|adj|hd/det|een/[13,14]|det|1
+te/[20,21]|comp|cmp/body|bied_aan/[21,22]|verb|1
+top/top|top|top/hd|idee/[2,3]|noun|1
+daar/[2,3]|adv|hd/mod|ook/[1,2]|adv|1
+en/[0,1]|comp|-- / --|./[6,7]|punct|1
+en/[0,1]|comp|dlink/nucl|loop_mis/[3,4]|verb|1
+loop_mis/[3,4]|verb|hd/mod|daar/[2,3]|adv|1
+loop_mis/[3,4]|verb|hd/su|het/[4,5]|det|1
+loop_mis/[3,4]|verb|hd/svp|mis/[5,6]|part|1
+top/top|top|top/hd|en/[0,1]|comp|1
+afhankelijk/[34,35]|adj|hd/pc|van/[35,36]|prep|1
+betaal/[26,27]|verb|hd/mod|afhankelijk/[34,35]|adj|1
+betaal/[26,27]|verb|hd/mod|snel/[29,30]|adj|1
+betaal/[26,27]|verb|hd/obj1|euro/[33,34]|noun|1
+betaal/[26,27]|verb|hd/su|je/[27,28]|pron|1
+boven/[10,11]|prep|hd/obj1|kassa/[12,13]|noun|1
+cola/[21,22]|noun|hd/det|een/[19,20]|det|1
+cola/[21,22]|noun|hd/mod|met/[22,23]|prep|1
+cola/[21,22]|noun|hd/mod|waterig/[20,21]|adj|1
+die/[3,4]|pron|rhd/body|lijk/[13,14]|verb|1
+en/[18,19]|vg|crd/cnj|cola/[21,22]|noun|1
+en/[18,19]|vg|crd/cnj|zak_DIM/[15,16]|noun|1
+euro/[33,34]|noun|hd/det|tot/[31,32]|vg|1
+friet/[17,18]|noun|hd/mod|verlept/[16,17]|adj|1
+hamburger/[2,3]|noun|hd/det|1/[1,2]|num|1
+hamburger/[2,3]|noun|hd/mod|die/[3,4]|pron|1
+hamburger/[37,38]|noun|hd/det|welk/[36,37]|det|1
+hamburger/[37,38]|noun|rhd/body|wil/[39,40]|verb|1
+kassa/[12,13]|noun|hd/det|de/[11,12]|det|1
+kilo/[24,25]|noun|hd/det|een/[23,24]|det|1
+kilo/[24,25]|noun|hd/mod|ijs/[25,26]|noun|1
+lijk/[13,14]|verb|hd/mod|niet/[6,7]|adv|1
+lijk/[13,14]|verb|hd/mod|trouwens/[4,5]|adv|1
+lijk/[13,14]|verb|hd/pc|op/[7,8]|prep|1
+lijk/[13,14]|verb|hd/su|die/[3,4]|pron|1
+met/[22,23]|prep|hd/obj1|kilo/[24,25]|noun|1
+niet/[6,7]|adv|hd/mod|helemaal/[5,6]|adv|1
+op/[7,8]|prep|hd/obj1|plaat_DIM/[9,10]|noun|1
+plaat_DIM/[9,10]|noun|hd/det|het/[8,9]|det|1
+plaat_DIM/[9,10]|noun|hd/mod|boven/[10,11]|prep|1
+snel/[29,30]|adj|hd/mod|al/[28,29]|adv|1
+top/top|top|top/hd|voor/[0,1]|prep|1
+tot/[31,32]|vg|crd/cnj|negen/[32,33]|num|1
+tot/[31,32]|vg|crd/cnj|zeven/[30,31]|num|1
+van/[35,36]|prep|hd/obj1|hamburger/[37,38]|noun|1
+voor/[0,1]|prep|-- / --|./[40,41]|punct|1
+voor/[0,1]|prep|dp/dp|betaal/[26,27]|verb|1
+voor/[0,1]|prep|dp/dp|en/[18,19]|vg|1
+voor/[0,1]|prep|hd/obj1|hamburger/[2,3]|noun|1
+wil/[39,40]|verb|hd/obj1|hamburger/[37,38]|noun|1
+wil/[39,40]|verb|hd/su|je/[38,39]|pron|1
+zak_DIM/[15,16]|noun|hd/det|een/[14,15]|det|1
+zak_DIM/[15,16]|noun|hd/mod|friet/[17,18]|noun|1
+euros,/[9,10]|noun|hd/det|enkel/[8,9]|det|1
+in/[19,20]|prep|hd/obj1|restaurant/[23,24]|noun|1
+kan/[10,11]|verb|-- / --|./[24,25]|punct|1
+kan/[10,11]|verb|hd/su|je/[11,12]|pron|1
+kan/[10,11]|verb|hd/vc|krijg/[18,19]|verb|1
+krijg/[18,19]|verb|hd/mod|al/[12,13]|adv|1
+krijg/[18,19]|verb|hd/mod|in/[19,20]|prep|1
+krijg/[18,19]|verb|hd/obj1|of/[16,17]|vg|1
+krijg/[18,19]|verb|hd/pc|of/[3,4]|vg|1
+krijg/[18,19]|verb|hd/su|je/[11,12]|pron|1
+met/[4,5]|prep|hd/obj1|opleg/[6,7]|noun|1
+of/[3,4]|vg|crd/cnj|met/[4,5]|prep|1
+of/[3,4]|vg|crd/cnj|voor/[0,1]|prep|1
+of/[16,17]|vg|crd/cnj|pizza/[17,18]|noun|1
+of/[16,17]|vg|crd/cnj|spaghetti/[15,16]|noun|1
+opleg/[6,7]|noun|hd/det|een/[5,6]|det|1
+opleg/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+pizza/[17,18]|noun|hd/det|een/[13,14]|det|1
+pizza/[17,18]|noun|hd/mod|heerlijk/[14,15]|adj|1
+prijs/[2,3]|noun|hd/det|dezelfde/[1,2]|det|1
+restaurant/[23,24]|noun|hd/mod|charmant/[22,23]|adj|1
+restaurant/[23,24]|noun|hd/mod|klein/[21,22]|adj|1
+restaurant/[23,24]|noun|hd/mod|talloos/[20,21]|adj|1
+spaghetti/[15,16]|noun|hd/det|een/[13,14]|det|1
+spaghetti/[15,16]|noun|hd/mod|heerlijk/[14,15]|adj|1
+top/top|top|top/hd|kan/[10,11]|verb|1
+van/[7,8]|prep|hd/obj1|euros,/[9,10]|noun|1
+voor/[0,1]|prep|hd/obj1|prijs/[2,3]|noun|1
+advies/[1,2]|noun|hd/det|mijn/[0,1]|det|1
+ben/[8,9]|verb|hd/predc|wat/[6,7]|pron|1
+ben/[8,9]|verb|hd/su|het/[7,8]|det|1
+door/[20,21]|prep|hd/obj1|mens/[21,22]|noun|1
+en/[9,10]|vg|-- / --|./[26,27]|punct|1
+en/[9,10]|vg|crd/cnj|laat/[2,3]|verb|1
+en/[9,10]|vg|crd/cnj|spendeer/[10,11]|verb|1
+gemaakt/[19,20]|adj|hd/pc|door/[20,21]|prep|1
+in plaats van/[22,25]|prep|hd/obj1|machine/[25,26]|noun|1
+laat/[2,3]|verb|hd/ld|voor/[5,6]|prep|1
+laat/[2,3]|verb|hd/obj1|massa_consumptie/[4,5]|noun|1
+laat/[2,3]|verb|hd/su|advies/[1,2]|noun|1
+maaltijd/[18,19]|noun|hd/det|een/[15,16]|det|1
+maaltijd/[18,19]|noun|hd/mod|gemaakt/[19,20]|adj|1
+maaltijd/[18,19]|noun|hd/mod|heerlijk/[16,17]|adj|1
+maaltijd/[18,19]|noun|hd/mod|voedzaam/[17,18]|adj|1
+massa_consumptie/[4,5]|noun|hd/det|de/[3,4]|det|1
+meer/[13,14]|adj|hd/me|euro_ros/[12,13]|noun|1
+spendeer/[10,11]|verb|hd/mod|in plaats van/[22,25]|prep|1
+spendeer/[10,11]|verb|hd/mod|meer/[13,14]|adj|1
+spendeer/[10,11]|verb|hd/mod|voor/[14,15]|prep|1
+spendeer/[10,11]|verb|hd/obj1|enkel/[11,12]|det|1
+top/top|top|top/hd|en/[9,10]|vg|1
+voor/[5,6]|prep|hd/obj1|wat/[6,7]|pron|1
+voor/[14,15]|prep|hd/obj1|maaltijd/[18,19]|noun|1
+wat/[6,7]|pron|rhd/body|ben/[8,9]|verb|1

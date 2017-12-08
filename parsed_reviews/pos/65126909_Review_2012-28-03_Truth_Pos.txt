@@ -1,0 +1,65 @@
+PROPNAME/[0,1]|name|-- / --|./[1,2]|punct|1
+top/top|top|top/hd|PROPNAME/[0,1]|name|1
+./[1,2]|punct|-- / --|PROPNAME/[0,1]|name|1
+top/top|top|top/hd|./[1,2]|punct|1
+breng/[8,9]|verb|hd/ld|in/[9,10]|prep|1
+breng/[8,9]|verb|hd/obj1|stilte/[7,8]|noun|1
+breng/[8,9]|verb|hd/su|die/[5,6]|pron|1
+die/[5,6]|pron|rhd/body|breng/[8,9]|verb|1
+drukte/[11,12]|noun|hd/det|de/[10,11]|det|1
+drukte/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+film/[4,5]|noun|-- / --|./[15,16]|punct|1
+film/[4,5]|noun|hd/det|een/[0,1]|det|1
+film/[4,5]|noun|hd/mod|die/[5,6]|pron|1
+film/[4,5]|noun|hd/mod|heerlijk/[1,2]|adj|1
+film/[4,5]|noun|hd/mod|lieflijk/[2,3]|adj|1
+film/[4,5]|noun|hd/mod|onschuldig/[3,4]|adj|1
+in/[9,10]|prep|hd/obj1|drukte/[11,12]|noun|1
+leven/[14,15]|noun|hd/det|ons/[13,14]|det|1
+stilte/[7,8]|noun|hd/mod|even/[6,7]|adj|1
+top/top|top|top/hd|film/[4,5]|noun|1
+van/[12,13]|prep|hd/obj1|leven/[14,15]|noun|1
+aan/[9,10]|prep|hd/obj1|–inderdaad–/[10,11]|noun|1
+denk_terug/[8,9]|verb|hd/pc|aan/[9,10]|prep|1
+die/[6,7]|pron|rhd/body|doe/[7,8]|verb|1
+doe/[7,8]|verb|hd/su|die/[6,7]|pron|1
+doe/[7,8]|verb|hd/vc|denk_terug/[8,9]|verb|1
+en/[17,18]|vg|crd/cnj|alleen/[18,19]|adj|1
+en/[17,18]|vg|crd/cnj|enkel/[16,17]|adj|1
+en/[27,28]|vg|crd/cnj|lach/[29,30]|noun|1
+en/[27,28]|vg|crd/cnj|traan/[26,27]|noun|1
+film_zaal/[15,16]|noun|hd/det|de/[14,15]|det|1
+geluid/[23,24]|noun|hd/det|het/[22,23]|det|1
+geluid/[23,24]|noun|hd/mod|van/[24,25]|prep|1
+lach/[29,30]|noun|hd/det|ons/[28,29]|det|1
+met/[3,4]|prep|hd/obj1|muziek/[5,6]|noun|1
+met/[21,22]|prep|hd/obj1|geluid/[23,24]|noun|1
+muziek/[5,6]|noun|hd/mod|die/[6,7]|pron|1
+muziek/[5,6]|noun|hd/mod|speels/[4,5]|adj|1
+opluchting/[1,2]|noun|hd/det|een/[0,1]|det|1
+tijd/[12,13]|noun|hd/det|de/[11,12]|det|1
+top/top|top|top/hd|vul/[2,3]|verb|1
+traan/[26,27]|noun|hd/det|ons/[25,26]|det|1
+van/[24,25]|prep|hd/obj1|en/[27,28]|vg|1
+vul/[2,3]|verb|-- / --|./[30,31]|punct|1
+vul/[2,3]|verb|hd/mod|wanneer/[13,14]|comp|1
+vul/[2,3]|verb|hd/obj1|opluchting/[1,2]|noun|1
+vul/[2,3]|verb|hd/pc|met/[3,4]|prep|1
+vul/[20,21]|verb|hd/mod|en/[17,18]|vg|1
+vul/[20,21]|verb|hd/obj1|film_zaal/[15,16]|noun|1
+vul/[20,21]|verb|hd/pc|met/[21,22]|prep|1
+wanneer/[13,14]|comp|cmp/body|word/[19,20]|verb|1
+wanneer/[13,14]|comp|cmp/mod|tijd/[12,13]|noun|1
+word/[19,20]|verb|hd/su|film_zaal/[15,16]|noun|1
+word/[19,20]|verb|hd/vc|vul/[20,21]|verb|1
+Kortom,/[0,1]|name|-- / --|./[9,10]|punct|1
+Kortom,/[0,1]|name|dp/dp|film/[3,4]|noun|1
+die/[4,5]|pron|rhd/body|sla/[8,9]|verb|1
+film/[3,4]|noun|hd/det|een/[1,2]|det|1
+film/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+film/[3,4]|noun|hd/mod|stom/[2,3]|adj|1
+met/[6,7]|prep|hd/obj1|verstomming/[7,8]|noun|1
+sla/[8,9]|verb|hd/mod|met/[6,7]|prep|1
+sla/[8,9]|verb|hd/obj1|mij/[5,6]|pron|1
+sla/[8,9]|verb|hd/su|die/[4,5]|pron|1
+top/top|top|top/hd|Kortom,/[0,1]|name|1

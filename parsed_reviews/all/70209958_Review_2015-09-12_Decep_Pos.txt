@@ -1,0 +1,112 @@
+ben/[1,2]|verb|-- / --|./[14,15]|punct|1
+ben/[1,2]|verb|hd/predc|één/[2,3]|pron|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+boek/[6,7]|noun|hd/det|de/[4,5]|det|1
+boek/[6,7]|noun|hd/mod|die/[7,8]|pron|1
+boek/[6,7]|noun|hd/mod|goed/[5,6]|adj|1
+die/[7,8]|pron|rhd/body|heb/[12,13]|verb|1
+heb/[12,13]|verb|hd/su|ik/[8,9]|pron|1
+heb/[12,13]|verb|hd/vc|lees/[13,14]|verb|1
+jaar/[11,12]|noun|hd/det|de/[9,10]|det|1
+jaar/[11,12]|noun|hd/mod|afgelopen/[10,11]|adj|1
+lees/[13,14]|verb|hd/mod|jaar/[11,12]|noun|1
+lees/[13,14]|verb|hd/obj1|die/[7,8]|pron|1
+lees/[13,14]|verb|hd/su|ik/[8,9]|pron|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[3,4]|prep|hd/obj1|boek/[6,7]|noun|1
+één/[2,3]|pron|hd/mod|van/[3,4]|prep|1
+bevat/[1,2]|verb|-- / --|./[11,12]|punct|1
+bevat/[1,2]|verb|hd/mod|echt/[2,3]|adj|1
+bevat/[1,2]|verb|hd/obj1|element/[4,5]|noun|1
+bevat/[1,2]|verb|hd/su|het/[0,1]|det|1
+bevat/[10,11]|verb|hd/obj1|boek/[8,9]|noun|1
+bevat/[10,11]|verb|hd/su|die/[5,6]|pron|1
+boek/[8,9]|noun|hd/det|een/[6,7]|det|1
+boek/[8,9]|noun|hd/mod|goed/[7,8]|adj|1
+die/[5,6]|pron|rhd/body|moet/[9,10]|verb|1
+element/[4,5]|noun|hd/det|alle/[3,4]|det|1
+element/[4,5]|noun|hd/mod|die/[5,6]|pron|1
+moet/[9,10]|verb|hd/su|die/[5,6]|pron|1
+moet/[9,10]|verb|hd/vc|bevat/[10,11]|verb|1
+top/top|top|top/hd|bevat/[1,2]|verb|1
+ben/[2,3]|verb|hd/mod|allesbehalve/[3,4]|adv|1
+ben/[2,3]|verb|hd/predc|cliché/[4,5]|noun|1
+ben/[2,3]|verb|hd/su|plot/[1,2]|noun|1
+en/[5,6]|vg|-- / --|./[11,12]|punct|1
+en/[5,6]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[5,6]|vg|crd/cnj|zit/[6,7]|verb|1
+met/[8,9]|prep|hd/obj1|wending/[10,11]|noun|1
+plot/[1,2]|noun|hd/det|het/[0,1]|det|1
+top/top|top|top/hd|en/[5,6]|vg|1
+vol/[7,8]|adj|hd/pc|met/[8,9]|prep|1
+wending/[10,11]|noun|hd/mod|onverwacht/[9,10]|adj|1
+zit/[6,7]|verb|hd/predc|vol/[7,8]|adj|1
+zit/[6,7]|verb|hd/su|plot/[1,2]|noun|1
+ben/[19,20]|verb|hd/su|het/[16,17]|det|1
+ben/[19,20]|verb|hd/vc|gebeur/[18,19]|verb|1
+dat/[10,11]|comp|cmp/body|zal/[13,14]|verb|1
+dat/[15,16]|comp|cmp/body|ben/[19,20]|verb|1
+denk/[14,15]|verb|hd/mod|bijna/[12,13]|adv|1
+denk/[14,15]|verb|hd/su|je/[11,12]|pron|1
+denk/[14,15]|verb|hd/vc|dat/[15,16]|comp|1
+gebeur/[18,19]|verb|hd/mod|echt/[17,18]|adj|1
+gebeur/[18,19]|verb|hd/su|het/[16,17]|det|1
+ontmoet/[2,3]|verb|-- / --|./[20,21]|punct|1
+ontmoet/[2,3]|verb|dp/dp|dat/[10,11]|comp|1
+ontmoet/[2,3]|verb|hd/mod|ook/[4,5]|adv|1
+ontmoet/[2,3]|verb|hd/mod|op/[5,6]|prep|1
+ontmoet/[2,3]|verb|hd/obj1|elkaar/[3,4]|pron|1
+ontmoet/[2,3]|verb|hd/su|protagonisten/[1,2]|noun|1
+op/[5,6]|prep|hd/obj1|plek/[9,10]|noun|1
+plek/[9,10]|noun|hd/det|zo'n/[6,8]|det|1
+plek/[9,10]|noun|hd/mod|alledaags/[8,9]|adj|1
+protagonisten/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|ontmoet/[2,3]|verb|1
+zal/[13,14]|verb|hd/su|je/[11,12]|pron|1
+zal/[13,14]|verb|hd/vc|denk/[14,15]|verb|1
+en/[7,8]|vg|crd/cnj|normaal/[8,9]|adj|1
+en/[7,8]|vg|crd/cnj|rustig/[6,7]|adj|1
+heb/[3,4]|verb|-- / --|./[18,19]|punct|1
+heb/[3,4]|verb|hd/mod|terwijl/[10,11]|comp|1
+heb/[3,4]|verb|hd/obj1|leven/[9,10]|noun|1
+heb/[3,4]|verb|hd/su|man, John,/[1,3]|name|1
+heb/[17,18]|verb|hd/mod|altijd/[15,16]|adv|1
+heb/[17,18]|verb|hd/obj1|het/[14,15]|det|1
+heb/[17,18]|verb|hd/predc|druk/[16,17]|adj|1
+heb/[17,18]|verb|hd/su|vrouw/[12,13]|noun|1
+leven/[9,10]|noun|hd/det|een/[4,5]|det|1
+leven/[9,10]|noun|hd/mod|en/[7,8]|vg|1
+man, John,/[1,3]|name|hd/det|de/[0,1]|det|1
+normaal/[8,9]|adj|hd/mod|heel/[5,6]|adv|1
+rustig/[6,7]|adj|hd/mod|heel/[5,6]|adv|1
+terwijl/[10,11]|comp|cmp/body|heb/[17,18]|verb|1
+top/top|top|top/hd|heb/[3,4]|verb|1
+vrouw/[12,13]|noun|hd/app|Isabelle/[13,14]|name|1
+vrouw/[12,13]|noun|hd/det|de/[11,12]|det|1
+aan het/[14,16]|comp|cmp/body|lees/[16,17]|verb|1
+ben/[9,10]|verb|-- / --|./[18,19]|punct|1
+ben/[9,10]|verb|hd/mod|terwijl/[12,13]|comp|1
+ben/[9,10]|verb|hd/predc|voelbaar/[11,12]|adj|1
+ben/[9,10]|verb|hd/su|chemie/[1,2]|noun|1
+ben/[17,18]|verb|hd/su|je/[13,14]|pron|1
+ben/[17,18]|verb|hd/vc|aan het/[14,16]|comp|1
+chemie/[1,2]|noun|hd/det|de/[0,1]|det|1
+chemie/[1,2]|noun|hd/mod|die/[2,3]|pron|1
+die/[2,3]|pron|rhd/body|ontsta/[4,5]|verb|1
+lees/[16,17]|verb|hd/su|je/[13,14]|pron|1
+ontsta/[4,5]|verb|hd/mod|er/[3,4]|adv|1
+ontsta/[4,5]|verb|hd/mod|tussen/[5,6]|prep|1
+ontsta/[4,5]|verb|hd/su|die/[2,3]|pron|1
+tegenpool/[8,9]|noun|hd/det|deze/[6,7]|det|1
+tegenpool/[8,9]|noun|hd/det|twee/[7,8]|num|1
+terwijl/[12,13]|comp|cmp/body|ben/[17,18]|verb|1
+top/top|top|top/hd|ben/[9,10]|verb|1
+tussen/[5,6]|prep|hd/obj1|tegenpool/[8,9]|noun|1
+voelbaar/[11,12]|adj|hd/mod|bijna/[10,11]|adv|1
+ben/[1,2]|verb|-- / --|!/[6,7]|punct|1
+ben/[1,2]|verb|hd/mod|zeker/[2,3]|adj|1
+ben/[1,2]|verb|hd/predc|waard/[5,6]|adj|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+lees/[4,5]|verb|hd/det|het/[3,4]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+waard/[5,6]|adj|hd/obj1|lees/[4,5]|verb|1

@@ -1,0 +1,74 @@
+beeld/[10,11]|noun|hd/det|een/[8,9]|det|1
+beeld/[10,11]|noun|hd/mod|prachtig/[9,10]|adj|1
+beeld/[10,11]|noun|hd/mod|van/[12,13]|prep|1
+ben/[1,2]|verb|-- / --|./[18,19]|punct|1
+ben/[1,2]|verb|hd/predc|roman/[6,7]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+die/[7,8]|pron|rhd/body|geef/[11,12]|verb|1
+gedocumenteerd/[5,6]|adj|hd/mod|goed/[4,5]|adj|1
+gedocumenteerd/[5,6]|adj|hd/mod|historisch/[3,4]|adj|1
+geef/[11,12]|verb|hd/obj1|beeld/[10,11]|noun|1
+geef/[11,12]|verb|hd/su|die/[7,8]|pron|1
+in/[15,16]|prep|hd/obj1|tijd/[17,18]|noun|1
+roman/[6,7]|noun|hd/det|een/[2,3]|det|1
+roman/[6,7]|noun|hd/mod|die/[7,8]|pron|1
+roman/[6,7]|noun|hd/mod|gedocumenteerd/[5,6]|adj|1
+romantiek/[14,15]|noun|hd/det|de/[13,14]|det|1
+romantiek/[14,15]|noun|hd/mod|in/[15,16]|prep|1
+tijd/[17,18]|noun|hd/det|die/[16,17]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[12,13]|prep|hd/obj1|romantiek/[14,15]|noun|1
+ben/[2,3]|verb|-- / --|./[11,12]|punct|1
+ben/[2,3]|verb|hd/predc|en/[4,5]|vg|1
+ben/[2,3]|verb|hd/su|hoofd_personage/[1,2]|noun|1
+doorgrond/[10,11]|verb|hd/mod|moeilijk/[8,9]|adj|1
+doorgrond/[10,11]|verb|hd/mod|voor/[5,6]|prep|1
+en/[4,5]|vg|crd/cnj|genuanceerd/[3,4]|adj|1
+en/[4,5]|vg|crd/cnj|te/[9,10]|comp|1
+hoofd_personage/[1,2]|noun|hd/det|het/[0,1]|det|1
+lezer/[7,8]|noun|hd/det|de/[6,7]|det|1
+te/[9,10]|comp|cmp/body|doorgrond/[10,11]|verb|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+voor/[5,6]|prep|hd/obj1|lezer/[7,8]|noun|1
+breek/[2,3]|verb|hd/pc|met/[3,4]|prep|1
+breek/[2,3]|verb|hd/su|verhaal/[1,2]|noun|1
+cliché/[5,6]|noun|hd/mod|in/[6,7]|prep|1
+cliché/[5,6]|noun|hd/mod|romantisch/[4,5]|adj|1
+en/[9,10]|vg|-- / --|./[14,15]|punct|1
+en/[9,10]|vg|crd/cnj|breek/[2,3]|verb|1
+en/[9,10]|vg|crd/cnj|zit/[10,11]|verb|1
+in/[6,7]|prep|hd/obj1|roman/[8,9]|noun|1
+met/[3,4]|prep|hd/obj1|cliché/[5,6]|noun|1
+roman/[8,9]|noun|hd/mod|historisch/[7,8]|adj|1
+top/top|top|top/hd|en/[9,10]|vg|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+vol/[11,12]|prep|hd/obj1|wending/[13,14]|noun|1
+wending/[13,14]|noun|hd/mod|verrassend/[12,13]|adj|1
+zit/[10,11]|verb|hd/predc|vol/[11,12]|prep|1
+zit/[10,11]|verb|hd/su|verhaal/[1,2]|noun|1
+boek/[12,13]|noun|hd/det|dit/[11,12]|det|1
+gebeurtenis/[8,9]|noun|hd/det|de/[6,7]|det|1
+gebeurtenis/[8,9]|noun|hd/mod|spannend/[7,8]|adj|1
+in combinatie met/[3,6]|prep|hd/obj1|gebeurtenis/[8,9]|noun|1
+maak/[9,10]|verb|hd/obj1|pageturner/[15,16]|noun|1
+maak/[9,10]|verb|hd/pc|van/[10,11]|prep|1
+pageturner/[15,16]|noun|hd/det|een/[13,14]|det|1
+pageturner/[15,16]|noun|hd/mod|echt/[14,15]|adj|1
+schrijf_stijl/[2,3]|noun|-- / --|./[16,17]|punct|1
+schrijf_stijl/[2,3]|noun|dp/dp|maak/[9,10]|verb|1
+schrijf_stijl/[2,3]|noun|hd/det|de/[0,1]|det|1
+schrijf_stijl/[2,3]|noun|hd/mod|aangenaam/[1,2]|adj|1
+schrijf_stijl/[2,3]|noun|hd/mod|in combinatie met/[3,6]|prep|1
+top/top|top|top/hd|schrijf_stijl/[2,3]|noun|1
+van/[10,11]|prep|hd/obj1|boek/[12,13]|noun|1
+ben/[4,5]|verb|hd/mod|bij/[5,6]|prep|1
+ben/[4,5]|verb|hd/predc|bekend/[2,3]|adj|1
+ben/[4,5]|verb|hd/su|PROPNAME/[0,1]|name|1
+bij/[5,6]|prep|hd/obj1|lezer/[7,8]|noun|1
+lezer/[7,8]|noun|hd/mod|Belgisch/[6,7]|adj|1
+moet/[3,4]|verb|hd/su|PROPNAME/[0,1]|name|1
+moet/[3,4]|verb|hd/vc|ben/[4,5]|verb|1
+top/top|top|top/hd|zal/[1,2]|verb|1
+zal/[1,2]|verb|-- / --|!/[8,9]|punct|1
+zal/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+zal/[1,2]|verb|hd/vc|moet/[3,4]|verb|1

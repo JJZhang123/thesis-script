@@ -1,0 +1,122 @@
+ben/[10,11]|verb|hd/su|film/[1,2]|noun|1
+ben/[10,11]|verb|hd/vc|regisseer/[8,9]|verb|1
+door/[11,12]|prep|hd/obj1|Michael Bay/[12,14]|name|1
+film/[1,2]|noun|hd/det|deze/[0,1]|det|1
+film/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+kan/[9,10]|verb|hd/su|film/[1,2]|noun|1
+kan/[9,10]|verb|hd/vc|ben/[10,11]|verb|1
+regisseer/[8,9]|verb|hd/mod|door/[11,12]|prep|1
+regisseer/[8,9]|verb|hd/mod|ook/[7,8]|adv|1
+regisseer/[8,9]|verb|hd/obj1|film/[1,2]|noun|1
+regisseur/[3,4]|noun|hd/app|Kenneth Branagh/[4,6]|name|1
+top/top|top|top/hd|zal/[6,7]|verb|1
+van/[2,3]|prep|hd/obj1|regisseur/[3,4]|noun|1
+zal/[6,7]|verb|-- / --|./[14,15]|punct|1
+zal/[6,7]|verb|hd/su|film/[1,2]|noun|1
+zal/[6,7]|verb|hd/vc|kan/[9,10]|verb|1
+actiesequenties/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[2,3]|verb|-- / --|./[15,16]|punct|1
+ben/[2,3]|verb|hd/mod|waardoor/[6,7]|pp|1
+ben/[2,3]|verb|hd/predc|actiesequenties/[1,2]|noun|1
+ben/[2,3]|verb|hd/su|scène/[5,6]|noun|1
+ben/[14,15]|verb|hd/su|ik/[7,8]|pron|1
+ben/[14,15]|verb|hd/vc|storm_uit/[13,14]|verb|1
+scène/[5,6]|noun|hd/det|de/[3,4]|det|1
+scène/[5,6]|noun|hd/mod|enig/[4,5]|adj|1
+storm_uit/[13,14]|verb|hd/ld|theater/[11,12]|noun|1
+storm_uit/[13,14]|verb|hd/mod|niet/[8,9]|adv|1
+storm_uit/[13,14]|verb|hd/mod|waardoor/[6,7]|pp|1
+storm_uit/[13,14]|verb|hd/mod|zied/[9,10]|adj|1
+storm_uit/[13,14]|verb|hd/su|ik/[7,8]|pron|1
+storm_uit/[13,14]|verb|hd/svp|uit/[12,13]|part|1
+theater/[11,12]|noun|hd/det|het/[10,11]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+waardoor/[6,7]|pp|rhd/body|ben/[14,15]|verb|1
+Anthony Hopkins,/[23,25]|name|hd/mod|die/[25,26]|pron|1
+Idris Elba, Natalie Portman/[18,22]|name|hd/mod|die/[25,26]|pron|1
+acteur/[37,38]|noun|hd/mod|schitterend/[36,37]|adj|1
+belang/[1,2]|noun|hd/det|het/[0,1]|det|1
+belang/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+dat/[13,14]|comp|cmp/body|heb/[16,17]|verb|1
+dat/[27,28]|comp|cmp/body|kan/[33,34]|verb|1
+die/[25,26]|pron|rhd/body|toon_aan/[26,27]|verb|1
+door/[35,36]|prep|hd/obj1|acteur/[37,38]|noun|1
+en/[22,23]|vg|crd/cnj|Anthony Hopkins,/[23,25]|name|1
+en/[22,23]|vg|crd/cnj|Idris Elba, Natalie Portman/[18,22]|name|1
+heb/[16,17]|verb|hd/obj1|medelijden/[15,16]|noun|1
+heb/[16,17]|verb|hd/su|ik/[14,15]|pron|1
+kan/[33,34]|verb|hd/su|script/[30,31]|noun|1
+kan/[33,34]|verb|hd/vc|word/[34,35]|verb|1
+medelijden/[15,16]|noun|hd/mod|met/[17,18]|prep|1
+met/[17,18]|prep|hd/obj1|en/[22,23]|vg|1
+naar/[10,11]|prep|hd/obj1|voren/[11,12]|adv|1
+pijnlijk/[9,10]|adj|hd/mod|zo/[8,9]|adj|1
+schuif/[12,13]|verb|hd/ld|naar/[10,11]|prep|1
+schuif/[12,13]|verb|hd/mod|hier/[7,8]|adv|1
+schuif/[12,13]|verb|hd/mod|pijnlijk/[9,10]|adj|1
+schuif/[12,13]|verb|hd/obj1|belang/[1,2]|noun|1
+script/[5,6]|noun|hd/det|een/[3,4]|det|1
+script/[5,6]|noun|hd/mod|goed/[4,5]|adj|1
+script/[30,31]|noun|hd/det|een/[28,29]|det|1
+script/[30,31]|noun|hd/mod|slecht/[29,30]|adj|1
+toon_aan/[26,27]|verb|hd/su|die/[25,26]|pron|1
+toon_aan/[26,27]|verb|hd/vc|dat/[27,28]|comp|1
+top/top|top|top/hd|word/[6,7]|verb|1
+van/[2,3]|prep|hd/obj1|script/[5,6]|noun|1
+word/[6,7]|verb|-- / --|./[38,39]|punct|1
+word/[6,7]|verb|hd/su|belang/[1,2]|noun|1
+word/[6,7]|verb|hd/vc|schuif/[12,13]|verb|1
+word/[34,35]|verb|hd/su|script/[30,31]|noun|1
+word/[34,35]|verb|hd/vc|zet_recht/[32,33]|verb|1
+zet_recht/[32,33]|verb|hd/mod|door/[35,36]|prep|1
+zet_recht/[32,33]|verb|hd/mod|niet/[31,32]|adv|1
+zet_recht/[32,33]|verb|hd/obj1|script/[30,31]|noun|1
+zo/[8,9]|adj|hd/obcomp|dat/[13,14]|comp|1
+Marvel film,/[18,20]|name|hd/det|die/[16,17]|det|1
+Marvel film,/[18,20]|name|hd/mod|ander/[17,18]|adj|1
+Marvel film,/[18,20]|name|hd/mod|in/[20,21]|prep|1
+die/[9,10]|pron|rhd/body|kom_tegen/[12,13]|verb|1
+eerlijkheid/[8,9]|noun|hd/det|de/[6,7]|det|1
+eerlijkheid/[8,9]|noun|hd/mod|die/[9,10]|pron|1
+eerlijkheid/[8,9]|noun|hd/mod|rauw/[7,8]|adj|1
+en/[23,24]|vg|crd/cnj|frank/[24,25]|adj|1
+en/[23,24]|vg|crd/cnj|prachtig/[22,23]|adj|1
+film/[4,5]|noun|hd/det|deze/[3,4]|det|1
+in/[2,3]|prep|hd/obj1|film/[4,5]|noun|1
+in/[13,14]|prep|hd/obj1|Iron Man,/[14,16]|name|1
+in/[20,21]|prep|hd/obj1|monoloog/[25,26]|noun|1
+kom_tegen/[12,13]|verb|hd/ld|in/[13,14]|prep|1
+kom_tegen/[12,13]|verb|hd/mod|wel/[11,12]|adj|1
+kom_tegen/[12,13]|verb|hd/obj1|die/[9,10]|pron|1
+kom_tegen/[12,13]|verb|hd/su|ik/[10,11]|pron|1
+mis/[1,2]|verb|-- / --|.. /[30,31]|punct|1
+mis/[1,2]|verb|dp/dp|Marvel film,/[18,20]|name|1
+mis/[1,2]|verb|hd/mod|in/[2,3]|prep|1
+mis/[1,2]|verb|hd/mod|ook/[5,6]|adv|1
+mis/[1,2]|verb|hd/obj1|eerlijkheid/[8,9]|noun|1
+mis/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+monoloog/[25,26]|noun|hd/det|de/[21,22]|det|1
+monoloog/[25,26]|noun|hd/mod|en/[23,24]|vg|1
+monoloog/[25,26]|noun|hd/mod|van/[26,27]|prep|1
+top/top|top|top/hd|mis/[1,2]|verb|1
+van/[26,27]|prep|hd/obj1|Robert Downey Jr/[27,30]|name|1
+ben/[12,13]|verb|hd/mod|uiteindelijk/[11,12]|adj|1
+ben/[12,13]|verb|hd/predc|doos/[17,18]|noun|1
+ben/[12,13]|verb|hd/su|film/[14,15]|noun|1
+dat/[2,3]|comp|cmp/body|heb/[9,10]|verb|1
+doos/[17,18]|noun|hd/det|een/[15,16]|det|1
+doos/[17,18]|noun|hd/mod|leeg/[16,17]|adj|1
+film/[6,7]|noun|hd/det|deze/[5,6]|det|1
+film/[14,15]|noun|hd/det|deze/[13,14]|det|1
+heb/[9,10]|verb|hd/su|marketing_genie/[4,5]|noun|1
+heb/[9,10]|verb|hd/vc|verpak/[8,9]|verb|1
+maar/[10,11]|vg|-- / --|./[18,19]|punct|1
+maar/[10,11]|vg|crd/cnj|ben/[12,13]|verb|1
+maar/[10,11]|vg|crd/cnj|vind/[1,2]|verb|1
+marketing_genie/[4,5]|noun|hd/det|de/[3,4]|det|1
+top/top|top|top/hd|maar/[10,11]|vg|1
+verpak/[8,9]|verb|hd/mod|mooi/[7,8]|adj|1
+verpak/[8,9]|verb|hd/obj1|film/[6,7]|noun|1
+verpak/[8,9]|verb|hd/su|marketing_genie/[4,5]|noun|1
+vind/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+vind/[1,2]|verb|hd/vc|dat/[2,3]|comp|1

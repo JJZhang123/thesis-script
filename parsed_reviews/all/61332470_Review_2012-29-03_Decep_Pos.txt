@@ -1,0 +1,73 @@
+ben/[3,4]|verb|hd/predc|rapper/[6,7]|noun|1
+ben/[3,4]|verb|hd/su|PROPNAME/[2,3]|name|1
+jaar/[9,10]|noun|hd/app|negentig/[10,11]|num|1
+jaar/[9,10]|noun|hd/det|de/[8,9]|det|1
+rapper/[6,7]|noun|hd/det|de/[4,5]|det|1
+rapper/[6,7]|noun|hd/mod|goed/[5,6]|adj|1
+rapper/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+top/top|top|top/hd|volgens/[0,1]|prep|1
+van/[7,8]|prep|hd/obj1|jaar/[9,10]|noun|1
+volgens/[0,1]|prep|-- / --|./[11,12]|punct|1
+volgens/[0,1]|prep|dp/dp|ben/[3,4]|verb|1
+volgens/[0,1]|prep|hd/obj1|mij/[1,2]|pron|1
+ben/[1,2]|verb|-- / --|./[7,8]|punct|1
+ben/[1,2]|verb|hd/mod|steeds/[3,4]|adv|1
+ben/[1,2]|verb|hd/predc|muzikant/[6,7]|noun|1
+ben/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+muzikant/[6,7]|noun|hd/det|een/[4,5]|det|1
+muzikant/[6,7]|noun|hd/mod|actief/[5,6]|adj|1
+steeds/[3,4]|adv|hd/mod|nog/[2,3]|adv|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/predc|representant/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+rap/[7,8]|noun|hd/det|de/[5,6]|det|1
+rap/[7,8]|noun|hd/mod|free-style/[6,7]|adj|1
+representant/[3,4]|noun|hd/det|een/[2,3]|det|1
+representant/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[4,5]|prep|hd/obj1|rap/[7,8]|noun|1
+ben/[2,3]|verb|-- / --|./[8,9]|punct|1
+ben/[2,3]|verb|hd/mod|steeds/[4,5]|adv|1
+ben/[2,3]|verb|hd/predc|sensatie/[7,8]|noun|1
+ben/[2,3]|verb|hd/su|rap/[1,2]|noun|1
+rap/[1,2]|noun|hd/mod|free-style/[0,1]|adj|1
+sensatie/[7,8]|noun|hd/det|een/[5,6]|det|1
+sensatie/[7,8]|noun|hd/mod|groot/[6,7]|adj|1
+steeds/[4,5]|adv|hd/mod|nog/[3,4]|adv|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+ben/[11,12]|verb|hd/predc|toon_kunstenaar/[15,16]|noun|1
+ben/[11,12]|verb|hd/su|PROPNAME/[10,11]|name|1
+creatief/[14,15]|adj|hd/mod|heel/[13,14]|adv|1
+creativiteit/[4,5]|noun|hd/det|de/[3,4]|det|1
+creativiteit/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+en/[9,10]|vg|-- / --|./[16,17]|punct|1
+en/[9,10]|vg|crd/cnj|ben/[11,12]|verb|1
+en/[9,10]|vg|crd/cnj|laat/[1,2]|verb|1
+laat/[1,2]|verb|hd/obj1|creativiteit/[4,5]|noun|1
+laat/[1,2]|verb|hd/obj2|ons/[2,3]|pron|1
+laat/[1,2]|verb|hd/su|het/[0,1]|det|1
+laat/[1,2]|verb|hd/svp|zie/[8,9]|verb|1
+muzikant/[7,8]|noun|hd/det|de/[6,7]|det|1
+toon_kunstenaar/[15,16]|noun|hd/det|een/[12,13]|det|1
+toon_kunstenaar/[15,16]|noun|hd/mod|creatief/[14,15]|adj|1
+top/top|top|top/hd|en/[9,10]|vg|1
+van/[5,6]|prep|hd/obj1|muzikant/[7,8]|noun|1
+Freestyle/[11,12]|name|hd/det|de/[10,11]|det|1
+album/[1,2]|noun|-- / --|./[15,16]|punct|1
+album/[1,2]|noun|-- / --|ieder/[0,1]|det|1
+album/[1,2]|noun|dp/dp|kan/[4,5]|verb|1
+album/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+kan/[4,5]|verb|hd/su|we/[5,6]|pron|1
+kan/[4,5]|verb|hd/vc|leer/[13,14]|verb|1
+kant/[8,9]|noun|hd/det|een/[6,7]|det|1
+kant/[8,9]|noun|hd/mod|nieuw/[7,8]|adj|1
+kant/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+ken/[14,15]|verb|hd/obj1|kant/[8,9]|noun|1
+ken/[14,15]|verb|hd/su|we/[5,6]|pron|1
+leer/[13,14]|verb|hd/mod|rap/[12,13]|adj|1
+leer/[13,14]|verb|hd/su|we/[5,6]|pron|1
+leer/[13,14]|verb|hd/vc|ken/[14,15]|verb|1
+top/top|top|top/hd|album/[1,2]|noun|1
+van/[2,3]|prep|hd/obj1|hem/[3,4]|pron|1
+van/[9,10]|prep|hd/obj1|Freestyle/[11,12]|name|1

@@ -1,0 +1,167 @@
+als/[37,38]|comp|cmp/body|collegas,/[40,41]|noun|1
+beschonken/[18,19]|adj|hd/mod|danig/[17,18]|adj|1
+collegas,/[40,41]|noun|hd/mod|ben/[38,39]|adj|1
+collegas,/[40,41]|noun|hd/mod|gloednieuw/[39,40]|adj|1
+dat/[20,21]|comp|cmp/body|moet/[45,46]|verb|1
+doe/[2,3]|verb|-- / --|./[55,56]|punct|1
+doe/[2,3]|verb|dp/dp|dat/[20,21]|comp|1
+doe/[2,3]|verb|dp/dp|ontmoet/[11,12]|verb|1
+doe/[2,3]|verb|hd/mod|reeds/[4,5]|adv|1
+doe/[2,3]|verb|hd/obj1|ons/[3,4]|pron|1
+doe/[2,3]|verb|hd/su|plot/[1,2]|noun|1
+doe/[2,3]|verb|hd/vc|vrees/[7,8]|verb|1
+feest_eiland/[15,16]|noun|hd/det|een/[14,15]|det|1
+feest_eiland/[15,16]|noun|hd/mod|in/[16,17]|prep|1
+geheugen/[49,50]|noun|hd/det|hun/[48,49]|det|1
+help/[54,55]|verb|hd/ld|verder/[51,52]|adv|1
+help/[54,55]|verb|hd/mod|op weg/[52,54]|adj|1
+help/[54,55]|verb|hd/obj1|hen/[50,51]|pron|1
+help/[54,55]|verb|hd/su|geheugen/[49,50]|noun|1
+in/[16,17]|prep|hd/obj1|toestand/[19,20]|noun|1
+in/[26,27]|prep|hd/obj1|thuisland/[28,29]|noun|1
+knipper/[46,47]|verb|hd/mod|even/[41,42]|adj|1
+knipper/[46,47]|verb|hd/mod|voor/[47,48]|comp|1
+knipper/[46,47]|verb|hd/mod|wanneer/[22,23]|comp|1
+knipper/[46,47]|verb|hd/pc|met/[42,43]|prep|1
+knipper/[46,47]|verb|hd/su|ze/[21,22]|pron|1
+loop/[36,37]|verb|hd/mod|gearriveerd/[29,30]|adj|1
+loop/[36,37]|verb|hd/mod|in/[26,27]|prep|1
+loop/[36,37]|verb|hd/mod|op/[30,31]|prep|1
+loop/[36,37]|verb|hd/mod|weer/[25,26]|adv|1
+loop/[36,37]|verb|hd/obj2|elkaar/[24,25]|pron|1
+loop/[36,37]|verb|hd/su|ze/[23,24]|pron|1
+loop/[36,37]|verb|hd/svp|tegen het lijf/[33,36]|fixed|1
+met/[42,43]|prep|hd/obj1|oog/[44,45]|noun|1
+moet/[45,46]|verb|hd/predm|als/[37,38]|comp|1
+moet/[45,46]|verb|hd/su|ze/[21,22]|pron|1
+moet/[45,46]|verb|hd/vc|knipper/[46,47]|verb|1
+ontmoet/[11,12]|verb|hd/mod|op/[13,14]|prep|1
+ontmoet/[11,12]|verb|hd/obj1|elkaar/[12,13]|pron|1
+ontmoet/[11,12]|verb|hd/su|boy and girl/[8,11]|name|1
+oog/[44,45]|noun|hd/det|hun/[43,44]|det|1
+op/[13,14]|prep|hd/obj1|feest_eiland/[15,16]|noun|1
+op/[30,31]|prep|hd/obj1|werkvloer/[32,33]|noun|1
+plot/[1,2]|noun|hd/det|de/[0,1]|det|1
+thuisland/[28,29]|noun|hd/det|het/[27,28]|det|1
+toestand/[19,20]|noun|hd/mod|beschonken/[18,19]|adj|1
+top/top|top|top/hd|doe/[2,3]|verb|1
+voor/[47,48]|comp|cmp/body|help/[54,55]|verb|1
+vrees/[7,8]|verb|hd/mod|erg/[5,7]|adj|1
+vrees/[7,8]|verb|hd/su|ons/[3,4]|pron|1
+wanneer/[22,23]|comp|cmp/body|loop/[36,37]|verb|1
+werkvloer/[32,33]|noun|hd/det|de/[31,32]|det|1
+aantal/[9,10]|noun|hd/det|een/[7,8]|det|1
+aantal/[9,10]|noun|hd/mod|aanzienlijk/[8,9]|adj|1
+aantal/[9,10]|noun|hd/mod|op/[11,12]|prep|1
+aantal/[9,10]|noun|hd/mod|toespeling/[10,11]|noun|1
+leeftijd_verschil/[13,14]|noun|hd/det|het/[12,13]|det|1
+leeftijd_verschil/[13,14]|noun|hd/mod|tussen/[14,15]|prep|1
+leid/[1,2]|verb|-- / --|./[17,18]|punct|1
+leid/[1,2]|verb|hd/pc|tot/[2,3]|prep|1
+leid/[1,2]|verb|hd/su|dit/[0,1]|det|1
+met/[6,7]|prep|hd/obj1|aantal/[9,10]|noun|1
+op/[11,12]|prep|hd/obj1|leeftijd_verschil/[13,14]|noun|1
+situatie/[5,6]|noun|hd/mod|komisch/[4,5]|adj|1
+situatie/[5,6]|noun|hd/mod|met/[6,7]|prep|1
+situatie/[5,6]|noun|hd/mod|voorspelbaar/[3,4]|adj|1
+top/top|top|top/hd|leid/[1,2]|verb|1
+tot/[2,3]|prep|hd/obj1|situatie/[5,6]|noun|1
+tussen/[14,15]|prep|hd/obj1|twee/[16,17]|noun|1
+twee/[16,17]|noun|hd/det|de/[15,16]|det|1
+Dan Humpfrey/[36,38]|name|hd/mod|uit/[38,39]|prep|1
+Jennifer Aniston,/[0,2]|name|hd/mod|die/[2,3]|pron|1
+als/[35,36]|comp|cmp/body|Dan Humpfrey/[36,38]|name|1
+beken/[34,35]|verb|hd/mod|als/[35,36]|comp|1
+beken/[34,35]|verb|hd/mod|in/[27,28]|prep|1
+beken/[34,35]|verb|hd/mod|mogelijk/[33,34]|adj|1
+beken/[34,35]|verb|hd/obj1|u/[32,33]|pron|1
+ben/[19,20]|verb|hd/mod|met/[22,23]|prep|1
+ben/[19,20]|verb|hd/mod|steeds/[21,22]|adv|1
+ben/[19,20]|verb|hd/predc|spelen,/[18,19]|adj|1
+ben/[19,20]|verb|hd/su|het/[20,21]|det|1
+die/[2,3]|pron|rhd/body|neem/[9,10]|verb|1
+geval/[29,30]|noun|hd/app|Penn Badgley,/[30,32]|name|1
+geval/[29,30]|noun|hd/det|dit/[28,29]|det|1
+hoofdrol/[5,6]|noun|hd/det|de/[3,4]|det|1
+hoofdrol/[5,6]|noun|hd/mod|vrouwelijk/[4,5]|adj|1
+in/[27,28]|prep|hd/obj1|geval/[29,30]|noun|1
+jaar_lang/[14,15]|adj|hd/mod|al/[13,14]|adv|1
+lijk/[10,11]|verb|-- / --|./[43,44]|punct|1
+lijk/[10,11]|verb|-- / --|–/[26,27]|punct|1
+lijk/[10,11]|verb|dp/dp|beken/[34,35]|verb|1
+lijk/[10,11]|verb|dp/dp|ben/[19,20]|verb|1
+lijk/[10,11]|verb|hd/mod|jaar_lang/[14,15]|adj|1
+lijk/[10,11]|verb|hd/mod|ons inziens/[11,13]|adv|1
+lijk/[10,11]|verb|hd/predc|personage/[16,17]|noun|1
+lijk/[10,11]|verb|hd/su|Jennifer Aniston,/[0,2]|name|1
+met/[22,23]|prep|hd/obj1|tegen_speler/[25,26]|noun|1
+neem/[9,10]|verb|hd/obj1|hoofdrol/[5,6]|noun|1
+neem/[9,10]|verb|hd/su|die/[2,3]|pron|1
+neem/[9,10]|verb|hd/svp|voor/[6,7]|prep|1
+personage/[16,17]|noun|hd/det|hetzelfde/[15,16]|det|1
+rekening/[8,9]|noun|hd/det|haar/[7,8]|det|1
+spelen,/[18,19]|adj|hd/mod|te/[17,18]|adv|1
+tegen_speler/[25,26]|noun|hd/det|een/[23,24]|det|1
+tegen_speler/[25,26]|noun|hd/mod|ander/[24,25]|adj|1
+tiener_reeks/[40,41]|noun|hd/app|Gossip Girl/[41,43]|name|1
+tiener_reeks/[40,41]|noun|hd/det|de/[39,40]|det|1
+top/top|top|top/hd|lijk/[10,11]|verb|1
+uit/[38,39]|prep|hd/obj1|tiener_reeks/[40,41]|noun|1
+voor/[6,7]|prep|hd/obj1|rekening/[8,9]|noun|1
+aan/[5,6]|prep|hd/obj1|scenarios/[7,8]|noun|1
+die/[8,9]|pron|rhd/body|krijg/[11,12]|verb|1
+kan/[1,2]|verb|-- / --|./[12,13]|punct|1
+kan/[1,2]|verb|hd/su|het/[0,1]|det|1
+kan/[1,2]|verb|hd/vc|lig/[4,5]|verb|1
+krijg/[11,12]|verb|hd/su|ze/[9,10]|pron|1
+krijg/[11,12]|verb|hd/vc|schuif_toe/[10,11]|verb|1
+lig/[4,5]|verb|hd/ld|aan/[5,6]|prep|1
+lig/[4,5]|verb|hd/mod|natuurlijk/[2,3]|adj|1
+lig/[4,5]|verb|hd/mod|ook/[3,4]|adv|1
+lig/[4,5]|verb|hd/su|het/[0,1]|det|1
+scenarios/[7,8]|noun|hd/det|de/[6,7]|det|1
+scenarios/[7,8]|noun|hd/mod|die/[8,9]|pron|1
+schuif_toe/[10,11]|verb|hd/obj1|die/[8,9]|pron|1
+schuif_toe/[10,11]|verb|hd/obj2|ze/[9,10]|pron|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+besta/[3,4]|verb|-- / --|./[16,17]|punct|1
+besta/[3,4]|verb|dp/dp|niets/[10,11]|noun|1
+besta/[3,4]|verb|hd/mod|bij/[0,1]|prep|1
+besta/[3,4]|verb|hd/pc|uit/[5,6]|prep|1
+besta/[3,4]|verb|hd/su|dat/[4,5]|det|1
+bij/[0,1]|prep|hd/obj1|prent/[2,3]|noun|1
+dan/[11,12]|comparative|cmp/body|herhaaldelijk/[13,14]|adj|1
+herhaaldelijk/[13,14]|adj|hd/mod|reeds/[12,13]|adv|1
+materiaal/[15,16]|noun|hd/mod|herkauwd/[14,15]|adj|1
+niets/[10,11]|noun|dp/dp|materiaal/[15,16]|noun|1
+niets/[10,11]|noun|hd/obcomp|dan/[11,12]|comparative|1
+opeenstapeling/[7,8]|noun|hd/det|een/[6,7]|det|1
+opeenstapeling/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+prent/[2,3]|noun|hd/det|deze/[1,2]|det|1
+top/top|top|top/hd|besta/[3,4]|verb|1
+uit/[5,6]|prep|hd/obj1|opeenstapeling/[7,8]|noun|1
+van/[8,9]|prep|hd/obj1|cliché/[9,10]|noun|1
+ben/[7,8]|verb|hd/su|Valentijn/[4,5]|name|1
+ben/[7,8]|verb|hd/vc|passeer/[6,7]|verb|1
+bezoekersaantal/[17,18]|noun|hd/mod|hoog/[16,17]|adj|1
+dan/[19,20]|comparative|cmp/body|verdien/[20,21]|verb|1
+dat/[3,4]|comp|cmp/body|ben/[7,8]|verb|1
+eerder/[10,11]|adj|hd/det|een/[9,10]|det|1
+film/[14,15]|noun|hd/det|deze/[13,14]|det|1
+geluk/[2,3]|noun|-- / --|./[21,22]|punct|1
+geluk/[2,3]|noun|-- / --|Wat/[0,1]|--|1
+geluk/[2,3]|noun|-- / --|één/[1,2]|pron|1
+geluk/[2,3]|noun|dp/dp|heb/[12,13]|verb|1
+geluk/[2,3]|noun|dp/dp|release/[11,12]|noun|1
+geluk/[2,3]|noun|hd/vc|dat/[3,4]|comp|1
+heb/[12,13]|verb|hd/su|film/[14,15]|noun|1
+heb/[12,13]|verb|hd/vc|krijg/[18,19]|verb|1
+hoog/[16,17]|adj|hd/obcomp|dan/[19,20]|comparative|1
+krijg/[18,19]|verb|hd/mod|vermoedelijk/[15,16]|adj|1
+krijg/[18,19]|verb|hd/obj1|bezoekersaantal/[17,18]|noun|1
+krijg/[18,19]|verb|hd/su|film/[14,15]|noun|1
+met/[8,9]|prep|hd/obj1|eerder/[10,11]|adj|1
+passeer/[6,7]|verb|hd/mod|met/[8,9]|prep|1
+passeer/[6,7]|verb|hd/mod|net/[5,6]|adv|1
+passeer/[6,7]|verb|hd/su|Valentijn/[4,5]|name|1
+top/top|top|top/hd|geluk/[2,3]|noun|1

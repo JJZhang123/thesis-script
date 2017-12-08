@@ -1,0 +1,228 @@
+PROPNAME part/[0,2]|name|hd/app|2/[2,3]|num|1
+afsluiter/[6,7]|noun|hd/det|een/[4,5]|det|1
+afsluiter/[6,7]|noun|hd/mod|uitstekend/[5,6]|adj|1
+afsluiter/[6,7]|noun|hd/mod|voor/[7,8]|prep|1
+ben/[3,4]|verb|-- / --|./[10,11]|punct|1
+ben/[3,4]|verb|hd/predc|afsluiter/[6,7]|noun|1
+ben/[3,4]|verb|hd/su|PROPNAME part/[0,2]|name|1
+reeks/[9,10]|noun|hd/det|de/[8,9]|det|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+voor/[7,8]|prep|hd/obj1|reeks/[9,10]|noun|1
+adempauze/[20,21]|noun|hd/det|een/[18,19]|det|1
+adempauze/[20,21]|noun|hd/mod|kort/[19,20]|adj|1
+blijf_door/[7,8]|verb|hd/mod|op/[8,9]|prep|1
+blijf_door/[7,8]|verb|hd/svp|door/[12,13]|part|1
+en/[16,17]|vg|crd/cnj|daar/[17,18]|adv|1
+en/[16,17]|vg|crd/cnj|hier/[15,16]|adv|1
+en/[16,17]|vg|dp/dp|adempauze/[20,21]|noun|1
+kom/[2,3]|verb|-- / --|./[21,22]|punct|1
+kom/[2,3]|verb|-- / --|en/[6,7]|vg|1
+kom/[2,3]|verb|dp/dp|blijf_door/[7,8]|verb|1
+kom/[2,3]|verb|dp/dp|en/[16,17]|vg|1
+kom/[2,3]|verb|dp/dp|loop/[13,14]|verb|1
+kom/[2,3]|verb|dp/dp|opgang/[5,6]|noun|1
+kom/[2,3]|verb|hd/mod|snel/[4,5]|adj|1
+kom/[2,3]|verb|hd/su|verhaal/[1,2]|noun|1
+loop/[13,14]|verb|hd/obj1|me/[14,15]|pron|1
+op/[8,9]|prep|hd/obj1|tempo/[11,12]|noun|1
+snel/[4,5]|adj|hd/mod|razend/[3,4]|adj|1
+tempo/[11,12]|noun|hd/det|een/[9,10]|det|1
+tempo/[11,12]|noun|hd/mod|hoog/[10,11]|adj|1
+top/top|top|top/hd|kom/[2,3]|verb|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+als/[6,7]|comp|cmp/body|bekijk/[16,17]|verb|1
+als/[12,13]|comp|cmp/body|film/[15,16]|noun|1
+bekijk/[16,17]|verb|hd/obj1|part/[8,9]|noun|1
+bekijk/[16,17]|verb|hd/predc|als/[12,13]|comp|1
+bekijk/[16,17]|verb|hd/su|je/[7,8]|pron|1
+en/[10,11]|vg|crd/cnj|1/[9,10]|num|1
+en/[10,11]|vg|crd/cnj|2/[11,12]|num|1
+film/[15,16]|noun|hd/det|één/[13,14]|num|1
+film/[15,16]|noun|hd/mod|lang/[14,15]|adj|1
+gehaast/[4,5]|adj|hd/mod|erg/[3,4]|adj|1
+gehaast/[20,21]|adj|hd/mod|minder/[19,20]|adj|1
+hert/[0,1]|noun|hd/mod|begin/[1,2]|noun|1
+lijk/[2,3]|verb|hd/predc|gehaast/[4,5]|adj|1
+lijk/[2,3]|verb|hd/su|hert/[0,1]|noun|1
+maar/[5,6]|vg|-- / --|./[22,23]|punct|1
+maar/[5,6]|vg|crd/cnj|lijk/[2,3]|verb|1
+maar/[5,6]|vg|crd/cnj|voel_aan/[17,18]|verb|1
+part/[8,9]|noun|hd/app|en/[10,11]|vg|1
+top/top|top|top/hd|maar/[5,6]|vg|1
+voel_aan/[17,18]|verb|hd/mod|als/[6,7]|comp|1
+voel_aan/[17,18]|verb|hd/predc|gehaast/[20,21]|adj|1
+voel_aan/[17,18]|verb|hd/su|het/[18,19]|det|1
+voel_aan/[17,18]|verb|hd/svp|aan/[21,22]|part|1
+naar/[7,8]|prep|hd/obj1|gebeurtenis/[8,9]|noun|1
+sleur/[9,10]|verb|hd/ld|naar/[7,8]|prep|1
+sleur/[9,10]|verb|hd/mod|snel/[4,5]|adj|1
+sleur/[9,10]|verb|hd/mod|toch/[0,1]|adv|1
+sleur/[9,10]|verb|hd/obj1|we/[2,3]|pron|1
+snel/[4,5]|adj|hd/mod|heel/[3,4]|adv|1
+snel/[4,5]|adj|hd/mod|van/[5,6]|prep|1
+top/top|top|top/hd|word/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|gebeurtenis/[6,7]|noun|1
+word/[1,2]|verb|-- / --|./[10,11]|punct|1
+word/[1,2]|verb|hd/su|we/[2,3]|pron|1
+word/[1,2]|verb|hd/vc|sleur/[9,10]|verb|1
+aan/[4,5]|prep|hd/obj1|er/[2,3]|adv|1
+beet_DIM/[10,11]|noun|hd/det|een/[9,10]|det|1
+doe/[5,6]|verb|hd/pc|aan/[4,5]|prep|1
+doe/[5,6]|verb|hd/predc|goed/[3,4]|adj|1
+doe/[5,6]|verb|hd/su|ze/[0,1]|pron|1
+doe/[5,6]|verb|hd/vc|om/[6,7]|comp|1
+en/[14,15]|vg|crd/cnj|te/[12,13]|comp|1
+en/[14,15]|vg|crd/cnj|te/[22,23]|comp|1
+en/[16,17]|vg|crd/cnj|daar/[17,18]|adv|1
+en/[16,17]|vg|crd/cnj|hier/[15,16]|adv|1
+film/[8,9]|noun|hd/det|de/[7,8]|det|1
+heb/[1,2]|verb|-- / --|./[24,25]|punct|1
+heb/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|doe/[5,6]|verb|1
+lang/[11,12]|adj|hd/me|beet_DIM/[10,11]|noun|1
+maak/[13,14]|verb|hd/mod|lang/[11,12]|adj|1
+maak/[13,14]|verb|hd/obj1|film/[8,9]|noun|1
+maak/[13,14]|verb|hd/su|ze/[0,1]|pron|1
+meer/[19,20]|adj|hd/mod|wat/[18,19]|adv|1
+om/[6,7]|comp|cmp/body|en/[14,15]|vg|1
+scène/[20,21]|noun|hd/det|meer/[19,20]|adj|1
+te/[12,13]|comp|cmp/body|maak/[13,14]|verb|1
+te/[22,23]|comp|cmp/body|werk_uit/[23,24]|verb|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+werk_uit/[23,24]|verb|hd/mod|en/[16,17]|vg|1
+werk_uit/[23,24]|verb|hd/obj1|scène/[20,21]|noun|1
+werk_uit/[23,24]|verb|hd/su|ze/[0,1]|pron|1
+werk_uit/[23,24]|verb|hd/svp|uit/[21,22]|part|1
+aan/[13,14]|prep|hd/obj1|kant/[15,16]|noun|1
+aan/[13,14]|prep|whd/body|sta/[19,20]|verb|1
+ben/[3,4]|verb|-- / --|./[20,21]|punct|1
+ben/[3,4]|verb|hd/mod|zonder/[4,5]|prep|1
+ben/[3,4]|verb|hd/predc|degeen/[6,7]|pron|1
+ben/[3,4]|verb|hd/su|scene/[2,3]|noun|1
+kant/[15,16]|noun|hd/det|wiens/[14,15]|det|1
+kom/[12,13]|verb|hd/mod|eindelijk/[9,10]|adj|1
+kom/[12,13]|verb|hd/mod|waarin/[7,8]|pp|1
+kom/[12,13]|verb|hd/su|we/[8,9]|pron|1
+kom/[12,13]|verb|hd/svp|te weten/[10,12]|fixed|1
+kom/[12,13]|verb|hd/vc|aan/[13,14]|prep|1
+scene/[2,3]|noun|hd/det|de/[0,1]|det|1
+scene/[2,3]|noun|hd/mod|best/[1,2]|adj|1
+scene/[2,3]|noun|hd/mod|waarin/[7,8]|pp|1
+sta/[19,20]|verb|hd/ld|aan/[13,14]|prep|1
+sta/[19,20]|verb|hd/mod|eindelijk/[18,19]|adj|1
+sta/[19,20]|verb|hd/mod|nu/[17,18]|adv|1
+sta/[19,20]|verb|hd/su|Snape/[16,17]|name|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+waarin/[7,8]|pp|rhd/body|kom/[12,13]|verb|1
+zonder/[4,5]|prep|hd/obj1|twijfel/[5,6]|noun|1
+acteer/[2,3]|verb|hd/obj1|prestatie/[3,4]|noun|1
+als/[24,25]|comp|cmp/body|kijk_uit/[33,34]|verb|1
+ben/[23,24]|verb|hd/mod|als/[24,25]|comp|1
+ben/[34,35]|verb|hd/predc|onvermijdelijk/[35,36]|adj|1
+bij/[8,9]|prep|hd/obj1|mij/[9,10]|pron|1
+bij/[19,20]|prep|hd/obj1|scene/[21,22]|noun|1
+fan/[29,30]|noun|hd/det|een/[25,26]|det|1
+fan/[29,30]|noun|hd/mod|Harry Potter/[27,29]|name|1
+fan/[29,30]|noun|hd/mod|groot/[26,27]|adj|1
+fenomenaal/[1,2]|adj|-- / --|./[36,37]|punct|1
+fenomenaal/[1,2]|adj|-- / --|en/[14,15]|vg|1
+fenomenaal/[1,2]|adj|dp/dp|acteer/[2,3]|verb|1
+fenomenaal/[1,2]|adj|dp/dp|ben/[23,24]|verb|1
+fenomenaal/[1,2]|adj|dp/dp|ben/[34,35]|verb|1
+fenomenaal/[1,2]|adj|dp/dp|maak_los/[7,8]|verb|1
+fenomenaal/[1,2]|adj|dp/dp|pink_weg/[18,19]|verb|1
+fenomenaal/[1,2]|adj|hd/det|de/[0,1]|det|1
+gevoel/[12,13]|noun|hd/det|wat/[11,12]|det|1
+jaar/[31,32]|noun|hd/mod|al/[30,31]|adv|1
+kijk_uit/[33,34]|verb|hd/mod|jaar/[31,32]|noun|1
+kijk_uit/[33,34]|verb|hd/mod|naar/[32,33]|adj|1
+kijk_uit/[33,34]|verb|hd/su|fan/[29,30]|noun|1
+maak_los/[7,8]|verb|hd/mod|bij/[8,9]|prep|1
+maak_los/[7,8]|verb|hd/obj1|gevoel/[12,13]|noun|1
+maak_los/[7,8]|verb|hd/svp|los/[13,14]|part|1
+pink_weg/[18,19]|verb|hd/mod|bij/[19,20]|prep|1
+pink_weg/[18,19]|verb|hd/obj1|traan_DIM/[16,17]|noun|1
+pink_weg/[18,19]|verb|hd/svp|weg/[17,18]|part|1
+prestatie/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+scene/[21,22]|noun|hd/det|deze/[20,21]|det|1
+scene/[21,22]|noun|hd/mod|waar/[22,23]|adv|1
+top/top|top|top/hd|fenomenaal/[1,2]|adj|1
+traan_DIM/[16,17]|noun|hd/det|een/[15,16]|det|1
+van/[4,5]|prep|hd/obj1|Alan Rickman/[5,7]|name|1
+wat/[11,12]|det|hd/mod|heel/[10,11]|adv|1
+heb/[2,3]|verb|-- / --|./[13,14]|punct|1
+heb/[2,3]|verb|hd/su|Alan Rickman/[0,2]|name|1
+heb/[2,3]|verb|hd/vc|moet/[11,12]|verb|1
+krijg/[12,13]|verb|hd/mod|op zijn min/[4,7]|adj|1
+krijg/[12,13]|verb|hd/obj1|nominatie/[9,10]|noun|1
+krijg/[12,13]|verb|hd/pc|voor/[10,11]|prep|1
+krijg/[12,13]|verb|hd/su|Alan Rickman/[0,2]|name|1
+moet/[11,12]|verb|hd/su|Alan Rickman/[0,2]|name|1
+moet/[11,12]|verb|hd/vc|krijg/[12,13]|verb|1
+nominatie/[9,10]|noun|hd/det|een/[7,8]|det|1
+nominatie/[9,10]|noun|hd/mod|Oscar/[8,9]|name|1
+top/top|top|top/hd|heb/[2,3]|verb|1
+voor/[10,11]|prep|hd/obj1|hier/[3,4]|adv|1
+algemeen/[2,3]|noun|hd/det|het/[1,2]|det|1
+ben/[3,4]|verb|-- / --|./[9,10]|punct|1
+ben/[3,4]|verb|hd/mod|in/[0,1]|prep|1
+ben/[3,4]|verb|hd/predc|film/[8,9]|noun|1
+ben/[3,4]|verb|hd/su|PROPNAME/[4,5]|name|1
+film/[8,9]|noun|hd/det|een/[5,6]|det|1
+film/[8,9]|noun|hd/mod|goed/[7,8]|adj|1
+goed/[7,8]|adj|hd/mod|zeer/[6,7]|adv|1
+in/[0,1]|prep|hd/obj1|algemeen/[2,3]|noun|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+beet_DIM/[9,10]|noun|hd/det|een/[8,9]|det|1
+film/[7,8]|noun|hd/det|deze/[4,5]|det|1
+film/[7,8]|noun|hd/mod|zwaar/[6,7]|adj|1
+geplaatst/[1,2]|adj|hd/mod|goed/[0,1]|adj|1
+humor/[2,3]|noun|hd/mod|geplaatst/[1,2]|adj|1
+licht/[10,11]|adj|hd/me|beet_DIM/[9,10]|noun|1
+maak/[3,4]|verb|-- / --|./[11,12]|punct|1
+maak/[3,4]|verb|hd/obj1|film/[7,8]|noun|1
+maak/[3,4]|verb|hd/predc|licht/[10,11]|adj|1
+maak/[3,4]|verb|hd/su|humor/[2,3]|noun|1
+top/top|top|top/hd|maak/[3,4]|verb|1
+zwaar/[6,7]|adj|hd/mod|emotioneel/[5,6]|adj|1
+acteer_prestatie/[4,5]|noun|hd/det|de/[3,4]|det|1
+acteer_prestatie/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+cast/[9,10]|noun|hd/det|de/[6,7]|det|1
+cast/[9,10]|noun|hd/mod|Brits/[8,9]|adj|1
+cast/[9,10]|noun|hd/mod|fenomenaal/[7,8]|adj|1
+decor/[12,13]|noun|hd/det|de/[10,11]|det|1
+decor/[12,13]|noun|hd/mod|fantastisch/[11,12]|adj|1
+en/[13,14]|vg|crd/cnj|decor/[12,13]|noun|1
+en/[13,14]|vg|crd/cnj|special effect/[14,16]|noun|1
+film/[18,19]|noun|hd/det|deze/[17,18]|det|1
+maak/[16,17]|verb|hd/mod|echt/[19,20]|adj|1
+maak/[16,17]|verb|hd/obj1|film/[18,19]|noun|1
+maak/[16,17]|verb|hd/pc|tot/[20,21]|prep|1
+maak/[16,17]|verb|hd/su|en/[13,14]|vg|1
+parel_DIM/[22,23]|noun|hd/det|een/[21,22]|det|1
+soundtrack/[2,3]|noun|-- / --|./[23,24]|punct|1
+soundtrack/[2,3]|noun|dp/dp|acteer_prestatie/[4,5]|noun|1
+soundtrack/[2,3]|noun|dp/dp|maak/[16,17]|verb|1
+soundtrack/[2,3]|noun|hd/det|de/[0,1]|det|1
+soundtrack/[2,3]|noun|hd/mod|prachtig/[1,2]|adj|1
+special effect/[14,16]|noun|hd/det|de/[10,11]|det|1
+special effect/[14,16]|noun|hd/mod|fantastisch/[11,12]|adj|1
+top/top|top|top/hd|soundtrack/[2,3]|noun|1
+tot/[20,21]|prep|hd/obj1|parel_DIM/[22,23]|noun|1
+van/[5,6]|prep|hd/obj1|cast/[9,10]|noun|1
+Harry Potter/[5,7]|name|hd/mod|misschien/[0,1]|adv|1
+Oscar materiaal,/[2,4]|name|hd/det|geen/[1,2]|det|1
+Oscar materiaal,/[2,4]|name|hd/mod|misschien/[0,1]|adv|1
+aan/[12,13]|prep|hd/obj1|film/[15,16]|noun|1
+belangrijk/[10,11]|adj|hd/mod|enorm/[9,10]|adj|1
+ben/[7,8]|verb|-- / --|./[16,17]|punct|1
+ben/[7,8]|verb|hd/predc|bijdrage/[11,12]|noun|1
+ben/[7,8]|verb|hd/su|maar/[4,5]|vg|1
+bijdrage/[11,12]|noun|hd/det|een/[8,9]|det|1
+bijdrage/[11,12]|noun|hd/mod|aan/[12,13]|prep|1
+bijdrage/[11,12]|noun|hd/mod|belangrijk/[10,11]|adj|1
+film/[15,16]|noun|hd/det|de/[13,14]|det|1
+film/[15,16]|noun|hd/mod|Brits/[14,15]|adj|1
+maar/[4,5]|vg|crd/cnj|Harry Potter/[5,7]|name|1
+maar/[4,5]|vg|crd/cnj|Oscar materiaal,/[2,4]|name|1
+top/top|top|top/hd|ben/[7,8]|verb|1

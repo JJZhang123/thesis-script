@@ -1,0 +1,65 @@
+bekoor/[7,8]|verb|hd/mod|allesbehalve/[5,7]|adv|1
+bekoor/[7,8]|verb|hd/obj1|me/[4,5]|pron|1
+bekoor/[7,8]|verb|hd/su|fastfoodketen/[1,2]|noun|1
+fastfoodketen/[1,2]|noun|hd/app|PROPNAME/[2,3]|name|1
+fastfoodketen/[1,2]|noun|hd/det|de/[0,1]|det|1
+kan/[3,4]|verb|-- / --|./[8,9]|punct|1
+kan/[3,4]|verb|hd/su|fastfoodketen/[1,2]|noun|1
+kan/[3,4]|verb|hd/vc|bekoor/[7,8]|verb|1
+top/top|top|top/hd|kan/[3,4]|verb|1
+als/[17,18]|comp|cmp/body|maaltijd/[21,22]|noun|1
+en/[1,2]|vg|-- / --|./[22,23]|punct|1
+en/[1,2]|vg|-- / --|aan/[12,13]|prep|1
+en/[1,2]|vg|-- / --|breng/[16,17]|verb|1
+en/[1,2]|vg|-- / --|dat/[6,7]|comp|1
+en/[1,2]|vg|-- / --|de/[13,14]|det|1
+en/[1,2]|vg|-- / --|feit/[5,6]|noun|1
+en/[1,2]|vg|-- / --|het/[4,5]|noun|1
+en/[1,2]|vg|-- / --|man/[14,15]|tag|1
+en/[1,2]|vg|-- / --|ze/[7,8]|pron|1
+en/[1,2]|vg|crd/cnj|eerst/[0,1]|adv|1
+en/[1,2]|vg|crd/cnj|vooral/[2,3]|adv|1
+en/[1,2]|vg|dp/dp|al/[3,4]|adv|1
+en/[1,2]|vg|dp/dp|als/[17,18]|comp|1
+en/[1,2]|vg|dp/dp|etenswaar/[11,12]|noun|1
+en/[1,2]|vg|dp/dp|probeer/[15,16]|verb|1
+en/[19,20]|vg|crd/cnj|gezond/[20,21]|adj|1
+en/[19,20]|vg|crd/cnj|volwaardig/[18,19]|adj|1
+etenswaar/[11,12]|noun|hd/det|de/[8,9]|det|1
+etenswaar/[11,12]|noun|hd/mod|ongezond/[10,11]|adj|1
+maaltijd/[21,22]|noun|hd/mod|en/[19,20]|vg|1
+ongezond/[10,11]|adj|hd/mod|meest/[9,10]|adj|1
+top/top|top|top/hd|en/[1,2]|vg|1
+Amerikaans/[27,28]|adj|hd/mod|zeer/[26,27]|adv|1
+dat/[6,7]|comp|cmp/body|kan/[18,19]|verb|1
+en/[20,21]|vg|crd/cnj|dat/[21,22]|det|1
+en/[20,21]|vg|crd/cnj|woord/[16,17]|noun|1
+fastfoodrestauranten/[11,12]|noun|hd/det|zulk/[10,11]|det|1
+getint/[28,29]|adj|hd/mod|Amerikaans/[27,28]|adj|1
+in/[24,25]|prep|hd/obj1|omgeving/[29,30]|noun|1
+irriteer/[1,2]|verb|-- / --|./[31,32]|punct|1
+irriteer/[1,2]|verb|hd/mod|daarnaast/[0,1]|pp|1
+irriteer/[1,2]|verb|hd/mod|mateloos/[5,6]|adj|1
+irriteer/[1,2]|verb|hd/mod|ook/[4,5]|adv|1
+irriteer/[1,2]|verb|hd/obj2|me/[3,4]|pron|1
+irriteer/[1,2]|verb|hd/su|dat/[6,7]|comp|1
+irriteer/[1,2]|verb|hd/sup|het/[2,3]|noun|1
+kan/[18,19]|verb|hd/su|medewerker/[8,9]|noun|1
+kan/[18,19]|verb|hd/vc|spreek/[19,20]|verb|1
+medewerker/[8,9]|noun|hd/det|de/[7,8]|det|1
+medewerker/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+niet/[13,14]|adv|hd/mod|eens/[14,15]|adv|1
+omgeving/[29,30]|noun|hd/det|een/[25,26]|det|1
+omgeving/[29,30]|noun|hd/mod|getint/[28,29]|adj|1
+spreek/[19,20]|verb|hd/mod|niet/[13,14]|adv|1
+spreek/[19,20]|verb|hd/mod|terwijl/[22,23]|comp|1
+spreek/[19,20]|verb|hd/mod|vaak/[12,13]|adj|1
+spreek/[19,20]|verb|hd/obj1|en/[20,21]|vg|1
+spreek/[19,20]|verb|hd/su|medewerker/[8,9]|noun|1
+terwijl/[22,23]|comp|cmp/body|werk/[30,31]|verb|1
+top/top|top|top/hd|irriteer/[1,2]|verb|1
+van/[9,10]|prep|hd/obj1|fastfoodrestauranten/[11,12]|noun|1
+werk/[30,31]|verb|hd/mod|in/[24,25]|prep|1
+werk/[30,31]|verb|hd/su|ze/[23,24]|pron|1
+woord/[16,17]|noun|hd/app|Engels/[17,18]|noun|1
+woord/[16,17]|noun|hd/det|een/[15,16]|det|1

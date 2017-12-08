@@ -1,0 +1,65 @@
+film/[1,2]|noun|-- / --|!!/[2,3]|punct|1
+film/[1,2]|noun|hd/mod|verschrikkelijk/[0,1]|adj|1
+top/top|top|top/hd|film/[1,2]|noun|1
+geforceerd/[16,17]|adj|hd/mod|wat/[15,16]|adv|1
+hoofd_personage/[8,9]|noun|hd/det|de/[6,7]|det|1
+hoofd_personage/[8,9]|noun|hd/det|twee/[7,8]|num|1
+hoofd_personage/[8,9]|noun|hd/mod|daardoor/[9,10]|pp|1
+lijk/[10,11]|verb|hd/mod|maar/[14,15]|adv|1
+lijk/[10,11]|verb|hd/mod|tussen/[5,6]|prep|1
+lijk/[10,11]|verb|hd/predc|geforceerd/[16,17]|adj|1
+lijk/[10,11]|verb|hd/su|relatie/[13,14]|noun|1
+relatie/[13,14]|noun|hd/det|de/[11,12]|det|1
+relatie/[13,14]|noun|hd/mod|heel/[12,13]|adj|1
+spark/[4,5]|noun|hd/det|geen/[3,4]|det|1
+top/top|top|top/hd|zit/[1,2]|verb|1
+tussen/[5,6]|prep|hd/obj1|hoofd_personage/[8,9]|noun|1
+zit/[1,2]|verb|-- / --|./[17,18]|punct|1
+zit/[1,2]|verb|dp/dp|lijk/[10,11]|verb|1
+zit/[1,2]|verb|hd/mod|compleet/[2,3]|adj|1
+zit/[1,2]|verb|hd/mod|er/[0,1]|adv|1
+zit/[1,2]|verb|hd/su|spark/[4,5]|noun|1
+achter/[15,16]|prep|hd/obj1|daar/[14,15]|adv|1
+dat/[12,13]|comp|cmp/body|kom/[16,17]|verb|1
+einde/[26,27]|noun|hd/det|een/[24,25]|det|1
+einde/[26,27]|noun|hd/mod|leuk/[25,26]|adj|1
+en/[18,19]|vg|crd/cnj|alleen/[19,20]|adj|1
+en/[18,19]|vg|crd/cnj|puur/[17,18]|adj|1
+film/[22,23]|noun|hd/det|de/[21,22]|det|1
+ga/[8,9]|verb|hd/mod|per/[5,6]|prep|1
+ga/[8,9]|verb|hd/mod|waar/[3,4]|adv|1
+ga/[8,9]|verb|hd/predc|vreemd/[7,8]|adj|1
+ga/[8,9]|verb|hd/su|John/[4,5]|name|1
+geef/[28,29]|verb|hd/mod|en/[18,19]|vg|1
+geef/[28,29]|verb|hd/mod|nog/[23,24]|adv|1
+geef/[28,29]|verb|hd/mod|om/[20,21]|prep|1
+geef/[28,29]|verb|hd/obj1|einde/[26,27]|noun|1
+hoop/[9,10]|verb|-- / --|./[29,30]|punct|1
+hoop/[9,10]|verb|dp/dp|te/[27,28]|comp|1
+hoop/[9,10]|verb|hd/mod|op/[0,1]|prep|1
+hoop/[9,10]|verb|hd/mod|zelfs/[11,12]|adv|1
+hoop/[9,10]|verb|hd/su|je/[10,11]|pron|1
+hoop/[9,10]|verb|hd/vc|dat/[12,13]|comp|1
+kom/[16,17]|verb|hd/pc|achter/[15,16]|prep|1
+kom/[16,17]|verb|hd/su|Kim/[13,14]|name|1
+om/[20,21]|prep|hd/obj1|film/[22,23]|noun|1
+op/[0,1]|prep|hd/obj1|punt/[2,3]|noun|1
+per/[5,6]|prep|hd/obj1|ongeluk/[6,7]|noun|1
+punt/[2,3]|noun|hd/det|het/[1,2]|det|1
+punt/[2,3]|noun|hd/mod|waar/[3,4]|adv|1
+te/[27,28]|comp|cmp/body|geef/[28,29]|verb|1
+top/top|top|top/hd|hoop/[9,10]|verb|1
+waar/[3,4]|adv|rhd/body|ga/[8,9]|verb|1
+film/[8,9]|noun|hd/mod|slecht/[7,8]|adj|1
+hoop/[1,2]|verb|-- / --|./[11,12]|punct|1
+hoop/[1,2]|verb|-- / --|dat/[2,3]|comp|1
+hoop/[1,2]|verb|dp/dp|ik/[3,4]|pron|1
+hoop/[1,2]|verb|dp/dp|moet/[9,10]|verb|1
+hoop/[1,2]|verb|dp/dp|nooit/[4,5]|adv|1
+hoop/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+kijk/[10,11]|verb|hd/su|film/[8,9]|noun|1
+moet/[9,10]|verb|hd/su|film/[8,9]|noun|1
+moet/[9,10]|verb|hd/vc|kijk/[10,11]|verb|1
+nooit/[4,5]|adv|dp/dp|zon/[6,7]|noun|1
+nooit/[4,5]|adv|hd/mod|meer/[5,6]|adv|1
+top/top|top|top/hd|hoop/[1,2]|verb|1

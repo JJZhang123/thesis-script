@@ -1,0 +1,57 @@
+boek/[4,5]|noun|hd/det|het/[2,3]|det|1
+boek/[4,5]|noun|hd/mod|gelijknamig/[3,4]|adj|1
+boek/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+doe_aan/[1,2]|verb|-- / --|./[12,13]|punct|1
+doe_aan/[1,2]|verb|hd/obj1|eer/[10,11]|noun|1
+doe_aan/[1,2]|verb|hd/obj2|boek/[4,5]|noun|1
+doe_aan/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+doe_aan/[1,2]|verb|hd/svp|aan/[11,12]|part|1
+eer/[10,11]|noun|hd/det|geen/[9,10]|det|1
+top/top|top|top/hd|doe_aan/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|Jonh le Carré/[6,9]|name|1
+aan/[12,13]|prep|hd/obj1|verhaal/[14,15]|noun|1
+boek/[5,6]|noun|hd/det|de/[4,5]|det|1
+dat/[2,3]|pron|rhd/body|heers/[6,7]|verb|1
+geef/[7,8]|verb|-- / --|./[15,16]|punct|1
+geef/[7,8]|verb|hd/mod|net/[8,9]|adv|1
+geef/[7,8]|verb|hd/obj1|touch/[11,12]|noun|1
+geef/[7,8]|verb|hd/obj2|aan/[12,13]|prep|1
+geef/[7,8]|verb|hd/su|mysterie/[1,2]|noun|1
+heers/[6,7]|verb|hd/mod|in/[3,4]|prep|1
+heers/[6,7]|verb|hd/su|dat/[2,3]|pron|1
+in/[3,4]|prep|hd/obj1|boek/[5,6]|noun|1
+mysterie/[1,2]|noun|hd/det|het/[0,1]|det|1
+mysterie/[1,2]|noun|hd/mod|dat/[2,3]|pron|1
+top/top|top|top/hd|geef/[7,8]|verb|1
+touch/[11,12]|noun|hd/det|die/[9,10]|det|1
+touch/[11,12]|noun|hd/mod|extra/[10,11]|adj|1
+verhaal/[14,15]|noun|hd/det|het/[13,14]|det|1
+ben/[2,3]|verb|-- / --|./[16,17]|punct|1
+ben/[2,3]|verb|hd/su|regisseur/[1,2]|noun|1
+ben/[2,3]|verb|hd/vc|slaag/[6,7]|verb|1
+in/[5,6]|prep|hd/pobj1|er/[3,4]|adv|1
+in/[5,6]|prep|hd/vc|te/[13,14]|comp|1
+kom_over/[15,16]|verb|hd/mod|ook/[8,9]|adv|1
+kom_over/[15,16]|verb|hd/mod|op/[9,10]|prep|1
+kom_over/[15,16]|verb|hd/su|dit/[7,8]|det|1
+kom_over/[15,16]|verb|hd/svp|over/[12,13]|part|1
+laat/[14,15]|verb|hd/obj1|dit/[7,8]|det|1
+laat/[14,15]|verb|hd/su|regisseur/[1,2]|noun|1
+laat/[14,15]|verb|hd/vc|kom_over/[15,16]|verb|1
+op/[9,10]|prep|hd/obj1|scherm/[11,12]|noun|1
+regisseur/[1,2]|noun|hd/det|de/[0,1]|det|1
+scherm/[11,12]|noun|hd/det|het/[10,11]|det|1
+slaag/[6,7]|verb|hd/mod|niet/[4,5]|adv|1
+slaag/[6,7]|verb|hd/pc|in/[5,6]|prep|1
+slaag/[6,7]|verb|hd/su|regisseur/[1,2]|noun|1
+te/[13,14]|comp|cmp/body|laat/[14,15]|verb|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+ben/[5,6]|verb|-- / --|,/[4,5]|punct|1
+ben/[5,6]|verb|-- / --|./[10,11]|punct|1
+ben/[5,6]|verb|hd/mod|gewoonweg/[8,9]|adv|1
+ben/[5,6]|verb|hd/mod|in plaats van/[0,3]|comp|1
+ben/[5,6]|verb|hd/predc|onduidelijk/[9,10]|adj|1
+ben/[5,6]|verb|hd/su|film/[7,8]|noun|1
+film/[7,8]|noun|hd/det|de/[6,7]|det|1
+in plaats van/[0,3]|comp|cmp/body|mysterieus/[3,4]|adj|1
+top/top|top|top/hd|ben/[5,6]|verb|1

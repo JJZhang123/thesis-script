@@ -1,0 +1,65 @@
+ben/[1,2]|verb|-- / --|./[14,15]|punct|1
+ben/[1,2]|verb|hd/predc|één/[2,3]|num|1
+ben/[1,2]|verb|hd/su|dit/[0,1]|det|1
+die/[7,8]|pron|rhd/body|heb/[13,14]|verb|1
+heb/[13,14]|verb|hd/su|ik/[8,9]|pron|1
+heb/[13,14]|verb|hd/vc|zie/[12,13]|verb|1
+horror_film/[6,7]|noun|hd/det|de/[4,5]|det|1
+horror_film/[6,7]|noun|hd/mod|die/[7,8]|pron|1
+horror_film/[6,7]|noun|hd/mod|slecht/[5,6]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+tot/[9,10]|prep|hd/hdf|toe/[11,12]|part|1
+tot/[9,10]|prep|hd/obj1|nu/[10,11]|adv|1
+van/[3,4]|prep|hd/obj1|horror_film/[6,7]|noun|1
+zie/[12,13]|verb|hd/mod|tot/[9,10]|prep|1
+zie/[12,13]|verb|hd/obj1|die/[7,8]|pron|1
+zie/[12,13]|verb|hd/su|ik/[8,9]|pron|1
+één/[2,3]|num|hd/mod|van/[3,4]|prep|1
+acteer_werk/[1,2]|noun|hd/det|het/[0,1]|det|1
+ben/[2,3]|verb|hd/predc|ondermaats/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|acteer_werk/[1,2]|noun|1
+ben/[10,11]|verb|hd/mod|allesbehalve/[11,13]|adv|1
+ben/[10,11]|verb|hd/predc|special/[13,14]|noun|1
+ben/[10,11]|verb|hd/su|special effects/[8,10]|noun|1
+en/[5,6]|vg|-- / --|./[14,15]|punct|1
+en/[5,6]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[5,6]|vg|crd/cnj|ben/[10,11]|verb|1
+ondermaats/[4,5]|adj|hd/mod|bijzonder/[3,4]|adj|1
+special effects/[8,10]|noun|hd/det|de/[7,8]|det|1
+special effects/[8,10]|noun|hd/mod|ook/[6,7]|adv|1
+top/top|top|top/hd|en/[5,6]|vg|1
+ben/[6,7]|verb|hd/predc|voorspelbaar/[8,9]|adj|1
+ben/[6,7]|verb|hd/su|plot/[1,2]|noun|1
+boei/[4,5]|verb|hd/mod|niet/[3,4]|adv|1
+boei/[4,5]|verb|hd/su|plot/[1,2]|noun|1
+en/[5,6]|vg|-- / --|./[9,10]|punct|1
+en/[5,6]|vg|crd/cnj|ben/[6,7]|verb|1
+en/[5,6]|vg|crd/cnj|kan/[2,3]|verb|1
+kan/[2,3]|verb|hd/su|plot/[1,2]|noun|1
+kan/[2,3]|verb|hd/vc|boei/[4,5]|verb|1
+plot/[1,2]|noun|hd/det|het/[0,1]|det|1
+top/top|top|top/hd|en/[5,6]|vg|1
+voorspelbaar/[8,9]|adj|hd/mod|te/[7,8]|adv|1
+Kortom,/[0,1]|name|-- / --|./[18,19]|punct|1
+Kortom,/[0,1]|name|dp/dp|lijk/[2,3]|verb|1
+ben/[5,6]|verb|hd/su|dit/[1,2]|det|1
+ben/[5,6]|verb|hd/vc|maak/[3,4]|verb|1
+die/[11,12]|pron|rhd/body|heb/[17,18]|verb|1
+door/[6,7]|prep|hd/obj1|groep/[9,10]|noun|1
+groep/[9,10]|noun|hd/det|een/[7,8]|det|1
+groep/[9,10]|noun|hd/mod|onervaren/[8,9]|adj|1
+groep/[9,10]|noun|hd/mod|vriend/[10,11]|noun|1
+heb/[17,18]|verb|hd/predm|zelf/[12,13]|adv|1
+heb/[17,18]|verb|hd/su|die/[11,12]|pron|1
+heb/[17,18]|verb|hd/vc|zie/[16,17]|verb|1
+horror_film/[15,16]|noun|hd/det|een/[14,15]|det|1
+lijk/[2,3]|verb|hd/su|dit/[1,2]|det|1
+lijk/[2,3]|verb|hd/vc|te/[4,5]|comp|1
+maak/[3,4]|verb|hd/mod|door/[6,7]|prep|1
+maak/[3,4]|verb|hd/obj1|dit/[1,2]|det|1
+te/[4,5]|comp|cmp/body|ben/[5,6]|verb|1
+top/top|top|top/hd|Kortom,/[0,1]|name|1
+vriend/[10,11]|noun|hd/mod|die/[11,12]|pron|1
+zie/[16,17]|verb|hd/mod|nooit/[13,14]|adv|1
+zie/[16,17]|verb|hd/obj1|horror_film/[15,16]|noun|1
+zie/[16,17]|verb|hd/su|die/[11,12]|pron|1

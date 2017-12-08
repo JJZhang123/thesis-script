@@ -1,0 +1,102 @@
+Gemeenschap/[23,24]|name|hd/det|de/[21,22]|det|1
+Gemeenschap/[23,24]|name|hd/mod|Frans_talig/[22,23]|adj|1
+feest/[19,20]|noun|hd/det|het/[18,19]|det|1
+feest/[19,20]|noun|hd/mod|van/[20,21]|prep|1
+in/[10,11]|prep|hd/obj1|Brussel/[11,12]|name|1
+om/[9,10]|comp|cmp/body|te/[13,14]|comp|1
+op/[0,1]|prep|hd/obj1|28 september 2013/[1,4]|noun|1
+op/[6,7]|prep|hd/obj1|programma/[8,9]|noun|1
+programma/[8,9]|noun|hd/det|het/[7,8]|det|1
+sta/[4,5]|verb|-- / --|./[24,25]|punct|1
+sta/[4,5]|verb|hd/ld|op/[6,7]|prep|1
+sta/[4,5]|verb|hd/mod|om/[9,10]|comp|1
+sta/[4,5]|verb|hd/mod|op/[0,1]|prep|1
+sta/[4,5]|verb|hd/su|PROPNAME/[5,6]|name|1
+te/[13,14]|comp|cmp/body|treed_op/[14,15]|verb|1
+ter gelegenheid van/[15,18]|prep|hd/obj1|feest/[19,20]|noun|1
+top/top|top|top/hd|sta/[4,5]|verb|1
+treed_op/[14,15]|verb|hd/ld|in/[10,11]|prep|1
+treed_op/[14,15]|verb|hd/mod|ter gelegenheid van/[15,18]|prep|1
+treed_op/[14,15]|verb|hd/svp|op/[12,13]|part|1
+van/[20,21]|prep|hd/obj1|Gemeenschap/[23,24]|name|1
+Grote Markt/[8,10]|name|hd/det|de/[7,8]|det|1
+aantal/[13,14]|noun|hd/det|een/[12,13]|det|1
+aantal/[13,14]|noun|hd/mod|collegas/[14,15]|noun|1
+aantal/[13,14]|noun|hd/mod|van/[15,16]|prep|1
+met/[11,12]|prep|hd/obj1|aantal/[13,14]|noun|1
+op/[6,7]|prep|hd/obj1|Grote Markt/[8,10]|name|1
+optreden/[5,6]|noun|hd/det|het/[4,5]|det|1
+optreden/[5,6]|noun|hd/mod|op/[6,7]|prep|1
+top/top|top|top/hd|woon_bij/[1,2]|verb|1
+van/[15,16]|prep|hd/obj1|werk/[17,18]|noun|1
+vrijdag_avond/[3,4]|noun|hd/det|die/[2,3]|det|1
+werk/[17,18]|noun|hd/det|het/[16,17]|det|1
+woon_bij/[1,2]|verb|-- / --|./[18,19]|punct|1
+woon_bij/[1,2]|verb|hd/mod|met/[11,12]|prep|1
+woon_bij/[1,2]|verb|hd/mod|vrijdag_avond/[3,4]|noun|1
+woon_bij/[1,2]|verb|hd/obj1|optreden/[5,6]|noun|1
+woon_bij/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+woon_bij/[1,2]|verb|hd/svp|bij/[10,11]|part|1
+aan/[12,13]|prep|hd/obj1|werk/[14,15]|noun|1
+ben/[1,2]|verb|-- / --|./[16,17]|punct|1
+ben/[1,2]|verb|hd/predc|keer/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|dat/[5,6]|comp|1
+ben/[1,2]|verb|hd/sup|het/[0,1]|noun|1
+dat/[5,6]|comp|cmp/body|zie/[15,16]|verb|1
+heer/[8,9]|noun|hd/app|Paul Van Haver/[9,12]|name|1
+heer/[8,9]|noun|hd/det|de/[7,8]|det|1
+keer/[4,5]|noun|hd/det|de/[2,3]|det|1
+keer/[4,5]|noun|hd/mod|eerste/[3,4]|num|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+werk/[14,15]|noun|hd/det|het/[13,14]|det|1
+zie/[15,16]|verb|hd/obj1|heer/[8,9]|noun|1
+zie/[15,16]|verb|hd/pc|aan/[12,13]|prep|1
+zie/[15,16]|verb|hd/su|ik/[6,7]|pron|1
+dat/[5,6]|comp|cmp/body|schep/[11,12]|verb|1
+en/[12,13]|vg|-- / --|./[20,21]|punct|1
+en/[12,13]|vg|crd/cnj|val_op/[1,2]|verb|1
+en/[12,13]|vg|crd/cnj|word/[14,15]|verb|1
+entertainer/[8,9]|noun|hd/det|deze/[6,7]|det|1
+entertainer/[8,9]|noun|hd/mod|groot/[7,8]|adj|1
+los_in/[19,20]|verb|hd/mod|helemaal/[18,19]|adv|1
+los_in/[19,20]|verb|hd/mod|tijdens/[15,16]|prep|1
+los_in/[19,20]|verb|hd/obj1|deze/[13,14]|det|1
+schep/[11,12]|verb|hd/obj1|verwachting/[10,11]|noun|1
+schep/[11,12]|verb|hd/su|entertainer/[8,9]|noun|1
+show/[17,18]|noun|hd/det|zijn/[16,17]|det|1
+tijdens/[15,16]|prep|hd/obj1|show/[17,18]|noun|1
+top/top|top|top/hd|en/[12,13]|vg|1
+val_op/[1,2]|verb|hd/mod|onmiddellijk/[3,4]|adj|1
+val_op/[1,2]|verb|hd/obj2|me/[2,3]|pron|1
+val_op/[1,2]|verb|hd/su|dat/[5,6]|comp|1
+val_op/[1,2]|verb|hd/sup|het/[0,1]|noun|1
+val_op/[1,2]|verb|hd/svp|op/[4,5]|part|1
+verwachting/[10,11]|noun|hd/mod|groot/[9,10]|adj|1
+word/[14,15]|verb|hd/su|deze/[13,14]|det|1
+word/[14,15]|verb|hd/vc|los_in/[19,20]|verb|1
+dat/[11,12]|comp|cmp/body|krijg/[24,25]|verb|1
+en/[6,7]|vg|crd/cnj|muziek/[5,6]|noun|1
+en/[6,7]|vg|crd/cnj|twee_talig_heid/[8,9]|noun|1
+ervoor/[10,11]|pp|hd/vc|dat/[11,12]|comp|1
+hand/[23,24]|noun|hd/det|zijn/[22,23]|det|1
+in/[13,14]|prep|hd/obj1|mum/[15,16]|noun|1
+krijg/[24,25]|verb|hd/ld|op/[21,22]|prep|1
+krijg/[24,25]|verb|hd/mod|in/[13,14]|prep|1
+krijg/[24,25]|verb|hd/obj1|publiek/[20,21]|noun|1
+krijg/[24,25]|verb|hd/su|hij/[12,13]|pron|1
+mum/[15,16]|noun|hd/det|een/[14,15]|det|1
+mum/[15,16]|noun|hd/mod|van/[16,17]|prep|1
+muziek/[5,6]|noun|hd/det|de/[3,4]|det|1
+muziek/[5,6]|noun|hd/mod|aanstekelijk/[4,5]|adj|1
+op/[21,22]|prep|hd/obj1|hand/[23,24]|noun|1
+publiek/[20,21]|noun|hd/det|het/[18,19]|det|1
+publiek/[20,21]|noun|hd/mod|heel/[19,20]|adj|1
+sfeer/[2,3]|noun|-- / --|!/[25,26]|punct|1
+sfeer/[2,3]|noun|dp/dp|zorg/[9,10]|verb|1
+sfeer/[2,3]|noun|hd/det|de/[0,1]|det|1
+sfeer/[2,3]|noun|hd/mod|mysterieus/[1,2]|adj|1
+top/top|top|top/hd|sfeer/[2,3]|noun|1
+twee_talig_heid/[8,9]|noun|hd/det|zijn/[7,8]|det|1
+van/[16,17]|prep|hd/obj1|tijd/[17,18]|noun|1
+zorg/[9,10]|verb|hd/pc|ervoor/[10,11]|pp|1
+zorg/[9,10]|verb|hd/su|en/[6,7]|vg|1

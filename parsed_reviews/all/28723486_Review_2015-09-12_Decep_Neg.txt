@@ -1,0 +1,103 @@
+exploiteer/[6,7]|verb|hd/mod|in/[0,1]|prep|1
+exploiteer/[6,7]|verb|hd/mod|werkelijk/[3,4]|adj|1
+exploiteer/[6,7]|verb|hd/obj1|niets/[4,5]|noun|1
+in/[0,1]|prep|hd/obj1|PROPNAME/[1,2]|name|1
+niets/[4,5]|noun|hd/mod|nieuw/[5,6]|adj|1
+top/top|top|top/hd|word/[2,3]|verb|1
+word/[2,3]|verb|-- / --|./[7,8]|punct|1
+word/[2,3]|verb|hd/su|niets/[4,5]|noun|1
+word/[2,3]|verb|hd/vc|exploiteer/[6,7]|verb|1
+ben/[3,4]|verb|-- / --|./[23,24]|punct|1
+ben/[3,4]|verb|dp/dp|boy-meets-girl-flashback/[15,16]|noun|1
+ben/[3,4]|verb|dp/dp|end/[22,23]|noun|1
+ben/[3,4]|verb|hd/obj2|herkauwsel/[6,7]|noun|1
+ben/[3,4]|verb|hd/predc|koppel/[12,13]|noun|1
+ben/[3,4]|verb|hd/su|romcom/[2,3]|noun|1
+boy-meets-girl-flashback/[15,16]|noun|dp/dp|vervolgens/[19,20]|adv|1
+boy-meets-girl-flashback/[15,16]|noun|hd/det|een/[13,14]|det|1
+boy-meets-girl-flashback/[15,16]|noun|hd/mod|gigantisch/[14,15]|adj|1
+boy-meets-girl-flashback/[15,16]|noun|hd/mod|naar/[16,17]|prep|1
+concept/[9,10]|noun|hd/det|hetzelfde/[8,9]|det|1
+end/[22,23]|noun|hd/det|een/[20,21]|det|1
+end/[22,23]|noun|hd/mod|happy/[21,22]|adj|1
+herkauwsel/[6,7]|noun|hd/det|een/[4,5]|det|1
+herkauwsel/[6,7]|noun|hd/det|tienduizendste/[5,6]|num|1
+herkauwsel/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+koppel/[12,13]|noun|hd/det|een/[10,11]|det|1
+koppel/[12,13]|noun|hd/mod|ongelukkig/[11,12]|adj|1
+naar/[16,17]|prep|hd/obj1|tijd/[18,19]|noun|1
+romcom/[2,3]|noun|hd/det|deze/[0,1]|det|1
+romcom/[2,3]|noun|hd/mod|plat/[1,2]|adj|1
+tijd/[18,19]|noun|hd/mod|goed/[17,18]|adj|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+van/[7,8]|prep|hd/obj1|concept/[9,10]|noun|1
+alles/[1,2]|noun|hd/det|dit/[0,1]|det|1
+humor/[11,12]|noun|hd/mod|goedkoop/[10,11]|adj|1
+met/[4,5]|prep|hd/obj1|saus/[8,9]|noun|1
+overgiet/[3,4]|verb|-- / --|./[12,13]|punct|1
+overgiet/[3,4]|verb|hd/mod|overdadig/[2,3]|adj|1
+overgiet/[3,4]|verb|hd/obj1|alles/[1,2]|noun|1
+overgiet/[3,4]|verb|hd/pc|met/[4,5]|prep|1
+saus/[8,9]|noun|hd/det|een/[5,6]|det|1
+saus/[8,9]|noun|hd/mod|dik/[6,7]|adj|1
+saus/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+saus/[8,9]|noun|hd/mod|wrang/[7,8]|adj|1
+top/top|top|top/hd|overgiet/[3,4]|verb|1
+van/[9,10]|prep|hd/obj1|humor/[11,12]|noun|1
+film/[3,4]|noun|hd/det|deze/[2,3]|det|1
+heb/[1,2]|verb|-- / --|./[11,12]|punct|1
+heb/[1,2]|verb|dp/dp|lijk/[9,10]|verb|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|zie/[7,8]|verb|1
+lijk/[9,10]|verb|hd/predc|zo/[8,9]|adj|1
+lijk/[9,10]|verb|hd/su|het/[10,11]|det|1
+tientallen/[5,6]|noun|hd/mod|keer/[6,7]|noun|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+zie/[7,8]|verb|hd/mod|al/[4,5]|adv|1
+zie/[7,8]|verb|hd/mod|tientallen/[5,6]|noun|1
+zie/[7,8]|verb|hd/obj1|film/[3,4]|noun|1
+zie/[7,8]|verb|hd/su|ik/[0,1]|pron|1
+Hollywood_afkooksel/[1,2]|noun|-- / --|./[12,13]|punct|1
+Hollywood_afkooksel/[1,2]|noun|hd/det|een/[0,1]|det|1
+Hollywood_afkooksel/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+Hollywood_afkooksel/[4,5]|noun|hd/det|een/[3,4]|det|1
+Hollywood_afkooksel/[4,5]|noun|hd/mod|waar/[5,6]|adv|1
+aan/[10,11]|prep|hd/obj1|waar/[5,6]|adv|1
+boodschap/[9,10]|noun|hd/det|een/[8,9]|det|1
+heb/[11,12]|verb|hd/mod|letterlijk/[6,7]|adj|1
+heb/[11,12]|verb|hd/obj1|boodschap/[9,10]|noun|1
+heb/[11,12]|verb|hd/pc|aan/[10,11]|prep|1
+heb/[11,12]|verb|hd/su|niemand/[7,8]|pron|1
+top/top|top|top/hd|Hollywood_afkooksel/[1,2]|noun|1
+van/[2,3]|prep|hd/obj1|Hollywood_afkooksel/[4,5]|noun|1
+waar/[5,6]|adv|rhd/body|heb/[11,12]|verb|1
+behalve/[0,1]|comp|-- / --|./[8,9]|punct|1
+behalve/[0,1]|comp|cmp/body|portemonnee/[2,3]|noun|1
+behalve/[0,1]|comp|dp/dp|dan/[6,7]|adv|1
+dan/[6,7]|adv|dp/dp|misschien/[7,8]|adv|1
+filmmaker/[5,6]|noun|hd/det|de/[4,5]|det|1
+portemonnee/[2,3]|noun|hd/det|de/[1,2]|det|1
+portemonnee/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+top/top|top|top/hd|behalve/[0,1]|comp|1
+van/[3,4]|prep|hd/obj1|filmmaker/[5,6]|noun|1
+bij/[7,8]|prep|hd/obj1|liefhebber/[8,9]|noun|1
+liefhebber/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+lijk/[6,7]|verb|hd/vc|te/[15,16]|comp|1
+misbaksel/[1,2]|noun|-- / --|./[17,18]|punct|1
+misbaksel/[1,2]|noun|dp/dp|lijk/[6,7]|verb|1
+misbaksel/[1,2]|noun|dp/dp|onwaardig/[5,6]|adj|1
+misbaksel/[1,2]|noun|hd/det|dit/[0,1]|det|1
+onwaardig/[5,6]|adj|hd/obj2|term/[3,4]|noun|1
+te/[15,16]|comp|cmp/body|val/[16,17]|verb|1
+term/[3,4]|noun|hd/app|film/[4,5]|noun|1
+term/[3,4]|noun|hd/det|de/[2,3]|det|1
+top/top|top|top/hd|misbaksel/[1,2]|noun|1
+val/[16,17]|verb|hd/mod|bij/[7,8]|prep|1
+val/[16,17]|verb|hd/mod|wel/[11,12]|adj|1
+val/[16,17]|verb|hd/svp|in de smaak/[12,15]|fixed|1
+van/[9,10]|prep|hd/obj1|hap-slik_medium/[10,11]|noun|1
+kauw/[1,2]|verb|-- / --|./[4,5]|punct|1
+kauw/[1,2]|verb|hd/mod|lief/[2,3]|adj|1
+kauw/[1,2]|verb|hd/predm|zelf/[3,4]|adv|1
+kauw/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+top/top|top|top/hd|kauw/[1,2]|verb|1

@@ -1,0 +1,61 @@
+ben/[3,4]|verb|-- / --|./[8,9]|punct|1
+ben/[3,4]|verb|hd/predc|film/[7,8]|noun|1
+ben/[3,4]|verb|hd/su|film/[1,2]|noun|1
+film/[1,2]|noun|hd/app|PROPNAME/[2,3]|name|1
+film/[1,2]|noun|hd/det|de/[0,1]|det|1
+film/[7,8]|noun|hd/det|een/[4,5]|det|1
+film/[7,8]|noun|hd/mod|slecht/[6,7]|adj|1
+slecht/[6,7]|adj|hd/mod|heel/[5,6]|adv|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+ben/[1,2]|verb|-- / --|./[15,16]|punct|1
+ben/[1,2]|verb|dp/dp|ben/[7,8]|verb|1
+ben/[1,2]|verb|hd/predc|voorspelbaar/[3,4]|adj|1
+ben/[1,2]|verb|hd/su|alles/[0,1]|noun|1
+ben/[7,8]|verb|hd/mod|echt/[8,9]|adj|1
+ben/[7,8]|verb|hd/mod|helemaal/[9,10]|adv|1
+ben/[7,8]|verb|hd/predc|zoals/[10,11]|comp|1
+ben/[7,8]|verb|hd/su|einde/[6,7]|noun|1
+einde/[6,7]|noun|hd/det|het/[5,6]|det|1
+einde/[6,7]|noun|hd/mod|vooral/[4,5]|adv|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+verwacht/[14,15]|verb|hd/obj1|het/[12,13]|det|1
+verwacht/[14,15]|verb|hd/su|je/[11,12]|pron|1
+voorspelbaar/[3,4]|adj|hd/mod|zeer/[2,3]|adv|1
+zal/[13,14]|verb|hd/su|je/[11,12]|pron|1
+zal/[13,14]|verb|hd/vc|verwacht/[14,15]|verb|1
+zoals/[10,11]|comp|cmp/body|zal/[13,14]|verb|1
+ben/[7,8]|verb|hd/mod|ver/[0,1]|adj|1
+ben/[7,8]|verb|hd/predc|komedie/[5,6]|noun|1
+ben/[7,8]|verb|hd/su|film/[3,4]|noun|1
+film/[3,4]|noun|hd/det|deze/[2,3]|det|1
+komedie/[5,6]|noun|hd/det|een/[4,5]|det|1
+moet/[6,7]|verb|hd/su|film/[3,4]|noun|1
+moet/[6,7]|verb|hd/vc|ben/[7,8]|verb|1
+top/top|top|top/hd|zal/[1,2]|verb|1
+zal/[1,2]|verb|-- / --|./[8,9]|punct|1
+zal/[1,2]|verb|hd/su|film/[3,4]|noun|1
+zal/[1,2]|verb|hd/vc|moet/[6,7]|verb|1
+ben/[1,2]|verb|-- / --|./[15,16]|punct|1
+ben/[1,2]|verb|hd/ld|waar/[10,11]|adv|1
+ben/[1,2]|verb|hd/mod|echter/[2,3]|adv|1
+ben/[1,2]|verb|hd/mod|er/[0,1]|adv|1
+ben/[1,2]|verb|hd/mod|in/[6,7]|prep|1
+ben/[1,2]|verb|hd/su|seconde/[5,6]|noun|1
+film/[9,10]|noun|hd/det|de/[7,8]|det|1
+film/[9,10]|noun|hd/mod|heel/[8,9]|adj|1
+in/[6,7]|prep|hd/obj1|film/[9,10]|noun|1
+lach/[14,15]|verb|hd/mod|waar/[10,11]|adv|1
+lach/[14,15]|verb|hd/obj1|bij/[12,13]|noun|1
+lach/[14,15]|verb|hd/su|je/[11,12]|pron|1
+moet/[13,14]|verb|hd/su|je/[11,12]|pron|1
+moet/[13,14]|verb|hd/vc|lach/[14,15]|verb|1
+seconde/[5,6]|noun|hd/det|enkel/[4,5]|det|1
+seconde/[5,6]|noun|hd/det|geen/[3,4]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+waar/[10,11]|adv|rhd/body|moet/[13,14]|verb|1
+aanrader/[6,7]|noun|-- / --|!/[7,8]|punct|1
+aanrader/[6,7]|noun|hd/det|geen/[5,6]|det|1
+geen/[5,6]|det|hd/mod|al bij al/[0,3]|adv|1
+geen/[5,6]|det|hd/mod|dus/[3,4]|adv|1
+geen/[5,6]|det|hd/mod|zeker/[4,5]|adj|1
+top/top|top|top/hd|aanrader/[6,7]|noun|1

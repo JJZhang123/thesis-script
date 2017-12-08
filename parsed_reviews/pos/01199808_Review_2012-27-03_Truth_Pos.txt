@@ -1,0 +1,53 @@
+boek/[1,2]|noun|hd/det|dit/[0,1]|det|1
+grijp/[2,3]|verb|-- / --|./[12,13]|punct|1
+grijp/[2,3]|verb|hd/obj1|lezer/[4,5]|noun|1
+grijp/[2,3]|verb|hd/su|boek/[1,2]|noun|1
+grijp/[2,3]|verb|hd/svp|naar de keel/[9,12]|fixed|1
+lezer/[4,5]|noun|hd/det|menig/[3,4]|det|1
+lezer/[4,5]|noun|hd/mod|vanaf/[5,6]|prep|1
+seconde/[8,9]|noun|hd/det|de/[6,7]|det|1
+seconde/[8,9]|noun|hd/mod|eerste/[7,8]|num|1
+top/top|top|top/hd|grijp/[2,3]|verb|1
+vanaf/[5,6]|prep|hd/obj1|seconde/[8,9]|noun|1
+beslissing/[15,16]|noun|hd/det|paar/[12,13]|noun|1
+beslissing/[15,16]|noun|hd/mod|onbelangrijk/[14,15]|adj|1
+die/[8,9]|pron|rhd/body|word/[19,20]|verb|1
+familie_verhaal/[3,4]|noun|hd/det|een/[2,3]|det|1
+omwille van/[9,11]|prep|hd/obj1|beslissing/[15,16]|noun|1
+onbelangrijk/[14,15]|adj|hd/mod|schijnbaar/[13,14]|adj|1
+over/[4,5]|prep|hd/obj1|vriend/[7,8]|noun|1
+paar/[12,13]|noun|hd/det|een/[11,12]|det|1
+scheid/[18,19]|verb|hd/mod|omwille van/[9,11]|prep|1
+scheid/[18,19]|verb|hd/obj1|die/[8,9]|pron|1
+scheid/[18,19]|verb|hd/pc|van/[16,17]|prep|1
+top/top|top|top/hd|vertel/[1,2]|verb|1
+van/[16,17]|prep|hd/obj1|elkaar/[17,18]|pron|1
+vertel/[1,2]|verb|-- / --|./[20,21]|punct|1
+vertel/[1,2]|verb|hd/mod|over/[4,5]|prep|1
+vertel/[1,2]|verb|hd/obj1|familie_verhaal/[3,4]|noun|1
+vertel/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+vriend/[7,8]|noun|hd/det|twee/[5,6]|num|1
+vriend/[7,8]|noun|hd/mod|die/[8,9]|pron|1
+vriend/[7,8]|noun|hd/mod|goed/[6,7]|adj|1
+word/[19,20]|verb|hd/su|die/[8,9]|pron|1
+word/[19,20]|verb|hd/vc|scheid/[18,19]|verb|1
+blijf/[18,19]|verb|hd/ld|onder/[17,18]|prep|1
+blijf/[18,19]|verb|hd/mod|niet/[15,16]|adv|1
+blijf/[18,19]|verb|hd/mod|onbewogen/[16,17]|adj|1
+blijf/[18,19]|verb|hd/mod|zelfs/[10,11]|adv|1
+blijf/[18,19]|verb|hd/su|boek_hater/[13,14]|noun|1
+boek_hater/[13,14]|noun|hd/det|de/[11,12]|det|1
+boek_hater/[13,14]|noun|hd/mod|erg/[12,13]|adj|1
+dat/[9,10]|comp|cmp/body|blijf/[18,19]|verb|1
+doe/[1,2]|verb|-- / --|./[19,20]|punct|1
+doe/[1,2]|verb|hd/mod|op/[3,4]|prep|1
+doe/[1,2]|verb|hd/obj1|dit/[0,1]|det|1
+doe/[1,2]|verb|hd/obj2|manier/[8,9]|noun|1
+doe/[1,2]|verb|hd/su|hij/[2,3]|pron|1
+en/[6,7]|vg|crd/cnj|meesterlijk/[5,6]|adj|1
+en/[6,7]|vg|crd/cnj|ontroerend/[7,8]|adj|1
+manier/[8,9]|noun|hd/mod|en/[6,7]|vg|1
+manier/[8,9]|noun|hd/vc|dat/[9,10]|comp|1
+onder/[17,18]|prep|hd/obj1|er/[14,15]|adv|1
+op/[3,4]|prep|hd/obj1|zon/[4,5]|noun|1
+top/top|top|top/hd|doe/[1,2]|verb|1

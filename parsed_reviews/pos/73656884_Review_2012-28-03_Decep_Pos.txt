@@ -1,0 +1,77 @@
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/predc|metal_band/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+kom_op/[4,5]|adj|hd/mod|net/[3,4]|adj|1
+metal_band/[5,6]|noun|hd/det|een/[2,3]|det|1
+metal_band/[5,6]|noun|hd/mod|kom_op/[4,5]|adj|1
+metal_band/[5,6]|noun|hd/mod|uit/[6,7]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+uit/[6,7]|prep|hd/obj1|Australia/[7,8]|name|1
+debuut_album/[2,3]|noun|hd/det|hun/[1,2]|det|1
+debuut_album/[2,3]|noun|hd/mod|in/[3,4]|prep|1
+heb/[5,6]|verb|-- / --|./[18,19]|punct|1
+heb/[5,6]|verb|-- / --|op/[14,15]|prep|1
+heb/[5,6]|verb|-- / --|zijn/[15,16]|det|1
+heb/[5,6]|verb|dp/dp|verdiend/[17,18]|adj|1
+heb/[5,6]|verb|hd/mod|jaar/[13,14]|noun|1
+heb/[5,6]|verb|hd/mod|met/[0,1]|prep|1
+heb/[5,6]|verb|hd/obj1|plaats_DIM/[8,9]|noun|1
+heb/[5,6]|verb|hd/su|ze/[6,7]|pron|1
+in/[3,4]|prep|hd/obj1|2010/[4,5]|noun|1
+jaar/[13,14]|noun|hd/det|dit/[12,13]|det|1
+met/[0,1]|prep|hd/obj1|debuut_album/[2,3]|noun|1
+op/[9,10]|prep|hd/obj1|Graspop metalmeeting/[10,12]|name|1
+plaats_DIM/[8,9]|noun|hd/det|hun/[7,8]|det|1
+plaats_DIM/[8,9]|noun|hd/mod|op/[9,10]|prep|1
+top/top|top|top/hd|heb/[5,6]|verb|1
+verdiend/[17,18]|adj|hd/mod|min/[16,17]|adj|1
+band/[9,10]|noun|hd/mod|veel/[8,9]|adj|1
+die/[7,8]|pron|rhd/body|mis/[10,11]|verb|1
+diepgang/[6,7]|noun|hd/det|de/[5,6]|det|1
+diepgang/[6,7]|noun|hd/mod|die/[7,8]|pron|1
+en/[2,3]|vg|crd/cnj|lyrics/[1,2]|noun|1
+en/[2,3]|vg|crd/cnj|muziek/[3,4]|noun|1
+heb/[4,5]|verb|-- / --|./[11,12]|punct|1
+heb/[4,5]|verb|hd/obj1|diepgang/[6,7]|noun|1
+heb/[4,5]|verb|hd/su|en/[2,3]|vg|1
+lyrics/[1,2]|noun|hd/det|hun/[0,1]|det|1
+mis/[10,11]|verb|hd/obj1|die/[7,8]|pron|1
+mis/[10,11]|verb|hd/su|band/[9,10]|noun|1
+muziek/[3,4]|noun|hd/det|hun/[0,1]|det|1
+top/top|top|top/hd|heb/[4,5]|verb|1
+fan_vriendelijkheid/[7,8]|noun|hd/det|hun/[5,6]|det|1
+fan_vriendelijkheid/[7,8]|noun|hd/mod|enorm/[6,7]|adj|1
+om/[4,5]|prep|hd/obj1|fan_vriendelijkheid/[7,8]|noun|1
+sta_bekend/[1,2]|verb|-- / --|./[8,9]|punct|1
+sta_bekend/[1,2]|verb|hd/mod|daarnaast/[0,1]|pp|1
+sta_bekend/[1,2]|verb|hd/pc|om/[4,5]|prep|1
+sta_bekend/[1,2]|verb|hd/su|ze/[2,3]|pron|1
+sta_bekend/[1,2]|verb|hd/svp|bekend/[3,4]|part|1
+top/top|top|top/hd|sta_bekend/[1,2]|verb|1
+als/[3,4]|comp|cmp/body|naast/[4,5]|prep|1
+begroet/[14,15]|verb|hd/obj1|fan/[12,13]|noun|1
+fan/[12,13]|noun|hd/det|hun/[11,12]|det|1
+naast/[4,5]|prep|hd/obj1|podium/[6,7]|noun|1
+neem/[7,8]|verb|-- / --|./[15,16]|punct|1
+neem/[7,8]|verb|hd/mod|tijd/[9,10]|noun|1
+neem/[7,8]|verb|hd/obj1|stage/[2,3]|noun|1
+neem/[7,8]|verb|hd/su|ze/[8,9]|pron|1
+om/[10,11]|comp|cmp/body|te/[13,14]|comp|1
+podium/[6,7]|noun|hd/det|het/[5,6]|det|1
+stage/[2,3]|noun|hd/mod|als/[3,4]|comp|1
+stage/[2,3]|noun|hd/mod|on/[1,2]|name|1
+stage/[2,3]|noun|hd/mod|zowel/[0,1]|adv|1
+te/[13,14]|comp|cmp/body|begroet/[14,15]|verb|1
+tijd/[9,10]|noun|hd/vc|om/[10,11]|comp|1
+top/top|top|top/hd|neem/[7,8]|verb|1
+Alestorm/[6,7]|name|hd/mod|onder andere/[4,6]|adv|1
+Sabaton/[8,9]|name|hd/mod|onder andere/[4,6]|adv|1
+ben/[1,2]|verb|-- / --|./[9,10]|punct|1
+ben/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+ben/[1,2]|verb|hd/vc|inspireer/[2,3]|verb|1
+door/[3,4]|prep|hd/obj1|en/[7,8]|vg|1
+en/[7,8]|vg|crd/cnj|Alestorm/[6,7]|name|1
+en/[7,8]|vg|crd/cnj|Sabaton/[8,9]|name|1
+inspireer/[2,3]|verb|hd/mod|door/[3,4]|prep|1
+inspireer/[2,3]|verb|hd/obj1|ze/[0,1]|pron|1
+top/top|top|top/hd|ben/[1,2]|verb|1

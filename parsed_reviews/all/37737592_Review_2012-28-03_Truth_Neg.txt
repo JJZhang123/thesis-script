@@ -1,0 +1,140 @@
+PROPNAME,/[0,1]|name|-- / --|./[15,16]|punct|1
+PROPNAME,/[0,1]|name|dp/dp|die/[9,10]|pron|1
+PROPNAME,/[0,1]|name|dp/dp|meisje/[2,3]|noun|1
+als/[11,12]|comp|cmp/body|vogel_DIM/[14,15]|noun|1
+artiest_naam/[5,6]|noun|hd/det|een/[4,5]|det|1
+die/[9,10]|pron|rhd/body|klink/[10,11]|verb|1
+en/[6,7]|vg|crd/cnj|artiest_naam/[5,6]|noun|1
+en/[6,7]|vg|crd/cnj|stem/[8,9]|noun|1
+klink/[10,11]|verb|hd/predc|als/[11,12]|comp|1
+klink/[10,11]|verb|hd/su|die/[9,10]|pron|1
+meisje/[2,3]|noun|hd/det|een/[1,2]|det|1
+meisje/[2,3]|noun|hd/mod|met/[3,4]|prep|1
+met/[3,4]|prep|hd/obj1|en/[6,7]|vg|1
+stem/[8,9]|noun|hd/det|een/[7,8]|det|1
+top/top|top|top/hd|PROPNAME,/[0,1]|name|1
+vogel_DIM/[14,15]|noun|hd/det|een/[12,13]|det|1
+vogel_DIM/[14,15]|noun|hd/mod|klein/[13,14]|adj|1
+ben/[1,2]|verb|-- / --|./[14,15]|punct|1
+ben/[1,2]|verb|-- / --|en/[3,4]|vg|1
+ben/[1,2]|verb|-- / --|en/[11,12]|vg|1
+ben/[1,2]|verb|dp/dp|nu/[4,5]|adv|1
+ben/[1,2]|verb|dp/dp|populair/[13,14]|adj|1
+ben/[1,2]|verb|hd/predc|ze/[2,3]|pron|1
+ben/[1,2]|verb|hd/su|vijftien/[0,1]|num|1
+naam/[10,11]|noun|hd/det|een/[6,7]|det|1
+naam/[10,11]|noun|hd/mod|groot/[7,8]|adj|1
+naam/[10,11]|noun|hd/mod|kom_op/[9,10]|adj|1
+naam/[10,11]|noun|hd/mod|nieuw/[8,9]|adj|1
+nu/[4,5]|adv|dp/dp|naam/[10,11]|noun|1
+nu/[4,5]|adv|hd/mod|al/[5,6]|adv|1
+populair/[13,14]|adj|hd/mod|razend/[12,13]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+Helaas,/[0,1]|name|-- / --|./[6,7]|punct|1
+Helaas,/[0,1]|name|dp/dp|zeg/[2,3]|verb|1
+niets/[5,6]|noun|hd/mod|helemaal/[4,5]|adv|1
+top/top|top|top/hd|Helaas,/[0,1]|name|1
+zeg/[2,3]|verb|hd/obj1|niets/[5,6]|noun|1
+zeg/[2,3]|verb|hd/obj2|mij/[1,2]|pron|1
+zeg/[2,3]|verb|hd/su|het/[3,4]|det|1
+cover/[7,8]|noun|hd/det|een/[6,7]|det|1
+cover/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+doorbraak/[2,3]|noun|hd/det|haar/[0,1]|det|1
+doorbraak/[2,3]|noun|hd/mod|groot/[1,2]|adj|1
+kom/[3,4]|verb|-- / --|./[14,15]|punct|1
+kom/[3,4]|verb|hd/mod|er/[4,5]|adv|1
+kom/[3,4]|verb|hd/pc|met/[5,6]|prep|1
+kom/[3,4]|verb|hd/su|doorbraak/[2,3]|noun|1
+met/[5,6]|prep|hd/obj1|cover/[7,8]|noun|1
+top/top|top|top/hd|kom/[3,4]|verb|1
+van/[8,9]|prep|hd/obj1|Bon Ivers hitsingle Skinny Love/[9,14]|name|1
+aan/[20,21]|prep|hd/mod|net/[19,20]|adv|1
+aan/[20,21]|prep|hd/obj1|kant/[23,24]|noun|1
+balanceer/[11,12]|adj|hd/ld|op/[12,13]|prep|1
+bij/[7,8]|prep|hd/obj1|weg/[8,9]|noun|1
+droom/[10,11]|verb|hd/mod|bij/[7,8]|prep|1
+droom/[10,11]|verb|hd/mod|helemaal/[6,7]|adv|1
+eentje/[4,5]|noun|-- / --|./[24,25]|punct|1
+eentje/[4,5]|noun|dp/dp|balanceer/[11,12]|adj|1
+eentje/[4,5]|noun|hd/det|een/[0,1]|det|1
+eentje/[4,5]|noun|hd/mod|nummer, zweverig,/[2,4]|name|1
+eentje/[4,5]|noun|hd/mod|om/[5,6]|comp|1
+eentje/[4,5]|noun|hd/mod|prachtig/[1,2]|adj|1
+kant/[23,24]|noun|hd/det|de/[21,22]|det|1
+kant/[23,24]|noun|hd/mod|goed/[22,23]|adj|1
+maar/[18,19]|vg|crd/cnj|aan/[20,21]|prep|1
+maar/[18,19]|vg|crd/cnj|van/[15,16]|prep|1
+om/[5,6]|comp|cmp/body|te/[9,10]|comp|1
+op/[12,13]|prep|hd/obj1|rand/[14,15]|noun|1
+rand/[14,15]|noun|hd/det|de/[13,14]|det|1
+rand/[14,15]|noun|hd/mod|maar/[18,19]|vg|1
+sentimenteel/[17,18]|adj|hd/det|het/[16,17]|det|1
+te/[9,10]|comp|cmp/body|droom/[10,11]|verb|1
+top/top|top|top/hd|eentje/[4,5]|noun|1
+van/[15,16]|prep|hd/obj1|sentimenteel/[17,18]|adj|1
+ga/[1,2]|verb|-- / --|./[7,8]|punct|1
+ga/[1,2]|verb|hd/mod|helaas/[0,1]|adv|1
+ga/[1,2]|verb|hd/mod|los/[3,4]|adj|1
+ga/[1,2]|verb|hd/pc|over/[4,5]|prep|1
+ga/[1,2]|verb|hd/su|PROPNAME/[2,3]|name|1
+grens/[6,7]|noun|hd/det|die/[5,6]|det|1
+over/[4,5]|prep|hd/obj1|grens/[6,7]|noun|1
+top/top|top|top/hd|ga/[1,2]|verb|1
+ben/[10,11]|verb|hd/ld|waar/[0,1]|adv|1
+ben/[10,11]|verb|hd/mod|en/[8,9]|vg|1
+ben/[10,11]|verb|hd/su|versie/[2,3]|noun|1
+en/[8,9]|vg|crd/cnj|eenvoudig/[7,8]|adj|1
+en/[8,9]|vg|crd/cnj|puur/[9,10]|adj|1
+ga/[27,28]|verb|hd/mod|waardoor/[19,20]|pp|1
+ga/[27,28]|verb|hd/predc|verloren/[26,27]|adj|1
+ga/[27,28]|verb|hd/su|kracht/[21,22]|noun|1
+in/[12,13]|prep|hd/obj1|versie/[14,15]|noun|1
+kracht/[21,22]|noun|hd/det|de/[20,21]|det|1
+kracht/[21,22]|noun|hd/mod|van/[22,23]|prep|1
+nummer/[24,25]|noun|hd/det|het/[23,24]|det|1
+register/[17,18]|noun|hd/det|alle/[15,16]|det|1
+register/[17,18]|noun|hd/mod|tranentrekkend/[16,17]|adj|1
+top/top|top|top/hd|word/[11,12]|verb|1
+trek_open/[18,19]|verb|hd/mod|in/[12,13]|prep|1
+trek_open/[18,19]|verb|hd/mod|waar/[0,1]|adv|1
+trek_open/[18,19]|verb|hd/mod|waardoor/[19,20]|pp|1
+trek_open/[18,19]|verb|hd/obj1|register/[17,18]|noun|1
+van/[3,4]|prep|hd/obj1|Bon Iver klein,/[4,7]|name|1
+van/[22,23]|prep|hd/obj1|nummer/[24,25]|noun|1
+verloren/[26,27]|adj|hd/mod|volledig/[25,26]|adj|1
+versie/[2,3]|noun|hd/det|de/[1,2]|det|1
+versie/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+versie/[14,15]|noun|hd/det|Birdies/[13,14]|det|1
+waar/[0,1]|adv|rhd/body|ben/[10,11]|verb|1
+waardoor/[19,20]|pp|rhd/body|ga/[27,28]|verb|1
+word/[11,12]|verb|-- / --|./[28,29]|punct|1
+word/[11,12]|verb|hd/su|register/[17,18]|noun|1
+word/[11,12]|verb|hd/vc|trek_open/[18,19]|verb|1
+als/[19,20]|comp|cmp/body|Bon Iver, Fleet Foxes en The XX,/[20,27]|name|1
+artiest/[18,19]|noun|hd/mod|als/[19,20]|comp|1
+artiest/[18,19]|noun|hd/mod|fantastisch/[17,18]|adj|1
+blijf_af/[31,32]|verb|hd/mod|goed/[30,31]|adj|1
+blijf_af/[31,32]|verb|hd/mod|maar/[29,30]|adv|1
+blijf_af/[31,32]|verb|hd/pc|van/[14,15]|prep|1
+blijf_af/[31,32]|verb|hd/su|ze/[28,29]|pron|1
+en/[6,7]|vg|crd/cnj|potentieel/[12,13]|noun|1
+en/[6,7]|vg|crd/cnj|stem/[5,6]|noun|1
+en/[8,9]|vg|crd/cnj|vast/[7,8]|adj|1
+en/[8,9]|vg|crd/cnj|zeker/[9,10]|adj|1
+heb/[2,3]|verb|hd/obj1|en/[6,7]|vg|1
+heb/[2,3]|verb|hd/su|meisje/[1,2]|noun|1
+kan/[27,28]|verb|hd/su|ze/[28,29]|pron|1
+kan/[27,28]|verb|hd/vc|blijf_af/[31,32]|verb|1
+maar/[13,14]|vg|-- / --|./[32,33]|punct|1
+maar/[13,14]|vg|crd/cnj|heb/[2,3]|verb|1
+maar/[13,14]|vg|crd/cnj|kan/[27,28]|verb|1
+meisje/[1,2]|noun|hd/det|het/[0,1]|det|1
+nummer/[15,16]|noun|hd/mod|van/[16,17]|prep|1
+potentieel/[12,13]|noun|hd/det|wat/[11,12]|det|1
+potentieel/[12,13]|noun|hd/mod|en/[8,9]|vg|1
+stem/[5,6]|noun|hd/det|een/[3,4]|det|1
+stem/[5,6]|noun|hd/mod|mooi/[4,5]|adj|1
+top/top|top|top/hd|maar/[13,14]|vg|1
+van/[14,15]|prep|hd/obj1|nummer/[15,16]|noun|1
+van/[16,17]|prep|hd/obj1|artiest/[18,19]|noun|1
+wat/[11,12]|det|hd/mod|heel/[10,11]|adv|1

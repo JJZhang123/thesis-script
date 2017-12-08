@@ -1,0 +1,97 @@
+ben/[8,9]|verb|-- / --|./[17,18]|punct|1
+ben/[8,9]|verb|hd/su|hij/[9,10]|pron|1
+ben/[8,9]|verb|hd/vc|blijf/[16,17]|verb|1
+blijf/[16,17]|verb|hd/ld|onder/[13,14]|prep|1
+blijf/[16,17]|verb|hd/mod|hard/[12,13]|adj|1
+blijf/[16,17]|verb|hd/mod|hoewel/[0,1]|comp|1
+blijf/[16,17]|verb|hd/mod|toch/[10,11]|adv|1
+blijf/[16,17]|verb|hd/su|hij/[9,10]|pron|1
+film/[7,8]|noun|hd/det|deze/[6,7]|det|1
+geniet/[3,4]|verb|hd/mod|deels/[2,3]|adv|1
+geniet/[3,4]|verb|hd/pc|van/[5,6]|prep|1
+geniet/[3,4]|verb|hd/su|ik/[1,2]|pron|1
+hard/[12,13]|adj|hd/mod|heel/[11,12]|adv|1
+heb/[4,5]|verb|hd/su|ik/[1,2]|pron|1
+heb/[4,5]|verb|hd/vc|geniet/[3,4]|verb|1
+hoewel/[0,1]|comp|cmp/body|heb/[4,5]|verb|1
+onder/[13,14]|prep|hd/obj1|verwachting/[15,16]|noun|1
+top/top|top|top/hd|ben/[8,9]|verb|1
+van/[5,6]|prep|hd/obj1|film/[7,8]|noun|1
+verwachting/[15,16]|noun|hd/det|mijn/[14,15]|det|1
+ben/[2,3]|verb|-- / --|./[12,13]|punct|1
+ben/[2,3]|verb|hd/predc|onrealistisch/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|einde/[1,2]|noun|1
+dat/[5,6]|comp|cmp/body|verpest/[11,12]|verb|1
+einde/[1,2]|noun|hd/det|het/[0,1]|det|1
+film/[10,11]|noun|hd/det|de/[8,9]|det|1
+film/[10,11]|noun|hd/mod|heel/[9,10]|adj|1
+onrealistisch/[4,5]|adj|hd/mod|zo/[3,4]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+verpest/[11,12]|verb|hd/mod|eigenlijk/[7,8]|adj|1
+verpest/[11,12]|verb|hd/obj1|film/[10,11]|noun|1
+verpest/[11,12]|verb|hd/su|het/[6,7]|det|1
+zo/[3,4]|adj|hd/obcomp|dat/[5,6]|comp|1
+aan het/[22,24]|comp|cmp/body|kijk/[24,25]|verb|1
+ben/[1,2]|verb|hd/mod|soms/[0,1]|adv|1
+ben/[1,2]|verb|hd/mod|wel/[4,5]|adj|1
+ben/[1,2]|verb|hd/predc|grappig/[5,6]|adj|1
+ben/[1,2]|verb|hd/su|film/[3,4]|noun|1
+ben/[25,26]|verb|hd/mod|meestal/[14,15]|adv|1
+ben/[25,26]|verb|hd/mod|wel/[13,14]|adj|1
+ben/[25,26]|verb|hd/su|ik/[12,13]|pron|1
+ben/[25,26]|verb|hd/vc|aan het/[22,24]|comp|1
+dat/[11,12]|comp|cmp/body|ben/[25,26]|verb|1
+film/[3,4]|noun|hd/det|de/[2,3]|det|1
+film/[21,22]|noun|hd/det|deze/[20,21]|det|1
+gevoel/[18,19]|noun|hd/det|een/[16,17]|det|1
+gevoel/[18,19]|noun|hd/mod|slecht/[17,18]|adj|1
+kijk/[24,25]|verb|hd/ld|naar/[19,20]|prep|1
+kijk/[24,25]|verb|hd/mod|met/[15,16]|prep|1
+kijk/[24,25]|verb|hd/su|ik/[12,13]|pron|1
+maar/[6,7]|vg|-- / --|./[26,27]|punct|1
+maar/[6,7]|vg|crd/cnj|ben/[1,2]|verb|1
+maar/[6,7]|vg|crd/cnj|neem_weg/[8,9]|verb|1
+met/[15,16]|prep|hd/obj1|gevoel/[18,19]|noun|1
+naar/[19,20]|prep|hd/obj1|film/[21,22]|noun|1
+neem_weg/[8,9]|verb|hd/mod|niet/[9,10]|adv|1
+neem_weg/[8,9]|verb|hd/su|dat/[7,8]|det|1
+neem_weg/[8,9]|verb|hd/svp|weg/[10,11]|part|1
+neem_weg/[8,9]|verb|hd/vc|dat/[11,12]|comp|1
+top/top|top|top/hd|maar/[6,7]|vg|1
+en/[5,6]|vg|crd/cnj|geest/[6,7]|noun|1
+en/[5,6]|vg|crd/cnj|magie/[4,5]|noun|1
+film/[2,3]|noun|hd/det|een/[0,1]|det|1
+film/[2,3]|noun|hd/mod|Vlaams/[1,2]|adj|1
+film/[2,3]|noun|hd/mod|waar/[3,4]|adv|1
+goed/[15,16]|adj|hd/mod|heel/[14,15]|adv|1
+heb/[17,18]|verb|hd/mod|echt/[12,13]|adj|1
+heb/[17,18]|verb|hd/mod|om/[18,19]|comp|1
+heb/[17,18]|verb|hd/mod|volgens/[10,11]|prep|1
+heb/[17,18]|verb|hd/obj1|verhaal_lijn/[16,17]|noun|1
+heb/[17,18]|verb|hd/su|film/[2,3]|noun|1
+in/[7,8]|prep|hd/obj1|waar/[3,4]|adv|1
+kan/[20,21]|verb|hd/vc|slaag/[21,22]|verb|1
+kom_voor/[8,9]|verb|hd/ld|in/[7,8]|prep|1
+kom_voor/[8,9]|verb|hd/su|en/[5,6]|vg|1
+moet/[9,10]|verb|-- / --|./[22,23]|punct|1
+moet/[9,10]|verb|hd/su|film/[2,3]|noun|1
+moet/[9,10]|verb|hd/vc|heb/[17,18]|verb|1
+om/[18,19]|comp|cmp/body|te/[19,20]|comp|1
+te/[19,20]|comp|cmp/body|kan/[20,21]|verb|1
+top/top|top|top/hd|moet/[9,10]|verb|1
+verhaal_lijn/[16,17]|noun|hd/det|een/[13,14]|det|1
+verhaal_lijn/[16,17]|noun|hd/mod|goed/[15,16]|adj|1
+volgens/[10,11]|prep|hd/obj1|mij/[11,12]|pron|1
+waar/[3,4]|adv|rhd/body|kom_voor/[8,9]|verb|1
+ben/[9,10]|verb|hd/su|Frank Van Passel/[2,5]|name|1
+ben/[9,10]|verb|hd/vc|luk/[10,11]|verb|1
+iets/[0,1]|noun|-- / --|./[11,12]|punct|1
+iets/[0,1]|noun|hd/mod|waar/[1,2]|adv|1
+in/[8,9]|prep|hd/obj1|waar/[1,2]|adv|1
+luk/[10,11]|verb|hd/mod|niet/[7,8]|adv|1
+luk/[10,11]|verb|hd/mod|volgens/[5,6]|prep|1
+luk/[10,11]|verb|hd/pc|in/[8,9]|prep|1
+luk/[10,11]|verb|hd/su|Frank Van Passel/[2,5]|name|1
+top/top|top|top/hd|iets/[0,1]|noun|1
+volgens/[5,6]|prep|hd/obj1|mij/[6,7]|pron|1
+waar/[1,2]|adv|rhd/body|ben/[9,10]|verb|1

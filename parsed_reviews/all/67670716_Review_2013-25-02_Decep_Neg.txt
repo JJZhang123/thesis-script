@@ -1,0 +1,57 @@
+als/[6,7]|comp|cmp/body|titel/[7,8]|noun|1
+boek/[1,2]|noun|hd/det|een/[0,1]|det|1
+boek/[1,2]|noun|hd/mod|met/[2,3]|prep|1
+cliché_opening_zin/[4,6]|noun|hd/det|een/[3,4]|det|1
+cliché_opening_zin/[4,6]|noun|hd/mod|als/[6,7]|comp|1
+met/[2,3]|prep|hd/obj1|cliché_opening_zin/[4,6]|noun|1
+top/top|top|top/hd|voorspel/[8,9]|verb|1
+veel/[10,11]|noun|hd/mod|goed/[11,12]|adj|1
+voorspel/[8,9]|verb|-- / --|./[12,13]|punct|1
+voorspel/[8,9]|verb|hd/mod|niet/[9,10]|adv|1
+voorspel/[8,9]|verb|hd/obj1|veel/[10,11]|noun|1
+voorspel/[8,9]|verb|hd/su|boek/[1,2]|noun|1
+bevestig/[3,4]|verb|hd/obj1|vermoeden/[1,2]|noun|1
+top/top|top|top/hd|word/[2,3]|verb|1
+vermoeden/[1,2]|noun|hd/det|mijn/[0,1]|det|1
+word/[2,3]|verb|-- / --|./[4,5]|punct|1
+word/[2,3]|verb|hd/su|vermoeden/[1,2]|noun|1
+word/[2,3]|verb|hd/vc|bevestig/[3,4]|verb|1
+Hollywood_film/[8,9]|noun|hd/det|de/[7,8]|det|1
+boek/[1,2]|noun|hd/det|het/[0,1]|det|1
+doorbreek/[2,3]|verb|-- / --|./[10,11]|punct|1
+doorbreek/[2,3]|verb|hd/mod|niet/[9,10]|adv|1
+doorbreek/[2,3]|verb|hd/obj1|liefde_verloop/[5,6]|noun|1
+doorbreek/[2,3]|verb|hd/su|boek/[1,2]|noun|1
+liefde_verloop/[5,6]|noun|hd/det|het/[3,4]|det|1
+liefde_verloop/[5,6]|noun|hd/mod|typisch/[4,5]|adj|1
+liefde_verloop/[5,6]|noun|hd/mod|uit/[6,7]|prep|1
+top/top|top|top/hd|doorbreek/[2,3]|verb|1
+uit/[6,7]|prep|hd/obj1|Hollywood_film/[8,9]|noun|1
+5_jarig/[6,7]|adj|hd/det|een/[5,6]|det|1
+door/[4,5]|prep|hd/obj1|5_jarig/[6,7]|adj|1
+lijk/[2,3]|verb|-- / --|./[7,8]|punct|1
+lijk/[2,3]|verb|hd/su|verhaal/[1,2]|noun|1
+lijk/[2,3]|verb|hd/vc|schrijf/[3,4]|verb|1
+schrijf/[3,4]|verb|hd/mod|door/[4,5]|prep|1
+schrijf/[3,4]|verb|hd/obj1|verhaal/[1,2]|noun|1
+top/top|top|top/hd|lijk/[2,3]|verb|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+dat/[10,11]|comp|cmp/body|keer_terug/[13,14]|verb|1
+genre/[5,6]|noun|hd/det|een/[3,4]|det|1
+genre/[5,6]|noun|hd/mod|nieuw/[4,5]|adj|1
+heb/[2,3]|verb|hd/su|Pieter Aspe/[0,2]|name|1
+heb/[2,3]|verb|hd/vc|probeer_uit/[6,7]|verb|1
+hoop/[9,10]|verb|hd/su|ik/[8,9]|pron|1
+hoop/[9,10]|verb|hd/vc|dat/[10,11]|comp|1
+keer_terug/[13,14]|verb|hd/ld|naar/[14,15]|prep|1
+keer_terug/[13,14]|verb|hd/mod|snel/[12,13]|adj|1
+keer_terug/[13,14]|verb|hd/su|hij/[11,12]|pron|1
+maar/[7,8]|vg|-- / --|./[18,19]|punct|1
+maar/[7,8]|vg|crd/cnj|heb/[2,3]|verb|1
+maar/[7,8]|vg|crd/cnj|hoop/[9,10]|verb|1
+naar/[14,15]|prep|hd/obj1|thriller-habitat/[17,18]|noun|1
+probeer_uit/[6,7]|verb|hd/obj1|genre/[5,6]|noun|1
+probeer_uit/[6,7]|verb|hd/su|Pieter Aspe/[0,2]|name|1
+thriller-habitat/[17,18]|noun|hd/det|zijn/[15,16]|det|1
+thriller-habitat/[17,18]|noun|hd/mod|comfortabel/[16,17]|adj|1
+top/top|top|top/hd|maar/[7,8]|vg|1

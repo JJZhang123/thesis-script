@@ -1,0 +1,54 @@
+ben/[1,2]|verb|-- / --|!/[6,7]|punct|1
+ben/[1,2]|verb|hd/predc|koffie_huis_DIM/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+koffie_huis_DIM/[5,6]|noun|hd/det|een/[2,3]|det|1
+koffie_huis_DIM/[5,6]|noun|hd/mod|fantastisch/[3,4]|adj|1
+koffie_huis_DIM/[5,6]|noun|hd/mod|plezant/[4,5]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+70s-behangpapier,/[8,9]|noun|hd/det|die/[3,4]|det|1
+70s-behangpapier,/[8,9]|noun|hd/mod|funky/[7,8]|adj|1
+club_zetel_DIM/[5,6]|noun|hd/det|die/[3,4]|det|1
+club_zetel_DIM/[5,6]|noun|hd/mod|klein/[4,5]|adj|1
+die/[3,4]|det|hd/mod|van/[2,3]|prep|1
+en/[6,7]|vg|crd/cnj|70s-behangpapier,/[8,9]|noun|1
+en/[6,7]|vg|crd/cnj|club_zetel_DIM/[5,6]|noun|1
+geweldig/[10,11]|adj|-- / --|!/[11,12]|punct|1
+geweldig/[10,11]|adj|hd/mod|echt/[9,10]|adj|1
+geweldig/[10,11]|adj|hd/mod|met/[1,2]|prep|1
+geweldig/[10,11]|adj|hd/mod|super_gezellig/[0,1]|adj|1
+met/[1,2]|prep|hd/obj1|en/[6,7]|vg|1
+top/top|top|top/hd|geweldig/[10,11]|adj|1
+en/[0,1]|comp|-- / --|... /[14,15]|punct|1
+en/[0,1]|comp|dlink/nucl|lust/[10,11]|verb|1
+koffie/[5,6]|noun|hd/app|ook, uiteraard,/[6,8]|name|1
+lust/[10,11]|verb|hd/mod|zoniet/[12,14]|comp|1
+lust/[10,11]|verb|hd/obj1|maar/[8,9]|vg|1
+lust/[10,11]|verb|hd/su|ik/[11,12]|pron|1
+maar/[8,9]|vg|crd/cnj|dat/[9,10]|det|1
+maar/[8,9]|vg|crd/cnj|soort/[3,4]|noun|1
+soort/[3,4]|noun|hd/det|veel/[2,3]|adj|1
+soort/[3,4]|noun|hd/mod|thee/[4,5]|noun|1
+thee/[4,5]|noun|hd/app|koffie/[5,6]|noun|1
+top/top|top|top/hd|en/[0,1]|comp|1
+veel/[2,3]|adj|hd/mod|heel/[1,2]|adv|1
+dan/[1,2]|adv|dp/dp|taart/[3,4]|noun|1
+dan/[1,2]|adv|nucl/tag|oh/[4,5]|tag|1
+en/[0,1]|comp|-- / --|!/[7,8]|punct|1
+en/[0,1]|comp|dlink/nucl|dan/[1,2]|adv|1
+en/[0,1]|comp|dp/dp|taart/[6,7]|noun|1
+taart/[3,4]|noun|hd/det|de/[2,3]|det|1
+taart/[6,7]|noun|hd/det|de/[5,6]|det|1
+top/top|top|top/hd|en/[0,1]|comp|1
+moet/[4,5]|verb|hd/su|je/[5,6]|pron|1
+moet/[4,5]|verb|hd/vc|proef/[7,8]|verb|1
+proef/[7,8]|verb|hd/mod|eens/[6,7]|adv|1
+proef/[7,8]|verb|hd/obj1|woud/[3,4]|noun|1
+proef/[7,8]|verb|hd/su|je/[5,6]|pron|1
+top/top|top|top/hd|zwart/[2,3]|adj|1
+word/[9,10]|verb|hd/predc|smul/[10,11]|verb|1
+word/[9,10]|verb|hd/su|dat/[8,9]|det|1
+zwart/[2,3]|adj|-- / --|!/[11,12]|punct|1
+zwart/[2,3]|adj|dp/dp|moet/[4,5]|verb|1
+zwart/[2,3]|adj|dp/dp|word/[9,10]|verb|1
+zwart/[2,3]|adj|hd/det|de/[1,2]|det|1
+zwart/[2,3]|adj|hd/mod|zeker/[0,1]|adv|1

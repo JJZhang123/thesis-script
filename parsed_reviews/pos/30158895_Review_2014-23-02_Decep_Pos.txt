@@ -1,0 +1,180 @@
+film/[2,3]|noun|-- / --|... /[12,13]|punct|1
+film/[2,3]|noun|hd/det|deze/[0,1]|det|1
+film/[2,3]|noun|hd/mod|nieuw/[1,2]|adj|1
+film/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+top/top|top|top/hd|film/[2,3]|noun|1
+van/[3,4]|prep|hd/obj1|Randall Casheer Wild Horse, One in the chamber,/[4,12]|name|1
+aan/[1,2]|prep|hd/obj1|verwachting/[4,5]|noun|1
+heb/[0,1]|verb|-- / --|./[6,7]|punct|1
+heb/[0,1]|verb|hd/vc|voldoe/[5,6]|verb|1
+top/top|top|top/hd|heb/[0,1]|verb|1
+verwachting/[4,5]|noun|hd/det|zijn/[2,3]|det|1
+verwachting/[4,5]|noun|hd/mod|hoog/[3,4]|adj|1
+voldoe/[5,6]|verb|hd/pc|aan/[1,2]|prep|1
+acteer_prestatie/[1,2]|noun|hd/det|de/[0,1]|det|1
+acteer_prestatie/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+dat/[23,24]|comp|cmp/body|ga/[30,31]|verb|1
+doe/[13,14]|verb|-- / --|./[32,33]|punct|1
+doe/[13,14]|verb|-- / --|en/[20,21]|vg|1
+doe/[13,14]|verb|dp/dp|aan/[19,20]|adj|1
+doe/[13,14]|verb|dp/dp|reputatie/[16,17]|noun|1
+doe/[13,14]|verb|dp/dp|zorg/[21,22]|verb|1
+doe/[13,14]|verb|hd/obj1|regisseur/[15,16]|noun|1
+doe/[13,14]|verb|hd/su|acteer_prestatie/[1,2]|noun|1
+durend/[27,28]|adj|hd/me|uur/[26,27]|noun|1
+eer/[18,19]|noun|hd/det|alle/[17,18]|det|1
+en/[7,8]|vg|crd/cnj|protagonist/[4,5]|noun|1
+en/[7,8]|vg|crd/cnj|tegen_speelster/[10,11]|noun|1
+ervoor/[22,23]|pp|hd/vc|dat/[23,24]|comp|1
+film/[28,29]|noun|hd/det|de/[24,25]|det|1
+film/[28,29]|noun|hd/mod|durend/[27,28]|adj|1
+ga/[30,31]|verb|hd/su|film/[28,29]|noun|1
+ga/[30,31]|verb|hd/vc|verveel/[31,32]|verb|1
+protagonist/[4,5]|noun|hd/app|Pete Hebsbury/[5,7]|name|1
+protagonist/[4,5]|noun|hd/det|de/[3,4]|det|1
+regisseur/[15,16]|noun|hd/det|de/[14,15]|det|1
+reputatie/[16,17]|noun|dp/dp|eer/[18,19]|noun|1
+tegen_speelster/[10,11]|noun|hd/app|Amande Rondeaux/[11,13]|name|1
+tegen_speelster/[10,11]|noun|hd/det|zijn/[8,9]|det|1
+tegen_speelster/[10,11]|noun|hd/mod|knap/[9,10]|adj|1
+top/top|top|top/hd|doe/[13,14]|verb|1
+uur/[26,27]|noun|hd/det|twee/[25,26]|num|1
+van/[2,3]|prep|hd/obj1|en/[7,8]|vg|1
+verveel/[31,32]|verb|hd/mod|niet/[29,30]|adv|1
+verveel/[31,32]|verb|hd/su|film/[28,29]|noun|1
+zorg/[21,22]|verb|hd/pc|ervoor/[22,23]|pp|1
+Californië/[12,13]|name|hd/det|het/[9,10]|det|1
+Californië/[12,13]|name|hd/mod|19de eeuwse/[10,12]|adj|1
+Californië/[12,13]|name|hd/mod|waar/[13,14]|adv|1
+door/[23,24]|prep|hd/obj1|gangster_bende/[25,26]|noun|1
+gangster_bende/[25,26]|noun|hd/det|de/[24,25]|det|1
+gangster_bende/[25,26]|noun|hd/mod|van/[26,27]|prep|1
+in/[3,4]|prep|hd/obj1|Rocktown,/[4,5]|name|1
+in/[8,9]|prep|hd/obj1|Californië/[12,13]|name|1
+kop/[20,21]|noun|hd/det|zijn/[19,20]|det|1
+kop/[20,21]|noun|hd/mod|door/[23,24]|prep|1
+op/[18,19]|prep|hd/obj1|kop/[20,21]|noun|1
+stad_DIM/[7,8]|noun|hd/det|een/[5,6]|det|1
+stad_DIM/[7,8]|noun|hd/mod|in/[8,9]|prep|1
+stad_DIM/[7,8]|noun|hd/mod|slaperig/[6,7]|adj|1
+start/[2,3]|verb|-- / --|./[30,31]|punct|1
+start/[2,3]|verb|hd/mod|in/[3,4]|prep|1
+start/[2,3]|verb|hd/obj1|stad_DIM/[7,8]|noun|1
+start/[2,3]|verb|hd/su|verhaal/[1,2]|noun|1
+top/top|top|top/hd|start/[2,3]|verb|1
+van/[26,27]|prep|hd/obj1|Juanita Enviada Rondeaux/[27,30]|name|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+waar/[13,14]|adv|rhd/body|word/[21,22]|verb|1
+word/[21,22]|verb|hd/su|Adam Walds Hebsbury/[14,17]|name|1
+word/[21,22]|verb|hd/vc|zet/[22,23]|verb|1
+zet/[22,23]|verb|hd/ld|op/[18,19]|prep|1
+zet/[22,23]|verb|hd/mod|leven/[17,18]|noun|1
+zet/[22,23]|verb|hd/mod|waar/[13,14]|adv|1
+zet/[22,23]|verb|hd/obj1|Adam Walds Hebsbury/[14,17]|name|1
+ander/[14,15]|adj|hd/mod|heel/[13,14]|adv|1
+blijk/[6,7]|verb|hd/su|Juanita/[1,2]|name|1
+blijk/[6,7]|verb|hd/vc|te/[7,8]|comp|1
+grootmoeder/[3,4]|noun|hd/det|Adams/[2,3]|det|1
+ken/[8,9]|verb|hd/obj1|grootmoeder/[3,4]|noun|1
+ken/[8,9]|verb|hd/pc|van/[4,5]|prep|1
+ken/[8,9]|verb|hd/su|Juanita/[1,2]|name|1
+krijg/[9,10]|verb|-- / --|./[16,17]|punct|1
+krijg/[9,10]|verb|hd/mod|wanneer/[0,1]|comp|1
+krijg/[9,10]|verb|hd/obj1|wending/[15,16]|noun|1
+krijg/[9,10]|verb|hd/su|verhaal/[11,12]|noun|1
+te/[7,8]|comp|cmp/body|ken/[8,9]|verb|1
+top/top|top|top/hd|krijg/[9,10]|verb|1
+van/[4,5]|prep|hd/obj1|vroeg/[5,6]|adj|1
+verhaal/[11,12]|noun|hd/det|het/[10,11]|det|1
+wanneer/[0,1]|comp|cmp/body|blijk/[6,7]|verb|1
+wending/[15,16]|noun|hd/det|een/[12,13]|det|1
+wending/[15,16]|noun|hd/mod|ander/[14,15]|adj|1
+breng/[7,8]|verb|-- / --|./[31,32]|punct|1
+breng/[7,8]|verb|dp/dp|gloei/[26,27]|verb|1
+breng/[7,8]|verb|dp/dp|proef/[17,18]|verb|1
+breng/[7,8]|verb|dp/dp|voel/[21,22]|verb|1
+breng/[7,8]|verb|hd/ld|tot/[11,12]|prep|1
+breng/[7,8]|verb|hd/mod|ondersteund/[0,1]|adj|1
+breng/[7,8]|verb|hd/obj1|je/[10,11]|pron|1
+breng/[7,8]|verb|hd/su|film/[9,10]|noun|1
+camerafiltering/[6,7]|noun|hd/det|de/[5,6]|det|1
+door/[1,2]|prep|hd/obj1|en/[4,5]|vg|1
+en/[4,5]|vg|crd/cnj|camerafiltering/[6,7]|noun|1
+en/[4,5]|vg|crd/cnj|muziek/[3,4]|noun|1
+film/[9,10]|noun|hd/det|de/[8,9]|det|1
+gloei/[26,27]|verb|hd/mod|onder/[27,28]|prep|1
+gloei/[26,27]|verb|hd/su|huid/[25,26]|noun|1
+huid/[25,26]|noun|hd/det|je/[24,25]|det|1
+in/[12,13]|prep|hd/obj1|westen/[15,16]|noun|1
+muziek/[3,4]|noun|hd/det|de/[2,3]|det|1
+onder/[27,28]|prep|hd/obj1|zon/[30,31]|noun|1
+ondersteund/[0,1]|adj|hd/mod|door/[1,2]|prep|1
+proef/[17,18]|verb|hd/obj1|zand/[19,20]|noun|1
+proef/[17,18]|verb|hd/su|je/[16,17]|pron|1
+spanning/[23,24]|noun|hd/det|de/[22,23]|det|1
+top/top|top|top/hd|breng/[7,8]|verb|1
+tot/[11,12]|prep|hd/obj1|in/[12,13]|prep|1
+voel/[21,22]|verb|hd/obj1|spanning/[23,24]|noun|1
+voel/[21,22]|verb|hd/su|je/[20,21]|pron|1
+westen/[15,16]|noun|hd/det|het/[13,14]|det|1
+westen/[15,16]|noun|hd/mod|wild/[14,15]|adj|1
+zand/[19,20]|noun|hd/det|het/[18,19]|det|1
+zon/[30,31]|noun|hd/det|de/[28,29]|det|1
+zon/[30,31]|noun|hd/mod|brandend/[29,30]|adj|1
+bij/[0,1]|prep|-- / --|./[10,11]|punct|1
+bij/[0,1]|prep|dp/dp|sensatie/[5,6]|noun|1
+bij/[0,1]|prep|hd/obj1|liefhebber/[3,4]|noun|1
+die/[6,7]|pron|rhd/body|mag/[8,9]|verb|1
+liefhebber/[3,4]|noun|hd/det|elk/[1,2]|det|1
+liefhebber/[3,4]|noun|hd/mod|Western/[2,3]|name|1
+mag/[8,9]|verb|hd/su|die/[6,7]|pron|1
+mag/[8,9]|verb|hd/vc|ontbreek/[9,10]|verb|1
+ontbreek/[9,10]|verb|hd/mod|niet/[7,8]|adv|1
+ontbreek/[9,10]|verb|hd/su|die/[6,7]|pron|1
+sensatie/[5,6]|noun|hd/det|een/[4,5]|det|1
+sensatie/[5,6]|noun|hd/mod|die/[6,7]|pron|1
+top/top|top|top/hd|bij/[0,1]|prep|1
+Western,/[9,10]|name|hd/det|elk/[8,9]|det|1
+beweging/[15,16]|noun|hd/det|elk/[14,15]|det|1
+bij/[0,1]|prep|-- / --|./[19,20]|punct|1
+bij/[0,1]|prep|dp/dp|waarde/[6,7]|noun|1
+bij/[0,1]|prep|dp/dp|weet/[10,11]|verb|1
+bij/[0,1]|prep|hd/obj1|tweegevecht,/[3,4]|noun|1
+camera_techniek/[13,14]|noun|hd/det|de/[11,12]|det|1
+camera_techniek/[13,14]|noun|hd/mod|vergevorderd/[12,13]|adj|1
+in/[7,8]|prep|hd/obj1|Western,/[9,10]|name|1
+leg_vast/[18,19]|verb|hd/mod|in/[7,8]|prep|1
+leg_vast/[18,19]|verb|hd/obj1|beweging/[15,16]|noun|1
+leg_vast/[18,19]|verb|hd/su|camera_techniek/[13,14]|noun|1
+leg_vast/[18,19]|verb|hd/svp|vast/[16,17]|part|1
+te/[17,18]|comp|cmp/body|leg_vast/[18,19]|verb|1
+top/top|top|top/hd|bij/[0,1]|prep|1
+tweegevecht,/[3,4]|noun|hd/det|het/[1,2]|det|1
+tweegevecht,/[3,4]|noun|hd/mod|typisch/[2,3]|adj|1
+waarde/[6,7]|noun|hd/det|een/[4,5]|det|1
+waarde/[6,7]|noun|hd/mod|vast/[5,6]|adj|1
+weet/[10,11]|verb|hd/su|camera_techniek/[13,14]|noun|1
+weet/[10,11]|verb|hd/vc|te/[17,18]|comp|1
+combinatie/[2,3]|noun|-- / --|./[10,11]|punct|1
+combinatie/[2,3]|noun|hd/det|een/[0,1]|det|1
+combinatie/[2,3]|noun|hd/mod|mooi/[1,2]|adj|1
+combinatie/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+genre/[9,10]|noun|hd/det|een/[7,8]|det|1
+genre/[9,10]|noun|hd/mod|klassiek/[8,9]|adj|1
+met/[6,7]|prep|hd/obj1|genre/[9,10]|noun|1
+techniek/[5,6]|noun|hd/mod|met/[6,7]|prep|1
+techniek/[5,6]|noun|hd/mod|modern/[4,5]|adj|1
+top/top|top|top/hd|combinatie/[2,3]|noun|1
+van/[3,4]|prep|hd/obj1|techniek/[5,6]|noun|1
+film/[5,6]|noun|hd/det|deze/[4,5]|det|1
+mag/[6,7]|verb|hd/su|je/[7,8]|pron|1
+mag/[6,7]|verb|hd/vc|mis/[9,10]|verb|1
+mis/[9,10]|verb|hd/mod|niet/[8,9]|adv|1
+mis/[9,10]|verb|hd/su|je/[7,8]|pron|1
+top/top|top|top/hd|zowel/[0,1]|vg|1
+zowel/[0,1]|vg|-- / --|./[10,11]|punct|1
+zowel/[0,1]|vg|crd/cnj|tijdloos/[1,2]|adj|1
+zowel/[0,1]|vg|crd/cnj|vernieuw/[3,4]|adj|1
+zowel/[0,1]|vg|crd/crd|als/[2,3]|vg|1
+zowel/[0,1]|vg|dp/dp|film/[5,6]|noun|1
+zowel/[0,1]|vg|dp/dp|mag/[6,7]|verb|1

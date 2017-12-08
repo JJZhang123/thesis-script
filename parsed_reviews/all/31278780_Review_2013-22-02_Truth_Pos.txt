@@ -1,0 +1,56 @@
+Whopper/[1,2]|name|hd/det|de/[0,1]|det|1
+Whopper/[1,2]|name|hd/mod|van/[2,3]|prep|1
+ben/[4,5]|verb|-- / --|./[13,14]|punct|1
+ben/[4,5]|verb|hd/mod|sinds/[5,6]|prep|1
+ben/[4,5]|verb|hd/predc|koning/[9,10]|noun|1
+ben/[4,5]|verb|hd/su|Whopper/[1,2]|name|1
+burger/[12,13]|noun|hd/det|de/[11,12]|det|1
+koning/[9,10]|noun|hd/det|de/[7,8]|det|1
+koning/[9,10]|noun|hd/mod|absoluut/[8,9]|adj|1
+koning/[9,10]|noun|hd/mod|onder/[10,11]|prep|1
+onder/[10,11]|prep|hd/obj1|burger/[12,13]|noun|1
+sinds/[5,6]|prep|hd/obj1|1957/[6,7]|noun|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+van/[2,3]|prep|hd/obj1|PROPNAME/[3,4]|name|1
+broodje/[4,5]|noun|hd/det|zijn/[1,2]|det|1
+broodje/[4,5]|noun|hd/mod|gebruind/[3,4]|adj|1
+broodje/[4,5]|noun|hd/mod|goud-geel/[2,3]|adj|1
+doe/[28,29]|verb|hd/predm|ieder/[24,25]|adv|1
+doe/[28,29]|verb|hd/vc|watertand/[29,30]|verb|1
+en/[7,8]|vg|crd/cnj|salade/[6,7]|noun|1
+en/[7,8]|vg|crd/cnj|tomaat/[8,9]|noun|1
+en/[9,10]|vg|crd/cnj|en/[7,8]|vg|1
+en/[9,10]|vg|crd/cnj|stuk/[11,12]|noun|1
+heb/[18,19]|verb|-- / --|./[30,31]|punct|1
+heb/[18,19]|verb|hd/mod|met/[0,1]|prep|1
+heb/[18,19]|verb|hd/mod|om/[23,24]|comp|1
+heb/[18,19]|verb|hd/obj1|alles/[20,21]|noun|1
+heb/[18,19]|verb|hd/su|hij/[19,20]|pron|1
+heb/[18,19]|verb|hd/svp|in huis/[21,23]|fixed|1
+met/[0,1]|prep|hd/obj1|broodje/[4,5]|noun|1
+met/[0,1]|prep|hd/predc|en/[9,10]|vg|1
+om/[13,14]|comp|cmp/body|te/[16,17]|comp|1
+om/[23,24]|comp|cmp/body|te/[27,28]|comp|1
+salade/[6,7]|noun|hd/mod|kraak_vers/[5,6]|adj|1
+stuk/[11,12]|noun|hd/det|een/[10,11]|det|1
+stuk/[11,12]|noun|hd/mod|om/[13,14]|comp|1
+stuk/[11,12]|noun|hd/mod|vlees/[12,13]|noun|1
+te/[16,17]|comp|cmp/body|zeg/[17,18]|verb|1
+te/[27,28]|comp|cmp/body|doe/[28,29]|verb|1
+tomaat/[8,9]|noun|hd/mod|kraak_vers/[5,6]|adj|1
+top/top|top|top/hd|heb/[18,19]|verb|1
+van/[25,26]|prep|hd/obj1|jullie/[26,27]|pron|1
+watertand/[29,30]|verb|hd/pc|van/[25,26]|prep|1
+zeg/[17,18]|verb|hd/obj1|u/[14,15]|noun|1
+zeg/[17,18]|verb|hd/pc|tegen/[15,16]|prep|1
+Whopper,/[1,2]|name|-- / --|./[10,11]|punct|1
+Whopper,/[1,2]|name|dp/dp|ben/[3,4]|verb|1
+Whopper,/[1,2]|name|hd/det|de/[0,1]|det|1
+ben/[3,4]|verb|hd/mod|altijd/[4,5]|adv|1
+ben/[3,4]|verb|hd/predc|feest_DIM/[6,7]|noun|1
+ben/[3,4]|verb|hd/su|dat/[2,3]|det|1
+feest_DIM/[6,7]|noun|hd/det|een/[5,6]|det|1
+feest_DIM/[6,7]|noun|hd/mod|in/[7,8]|prep|1
+in/[7,8]|prep|hd/obj1|mond/[9,10]|noun|1
+mond/[9,10]|noun|hd/det|jouw/[8,9]|det|1
+top/top|top|top/hd|Whopper,/[1,2]|name|1

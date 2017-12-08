@@ -1,0 +1,98 @@
+als/[21,22]|comp|cmp/body|ga/[25,26]|verb|1
+ben/[16,17]|verb|-- / --|./[26,27]|punct|1
+ben/[16,17]|verb|hd/mod|als/[21,22]|comp|1
+ben/[16,17]|verb|hd/mod|met/[0,1]|prep|1
+ben/[16,17]|verb|hd/predc|topper/[20,21]|noun|1
+ben/[16,17]|verb|hd/su|smartphone/[18,19]|noun|1
+besturing_systeem/[3,4]|noun|hd/det|het/[1,2]|det|1
+besturing_systeem/[3,4]|noun|hd/mod|handig/[2,3]|adj|1
+en/[4,5]|vg|crd/cnj|besturing_systeem/[3,4]|noun|1
+en/[4,5]|vg|crd/cnj|mogelijkheid/[6,7]|noun|1
+ga/[25,26]|verb|hd/pc|over/[23,24]|prep|1
+ga/[25,26]|verb|hd/su|het/[22,23]|det|1
+met/[0,1]|prep|hd/obj1|en/[4,5]|vg|1
+mogelijkheid/[6,7]|noun|hd/det|de/[5,6]|det|1
+mogelijkheid/[6,7]|noun|hd/vc|om/[7,8]|comp|1
+om/[7,8]|comp|cmp/body|te/[9,10]|comp|1
+op/[11,12]|prep|hd/obj1|oppervlak/[14,15]|noun|1
+oppervlak/[14,15]|noun|hd/det|een/[12,13]|det|1
+oppervlak/[14,15]|noun|hd/mod|wit/[13,14]|adj|1
+over/[23,24]|prep|hd/obj1|online_game/[24,25]|verb|1
+projecteer/[10,11]|verb|hd/mod|dan/[15,16]|adv|1
+projecteer/[10,11]|verb|hd/obj1|beeld/[8,9]|noun|1
+projecteer/[10,11]|verb|hd/pc|op/[11,12]|prep|1
+smartphone/[18,19]|noun|hd/det|deze/[17,18]|det|1
+te/[9,10]|comp|cmp/body|projecteer/[10,11]|verb|1
+top/top|top|top/hd|ben/[16,17]|verb|1
+topper/[20,21]|noun|hd/det|een/[19,20]|det|1
+breng/[30,31]|verb|hd/obj1|smartphone/[25,26]|noun|1
+breng/[30,31]|verb|hd/svp|op de markt/[26,29]|fixed|1
+die/[31,32]|pron|rhd/body|maak/[35,36]|verb|1
+in/[5,6]|prep|hd/obj1|kind_schoen/[7,8]|noun|1
+in/[15,16]|prep|hd/obj1|er/[11,12]|adv|1
+kind_schoen/[7,8]|noun|hd/det|zijn/[6,7]|det|1
+maak/[35,36]|verb|hd/mod|ook/[33,34]|adv|1
+maak/[35,36]|verb|hd/mod|op/[36,37]|prep|1
+maak/[35,36]|verb|hd/obj1|online-gamen/[32,33]|noun|1
+maak/[35,36]|verb|hd/predc|aangenaam/[34,35]|adj|1
+maak/[35,36]|verb|hd/su|die/[31,32]|pron|1
+maar/[8,9]|vg|-- / --|./[39,40]|punct|1
+maar/[8,9]|vg|-- / --|en/[21,22]|vg|1
+maar/[8,9]|vg|-- / --|om/[16,17]|comp|1
+maar/[8,9]|vg|-- / --|voor/[18,19]|part|1
+maar/[8,9]|vg|crd/cnj|slaag/[10,11]|verb|1
+maar/[8,9]|vg|crd/cnj|sta/[2,3]|verb|1
+maar/[8,9]|vg|dp/dp|iedereen/[17,18]|pron|1
+maar/[8,9]|vg|dp/dp|om/[22,23]|comp|1
+maar/[8,9]|vg|dp/dp|te/[19,20]|comp|1
+om/[22,23]|comp|cmp/body|te/[29,30]|comp|1
+op/[36,37]|prep|hd/obj1|telefoon/[38,39]|noun|1
+project/[1,2]|noun|hd/det|het/[0,1]|det|1
+slaag/[10,11]|verb|hd/mod|maar/[13,14]|adv|1
+slaag/[10,11]|verb|hd/mod|toch/[12,13]|adv|1
+slaag/[10,11]|verb|hd/mod|weer/[14,15]|adv|1
+slaag/[10,11]|verb|hd/pc|in/[15,16]|prep|1
+slaag/[10,11]|verb|hd/su|Apple/[9,10]|name|1
+smartphone/[25,26]|noun|hd/det|een/[23,24]|det|1
+smartphone/[25,26]|noun|hd/mod|die/[31,32]|pron|1
+smartphone/[25,26]|noun|hd/mod|goed/[24,25]|adj|1
+sta/[2,3]|verb|hd/ld|in/[5,6]|prep|1
+sta/[2,3]|verb|hd/mod|maar/[4,5]|adv|1
+sta/[2,3]|verb|hd/mod|nog/[3,4]|adv|1
+sta/[2,3]|verb|hd/su|project/[1,2]|noun|1
+te/[19,20]|comp|cmp/body|ben/[20,21]|verb|1
+te/[29,30]|comp|cmp/body|breng/[30,31]|verb|1
+telefoon/[38,39]|noun|hd/det|een/[37,38]|det|1
+top/top|top|top/hd|maar/[8,9]|vg|1
+alleen/[1,2]|adv|hd/mod|niet/[0,1]|adv|1
+ben/[5,6]|verb|hd/su|video_game/[3,5]|noun|1
+ben/[5,6]|verb|hd/vc|kom/[8,9]|verb|1
+in/[14,15]|prep|hd/obj1|3D/[15,16]|num|1
+kan/[11,12]|verb|hd/su|men/[10,11]|pron|1
+kan/[11,12]|verb|hd/vc|projecteer/[16,17]|verb|1
+kom/[8,9]|verb|hd/su|video_game/[3,5]|noun|1
+kom/[8,9]|verb|hd/svp|aan bod/[6,8]|fixed|1
+maar/[9,10]|vg|-- / --|./[17,18]|punct|1
+maar/[9,10]|vg|crd/cnj|ben/[5,6]|verb|1
+maar/[9,10]|vg|crd/cnj|kan/[11,12]|verb|1
+projecteer/[16,17]|verb|hd/mod|in/[14,15]|prep|1
+projecteer/[16,17]|verb|hd/mod|ook/[12,13]|adv|1
+projecteer/[16,17]|verb|hd/obj1|film/[13,14]|noun|1
+projecteer/[16,17]|verb|hd/su|men/[10,11]|pron|1
+top/top|top|top/hd|maar/[9,10]|vg|1
+video_game/[3,5]|noun|hd/det|de/[2,3]|det|1
+video_game/[3,5]|noun|hd/mod|alleen/[1,2]|adv|1
+om/[7,8]|comp|cmp/body|te/[9,10]|comp|1
+propname/[12,13]|noun|hd/det|deze/[11,12]|det|1
+schaf_aan/[10,11]|verb|hd/svp|aan/[8,9]|part|1
+te/[9,10]|comp|cmp/body|schaf_aan/[10,11]|verb|1
+top/top|top|top/hd|topper/[2,3]|noun|1
+topper/[2,3]|noun|-- / --|./[13,14]|punct|1
+topper/[2,3]|noun|-- / --|de/[4,5]|det|1
+topper/[2,3]|noun|-- / --|en/[3,4]|vg|1
+topper/[2,3]|noun|-- / --|moeite/[5,6]|noun|1
+topper/[2,3]|noun|-- / --|waard/[6,7]|adj|1
+topper/[2,3]|noun|dp/dp|om/[7,8]|comp|1
+topper/[2,3]|noun|dp/dp|propname/[12,13]|noun|1
+topper/[2,3]|noun|hd/det|een/[1,2]|det|1
+topper/[2,3]|noun|hd/mod|zeker/[0,1]|adv|1

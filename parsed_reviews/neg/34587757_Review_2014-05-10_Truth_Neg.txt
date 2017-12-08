@@ -1,0 +1,190 @@
+PROPNAME,/[0,1]|name|dp/dp|muziek_duo/[3,5]|noun|1
+absurd/[18,19]|adj|hd/mod|meest/[17,18]|adj|1
+ben/[7,8]|verb|hd/su|dat/[5,6]|pron|1
+ben/[7,8]|verb|hd/vc|word/[8,9]|verb|1
+ben/[20,21]|verb|hd/predc|outfit/[19,20]|noun|1
+ben/[20,21]|verb|hd/su|voorbeeld/[23,24]|noun|1
+combinatie/[11,12]|noun|hd/det|een/[10,11]|det|1
+combinatie/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+dan_pas_DIM/[14,15]|noun|hd/mod|gek/[13,14]|adj|1
+dat/[5,6]|pron|rhd/body|ben/[7,8]|verb|1
+dat/[26,27]|pron|rhd/body|heb/[28,29]|verb|1
+door/[9,10]|prep|hd/obj1|combinatie/[11,12]|noun|1
+en/[15,16]|vg|-- / --|./[34,35]|punct|1
+en/[15,16]|vg|crd/cnj|PROPNAME,/[0,1]|name|1
+en/[15,16]|vg|crd/cnj|ben/[20,21]|verb|1
+heb/[28,29]|verb|hd/su|dat/[26,27]|pron|1
+heb/[28,29]|verb|hd/vc|mag/[29,30]|verb|1
+iets/[25,26]|noun|hd/mod|dat/[26,27]|pron|1
+mag/[29,30]|verb|hd/su|dat/[26,27]|pron|1
+mag/[29,30]|verb|hd/vc|ontsta/[30,31]|verb|1
+mening/[33,34]|noun|hd/det|mijn/[32,33]|det|1
+muziek_duo/[3,5]|noun|hd/det|het/[1,2]|det|1
+muziek_duo/[3,5]|noun|hd/mod|Amerikaans/[2,3]|adj|1
+muziek_duo/[3,5]|noun|hd/mod|dat/[5,6]|pron|1
+naar/[31,32]|prep|hd/obj1|mening/[33,34]|noun|1
+ontsta/[30,31]|verb|hd/mod|nooit/[27,28]|adv|1
+ontsta/[30,31]|verb|hd/su|dat/[26,27]|pron|1
+outfit/[19,20]|noun|hd/det|de/[16,17]|det|1
+outfit/[19,20]|noun|hd/mod|absurd/[18,19]|adj|1
+top/top|top|top/hd|en/[15,16]|vg|1
+van/[12,13]|prep|hd/obj1|dan_pas_DIM/[14,15]|noun|1
+van/[24,25]|prep|hd/obj1|iets/[25,26]|noun|1
+voorbeeld/[23,24]|noun|hd/det|een/[21,22]|det|1
+voorbeeld/[23,24]|noun|hd/mod|naar/[31,32]|prep|1
+voorbeeld/[23,24]|noun|hd/mod|perfect/[22,23]|adj|1
+voorbeeld/[23,24]|noun|hd/mod|van/[24,25]|prep|1
+word/[8,9]|verb|hd/mod|door/[9,10]|prep|1
+word/[8,9]|verb|hd/predc|bekend/[6,7]|adj|1
+word/[8,9]|verb|hd/su|dat/[5,6]|pron|1
+ben/[2,3]|verb|-- / --|./[13,14]|punct|1
+ben/[2,3]|verb|hd/obj2|me/[3,4]|pron|1
+ben/[2,3]|verb|hd/predc|dankbaar/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|oor/[1,2]|noun|1
+besta/[11,12]|verb|hd/mod|jaar/[10,11]|noun|1
+besta/[11,12]|verb|hd/mod|maar/[8,9]|adv|1
+besta/[11,12]|verb|hd/su|groep/[7,8]|noun|1
+dankbaar/[4,5]|adj|hd/vc|dat/[5,6]|comp|1
+dat/[5,6]|comp|cmp/body|heb/[12,13]|verb|1
+groep/[7,8]|noun|hd/det|de/[6,7]|det|1
+heb/[12,13]|verb|hd/su|groep/[7,8]|noun|1
+heb/[12,13]|verb|hd/vc|besta/[11,12]|verb|1
+jaar/[10,11]|noun|hd/det|vier/[9,10]|num|1
+oor/[1,2]|noun|hd/det|mijn/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+beweer/[2,3]|verb|-- / --|./[24,25]|punct|1
+beweer/[2,3]|verb|dp/dp|geïnspireerd/[11,12]|adj|1
+beweer/[2,3]|verb|hd/predm|zelf/[3,4]|adv|1
+beweer/[2,3]|verb|hd/su|groep/[1,2]|noun|1
+beweer/[2,3]|verb|hd/vc|dat/[4,5]|comp|1
+creëer/[10,11]|verb|hd/obj1|party rock_genre/[7,9]|noun|1
+creëer/[10,11]|verb|hd/su|ze/[5,6]|pron|1
+dat/[4,5]|comp|cmp/body|heb/[9,10]|verb|1
+door/[12,13]|prep|hd/obj1|muziek_legende/[13,14]|noun|1
+en/[21,22]|vg|crd/cnj|Led Zeppelin/[19,21]|name|1
+en/[21,22]|vg|crd/cnj|The Beatles/[22,24]|name|1
+geïnspireerd/[11,12]|adj|dp/dp|en/[21,22]|vg|1
+geïnspireerd/[11,12]|adj|hd/mod|door/[12,13]|prep|1
+groep/[1,2]|noun|hd/det|de/[0,1]|det|1
+heb/[9,10]|verb|hd/su|ze/[5,6]|pron|1
+heb/[9,10]|verb|hd/vc|creëer/[10,11]|verb|1
+muziek_legende/[13,14]|noun|hd/mod|zoals/[14,15]|comp|1
+party rock_genre/[7,9]|noun|hd/det|het/[6,7]|det|1
+top/top|top|top/hd|beweer/[2,3]|verb|1
+zoals/[14,15]|comp|cmp/body|James PROPNAME, Michael Jackson,/[15,19]|name|1
+beet_DIM/[1,2]|noun|hd/det|een/[0,1]|det|1
+en/[3,4]|vg|-- / --|./[16,17]|punct|1
+en/[3,4]|vg|crd/cnj|pretentieus/[4,5]|adj|1
+en/[3,4]|vg|crd/cnj|vreemd/[2,3]|adj|1
+en/[3,4]|vg|dp/dp|hoor/[6,7]|verb|1
+hoor/[6,7]|verb|hd/mod|alvast/[7,8]|adv|1
+hoor/[6,7]|verb|hd/mod|terug/[9,10]|adv|1
+hoor/[6,7]|verb|hd/obj1|niets/[8,9]|noun|1
+hoor/[6,7]|verb|hd/pc|van/[10,11]|prep|1
+hoor/[6,7]|verb|hd/su|ik/[5,6]|pron|1
+in/[13,14]|prep|hd/obj1|plaat/[15,16]|noun|1
+plaat/[15,16]|noun|hd/det|hun/[14,15]|det|1
+pretentieus/[4,5]|adj|hd/mod|beet_DIM/[1,2]|noun|1
+talent/[12,13]|noun|hd/mod|bovengenoemd/[11,12]|adj|1
+talent/[12,13]|noun|hd/mod|in/[13,14]|prep|1
+top/top|top|top/hd|en/[3,4]|vg|1
+van/[10,11]|prep|hd/obj1|talent/[12,13]|noun|1
+vreemd/[2,3]|adj|hd/mod|beet_DIM/[1,2]|noun|1
+door/[10,11]|prep|hd/obj1|zender/[13,14]|noun|1
+draai/[17,18]|verb|hd/mod|in/[18,19]|prep|1
+draai/[17,18]|verb|hd/mod|natuurlijk/[15,16]|adj|1
+draai/[17,18]|verb|hd/mod|plat/[16,17]|adj|1
+draai/[17,18]|verb|hd/mod|toen/[0,1]|comp|1
+draai/[17,18]|verb|hd/obj1|deze/[6,7]|det|1
+eerste/[2,3]|num|hd/det|hun/[1,2]|det|1
+en/[14,15]|vg|crd/cnj|draai/[17,18]|verb|1
+en/[14,15]|vg|crd/cnj|pik_op/[9,10]|verb|1
+en/[20,21]|vg|crd/cnj|club/[21,22]|noun|1
+en/[20,21]|vg|crd/cnj|discotheek/[19,20]|noun|1
+in/[18,19]|prep|hd/obj1|en/[20,21]|vg|1
+kom_uit/[4,5]|verb|hd/obj2|eerste/[2,3]|num|1
+kom_uit/[4,5]|verb|hd/su|nummer/[3,4]|noun|1
+pik_op/[9,10]|verb|hd/mod|door/[10,11]|prep|1
+pik_op/[9,10]|verb|hd/mod|snel/[8,9]|adj|1
+pik_op/[9,10]|verb|hd/mod|toen/[0,1]|comp|1
+pik_op/[9,10]|verb|hd/obj1|deze/[6,7]|det|1
+snel/[8,9]|adj|hd/mod|al/[7,8]|adv|1
+toen/[0,1]|comp|cmp/body|kom_uit/[4,5]|verb|1
+top/top|top|top/hd|word/[5,6]|verb|1
+word/[5,6]|verb|-- / --|./[22,23]|punct|1
+word/[5,6]|verb|hd/su|deze/[6,7]|det|1
+word/[5,6]|verb|hd/vc|en/[14,15]|vg|1
+zender/[13,14]|noun|hd/det|de/[11,12]|det|1
+zender/[13,14]|noun|hd/mod|commercieel/[12,13]|adj|1
+begin/[9,10]|verb|hd/su|massa/[7,8]|noun|1
+begin/[9,10]|verb|hd/vc|te/[11,12]|comp|1
+drank_DIM/[31,32]|noun|hd/det|een/[29,30]|det|1
+drank_DIM/[31,32]|noun|hd/mod|nieuw/[30,31]|adj|1
+en/[13,14]|vg|crd/cnj|hoe/[5,6]|adj|1
+en/[13,14]|vg|crd/cnj|hoe/[14,15]|adj|1
+ga/[27,28]|verb|hd/ld|naar/[23,24]|prep|1
+ga/[27,28]|verb|hd/mod|even/[22,23]|adj|1
+gelegenheid/[18,19]|noun|hd/det|de/[17,18]|det|1
+gelegenheid/[18,19]|noun|hd/vc|om/[21,22]|comp|1
+haal/[33,34]|verb|hd/obj1|drank_DIM/[31,32]|noun|1
+herinner/[1,2]|verb|-- / --|./[34,35]|punct|1
+herinner/[1,2]|verb|hd/mod|goed/[4,5]|adj|1
+herinner/[1,2]|verb|hd/mod|nog/[3,4]|adv|1
+herinner/[1,2]|verb|hd/se|me/[2,3]|pron|1
+herinner/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+herinner/[1,2]|verb|hd/vc|en/[13,14]|vg|1
+hoe/[5,6]|adj|whd/body|begin/[9,10]|verb|1
+hoe/[14,15]|adj|whd/body|maak/[20,21]|verb|1
+maak/[20,21]|verb|hd/mod|hoe/[14,15]|adj|1
+maak/[20,21]|verb|hd/obj1|gebruik/[19,20]|noun|1
+maak/[20,21]|verb|hd/pc|van/[16,17]|prep|1
+maak/[20,21]|verb|hd/su|ik/[15,16]|pron|1
+massa/[7,8]|noun|hd/det|de/[6,7]|det|1
+naar/[23,24]|prep|hd/obj1|toilet/[25,26]|noun|1
+of/[28,29]|vg|crd/cnj|te/[26,27]|comp|1
+of/[28,29]|vg|crd/cnj|te/[32,33]|comp|1
+om/[21,22]|comp|cmp/body|of/[28,29]|vg|1
+te/[11,12]|comp|cmp/body|zing_mee/[12,13]|verb|1
+te/[26,27]|comp|cmp/body|ga/[27,28]|verb|1
+te/[32,33]|comp|cmp/body|haal/[33,34]|verb|1
+toilet/[25,26]|noun|hd/det|het/[24,25]|det|1
+top/top|top|top/hd|herinner/[1,2]|verb|1
+van/[16,17]|prep|hd/obj1|gelegenheid/[18,19]|noun|1
+zing_mee/[12,13]|verb|hd/mod|enthousiast/[8,9]|adj|1
+zing_mee/[12,13]|verb|hd/mod|hoe/[5,6]|adj|1
+zing_mee/[12,13]|verb|hd/su|massa/[7,8]|noun|1
+zing_mee/[12,13]|verb|hd/svp|mee/[10,11]|part|1
+over/[0,1]|prep|hd/obj1|partypooper/[2,3]|noun|1
+partypooper/[2,3]|noun|hd/det|een/[1,2]|det|1
+spreek/[3,4]|verb|-- / --|./[4,5]|punct|1
+spreek/[3,4]|verb|hd/pc|over/[0,1]|prep|1
+top/top|top|top/hd|spreek/[3,4]|verb|1
+award/[4,5]|noun|hd/det|meerdere/[3,4]|det|1
+heb/[1,2]|verb|-- / --|./[9,10]|punct|1
+heb/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+heb/[1,2]|verb|hd/vc|mag/[7,8]|verb|1
+mag/[7,8]|verb|hd/su|PROPNAME/[0,1]|name|1
+mag/[7,8]|verb|hd/vc|neem/[8,9]|verb|1
+neem/[8,9]|verb|hd/mod|ook/[2,3]|adv|1
+neem/[8,9]|verb|hd/obj1|award/[4,5]|noun|1
+neem/[8,9]|verb|hd/su|PROPNAME/[0,1]|name|1
+neem/[8,9]|verb|hd/svp|in ontvangst/[5,7]|fixed|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+Grammy of American Music Award/[2,7]|name|-- / --|./[7,8]|punct|1
+Grammy of American Music Award/[2,7]|name|hd/det|geen/[1,2]|det|1
+geen/[1,2]|det|hd/mod|gelukkig/[0,1]|adj|1
+top/top|top|top/hd|Grammy of American Music Award/[2,7]|name|1
+NRJ Music Award,/[10,13]|name|hd/det|een/[9,10]|det|1
+ga/[2,3]|verb|-- / --|./[17,18]|punct|1
+ga/[2,3]|verb|dp/dp|prijsuitreiking/[16,17]|noun|1
+ga/[2,3]|verb|hd/mod|in/[3,4]|prep|1
+ga/[2,3]|verb|hd/pc|met/[8,9]|prep|1
+ga/[2,3]|verb|hd/su|groep/[1,2]|noun|1
+ga/[2,3]|verb|hd/svp|aan de haal/[5,8]|fixed|1
+groep/[1,2]|noun|hd/det|de/[0,1]|det|1
+in/[3,4]|prep|hd/obj1|2012/[4,5]|noun|1
+met/[8,9]|prep|hd/obj1|NRJ Music Award,/[10,13]|name|1
+prijsuitreiking/[16,17]|noun|hd/det|een/[13,14]|det|1
+prijsuitreiking/[16,17]|noun|hd/mod|Frans/[14,15]|adj|1
+prijsuitreiking/[16,17]|noun|hd/mod|commercieel/[15,16]|adj|1
+top/top|top|top/hd|ga/[2,3]|verb|1

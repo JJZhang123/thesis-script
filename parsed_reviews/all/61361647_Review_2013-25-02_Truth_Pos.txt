@@ -1,0 +1,241 @@
+ben/[3,4]|verb|hd/mod|er/[4,5]|adv|1
+ben/[3,4]|verb|hd/predc|één/[5,6]|num|1
+ben/[3,4]|verb|hd/su|nostalgie_microbe/[1,3]|noun|1
+bezwijk/[32,33]|verb|hd/mod|na/[29,30]|prep|1
+bezwijk/[32,33]|verb|hd/mod|waarin/[26,27]|pp|1
+bezwijk/[32,33]|verb|hd/pc|voor/[33,34]|prep|1
+bezwijk/[32,33]|verb|hd/su|ziel/[28,29]|noun|1
+dankzij/[12,13]|prep|hd/obj1|prent/[16,17]|noun|1
+epidemie/[25,26]|noun|hd/det|een/[23,24]|det|1
+epidemie/[25,26]|noun|hd/mod|waar/[24,25]|adj|1
+maar/[9,10]|vg|-- / --|./[40,41]|punct|1
+maar/[9,10]|vg|crd/cnj|ben/[3,4]|verb|1
+maar/[9,10]|vg|crd/cnj|zal/[10,11]|verb|1
+na/[29,30]|prep|hd/obj1|ziel/[30,31]|noun|1
+naar/[37,38]|prep|hd/obj1|tijd/[39,40]|noun|1
+nostalgie_microbe/[1,3]|noun|hd/det|de/[0,1]|det|1
+prent/[16,17]|noun|hd/det|de/[13,14]|det|1
+prent/[16,17]|noun|hd/mod|fantastisch/[15,16]|adj|1
+prent/[16,17]|noun|hd/mod|nieuw/[14,15]|adj|1
+prent/[16,17]|noun|hd/mod|van/[17,18]|prep|1
+tijd/[8,9]|noun|hd/det|alle/[7,8]|det|1
+tijd/[39,40]|noun|hd/mod|vroeg/[38,39]|adj|1
+top/top|top|top/hd|maar/[9,10]|vg|1
+van/[6,7]|prep|hd/obj1|tijd/[8,9]|noun|1
+van/[17,18]|prep|hd/obj1|Woody Allen, PROPNAME,/[18,21]|name|1
+verlangen/[36,37]|noun|hd/det|dat/[34,35]|det|1
+verlangen/[36,37]|noun|hd/mod|eeuwig/[35,36]|adj|1
+verlangen/[36,37]|noun|hd/mod|naar/[37,38]|prep|1
+voor/[22,23]|prep|hd/obj1|epidemie/[25,26]|noun|1
+voor/[33,34]|prep|hd/obj1|verlangen/[36,37]|noun|1
+waarin/[26,27]|pp|whd/body|zal/[31,32]|verb|1
+zal/[10,11]|verb|hd/su|nostalgie_microbe/[1,3]|noun|1
+zal/[10,11]|verb|hd/vc|zorg/[21,22]|verb|1
+zal/[31,32]|verb|hd/su|ziel/[28,29]|noun|1
+zal/[31,32]|verb|hd/vc|bezwijk/[32,33]|verb|1
+ziel/[28,29]|noun|hd/mod|dromerig/[27,28]|adj|1
+zorg/[21,22]|verb|hd/mod|dankzij/[12,13]|prep|1
+zorg/[21,22]|verb|hd/mod|ditmaal/[11,12]|adv|1
+zorg/[21,22]|verb|hd/mod|voor/[22,23]|prep|1
+zorg/[21,22]|verb|hd/su|nostalgie_microbe/[1,3]|noun|1
+zorg/[21,22]|verb|hd/vc|waarin/[26,27]|pp|1
+één/[5,6]|num|hd/mod|van/[6,7]|prep|1
+Woody Allen –Ik/[0,3]|name|-- / --|./[30,31]|punct|1
+Woody Allen –Ik/[0,3]|name|-- / --|besmetting/[9,10]|prefix|1
+Woody Allen –Ik/[0,3]|name|dp/dp|creëer/[10,11]|verb|1
+Woody Allen –Ik/[0,3]|name|dp/dp|verdenk/[3,4]|verb|1
+als/[22,23]|comp|cmp/body|spreekbuis/[23,24]|noun|1
+creëer/[10,11]|verb|hd/mod|wederom/[11,12]|adv|1
+creëer/[10,11]|verb|hd/obj1|wereld/[15,16]|noun|1
+creëer/[10,11]|verb|hd/su|idyllisch/[14,15]|adj|1
+idyllisch/[14,15]|adj|hd/det|een/[12,13]|det|1
+idyllisch/[14,15]|adj|hd/mod|prachtig/[13,14]|adj|1
+laat/[28,29]|verb|hd/mod|zoals/[18,19]|comp|1
+laat/[28,29]|verb|hd/obj1|personage/[21,22]|noun|1
+laat/[28,29]|verb|hd/su|hij/[17,18]|pron|1
+laat/[28,29]|verb|hd/vc|treed_op/[29,30]|verb|1
+personage/[21,22]|noun|hd/det|zijn/[20,21]|det|1
+regisseur/[5,6]|noun|hd/det|deze/[4,5]|det|1
+spreekbuis/[23,24]|noun|hd/mod|voor/[24,25]|prep|1
+top/top|top|top/hd|Woody Allen –Ik/[0,3]|name|1
+treed_op/[29,30]|verb|hd/mod|waar/[16,17]|adv|1
+treed_op/[29,30]|verb|hd/predc|als/[22,23]|comp|1
+treed_op/[29,30]|verb|hd/su|personage/[21,22]|noun|1
+van/[7,8]|prep|hd/obj1|enig/[8,9]|adj|1
+verdenk/[3,4]|verb|hd/mod|ook/[6,7]|adv|1
+verdenk/[3,4]|verb|hd/obj1|regisseur/[5,6]|noun|1
+verdenk/[3,4]|verb|hd/pc|van/[7,8]|prep|1
+voor/[24,25]|prep|hd/obj1|zielenroerselen/[27,28]|noun|1
+waar/[16,17]|adv|rhd/body|laat/[28,29]|verb|1
+wereld/[15,16]|noun|hd/mod|waar/[16,17]|adv|1
+zielenroerselen/[27,28]|noun|hd/det|zijn/[25,26]|det|1
+zielenroerselen/[27,28]|noun|hd/mod|eigen/[26,27]|adj|1
+zoals/[18,19]|comp|cmp/body|steeds/[19,20]|adv|1
+Owen Wilson/[7,9]|name|hd/det|een/[5,6]|det|1
+Owen Wilson/[7,9]|name|hd/mod|opvallend/[6,7]|adj|1
+keer/[1,2]|noun|-- / --|./[9,10]|punct|1
+keer/[1,2]|noun|hd/det|dit/[0,1]|det|1
+keer/[1,2]|noun|hd/mod|met/[2,3]|prep|1
+met/[2,3]|prep|hd/mod|vooraan/[4,5]|adv|1
+met/[2,3]|prep|hd/obj1|Owen Wilson/[7,9]|name|1
+top/top|top|top/hd|keer/[1,2]|noun|1
+vooraan/[4,5]|adv|hd/mod|helemaal/[3,4]|adv|1
+ben/[18,19]|verb|hd/mod|op/[16,17]|prep|1
+ben/[18,19]|verb|hd/predc|samen/[9,10]|adj|1
+ben/[18,19]|verb|hd/su|die/[8,9]|pron|1
+die/[8,9]|pron|rhd/body|ben/[18,19]|verb|1
+in/[19,20]|prep|hd/obj1|Parijs/[20,21]|name|1
+man/[1,2]|noun|hd/det|de/[0,1]|det|1
+met/[10,11]|prep|hd/obj1|verloofde/[13,14]|noun|1
+nerveus/[5,6]|adj|hd/mod|nogal/[4,5]|adv|1
+op/[16,17]|prep|hd/obj1|city_trip/[17,18]|noun|1
+samen/[9,10]|adj|hd/pc|met/[10,11]|prep|1
+schrijver/[6,7]|noun|hd/app|Gil/[7,8]|name|1
+schrijver/[6,7]|noun|hd/det|de/[3,4]|det|1
+schrijver/[6,7]|noun|hd/mod|die/[8,9]|pron|1
+schrijver/[6,7]|noun|hd/mod|nerveus/[5,6]|adj|1
+top/top|top|top/hd|vertolk/[2,3]|verb|1
+verloofde/[13,14]|noun|hd/app|Rachel McAdams/[14,16]|name|1
+verloofde/[13,14]|noun|hd/det|zijn/[11,12]|det|1
+verloofde/[13,14]|noun|hd/mod|verwaand/[12,13]|adj|1
+vertolk/[2,3]|verb|-- / --|./[21,22]|punct|1
+vertolk/[2,3]|verb|hd/mod|in/[19,20]|prep|1
+vertolk/[2,3]|verb|hd/obj1|schrijver/[6,7]|noun|1
+vertolk/[2,3]|verb|hd/su|man/[1,2]|noun|1
+aan/[21,22]|prep|hd/obj1|F/[22,23]|name|1
+auto/[8,9]|noun|hd/det|een/[7,8]|det|1
+auto/[8,9]|noun|hd/mod|die/[10,11]|pron|1
+die/[10,11]|pron|rhd/body|en/[17,18]|vg|1
+en/[17,18]|vg|crd/cnj|voer_mee/[12,13]|verb|1
+en/[17,18]|vg|crd/cnj|word/[19,20]|verb|1
+feest_DIM/[16,17]|noun|hd/det|een/[14,15]|det|1
+feest_DIM/[16,17]|noun|hd/mod|opmerkelijk/[15,16]|adj|1
+in/[6,7]|prep|hd/obj1|auto/[8,9]|noun|1
+naar/[13,14]|prep|hd/obj1|feest_DIM/[16,17]|noun|1
+op/[2,3]|prep|hd/obj1|wijze/[4,5]|noun|1
+stap/[9,10]|verb|hd/ld|in/[6,7]|prep|1
+stap/[9,10]|verb|hd/mod|op/[2,3]|prep|1
+stap/[9,10]|verb|hd/mod|plots/[5,6]|adj|1
+stap/[9,10]|verb|hd/su|hij/[1,2]|pron|1
+stel_voor/[20,21]|verb|hd/mod|laat/[18,19]|adj|1
+stel_voor/[20,21]|verb|hd/obj1|die/[10,11]|pron|1
+stel_voor/[20,21]|verb|hd/obj2|aan/[21,22]|prep|1
+top/top|top|top/hd|wanneer/[0,1]|comp|1
+voer_mee/[12,13]|verb|hd/mod|naar/[13,14]|prep|1
+voer_mee/[12,13]|verb|hd/obj1|hem/[11,12]|pron|1
+voer_mee/[12,13]|verb|hd/su|die/[10,11]|pron|1
+wanneer/[0,1]|comp|-- / --|./[23,24]|punct|1
+wanneer/[0,1]|comp|cmp/body|stap/[9,10]|verb|1
+wijze/[4,5]|noun|hd/mod|onverklaarbaar/[3,4]|adj|1
+word/[19,20]|verb|hd/su|die/[10,11]|pron|1
+word/[19,20]|verb|hd/vc|stel_voor/[20,21]|verb|1
+aan/[5,6]|prep|hd/obj1|Ernest Hemingway,/[6,8]|name|1
+en/[2,3]|vg|-- / --|./[23,24]|punct|1
+en/[2,3]|vg|crd/cnj|Scott Fitzgerald/[0,2]|name|1
+en/[2,3]|vg|crd/cnj|weet/[8,9]|verb|1
+heb/[22,23]|verb|hd/mod|nog/[17,18]|adv|1
+heb/[22,23]|verb|hd/obj1|het/[16,17]|noun|1
+heb/[22,23]|verb|hd/su|hij/[15,16]|pron|1
+heb/[22,23]|verb|hd/svp|bij het rechte eind/[18,22]|fixed|1
+laat/[4,5]|adj|hd/mod|aan/[5,6]|prep|1
+laat/[4,5]|adj|hd/mod|nog/[3,4]|adv|1
+niet/[12,13]|adv|hd/mod|meer/[13,14]|adv|1
+of/[14,15]|comp|cmp/body|heb/[22,23]|verb|1
+schrijver/[11,12]|noun|hd/det|de/[9,10]|det|1
+schrijver/[11,12]|noun|hd/mod|jong/[10,11]|adj|1
+top/top|top|top/hd|en/[2,3]|vg|1
+weet/[8,9]|verb|hd/mod|laat/[4,5]|adj|1
+weet/[8,9]|verb|hd/mod|niet/[12,13]|adv|1
+weet/[8,9]|verb|hd/su|schrijver/[11,12]|noun|1
+weet/[8,9]|verb|hd/vc|of/[14,15]|comp|1
+Gil/[15,16]|name|hd/mod|die/[16,17]|pron|1
+als/[6,7]|comp|cmp/body|kijker/[7,8]|noun|1
+bijrol/[31,32]|noun|hd/mod|voor/[32,33]|prep|1
+deun_DIM/[21,22]|noun|hd/mod|Charleston/[20,21]|name|1
+deun_DIM/[21,22]|noun|hd/mod|met/[22,23]|prep|1
+die/[16,17]|pron|rhd/body|mag/[17,18]|verb|1
+en/[0,1]|comp|-- / --|./[43,44]|punct|1
+en/[0,1]|comp|-- / --|bespreek/[39,40]|verb|1
+en/[0,1]|comp|dlink/nucl|krijg/[3,4]|verb|1
+en/[0,1]|comp|dp/dp|met/[40,41]|prep|1
+en/[0,1]|comp|dp/dp|pak/[27,28]|verb|1
+en/[35,36]|vg|crd/cnj|Adrian Brody/[33,35]|name|1
+en/[35,36]|vg|crd/cnj|roman/[38,39]|noun|1
+feest/[18,19]|verb|hd/mod|op/[19,20]|prep|1
+feest/[18,19]|verb|hd/su|die/[16,17]|pron|1
+gevoel/[2,3]|noun|hd/det|dat/[1,2]|det|1
+gevoel/[11,12]|noun|hd/det|een/[9,10]|det|1
+gevoel/[11,12]|noun|hd/mod|absurd/[10,11]|adj|1
+gevoel/[11,12]|noun|hd/mod|op/[24,25]|prep|1
+gevoel/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+jaloezie/[13,14]|noun|hd/mod|op/[14,15]|prep|1
+krijg/[3,4]|verb|hd/mod|eveneens/[8,9]|adv|1
+krijg/[3,4]|verb|hd/mod|ook/[5,6]|adv|1
+krijg/[3,4]|verb|hd/obj1|gevoel/[2,3]|noun|1
+krijg/[3,4]|verb|hd/predm|als/[6,7]|comp|1
+krijg/[3,4]|verb|hd/su|je/[4,5]|pron|1
+mag/[17,18]|verb|hd/su|die/[16,17]|pron|1
+mag/[17,18]|verb|hd/vc|feest/[18,19]|verb|1
+met/[22,23]|prep|hd/obj1|Hemingway/[23,24]|name|1
+met/[28,29]|prep|hd/obj1|Salvador Dali/[29,31]|name|1
+met/[40,41]|prep|hd/obj1|Gertrude Stein/[41,43]|name|1
+op/[14,15]|prep|hd/obj1|Gil/[15,16]|name|1
+op/[19,20]|prep|hd/obj1|deun_DIM/[21,22]|noun|1
+op/[24,25]|prep|hd/obj1|café_pint/[25,27]|noun|1
+pak/[27,28]|verb|hd/mod|met/[28,29]|prep|1
+pak/[27,28]|verb|hd/obj1|bijrol/[31,32]|noun|1
+pak/[27,28]|verb|hd/su|gevoel/[11,12]|noun|1
+roman/[38,39]|noun|hd/det|zijn/[36,37]|det|1
+roman/[38,39]|noun|hd/mod|nieuw/[37,38]|adj|1
+top/top|top|top/hd|en/[0,1]|comp|1
+van/[12,13]|prep|hd/obj1|jaloezie/[13,14]|noun|1
+voor/[32,33]|prep|hd/obj1|en/[35,36]|vg|1
+allemaal/[3,4]|adv|dp/dp|en/[9,10]|vg|1
+dat/[1,2]|det|dp/dp|dus/[2,3]|adv|1
+en/[0,1]|comp|-- / --|!/[15,16]|punct|1
+en/[0,1]|comp|dlink/nucl|dat/[1,2]|det|1
+en/[0,1]|comp|dp/dp|allemaal/[3,4]|adv|1
+en/[9,10]|vg|crd/cnj|in/[4,5]|prep|1
+en/[9,10]|vg|crd/cnj|in/[11,12]|prep|1
+in/[4,5]|prep|hd/obj1|straat/[6,7]|noun|1
+in/[11,12]|prep|hd/mod|wel/[10,11]|adj|1
+in/[11,12]|prep|hd/obj1|jaar/[13,14]|noun|1
+jaar/[13,14]|noun|hd/app|20/[14,15]|num|1
+jaar/[13,14]|noun|hd/det|de/[12,13]|det|1
+straat/[6,7]|noun|hd/det|de/[5,6]|det|1
+straat/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+top/top|top|top/hd|en/[0,1]|comp|1
+van/[7,8]|prep|hd/obj1|Parijs/[8,9]|name|1
+als/[24,25]|comp|cmp/body|kijker/[25,26]|noun|1
+denk/[5,6]|verb|hd/det|je/[2,3]|det|1
+denk/[5,6]|verb|hd/mod|pragmatisch/[4,5]|adj|1
+denk/[5,6]|verb|hd/mod|rationeel/[3,4]|adj|1
+denk/[5,6]|verb|hd/mod|vooral/[1,2]|adv|1
+en/[7,8]|vg|-- / --|.. /[31,32]|punct|1
+en/[7,8]|vg|crd/cnj|laat/[8,9]|verb|1
+en/[7,8]|vg|crd/cnj|laat_thuis/[0,1]|verb|1
+en/[7,8]|vg|dp/dp|kan/[22,23]|verb|1
+film/[29,30]|noun|hd/det|die/[28,29]|det|1
+in/[27,28]|prep|hd/obj1|film/[29,30]|noun|1
+kan/[22,23]|verb|hd/predm|als/[24,25]|comp|1
+kan/[22,23]|verb|hd/su|je/[23,24]|pron|1
+kan/[22,23]|verb|hd/vc|stap/[30,31]|verb|1
+kunst_hoofdstad/[18,19]|noun|hd/det|de/[17,18]|det|1
+kunst_hoofdstad/[18,19]|noun|hd/mod|van/[19,20]|prep|1
+laat/[8,9]|verb|hd/vc|voer_mee/[10,11]|verb|1
+laat_thuis/[0,1]|verb|hd/obj1|denk/[5,6]|verb|1
+laat_thuis/[0,1]|verb|hd/svp|thuis/[6,7]|part|1
+naar/[16,17]|prep|hd/obj1|kunst_hoofdstad/[18,19]|noun|1
+op/[11,12]|prep|hd/obj1|trip/[15,16]|noun|1
+stap/[30,31]|verb|hd/ld|in/[27,28]|prep|1
+stap/[30,31]|verb|hd/mod|maar/[26,27]|adv|1
+stap/[30,31]|verb|hd/mod|op/[11,12]|prep|1
+stap/[30,31]|verb|hd/su|je/[23,24]|pron|1
+top/top|top|top/hd|en/[7,8]|vg|1
+trip/[15,16]|noun|hd/det|een/[12,13]|det|1
+trip/[15,16]|noun|hd/mod|naar/[16,17]|prep|1
+trip/[15,16]|noun|hd/mod|sfeervol/[13,14]|adj|1
+trip/[15,16]|noun|hd/mod|uitbundig/[14,15]|adj|1
+van/[19,20]|prep|hd/obj1|wereld/[21,22]|noun|1
+voer_mee/[10,11]|verb|hd/obj1|je/[9,10]|pron|1
+wereld/[21,22]|noun|hd/det|de/[20,21]|det|1

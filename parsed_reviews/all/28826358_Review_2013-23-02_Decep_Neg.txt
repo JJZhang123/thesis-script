@@ -1,0 +1,185 @@
+Slecht, vals,/[0,2]|name|-- / --|./[6,7]|punct|1
+Slecht, vals,/[0,2]|name|dp/dp|niet/[2,3]|adv|1
+Slecht, vals,/[0,2]|name|dp/dp|op/[3,4]|prep|1
+op/[3,4]|prep|hd/obj1|ritme/[5,6]|noun|1
+ritme/[5,6]|noun|hd/det|het/[4,5]|det|1
+top/top|top|top/hd|Slecht, vals,/[0,2]|name|1
+ben/[1,2]|verb|-- / --|./[14,15]|punct|1
+ben/[1,2]|verb|hd/predc|term/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|dat/[0,1]|noun|1
+bij/[6,7]|prep|hd/obj1|me/[7,8]|pron|1
+concert/[11,12]|noun|hd/det|het/[10,11]|det|1
+concert/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+die/[4,5]|pron|rhd/body|kom_op/[8,9]|verb|1
+kom_op/[8,9]|verb|hd/ld|bij/[6,7]|prep|1
+kom_op/[8,9]|verb|hd/mod|meteen/[5,6]|adv|1
+kom_op/[8,9]|verb|hd/mod|na/[9,10]|prep|1
+kom_op/[8,9]|verb|hd/su|die/[4,5]|pron|1
+na/[9,10]|prep|hd/obj1|concert/[11,12]|noun|1
+term/[3,4]|noun|hd/det|drie/[2,3]|num|1
+term/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[12,13]|prep|hd/obj1|gisterenavond/[13,14]|adv|1
+ben/[1,2]|verb|hd/mod|misschien/[2,3]|adv|1
+ben/[1,2]|verb|hd/mod|wel/[3,4]|adj|1
+ben/[1,2]|verb|hd/predc|gospel_koor/[6,7]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+dan/[15,16]|comparative|cmp/body|dat/[16,17]|det|1
+dat/[7,8]|pron|rhd/body|heb/[10,11]|verb|1
+gospel_koor/[6,7]|noun|hd/det|het/[4,5]|det|1
+gospel_koor/[6,7]|noun|hd/mod|dat/[7,8]|pron|1
+gospel_koor/[6,7]|noun|hd/mod|eerste/[5,6]|num|1
+heb/[10,11]|verb|hd/su|ik/[8,9]|pron|1
+heb/[10,11]|verb|hd/vc|hoor/[11,12]|verb|1
+hoor/[11,12]|verb|hd/mod|ooit/[9,10]|adv|1
+hoor/[11,12]|verb|hd/obj1|dat/[7,8]|pron|1
+hoor/[11,12]|verb|hd/su|ik/[8,9]|pron|1
+hoor/[11,12]|verb|hd/vc|zing/[12,13]|verb|1
+kan/[17,18]|verb|hd/su|het/[18,19]|det|1
+kan/[17,18]|verb|hd/vc|word/[21,22]|verb|1
+maar/[13,14]|vg|-- / --|./[22,23]|punct|1
+maar/[13,14]|vg|crd/cnj|ben/[1,2]|verb|1
+maar/[13,14]|vg|crd/cnj|kan/[17,18]|verb|1
+niet/[20,21]|adv|hd/mod|echt/[19,20]|adj|1
+slecht/[14,15]|adj|hd/obcomp|dan/[15,16]|comparative|1
+top/top|top|top/hd|maar/[13,14]|vg|1
+word/[21,22]|verb|hd/mod|niet/[20,21]|adv|1
+word/[21,22]|verb|hd/predc|slecht/[14,15]|adj|1
+word/[21,22]|verb|hd/su|het/[18,19]|det|1
+zing/[12,13]|verb|hd/su|dat/[7,8]|pron|1
+aantal/[5,6]|noun|hd/det|een/[4,5]|det|1
+begin/[17,18]|verb|hd/mod|laat/[16,17]|adj|1
+begin/[17,18]|verb|hd/mod|waardoor/[10,11]|pp|1
+begin/[17,18]|verb|hd/su|concert/[12,13]|noun|1
+ben/[3,4]|verb|-- / --|./[20,21]|punct|1
+ben/[3,4]|verb|hd/su|zanger/[6,7]|noun|1
+ben/[3,4]|verb|hd/vc|plan/[19,20]|verb|1
+concert/[12,13]|noun|hd/det|het/[11,12]|det|1
+laat/[9,10]|adj|hd/mod|te/[8,9]|adv|1
+laat/[16,17]|adj|hd/me|uur/[15,16]|noun|1
+om/[0,1]|comp|cmp/body|te/[1,2]|comp|1
+plan/[19,20]|verb|hd/mod|dan/[18,19]|adv|1
+plan/[19,20]|verb|hd/mod|laat/[9,10]|adj|1
+plan/[19,20]|verb|hd/mod|om/[0,1]|comp|1
+plan/[19,20]|verb|hd/mod|waardoor/[10,11]|pp|1
+plan/[19,20]|verb|hd/obj1|zanger/[6,7]|noun|1
+te/[1,2]|comp|cmp/body|begin/[2,3]|verb|1
+te/[8,9]|adv|hd/mod|al/[7,8]|adv|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+uur/[15,16]|noun|hd/det|een/[13,14]|det|1
+uur/[15,16]|noun|hd/mod|half/[14,15]|adj|1
+waardoor/[10,11]|pp|rhd/body|begin/[17,18]|verb|1
+zanger/[6,7]|noun|hd/det|aantal/[5,6]|noun|1
+kan/[2,3]|verb|-- / --|./[11,12]|punct|1
+kan/[2,3]|verb|hd/su|stem, de hoofdzangeres,/[5,8]|name|1
+kan/[2,3]|verb|hd/vc|zing/[10,11]|verb|1
+noot/[9,10]|noun|hd/det|geen/[8,9]|det|1
+stem, de hoofdzangeres,/[5,8]|name|hd/det|de/[3,4]|det|1
+stem, de hoofdzangeres,/[5,8]|name|hd/mod|eerste/[4,5]|num|1
+top/top|top|top/hd|kan/[2,3]|verb|1
+zing/[10,11]|verb|hd/mod|ten tweede/[0,2]|adv|1
+zing/[10,11]|verb|hd/obj1|noot/[9,10]|noun|1
+zing/[10,11]|verb|hd/su|stem, de hoofdzangeres,/[5,8]|name|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|volg/[4,5]|verb|1
+kan/[7,8]|verb|hd/mod|zelfs/[9,10]|adv|1
+kan/[7,8]|verb|hd/obj1|dat/[6,7]|det|1
+kan/[7,8]|verb|hd/predc|goed/[10,11]|adj|1
+kan/[7,8]|verb|hd/su|ik/[8,9]|pron|1
+maar/[5,6]|vg|-- / --|./[11,12]|punct|1
+maar/[5,6]|vg|crd/cnj|heb/[1,2]|verb|1
+maar/[5,6]|vg|crd/cnj|kan/[7,8]|verb|1
+top/top|top|top/hd|maar/[5,6]|vg|1
+volg/[4,5]|verb|hd/mod|nooit/[2,3]|adv|1
+volg/[4,5]|verb|hd/obj1|zang_les/[3,4]|noun|1
+volg/[4,5]|verb|hd/su|ik/[0,1]|pron|1
+achtergrond_zanger/[5,6]|noun|hd/det|de/[4,5]|det|1
+ben/[11,12]|verb|hd/mod|altijd/[13,14]|adv|1
+ben/[11,12]|verb|hd/mod|voor/[0,1]|prep|1
+ben/[11,12]|verb|hd/predc|kwijt/[19,20]|adj|1
+ben/[11,12]|verb|hd/su|ze/[12,13]|pron|1
+en/[10,11]|vg|-- / --|./[20,21]|punct|1
+en/[10,11]|vg|crd/cnj|ben/[11,12]|verb|1
+en/[10,11]|vg|crd/cnj|kan/[3,4]|verb|1
+houd/[9,10]|verb|hd/mod|niet/[8,9]|adv|1
+houd/[9,10]|verb|hd/mod|voor/[0,1]|prep|1
+houd/[9,10]|verb|hd/obj1|toon/[7,8]|noun|1
+houd/[9,10]|verb|hd/su|achtergrond_zanger/[5,6]|noun|1
+kan/[3,4]|verb|hd/su|achtergrond_zanger/[5,6]|noun|1
+kan/[3,4]|verb|hd/vc|houd/[9,10]|verb|1
+kwijt/[19,20]|adj|hd/obj1|maat/[15,16]|noun|1
+maat/[15,16]|noun|hd/det|de/[14,15]|det|1
+maat/[15,16]|noun|hd/mod|van/[16,17]|prep|1
+muziek/[18,19]|noun|hd/det|de/[17,18]|det|1
+rest/[2,3]|noun|hd/det|de/[1,2]|det|1
+toon/[7,8]|noun|hd/det|hun/[6,7]|det|1
+top/top|top|top/hd|en/[10,11]|vg|1
+van/[16,17]|prep|hd/obj1|muziek/[18,19]|noun|1
+voor/[0,1]|prep|hd/obj1|rest/[2,3]|noun|1
+concert/[1,2]|noun|hd/det|het/[0,1]|det|1
+duur/[2,3]|verb|hd/me|uur/[5,6]|noun|1
+duur/[2,3]|verb|hd/mod|normaal/[3,4]|adj|1
+duur/[2,3]|verb|hd/su|concert/[1,2]|noun|1
+maar/[6,7]|vg|-- / --|./[23,24]|punct|1
+maar/[6,7]|vg|crd/cnj|duur/[2,3]|verb|1
+maar/[6,7]|vg|crd/cnj|zit/[16,17]|verb|1
+na/[11,12]|prep|hd/obj1|uur_DIM/[14,15]|noun|1
+toen/[7,8]|comp|cmp/body|verlaat/[15,16]|verb|1
+top/top|top|top/hd|maar/[6,7]|vg|1
+uur/[5,6]|noun|hd/det|twee/[4,5]|num|1
+uur_DIM/[14,15]|noun|hd/det|een/[12,13]|det|1
+uur_DIM/[14,15]|noun|hd/mod|half/[13,14]|adj|1
+veel/[20,21]|adj|hd/mod|al/[18,19]|adv|1
+veel/[20,21]|adj|hd/mod|niet/[19,20]|adv|1
+verlaat/[15,16]|verb|hd/mod|na/[11,12]|prep|1
+verlaat/[15,16]|verb|hd/obj1|zaal/[10,11]|noun|1
+verlaat/[15,16]|verb|hd/su|ik/[8,9]|pron|1
+volk/[21,22]|noun|hd/det|veel/[20,21]|adj|1
+zaal/[10,11]|noun|hd/det|de/[9,10]|det|1
+zit/[16,17]|verb|hd/mod|er/[17,18]|adv|1
+zit/[16,17]|verb|hd/mod|meer/[22,23]|adj|1
+zit/[16,17]|verb|hd/mod|toen/[7,8]|comp|1
+zit/[16,17]|verb|hd/su|volk/[21,22]|noun|1
+concert/[9,10]|noun|hd/det|een/[8,9]|det|1
+concert/[9,10]|noun|hd/mod|van/[10,11]|prep|1
+ga/[13,14]|verb|hd/ld|naar/[7,8]|prep|1
+ga/[13,14]|verb|hd/mod|ooit/[6,7]|adv|1
+ga/[13,14]|verb|hd/su|niemand/[3,4]|pron|1
+naar/[7,8]|prep|hd/obj1|concert/[9,10]|noun|1
+om/[5,6]|comp|cmp/body|te/[12,13]|comp|1
+raad_aan/[4,5]|verb|hd/mod|absoluut/[2,3]|adj|1
+raad_aan/[4,5]|verb|hd/obj2|niemand/[3,4]|pron|1
+raad_aan/[4,5]|verb|hd/su|ik/[0,1]|pron|1
+raad_aan/[4,5]|verb|hd/vc|om/[5,6]|comp|1
+te/[12,13]|comp|cmp/body|ga/[13,14]|verb|1
+top/top|top|top/hd|zal/[1,2]|verb|1
+van/[10,11]|prep|hd/obj1|PROPNAME/[11,12]|name|1
+zal/[1,2]|verb|-- / --|./[14,15]|punct|1
+zal/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+zal/[1,2]|verb|hd/vc|raad_aan/[4,5]|verb|1
+aan/[5,6]|prep|hd/obj1|winkel/[7,8]|noun|1
+aan/[18,19]|prep|hd/obj1|zang_prestatie/[20,21]|noun|1
+ben/[1,2]|verb|hd/mod|er/[0,1]|adv|1
+ben/[1,2]|verb|hd/mod|nog/[2,3]|adv|1
+ben/[1,2]|verb|hd/su|werk/[4,5]|noun|1
+dat/[13,14]|comp|cmp/body|en/[17,18]|vg|1
+en/[8,9]|vg|-- / --|./[23,24]|punct|1
+en/[8,9]|vg|crd/cnj|ben/[1,2]|verb|1
+en/[8,9]|vg|crd/cnj|hoop/[10,11]|verb|1
+en/[17,18]|vg|crd/cnj|ga/[21,22]|verb|1
+en/[17,18]|vg|crd/cnj|zie_in/[16,17]|verb|1
+ga/[21,22]|verb|hd/su|zij/[14,15]|pron|1
+ga/[21,22]|verb|hd/vc|werk/[22,23]|verb|1
+hoop/[10,11]|verb|hd/mod|dan/[11,12]|adv|1
+hoop/[10,11]|verb|hd/mod|ook/[12,13]|adv|1
+hoop/[10,11]|verb|hd/su|ik/[9,10]|pron|1
+hoop/[10,11]|verb|hd/vc|dat/[13,14]|comp|1
+top/top|top|top/hd|en/[8,9]|vg|1
+werk/[4,5]|noun|hd/det|veel/[3,4]|adj|1
+werk/[4,5]|noun|hd/mod|aan/[5,6]|prep|1
+werk/[22,23]|verb|hd/pc|aan/[18,19]|prep|1
+werk/[22,23]|verb|hd/su|zij/[14,15]|pron|1
+winkel/[7,8]|noun|hd/det|de/[6,7]|det|1
+zang_prestatie/[20,21]|noun|hd/det|hun/[19,20]|det|1
+zie_in/[16,17]|verb|hd/obj1|dit/[15,16]|det|1
+zie_in/[16,17]|verb|hd/su|zij/[14,15]|pron|1

@@ -1,0 +1,136 @@
+heb/[1,2]|verb|-- / --|./[6,7]|punct|1
+heb/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+heb/[1,2]|verb|hd/vc|steel/[5,6]|verb|1
+naam/[3,4]|noun|hd/det|zijn/[2,3]|det|1
+steel/[5,6]|verb|hd/mod|niet/[4,5]|adv|1
+steel/[5,6]|verb|hd/obj1|naam/[3,4]|noun|1
+steel/[5,6]|verb|hd/su|PROPNAME/[0,1]|name|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+PROPNAME/[0,1]|name|-- / --|./[1,2]|punct|1
+top/top|top|top/hd|PROPNAME/[0,1]|name|1
+./[1,2]|punct|-- / --|PROPNAME/[0,1]|name|1
+top/top|top|top/hd|./[1,2]|punct|1
+bij/[4,5]|prep|hd/obj1|slok/[7,8]|noun|1
+dat/[12,13]|comp|cmp/body|zie_uit/[16,17]|verb|1
+denk/[3,4]|verb|hd/mod|bij/[4,5]|prep|1
+denk/[3,4]|verb|hd/su|ik/[2,3]|pron|1
+denk/[3,4]|verb|hd/vc|dat/[12,13]|comp|1
+exact/[0,1]|adj|-- / --|./[17,18]|punct|1
+exact/[0,1]|adj|dp/dp|wat/[1,2]|pron|1
+kop_DIM/[10,11]|noun|hd/det|mijn/[9,10]|det|1
+kop_DIM/[10,11]|noun|hd/mod|koffie/[11,12]|noun|1
+slok/[7,8]|noun|hd/det|de/[5,6]|det|1
+slok/[7,8]|noun|hd/mod|eerste/[6,7]|num|1
+slok/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+top/top|top|top/hd|exact/[0,1]|adj|1
+van/[8,9]|prep|hd/obj1|kop_DIM/[10,11]|noun|1
+warm/[15,16]|adj|hd/mod|heerlijk/[14,15]|adj|1
+wat/[1,2]|pron|rhd/body|denk/[3,4]|verb|1
+zie_uit/[16,17]|verb|hd/predc|warm/[15,16]|adj|1
+zie_uit/[16,17]|verb|hd/su|wat/[1,2]|pron|1
+zie_uit/[16,17]|verb|hd/svp|er/[13,14]|adv|1
+Meir/[15,16]|name|hd/det|de/[13,14]|det|1
+Meir/[15,16]|name|hd/mod|Antwerps/[14,15]|adj|1
+ben/[6,7]|verb|hd/su|warmte/[8,9]|noun|1
+ben/[6,7]|verb|hd/vc|te/[17,18]|comp|1
+blijf/[2,3]|verb|hd/mod|jammer/[0,1]|adj|1
+blijf/[2,3]|verb|hd/pc|hierbij/[4,5]|pp|1
+blijf/[2,3]|verb|hd/su|het/[3,4]|det|1
+en/[5,6]|vg|-- / --|./[19,20]|punct|1
+en/[5,6]|vg|crd/cnj|ben/[6,7]|verb|1
+en/[5,6]|vg|crd/cnj|blijf/[2,3]|verb|1
+in/[9,10]|prep|hd/obj1|koffie_bar/[10,11]|noun|1
+jammer/[0,1]|adj|hd/mod|genoeg/[1,2]|adv|1
+koffie_bar/[10,11]|noun|hd/app|PROPNAME/[11,12]|name|1
+op/[12,13]|prep|hd/obj1|Meir/[15,16]|name|1
+te/[17,18]|comp|cmp/body|zoek/[18,19]|verb|1
+top/top|top|top/hd|en/[5,6]|vg|1
+warmte/[8,9]|noun|hd/det|de/[7,8]|det|1
+warmte/[8,9]|noun|hd/mod|in/[9,10]|prep|1
+zoek/[18,19]|verb|hd/mod|jammer/[0,1]|adj|1
+zoek/[18,19]|verb|hd/mod|op/[12,13]|prep|1
+zoek/[18,19]|verb|hd/mod|ver/[16,17]|adj|1
+zoek/[18,19]|verb|hd/obj1|warmte/[8,9]|noun|1
+buurt/[11,12]|noun|hd/det|de/[10,11]|det|1
+buurt/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+dicht/[8,9]|adj|hd/mod|gevaarlijk/[7,8]|adj|1
+drank/[5,6]|noun|hd/det|de/[3,4]|det|1
+drank/[5,6]|noun|hd/mod|lauw/[4,5]|adj|1
+in/[9,10]|prep|hd/obj1|buurt/[11,12]|noun|1
+kom/[6,7]|verb|-- / --|./[16,17]|punct|1
+kom/[6,7]|verb|hd/ld|in/[9,10]|prep|1
+kom/[6,7]|verb|hd/mod|dicht/[8,9]|adj|1
+kom/[6,7]|verb|hd/su|smaak/[1,2]|noun|1
+smaak/[1,2]|noun|hd/det|de/[0,1]|det|1
+smaak/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+top/top|top|top/hd|kom/[6,7]|verb|1
+van/[2,3]|prep|hd/obj1|drank/[5,6]|noun|1
+van/[12,13]|prep|hd/obj1|Douwe Egberts oploskoffie/[13,16]|name|1
+die/[1,2]|pron|rhd/body|laat/[10,11]|verb|1
+in/[7,8]|prep|hd/obj1|keuken_kast/[9,10]|noun|1
+keuken_kast/[9,10]|noun|hd/det|de/[8,9]|det|1
+koffie/[0,1]|noun|-- / --|./[13,14]|punct|1
+koffie/[0,1]|noun|hd/mod|die/[1,2]|pron|1
+laat/[10,11]|verb|hd/mod|dus/[12,13]|adv|1
+laat/[10,11]|verb|hd/obj1|die/[1,2]|pron|1
+laat/[10,11]|verb|hd/predm|onaangeroerd/[6,7]|adj|1
+laat/[10,11]|verb|hd/su|vrouw/[5,6]|noun|1
+laat/[10,11]|verb|hd/vc|sta/[11,12]|verb|1
+respecteer/[4,5]|adj|hd/obj1|zichzelf/[3,4]|pron|1
+sta/[11,12]|verb|hd/ld|in/[7,8]|prep|1
+sta/[11,12]|verb|hd/su|die/[1,2]|pron|1
+top/top|top|top/hd|koffie/[0,1]|noun|1
+vrouw/[5,6]|noun|hd/det|elk/[2,3]|det|1
+vrouw/[5,6]|noun|hd/mod|respecteer/[4,5]|adj|1
+laag/[6,7]|adj|hd/mod|zeer/[5,6]|adv|1
+qua/[1,2]|prep|hd/mod|ook/[0,1]|adv|1
+qua/[1,2]|prep|hd/obj1|klant_vriendelijkheid/[2,3]|noun|1
+scoor/[3,4]|verb|-- / --|./[7,8]|punct|1
+scoor/[3,4]|verb|hd/mod|laag/[6,7]|adj|1
+scoor/[3,4]|verb|hd/mod|qua/[1,2]|prep|1
+scoor/[3,4]|verb|hd/su|PROPNAME/[4,5]|name|1
+top/top|top|top/hd|scoor/[3,4]|verb|1
+ben/[13,14]|verb|-- / --|./[17,18]|punct|1
+ben/[13,14]|verb|hd/mod|echt/[14,15]|adj|1
+ben/[13,14]|verb|hd/mod|wel/[15,16]|adj|1
+ben/[13,14]|verb|hd/predc|overdreven/[16,17]|adj|1
+ben/[13,14]|verb|hd/su|wacht_tijd/[1,2]|noun|1
+krijg/[12,13]|verb|hd/mod|dan/[6,7]|adv|1
+krijg/[12,13]|verb|hd/mod|voorgeschoteld/[10,11]|adj|1
+krijg/[12,13]|verb|hd/obj1|iets/[7,8]|noun|1
+krijg/[12,13]|verb|hd/predc|ranzig/[9,10]|adj|1
+kwartier/[4,5]|noun|hd/det|een/[3,4]|det|1
+kwartier/[4,5]|noun|hd/vc|om/[5,6]|comp|1
+om/[5,6]|comp|cmp/body|te/[11,12]|comp|1
+ranzig/[9,10]|adj|hd/mod|ronduit/[8,9]|adv|1
+te/[11,12]|comp|cmp/body|krijg/[12,13]|verb|1
+top/top|top|top/hd|ben/[13,14]|verb|1
+van/[2,3]|prep|hd/obj1|kwartier/[4,5]|noun|1
+wacht_tijd/[1,2]|noun|hd/det|een/[0,1]|det|1
+wacht_tijd/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+betaal/[8,9]|verb|hd/obj1|rekening/[6,7]|noun|1
+betaal/[8,9]|verb|hd/pc|voor/[9,10]|prep|1
+en/[3,4]|vg|-- / --|./[17,18]|punct|1
+en/[3,4]|vg|crd/cnj|moet/[7,8]|verb|1
+en/[3,4]|vg|crd/cnj|word/[2,3]|verb|1
+en/[3,4]|vg|dp/dp|reclame/[16,17]|noun|1
+moet/[7,8]|verb|hd/vc|betaal/[8,9]|verb|1
+reclame/[16,17]|noun|hd/det|geen/[14,15]|det|1
+reclame/[16,17]|noun|hd/mod|goed/[15,16]|adj|1
+rekening/[6,7]|noun|hd/det|een/[4,5]|det|1
+rekening/[6,7]|noun|hd/mod|peperduur/[5,6]|adj|1
+slok_DIM/[12,13]|noun|hd/det|één/[11,12]|num|1
+slok_DIM/[12,13]|noun|hd/mod|slechts/[10,11]|adv|1
+slok_DIM/[12,13]|noun|hd/mod|viezigheid…/[13,14]|noun|1
+snauw_af/[1,2]|verb|hd/mod|vervolgens/[0,1]|adv|1
+top/top|top|top/hd|en/[3,4]|vg|1
+voor/[9,10]|prep|hd/obj1|slok_DIM/[12,13]|noun|1
+word/[2,3]|verb|hd/vc|snauw_af/[1,2]|verb|1
+aan/[2,3]|prep|hd/obj1|propname/[3,4]|noun|1
+bezoek_DIM/[1,2]|noun|-- / --|? /[4,5]|punct|1
+bezoek_DIM/[1,2]|noun|hd/det|een/[0,1]|det|1
+bezoek_DIM/[1,2]|noun|hd/mod|aan/[2,3]|prep|1
+top/top|top|top/hd|bezoek_DIM/[1,2]|noun|1
+nooit/[0,1]|adv|-- / --|!/[2,3]|punct|1
+nooit/[0,1]|adv|hd/mod|meer/[1,2]|adv|1
+top/top|top|top/hd|nooit/[0,1]|adv|1

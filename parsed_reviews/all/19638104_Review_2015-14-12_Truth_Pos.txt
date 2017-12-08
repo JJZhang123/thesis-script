@@ -1,0 +1,143 @@
+ben/[2,3]|verb|-- / --|./[7,8]|punct|1
+ben/[2,3]|verb|hd/mod|altijd/[4,5]|adv|1
+ben/[2,3]|verb|hd/predc|tevreden/[6,7]|adj|1
+ben/[2,3]|verb|hd/su|ik/[3,4]|pron|1
+over/[0,1]|prep|hd/obj1|propname/[1,2]|noun|1
+tevreden/[6,7]|adj|hd/mod|zeer/[5,6]|adv|1
+tevreden/[6,7]|adj|hd/pc|over/[0,1]|prep|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+bied_aan/[7,8]|verb|hd/mod|'s middags/[5,7]|adv|1
+bied_aan/[7,8]|verb|hd/obj1|ze/[4,5]|pron|1
+buffet/[2,3]|noun|-- / --|./[11,12]|punct|1
+buffet/[2,3]|noun|-- / --|dat/[3,4]|pron|1
+buffet/[2,3]|noun|dp/dp|vind/[8,9]|verb|1
+buffet/[2,3]|noun|hd/det|het/[1,2]|det|1
+buffet/[2,3]|noun|hd/mod|vooral/[0,1]|adv|1
+top/top|top|top/hd|buffet/[2,3]|noun|1
+vind/[8,9]|verb|hd/obj1|bied_aan/[7,8]|verb|1
+vind/[8,9]|verb|hd/predc|verrukkelijk/[10,11]|adj|1
+vind/[8,9]|verb|hd/su|ik/[9,10]|pron|1
+aan/[3,4]|prep|hd/obj1|pizzas/[5,6]|noun|1
+als/[11,12]|comparative|cmp/body|wil/[13,14]|verb|1
+en/[6,7]|vg|-- / --|./[14,15]|punct|1
+en/[6,7]|vg|crd/cnj|kan/[8,9]|verb|1
+en/[6,7]|vg|crd/cnj|keuze/[2,3]|noun|1
+kan/[8,9]|verb|hd/su|je/[7,8]|pron|1
+kan/[8,9]|verb|hd/vc|neem_bij/[10,11]|verb|1
+keuze/[2,3]|noun|hd/det|een/[0,1]|det|1
+keuze/[2,3]|noun|hd/mod|aan/[3,4]|prep|1
+keuze/[2,3]|noun|hd/mod|ruim/[1,2]|adj|1
+neem_bij/[10,11]|verb|hd/obj1|zoveel/[9,10]|adj|1
+neem_bij/[10,11]|verb|hd/su|je/[7,8]|pron|1
+pizzas/[5,6]|noun|hd/mod|heerlijk/[4,5]|adj|1
+top/top|top|top/hd|en/[6,7]|vg|1
+wil/[13,14]|verb|hd/su|je/[12,13]|pron|1
+zoveel/[9,10]|adj|hd/obcomp|als/[11,12]|comparative|1
+gelegenheid/[2,3]|noun|-- / --|./[11,12]|punct|1
+gelegenheid/[2,3]|noun|hd/det|de/[0,1]|det|1
+gelegenheid/[2,3]|noun|hd/mod|perfect/[1,2]|adj|1
+gelegenheid/[2,3]|noun|hd/vc|om/[3,4]|comp|1
+om/[3,4]|comp|cmp/body|te/[9,10]|comp|1
+soort/[7,8]|noun|hd/mod|nieuw/[5,6]|adj|1
+soort/[7,8]|noun|hd/mod|onbekend/[6,7]|adj|1
+te/[9,10]|comp|cmp/body|test_uit/[10,11]|verb|1
+test_uit/[10,11]|verb|hd/mod|eens/[4,5]|adv|1
+test_uit/[10,11]|verb|hd/obj1|soort/[7,8]|noun|1
+test_uit/[10,11]|verb|hd/svp|uit/[8,9]|part|1
+top/top|top|top/hd|gelegenheid/[2,3]|noun|1
+aan/[5,6]|prep|hd/obj1|PROPNAME,/[6,7]|name|1
+ben/[7,8]|verb|-- / --|./[10,11]|punct|1
+ben/[7,8]|verb|hd/predc|drank/[9,10]|noun|1
+ben/[7,8]|verb|hd/su|wat/[0,1]|pron|1
+drank/[9,10]|noun|hd/det|de/[8,9]|det|1
+top/top|top|top/hd|ben/[7,8]|verb|1
+vind/[4,5]|verb|hd/mod|goed/[3,4]|adj|1
+vind/[4,5]|verb|hd/mod|ook/[2,3]|adv|1
+vind/[4,5]|verb|hd/obj1|wat/[0,1]|pron|1
+vind/[4,5]|verb|hd/pc|aan/[5,6]|prep|1
+vind/[4,5]|verb|hd/su|ik/[1,2]|pron|1
+wat/[0,1]|pron|rhd/body|vind/[4,5]|verb|1
+betaal/[13,14]|verb|hd/mod|extra/[9,10]|adj|1
+betaal/[13,14]|verb|hd/pc|voor/[10,11]|prep|1
+ga/[5,6]|verb|hd/su|je/[0,1]|pron|1
+ga/[5,6]|verb|hd/vc|haal_bij/[6,7]|verb|1
+haal_bij/[6,7]|verb|hd/mod|er/[2,3]|adv|1
+haal_bij/[6,7]|verb|hd/mod|steeds/[3,4]|adv|1
+haal_bij/[6,7]|verb|hd/mod|zonder/[7,8]|comp|1
+haal_bij/[6,7]|verb|hd/obj1|drank/[4,5]|noun|1
+haal_bij/[6,7]|verb|hd/su|je/[0,1]|pron|1
+kan/[1,2]|verb|-- / --|./[14,15]|punct|1
+kan/[1,2]|verb|hd/su|je/[0,1]|pron|1
+kan/[1,2]|verb|hd/vc|ga/[5,6]|verb|1
+moet/[12,13]|verb|hd/vc|betaal/[13,14]|verb|1
+te/[11,12]|comp|cmp/body|moet/[12,13]|verb|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+voor/[10,11]|prep|hd/obj1|er/[8,9]|adv|1
+zonder/[7,8]|comp|cmp/body|te/[11,12]|comp|1
+niet/[4,5]|adv|hd/mod|lang/[3,4]|adj|1
+top/top|top|top/hd|vind/[1,2]|verb|1
+vind/[1,2]|verb|-- / --|./[6,7]|punct|1
+vind/[1,2]|verb|hd/ld|overal/[5,6]|adv|1
+vind/[1,2]|verb|hd/mod|niet/[4,5]|adv|1
+vind/[1,2]|verb|hd/obj1|dat/[0,1]|det|1
+vind/[1,2]|verb|hd/su|je/[2,3]|pron|1
+ben/[3,4]|verb|hd/mod|nog/[1,2]|adv|1
+ben/[3,4]|verb|hd/predc|aangenaam/[2,3]|adj|1
+ben/[3,4]|verb|hd/su|wat/[0,1]|pron|1
+ben/[4,5]|verb|-- / --|./[16,17]|punct|1
+ben/[4,5]|verb|hd/predc|wat/[0,1]|pron|1
+ben/[4,5]|verb|hd/su|dat/[5,6]|comp|1
+dat/[5,6]|comp|cmp/body|kan/[8,9]|verb|1
+groot/[11,12]|adj|hd/mod|hoe/[10,11]|adj|1
+groot/[11,12]|adj|whd/body|wil/[15,16]|verb|1
+kan/[8,9]|verb|hd/predm|zelf/[7,8]|adv|1
+kan/[8,9]|verb|hd/su|je/[6,7]|pron|1
+kan/[8,9]|verb|hd/vc|kies/[9,10]|verb|1
+kies/[9,10]|verb|hd/su|je/[6,7]|pron|1
+kies/[9,10]|verb|hd/vc|groot/[11,12]|adj|1
+pizza/[14,15]|noun|hd/det|je/[13,14]|det|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+wat/[0,1]|pron|rhd/body|ben/[3,4]|verb|1
+wil/[15,16]|verb|hd/obj1|pizza/[14,15]|noun|1
+wil/[15,16]|verb|hd/predc|groot/[11,12]|adj|1
+wil/[15,16]|verb|hd/su|je/[12,13]|pron|1
+ben/[6,7]|verb|hd/mod|er/[5,6]|adv|1
+ben/[6,7]|verb|hd/mod|voor/[7,8]|prep|1
+ben/[6,7]|verb|hd/su|wat wils/[9,11]|noun|1
+honger/[4,5]|noun|-- / --|./[11,12]|punct|1
+honger/[4,5]|noun|dp/dp|ben/[6,7]|verb|1
+honger/[4,5]|noun|hd/det|een/[0,1]|det|1
+honger/[4,5]|noun|hd/mod|of/[2,3]|vg|1
+of/[2,3]|vg|crd/cnj|groot/[3,4]|adj|1
+of/[2,3]|vg|crd/cnj|klein/[1,2]|adj|1
+top/top|top|top/hd|honger/[4,5]|noun|1
+voor/[7,8]|prep|hd/obj1|elk/[8,9]|det|1
+ga/[9,10]|verb|hd/mod|er/[11,12]|adv|1
+ga/[9,10]|verb|hd/mod|jammer/[12,13]|adj|1
+ga/[9,10]|verb|hd/mod|niet/[14,15]|adv|1
+ga/[9,10]|verb|hd/mod|zoveel/[8,9]|adj|1
+ga/[9,10]|verb|hd/su|we/[10,11]|pron|1
+jammer/[12,13]|adj|hd/mod|genoeg/[13,14]|adv|1
+kies/[1,2]|verb|hd/mod|meestal/[3,4]|adv|1
+kies/[1,2]|verb|hd/obj1|maat/[6,7]|noun|1
+kies/[1,2]|verb|hd/predm|zelf/[0,1]|adv|1
+kies/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+maat/[6,7]|noun|hd/det|de/[4,5]|det|1
+maat/[6,7]|noun|hd/mod|groot/[5,6]|adj|1
+top/top|top|top/hd|want/[7,8]|vg|1
+vind/[17,18]|verb|hd/obj1|ze/[18,19]|pron|1
+vind/[17,18]|verb|hd/predc|over_heerlijk/[19,20]|adj|1
+vind/[17,18]|verb|hd/su|ik/[16,17]|pron|1
+want/[7,8]|vg|-- / --|./[20,21]|punct|1
+want/[7,8]|vg|crd/cnj|ga/[9,10]|verb|1
+want/[7,8]|vg|crd/cnj|kies/[1,2]|verb|1
+want/[7,8]|vg|crd/cnj|vind/[17,18]|verb|1
+want/[7,8]|vg|crd/crd|en/[15,16]|vg|1
+behoor/[1,2]|verb|-- / --|./[7,8]|punct|1
+behoor/[1,2]|verb|hd/mod|echt/[2,3]|adj|1
+behoor/[1,2]|verb|hd/pc|tot/[3,4]|prep|1
+behoor/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+fastfoodketens/[6,7]|noun|hd/det|mijn/[4,5]|det|1
+fastfoodketens/[6,7]|noun|hd/mod|favoriet/[5,6]|adj|1
+top/top|top|top/hd|behoor/[1,2]|verb|1
+tot/[3,4]|prep|hd/obj1|fastfoodketens/[6,7]|noun|1

@@ -1,0 +1,226 @@
+Game over, Lana/[0,3]|name|-- / --|./[3,4]|punct|1
+top/top|top|top/hd|Game over, Lana/[0,3]|name|1
+./[3,4]|punct|-- / --|Game over, Lana/[0,3]|name|1
+top/top|top|top/hd|./[3,4]|punct|1
+Elizabeth Lizzie Woolridge Grant/[2,6]|name|hd/mod|geboren/[1,2]|adj|1
+PROPNAME,/[0,1]|name|dp/dp|Elizabeth Lizzie Woolridge Grant/[2,6]|name|1
+album/[35,36]|noun|hd/app|Born To Die - The Paradise Edition/[36,43]|name|1
+album/[35,36]|noun|hd/det|haar/[33,34]|det|1
+album/[35,36]|noun|hd/mod|nieuw/[34,35]|adj|1
+als/[10,11]|comp|cmp/body|zangeres/[12,13]|noun|1
+als/[19,20]|comp|cmp/body|weet/[30,31]|verb|1
+als/[19,20]|comp|cmp/mod|nog/[17,18]|adv|1
+bekend/[9,10]|adj|hd/mod|alom/[8,9]|adv|1
+bekend/[9,10]|adj|hd/mod|of/[16,17]|vg|1
+dat/[22,23]|pron|rhd/body|zing/[25,26]|verb|1
+en/[6,7]|vg|-- / --|./[49,50]|punct|1
+en/[6,7]|vg|crd/cnj|PROPNAME,/[0,1]|name|1
+en/[6,7]|vg|crd/cnj|tegenwoordig/[7,8]|adj|1
+in/[26,27]|prep|hd/obj1|Saturday Night Live,/[27,30]|name|1
+meisje/[21,22]|noun|hd/det|het/[20,21]|det|1
+meisje/[21,22]|noun|hd/mod|dat/[22,23]|pron|1
+nog/[17,18]|adv|hd/mod|meer/[18,19]|adv|1
+of/[16,17]|vg|crd/cnj|als/[10,11]|comp|1
+of/[16,17]|vg|crd/cnj|als/[19,20]|comp|1
+of/[46,47]|vg|crd/cnj|te/[44,45]|comp|1
+of/[46,47]|vg|crd/cnj|te/[47,48]|comp|1
+ontroer/[48,49]|verb|hd/mod|niet/[43,44]|adv|1
+ontroer/[48,49]|verb|hd/mod|ook/[31,32]|adv|1
+ontroer/[48,49]|verb|hd/mod|op/[32,33]|prep|1
+ontroer/[48,49]|verb|hd/su|meisje/[21,22]|noun|1
+op/[32,33]|prep|hd/obj1|album/[35,36]|noun|1
+te/[44,45]|comp|cmp/body|verras/[45,46]|verb|1
+te/[47,48]|comp|cmp/body|ontroer/[48,49]|verb|1
+tegenwoordig/[7,8]|adj|dp/dp|bekend/[9,10]|adj|1
+top/top|top|top/hd|en/[6,7]|vg|1
+vals/[24,25]|adj|hd/mod|zo/[23,24]|adv|1
+van/[13,14]|prep|hd/obj1|Video Games/[14,16]|name|1
+verras/[45,46]|verb|hd/mod|niet/[43,44]|adv|1
+verras/[45,46]|verb|hd/mod|ook/[31,32]|adv|1
+verras/[45,46]|verb|hd/mod|op/[32,33]|prep|1
+verras/[45,46]|verb|hd/su|meisje/[21,22]|noun|1
+weet/[30,31]|verb|hd/su|meisje/[21,22]|noun|1
+weet/[30,31]|verb|hd/vc|of/[46,47]|vg|1
+zangeres/[12,13]|noun|hd/det|de/[11,12]|det|1
+zangeres/[12,13]|noun|hd/mod|van/[13,14]|prep|1
+zing/[25,26]|verb|hd/mod|in/[26,27]|prep|1
+zing/[25,26]|verb|hd/mod|vals/[24,25]|adj|1
+zing/[25,26]|verb|hd/su|dat/[22,23]|pron|1
+Born to Die dus,/[14,18]|name|hd/det|haar/[12,13]|det|1
+Born to Die dus,/[14,18]|name|hd/mod|eerste/[13,14]|num|1
+Born to Die dus,/[14,18]|name|hd/mod|voor/[18,19]|prep|1
+Ja,/[0,1]|name|-- / --|./[37,38]|punct|1
+Ja,/[0,1]|name|dp/dp|draag/[8,9]|verb|1
+Ja,/[0,1]|name|dp/dp|hoor/[2,3]|verb|1
+album/[7,8]|noun|hd/det|haar/[5,6]|det|1
+album/[7,8]|noun|hd/mod|tweede/[6,7]|num|1
+als/[11,12]|comparative|cmp/body|Born to Die dus,/[14,18]|name|1
+breng_door/[36,37]|verb|hd/mod|of/[29,30]|vg|1
+breng_door/[36,37]|verb|hd/obj1|jaar/[25,26]|noun|1
+breng_door/[36,37]|verb|hd/su|die/[21,22]|pron|1
+dezelfde/[9,10]|det|hd/obcomp|als/[11,12]|comparative|1
+die/[21,22]|pron|rhd/body|heb/[35,36]|verb|1
+draag/[8,9]|verb|hd/obj1|naam/[10,11]|noun|1
+draag/[8,9]|verb|hd/su|album/[7,8]|noun|1
+goed/[4,5]|noun|hd/det|het/[3,4]|det|1
+heb/[35,36]|verb|hd/su|die/[21,22]|pron|1
+heb/[35,36]|verb|hd/vc|breng_door/[36,37]|verb|1
+hoor/[2,3]|verb|hd/obj1|goed/[4,5]|noun|1
+hoor/[2,3]|verb|hd/su|u/[1,2]|pron|1
+jaar/[25,26]|noun|hd/det|de/[22,23]|det|1
+jaar/[25,26]|noun|hd/det|twee/[24,25]|num|1
+jaar/[25,26]|noun|hd/mod|voorbij/[23,24]|adj|1
+mens/[20,21]|noun|hd/det|de/[19,20]|det|1
+mens/[20,21]|noun|hd/mod|die/[21,22]|pron|1
+naam/[10,11]|noun|hd/det|dezelfde/[9,10]|det|1
+of/[29,30]|vg|crd/cnj|onder/[26,27]|prep|1
+of/[29,30]|vg|crd/cnj|op/[30,31]|prep|1
+onder/[26,27]|prep|hd/obj1|steen/[28,29]|noun|1
+op/[30,31]|prep|hd/obj1|planeet/[34,35]|noun|1
+planeet/[34,35]|noun|hd/det|een/[31,32]|det|1
+planeet/[34,35]|noun|hd/mod|afgelegen/[33,34]|adj|1
+planeet/[34,35]|noun|hd/mod|rustig/[32,33]|adj|1
+steen/[28,29]|noun|hd/det|een/[27,28]|det|1
+top/top|top|top/hd|Ja,/[0,1]|name|1
+voor/[18,19]|prep|hd/obj1|mens/[20,21]|noun|1
+aan/[6,7]|prep|hd/obj1|plaat/[9,10]|noun|1
+als/[15,16]|comparative|cmp/body|lip/[17,18]|noun|1
+ben/[12,13]|verb|hd/su|lied_DIM/[3,4]|noun|1
+ben/[12,13]|verb|hd/vc|blaas_op/[14,15]|verb|1
+blaas_op/[14,15]|verb|hd/mod|even/[13,14]|adv|1
+blaas_op/[14,15]|verb|hd/obj1|lied_DIM/[3,4]|noun|1
+dan/[26,27]|comparative|cmp/body|nummer/[28,29]|noun|1
+die/[4,5]|pron|rhd/body|heb/[10,11]|verb|1
+die/[29,30]|pron|rhd/body|heb/[36,37]|verb|1
+en/[18,19]|vg|-- / --|./[37,38]|punct|1
+en/[18,19]|vg|crd/cnj|ben/[12,13]|verb|1
+en/[18,19]|vg|crd/cnj|klink/[19,20]|verb|1
+en/[24,25]|vg|crd/cnj|slepend/[23,24]|adj|1
+en/[24,25]|vg|crd/cnj|treurig/[25,26]|adj|1
+even/[13,14]|adv|hd/obcomp|als/[15,16]|comparative|1
+heb/[10,11]|verb|hd/su|ze/[5,6]|pron|1
+heb/[10,11]|verb|hd/vc|voeg_toe/[11,12]|verb|1
+heb/[36,37]|verb|hd/su|ze/[30,31]|pron|1
+heb/[36,37]|verb|hd/vc|presenteer/[35,36]|verb|1
+klink/[19,20]|verb|hd/mod|nog/[22,23]|adv|1
+klink/[19,20]|verb|hd/mod|zo/[20,21]|comp|1
+klink/[19,20]|verb|hd/predc|en/[24,25]|vg|1
+klink/[19,20]|verb|hd/su|lied_DIM/[3,4]|noun|1
+lied_DIM/[3,4]|noun|hd/det|de/[0,1]|det|1
+lied_DIM/[3,4]|noun|hd/det|negen/[1,2]|num|1
+lied_DIM/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+lied_DIM/[3,4]|noun|hd/mod|nieuw/[2,3]|adj|1
+lip/[17,18]|noun|hd/det|haar/[16,17]|det|1
+nummer/[28,29]|noun|hd/det|de/[27,28]|det|1
+nummer/[28,29]|noun|hd/mod|die/[29,30]|pron|1
+plaat/[9,10]|noun|hd/det|de/[7,8]|det|1
+plaat/[9,10]|noun|hd/mod|ga_voor/[8,9]|adj|1
+presenteer/[35,36]|verb|hd/mod|tot/[32,33]|prep|1
+presenteer/[35,36]|verb|hd/obj1|die/[29,30]|pron|1
+presenteer/[35,36]|verb|hd/obj2|ons/[31,32]|pron|1
+presenteer/[35,36]|verb|hd/su|ze/[30,31]|pron|1
+slepend/[23,24]|adj|hd/obcomp|dan/[26,27]|comparative|1
+top/top|top|top/hd|en/[18,19]|vg|1
+tot/[32,33]|prep|hd/hdf|toe/[34,35]|part|1
+tot/[32,33]|prep|hd/obj1|nu/[33,34]|adv|1
+treurig/[25,26]|adj|hd/obcomp|dan/[26,27]|comparative|1
+voeg_toe/[11,12]|verb|hd/obj1|die/[4,5]|pron|1
+voeg_toe/[11,12]|verb|hd/obj2|aan/[6,7]|prep|1
+voeg_toe/[11,12]|verb|hd/su|ze/[5,6]|pron|1
+zo/[20,21]|comp|cmp/body|mogelijk/[21,22]|adj|1
+blijf/[4,5]|verb|-- / --|./[21,22]|punct|1
+blijf/[4,5]|verb|hd/su|het/[5,6]|det|1
+blijf/[4,5]|verb|hd/vc|zoek/[6,7]|verb|1
+dan/[11,12]|comparative|cmp/body|Let me fck you hard in the pouring rain/[12,21]|name|1
+diepzinnig/[9,10]|adj|hd/me|iets/[8,9]|noun|1
+diepzinnig/[9,10]|adj|hd/obcomp|dan/[11,12]|comparative|1
+gedachte/[10,11]|noun|hd/mod|diepzinnig/[9,10]|adj|1
+in/[1,2]|prep|hd/mod|ook/[0,1]|adv|1
+in/[1,2]|prep|hd/obj1|tekst/[3,4]|noun|1
+naar/[7,8]|prep|hd/obj1|gedachte/[10,11]|noun|1
+tekst/[3,4]|noun|hd/det|haar/[2,3]|det|1
+top/top|top|top/hd|blijf/[4,5]|verb|1
+zoek/[6,7]|verb|hd/mod|in/[1,2]|prep|1
+zoek/[6,7]|verb|hd/pc|naar/[7,8]|prep|1
+zoek/[6,7]|verb|hd/su|het/[5,6]|det|1
+dan/[14,15]|adv|hd/mod|pas/[15,16]|adv|1
+dat/[1,2]|det|dp/dp|voor/[2,3]|prep|1
+die/[4,5]|pron|rhd/body|noem/[12,13]|verb|1
+en/[0,1]|comp|-- / --|./[18,19]|punct|1
+en/[0,1]|comp|dlink/nucl|dat/[1,2]|det|1
+en/[13,14]|vg|crd/cnj|iemand/[3,4]|noun|1
+en/[13,14]|vg|crd/cnj|zangeres/[17,18]|noun|1
+iemand/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+in/[6,7]|prep|hd/obj1|plaats/[9,10]|noun|1
+noem/[12,13]|verb|hd/mod|in/[6,7]|prep|1
+noem/[12,13]|verb|hd/obj1|zichzelf/[5,6]|pron|1
+noem/[12,13]|verb|hd/predc|songwriter/[11,12]|noun|1
+noem/[12,13]|verb|hd/su|die/[4,5]|pron|1
+plaats/[9,10]|noun|hd/det|de/[7,8]|det|1
+plaats/[9,10]|noun|hd/mod|eerste/[8,9]|num|1
+songwriter/[11,12]|noun|hd/det|een/[10,11]|det|1
+top/top|top|top/hd|en/[0,1]|comp|1
+voor/[2,3]|prep|hd/obj1|en/[13,14]|vg|1
+zangeres/[17,18]|noun|hd/det|een/[16,17]|det|1
+zangeres/[17,18]|noun|hd/mod|dan/[14,15]|adv|1
+top/top|top|top/hd|vraag/[0,1]|verb|1
+vraag/[0,1]|verb|-- / --|./[4,5]|punct|1
+vraag/[0,1]|verb|hd/mod|maar/[1,2]|adv|1
+vraag/[0,1]|verb|hd/mod|niet/[2,3]|adv|1
+vraag/[0,1]|verb|hd/mod|ver/[3,4]|adj|1
+niet/[1,2]|adv|-- / --|./[2,3]|punct|1
+niet/[1,2]|adv|hd/mod|echt/[0,1]|adj|1
+top/top|top|top/hd|niet/[1,2]|adv|1
+album/[9,10]|noun|hd/det|dit/[8,9]|det|1
+dan/[1,2]|comparative|cmp/body|voer/[2,3]|noun|1
+kan/[6,7]|verb|-- / --|./[12,13]|punct|1
+kan/[6,7]|verb|hd/su|je/[7,8]|pron|1
+kan/[6,7]|verb|hd/vc|noem/[11,12]|verb|1
+meer/[0,1]|adj|hd/obcomp|dan/[1,2]|comparative|1
+noem/[11,12]|verb|hd/mod|meer/[0,1]|adj|1
+noem/[11,12]|verb|hd/mod|niet/[10,11]|adv|1
+noem/[11,12]|verb|hd/obj1|album/[9,10]|noun|1
+noem/[11,12]|verb|hd/su|je/[7,8]|pron|1
+tiener_ziel_DIM/[5,6]|noun|hd/mod|getroubleerd/[4,5]|adj|1
+top/top|top|top/hd|kan/[6,7]|verb|1
+voer/[2,3]|noun|hd/mod|voor/[3,4]|prep|1
+voor/[3,4]|prep|hd/obj1|tiener_ziel_DIM/[5,6]|noun|1
+aan/[3,4]|prep|hd/obj1|album/[6,7]|noun|1
+album/[6,7]|noun|hd/det|het/[4,5]|det|1
+album/[6,7]|noun|hd/mod|nieuw/[5,6]|adj|1
+ben/[7,8]|verb|-- / --|./[18,19]|punct|1
+ben/[7,8]|verb|hd/predc|goed/[2,3]|adj|1
+ben/[7,8]|verb|hd/su|dat/[8,9]|comp|1
+dat/[8,9]|comp|cmp/body|heb/[16,17]|verb|1
+goed/[2,3]|adj|hd/det|het/[0,1]|det|1
+goed/[2,3]|adj|hd/mod|aan/[3,4]|prep|1
+goed/[2,3]|adj|hd/mod|enig/[1,2]|adj|1
+heb/[16,17]|verb|hd/su|ze/[9,10]|pron|1
+heb/[16,17]|verb|hd/vc|houd/[17,18]|verb|1
+hit_DIM/[11,12]|noun|hd/app|Video Games/[12,14]|name|1
+hit_DIM/[11,12]|noun|hd/det|haar/[10,11]|det|1
+houd/[17,18]|verb|hd/ld|in/[15,16]|prep|1
+houd/[17,18]|verb|hd/obj1|hit_DIM/[11,12]|noun|1
+houd/[17,18]|verb|hd/su|ze/[9,10]|pron|1
+in/[15,16]|prep|hd/obj1|er/[14,15]|adv|1
+top/top|top|top/hd|ben/[7,8]|verb|1
+top/top|top|top/hd|zing/[11,12]|verb|1
+zing/[11,12]|verb|-- / --|./[13,14]|punct|1
+zing/[11,12]|verb|hd/obj1|ze/[12,13]|pron|1
+zing/[11,12]|verb|hd/su|Its you, its you, its all for you, everything I do,/[0,11]|name|1
+ben/[1,2]|verb|hd/predc|geflatteerd, Lizzie,/[2,4]|name|1
+ben/[1,2]|verb|hd/su|we/[0,1]|pron|1
+ben/[6,7]|verb|hd/mod|misschien/[5,6]|adv|1
+ben/[6,7]|verb|hd/mod|toch/[8,9]|adv|1
+ben/[6,7]|verb|hd/predc|goed/[9,10]|adj|1
+ben/[6,7]|verb|hd/su|te/[14,15]|comp|1
+ben/[6,7]|verb|hd/sup|het/[7,8]|noun|1
+maar/[4,5]|vg|-- / --|./[16,17]|punct|1
+maar/[4,5]|vg|crd/cnj|ben/[1,2]|verb|1
+maar/[4,5]|vg|crd/cnj|ben/[6,7]|verb|1
+onder/[13,14]|prep|hd/obj1|er/[10,11]|adv|1
+streep/[12,13]|noun|hd/det|een/[11,12]|det|1
+te/[14,15]|comp|cmp/body|trek/[15,16]|verb|1
+top/top|top|top/hd|maar/[4,5]|vg|1
+trek/[15,16]|verb|hd/ld|onder/[13,14]|prep|1
+trek/[15,16]|verb|hd/obj1|streep/[12,13]|noun|1

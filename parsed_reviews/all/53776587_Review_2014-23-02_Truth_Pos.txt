@@ -1,0 +1,165 @@
+naar/[12,13]|prep|hd/obj1|sport_paleis/[15,16]|noun|1
+op/[4,5]|prep|hd/obj1|steltenOp/[5,6]|noun|1
+sport_paleis/[3,4]|noun|hd/det|het/[2,3]|det|1
+sport_paleis/[15,16]|noun|hd/det|het/[13,14]|det|1
+sport_paleis/[15,16]|noun|hd/mod|Antwerps/[14,15]|adj|1
+sport_paleis/[15,16]|noun|hd/mod|voor/[16,17]|prep|1
+top/top|top|top/hd|zet/[1,2]|verb|1
+voor/[16,17]|prep|hd/obj1|The Mrs/[17,19]|name|1
+zak_af/[9,10]|verb|hd/ld|naar/[12,13]|prep|1
+zak_af/[9,10]|verb|hd/mod|15 mei 2013/[6,9]|noun|1
+zak_af/[9,10]|verb|hd/su|ik/[10,11]|pron|1
+zak_af/[9,10]|verb|hd/svp|af/[11,12]|part|1
+zet/[1,2]|verb|-- / --|./[19,20]|punct|1
+zet/[1,2]|verb|dp/dp|zak_af/[9,10]|verb|1
+zet/[1,2]|verb|hd/ld|op/[4,5]|prep|1
+zet/[1,2]|verb|hd/obj1|sport_paleis/[3,4]|noun|1
+zet/[1,2]|verb|hd/su|Beyonce/[0,1]|name|1
+Carter Show World Tour,/[0,4]|name|-- / --|./[12,13]|punct|1
+Carter Show World Tour,/[0,4]|name|dp/dp|tournee/[6,7]|noun|1
+RB_zangeres/[10,11]|noun|hd/app|Beyonce/[11,12]|name|1
+RB_zangeres/[10,11]|noun|hd/det|de/[8,9]|det|1
+RB_zangeres/[10,11]|noun|hd/mod|Amerikaans/[9,10]|adj|1
+top/top|top|top/hd|Carter Show World Tour,/[0,4]|name|1
+tournee/[6,7]|noun|hd/det|de/[4,5]|det|1
+tournee/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+tournee/[6,7]|noun|hd/mod|vijfde/[5,6]|num|1
+van/[7,8]|prep|hd/obj1|RB_zangeres/[10,11]|noun|1
+als/[1,2]|comp|cmp/body|optreden/[4,5]|noun|1
+als/[1,2]|comp|cmp/mod|net/[0,1]|adv|1
+avond/[14,15]|noun|hd/det|een/[12,13]|det|1
+avond/[14,15]|noun|hd/mod|spetter/[13,14]|adj|1
+optreden/[4,5]|noun|hd/det|haar/[2,3]|det|1
+optreden/[4,5]|noun|hd/mod|vorig/[3,4]|adj|1
+show/[9,10]|noun|hd/det|haar/[7,8]|det|1
+show/[9,10]|noun|hd/mod|laat/[8,9]|adj|1
+sta/[5,6]|verb|-- / --|./[15,16]|punct|1
+sta/[5,6]|verb|hd/mod|als/[1,2]|comp|1
+sta/[5,6]|verb|hd/mod|ook/[6,7]|adv|1
+sta/[5,6]|verb|hd/pc|voor/[11,12]|prep|1
+sta/[5,6]|verb|hd/su|show/[9,10]|noun|1
+sta/[5,6]|verb|hd/svp|garant/[10,11]|fixed|1
+top/top|top|top/hd|sta/[5,6]|verb|1
+voor/[11,12]|prep|hd/obj1|avond/[14,15]|noun|1
+band/[11,12]|noun|hd/det|haar/[10,11]|det|1
+dat/[9,10]|comp|cmp/body|zet_in/[15,16]|verb|1
+krijg_mee/[1,2]|verb|-- / --|./[16,17]|punct|1
+krijg_mee/[1,2]|verb|hd/mod|vanaf/[6,7]|prep|1
+krijg_mee/[1,2]|verb|hd/mod|volledig/[4,5]|adj|1
+krijg_mee/[1,2]|verb|hd/obj1|publiek/[3,4]|noun|1
+krijg_mee/[1,2]|verb|hd/su|Beyonce/[0,1]|name|1
+krijg_mee/[1,2]|verb|hd/svp|mee/[5,6]|part|1
+moment/[8,9]|noun|hd/det|het/[7,8]|det|1
+moment/[8,9]|noun|hd/vc|dat/[9,10]|comp|1
+noot/[14,15]|noun|hd/det|de/[12,13]|det|1
+noot/[14,15]|noun|hd/mod|eerste/[13,14]|num|1
+publiek/[3,4]|noun|hd/det|het/[2,3]|det|1
+top/top|top|top/hd|krijg_mee/[1,2]|verb|1
+vanaf/[6,7]|prep|hd/obj1|moment/[8,9]|noun|1
+zet_in/[15,16]|verb|hd/obj1|noot/[14,15]|noun|1
+zet_in/[15,16]|verb|hd/su|band/[11,12]|noun|1
+enthousiasme/[8,9]|noun|hd/det|haar/[7,8]|det|1
+groot/[10,11]|adj|hd/mod|steeds/[9,10]|adv|1
+naarmate/[12,13]|comp|cmp/body|vorder/[15,16]|verb|1
+nummer/[5,6]|noun|hd/det|twintigtal/[4,5]|noun|1
+nummer/[5,6]|noun|hd/mod|waarbij/[6,7]|pp|1
+show/[14,15]|noun|hd/det|de/[13,14]|det|1
+top/top|top|top/hd|zing/[1,2]|verb|1
+twintigtal/[4,5]|noun|hd/det|een/[3,4]|det|1
+vorder/[15,16]|verb|hd/su|show/[14,15]|noun|1
+waarbij/[6,7]|pp|rhd/body|word/[11,12]|verb|1
+word/[11,12]|verb|hd/mod|naarmate/[12,13]|comp|1
+word/[11,12]|verb|hd/mod|waarbij/[6,7]|pp|1
+word/[11,12]|verb|hd/predc|groot/[10,11]|adj|1
+word/[11,12]|verb|hd/su|enthousiasme/[8,9]|noun|1
+zing/[1,2]|verb|-- / --|./[16,17]|punct|1
+zing/[1,2]|verb|hd/mod|moeiteloos/[0,1]|adj|1
+zing/[1,2]|verb|hd/obj1|nummer/[5,6]|noun|1
+zing/[1,2]|verb|hd/su|ze/[2,3]|pron|1
+backing vocals/[13,15]|name|hd/mod|die/[15,16]|pron|1
+band_lid/[11,12]|noun|hd/det|de/[9,10]|det|1
+band_lid/[11,12]|noun|hd/mod|vrouwelijk/[10,11]|adj|1
+die/[15,16]|pron|rhd/body|vergezel/[18,19]|verb|1
+en/[12,13]|vg|crd/cnj|backing vocals/[13,15]|name|1
+en/[12,13]|vg|crd/cnj|talent/[7,8]|noun|1
+sta/[1,2]|verb|-- / --|./[19,20]|punct|1
+sta/[1,2]|verb|hd/mod|bovendien/[2,3]|adv|1
+sta/[1,2]|verb|hd/predc|versteld/[3,4]|adj|1
+sta/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+talent/[7,8]|noun|hd/det|het/[5,6]|det|1
+talent/[7,8]|noun|hd/mod|muzikaal/[6,7]|adj|1
+talent/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+top/top|top|top/hd|sta/[1,2]|verb|1
+van/[4,5]|prep|hd/obj1|en/[12,13]|vg|1
+van/[8,9]|prep|hd/obj1|band_lid/[11,12]|noun|1
+vergezel/[18,19]|verb|hd/obj1|zangeres/[17,18]|noun|1
+vergezel/[18,19]|verb|hd/su|die/[15,16]|pron|1
+versteld/[3,4]|adj|hd/pc|van/[4,5]|prep|1
+zangeres/[17,18]|noun|hd/det|de/[16,17]|det|1
+intermezzos/[5,6]|noun|hd/mod|kort/[4,5]|adj|1
+las_in/[3,4]|verb|-- / --|./[10,11]|punct|1
+las_in/[3,4]|verb|hd/mod|tijdens/[7,8]|prep|1
+las_in/[3,4]|verb|hd/obj1|intermezzos/[5,6]|noun|1
+las_in/[3,4]|verb|hd/su|video_boodschap/[2,3]|noun|1
+las_in/[3,4]|verb|hd/svp|in/[6,7]|part|1
+show/[9,10]|noun|hd/det|de/[8,9]|det|1
+tijdens/[7,8]|prep|hd/obj1|show/[9,10]|noun|1
+top/top|top|top/hd|las_in/[3,4]|verb|1
+video_boodschap/[2,3]|noun|hd/det|de/[0,1]|det|1
+video_boodschap/[2,3]|noun|hd/mod|verschil/[1,2]|adj|1
+beeld/[19,20]|noun|hd/det|de/[17,18]|det|1
+beeld/[19,20]|noun|hd/mod|mooi/[18,19]|adj|1
+en/[13,14]|vg|crd/cnj|te/[11,12]|comp|1
+en/[13,14]|vg|crd/cnj|te/[14,15]|comp|1
+geef/[1,2]|verb|-- / --|./[20,21]|punct|1
+geef/[1,2]|verb|hd/mod|zo/[4,5]|adv|1
+geef/[1,2]|verb|hd/obj1|kans/[6,7]|noun|1
+geef/[1,2]|verb|hd/obj2|publiek/[3,4]|noun|1
+geef/[1,2]|verb|hd/su|Beyonce/[0,1]|name|1
+geniet/[15,16]|verb|hd/pc|van/[16,17]|prep|1
+kans/[6,7]|noun|hd/det|de/[5,6]|det|1
+kans/[6,7]|noun|hd/vc|om/[7,8]|comp|1
+kom/[12,13]|verb|hd/ld|op/[9,10]|prep|1
+kom/[12,13]|verb|hd/mod|even/[8,9]|adj|1
+om/[7,8]|comp|cmp/body|en/[13,14]|vg|1
+op/[9,10]|prep|hd/obj1|adem/[10,11]|noun|1
+publiek/[3,4]|noun|hd/det|het/[2,3]|det|1
+te/[11,12]|comp|cmp/body|kom/[12,13]|verb|1
+te/[14,15]|comp|cmp/body|geniet/[15,16]|verb|1
+top/top|top|top/hd|geef/[1,2]|verb|1
+van/[16,17]|prep|hd/obj1|beeld/[19,20]|noun|1
+Sportpaleis/[15,16]|name|hd/det|het/[14,15]|det|1
+behoor/[2,3]|verb|-- / --|./[16,17]|punct|1
+behoor/[2,3]|verb|hd/mod|zonder/[3,4]|prep|1
+behoor/[2,3]|verb|hd/pc|tot/[5,6]|prep|1
+behoor/[2,3]|verb|hd/su|show/[1,2]|noun|1
+die/[9,10]|pron|rhd/body|ga_door/[12,13]|verb|1
+ga_door/[12,13]|verb|hd/ld|jaar/[11,12]|noun|1
+ga_door/[12,13]|verb|hd/mod|in/[13,14]|prep|1
+ga_door/[12,13]|verb|hd/su|die/[9,10]|pron|1
+in/[13,14]|prep|hd/obj1|Sportpaleis/[15,16]|name|1
+jaar/[11,12]|noun|hd/mod|vorig/[10,11]|adj|1
+optreden/[8,9]|noun|hd/det|de/[6,7]|det|1
+optreden/[8,9]|noun|hd/mod|die/[9,10]|pron|1
+optreden/[8,9]|noun|hd/mod|goed/[7,8]|adj|1
+show/[1,2]|noun|hd/det|deze/[0,1]|det|1
+top/top|top|top/hd|behoor/[2,3]|verb|1
+tot/[5,6]|prep|hd/obj1|optreden/[8,9]|noun|1
+zonder/[3,4]|prep|hd/obj1|twijfel/[4,5]|noun|1
+ben/[9,10]|verb|hd/predc|entertainer/[8,9]|noun|1
+ben/[9,10]|verb|hd/su|ze/[5,6]|pron|1
+bewijs/[3,4]|verb|hd/mod|met/[10,11]|prep|1
+bewijs/[3,4]|verb|hd/mod|opnieuw/[0,1]|adv|1
+bewijs/[3,4]|verb|hd/su|Beyonce/[2,3]|name|1
+bewijs/[3,4]|verb|hd/vc|dat/[4,5]|comp|1
+dat/[4,5]|comp|cmp/body|ben/[9,10]|verb|1
+entertainer/[8,9]|noun|hd/det|een/[6,7]|det|1
+entertainer/[8,9]|noun|hd/mod|geboren/[7,8]|adj|1
+goed/[12,13]|adj|hd/mod|ongelooflijk/[11,12]|adj|1
+heb/[1,2]|verb|-- / --|./[14,15]|punct|1
+heb/[1,2]|verb|hd/su|Beyonce/[2,3]|name|1
+heb/[1,2]|verb|hd/vc|bewijs/[3,4]|verb|1
+met/[10,11]|prep|hd/obj1|zang_capaciteit/[13,14]|noun|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+zang_capaciteit/[13,14]|noun|hd/mod|goed/[12,13]|adj|1
+top/top|top|top/hd|Bedankt Queen B !/[0,4]|name|1

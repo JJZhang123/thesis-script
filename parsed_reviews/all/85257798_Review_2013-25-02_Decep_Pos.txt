@@ -1,0 +1,53 @@
+Trash_metal/[1,2]|noun|hd/app|formatie/[2,3]|noun|1
+Trash_metal/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[4,5]|verb|-- / --|./[12,13]|punct|1
+ben/[4,5]|verb|dp/dp|te/[10,11]|comp|1
+ben/[4,5]|verb|hd/mod|er/[5,6]|adv|1
+ben/[4,5]|verb|hd/mod|om/[7,8]|prep|1
+ben/[4,5]|verb|hd/obj2|eentje/[6,7]|pron|1
+ben/[4,5]|verb|hd/predc|tegen/[9,10]|adj|1
+ben/[4,5]|verb|hd/su|Trash_metal/[1,2]|noun|1
+formatie/[2,3]|noun|hd/app|PROPNAME/[3,4]|name|1
+om/[7,8]|prep|hd/obj1|u/[8,9]|pron|1
+te/[10,11]|comp|cmp/body|zeg/[11,12]|verb|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+afkomstig/[0,1]|adj|hd/pc|uit/[1,2]|prep|1
+enorm/[9,10]|adj|hd/det|een/[8,9]|det|1
+klasse/[11,12]|noun|hd/mod|internationaal/[10,11]|adj|1
+land/[3,4]|noun|hd/mod|eigen/[2,3]|adj|1
+straal/[4,5]|verb|-- / --|./[13,14]|punct|1
+straal/[4,5]|verb|-- / --|uit/[12,13]|part|1
+straal/[4,5]|verb|dp/dp|enorm/[9,10]|adj|1
+straal/[4,5]|verb|dp/dp|klasse/[11,12]|noun|1
+straal/[4,5]|verb|hd/mod|toch/[7,8]|adv|1
+straal/[4,5]|verb|hd/predm|afkomstig/[0,1]|adj|1
+straal/[4,5]|verb|hd/su|viertal/[6,7]|noun|1
+top/top|top|top/hd|straal/[4,5]|verb|1
+uit/[1,2]|prep|hd/obj1|land/[3,4]|noun|1
+viertal/[6,7]|noun|hd/det|dit/[5,6]|det|1
+als/[2,3]|comp|cmp/body|You only die once/[3,7]|name|1
+ben/[7,8]|verb|-- / --|./[21,22]|punct|1
+ben/[7,8]|verb|hd/mod|daar/[8,9]|adv|1
+ben/[7,8]|verb|hd/obj2|voorbeeld/[11,12]|noun|1
+ben/[7,8]|verb|hd/predc|en/[17,18]|vg|1
+ben/[7,8]|verb|hd/su|nummer/[1,2]|noun|1
+dan/[19,20]|comparative|cmp/body|Slayer/[20,21]|name|1
+en/[17,18]|vg|crd/cnj|gewelddadig/[18,19]|adj|1
+en/[17,18]|vg|crd/cnj|vocaal/[16,17]|adj|1
+gewelddadig/[18,19]|adj|hd/obcomp|dan/[19,20]|comparative|1
+nummer/[1,2]|noun|hd/det|een/[0,1]|det|1
+nummer/[1,2]|noun|hd/mod|als/[2,3]|comp|1
+riffs,/[14,15]|noun|hd/mod|hevig/[13,14]|adj|1
+top/top|top|top/hd|ben/[7,8]|verb|1
+van/[12,13]|prep|hd/obj1|riffs,/[14,15]|noun|1
+vocaal/[16,17]|adj|hd/mod|brutaal/[15,16]|adj|1
+voorbeeld/[11,12]|noun|hd/det|het/[9,10]|det|1
+voorbeeld/[11,12]|noun|hd/mod|perfect/[10,11]|adj|1
+voorbeeld/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+ben/[4,5]|verb|hd/mod|meer/[0,1]|adj|1
+ben/[4,5]|verb|hd/mod|niet/[3,4]|adv|1
+ben/[4,5]|verb|hd/su|dat/[2,3]|det|1
+moet/[1,2]|verb|-- / --|./[5,6]|punct|1
+moet/[1,2]|verb|hd/su|dat/[2,3]|det|1
+moet/[1,2]|verb|hd/vc|ben/[4,5]|verb|1
+top/top|top|top/hd|moet/[1,2]|verb|1

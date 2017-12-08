@@ -1,0 +1,63 @@
+bij/[5,6]|prep|hd/obj1|zangeres/[9,10]|noun|1
+duur/[15,16]|verb|hd/me|lang/[12,13]|adj|1
+duur/[15,16]|verb|hd/su|dit/[14,15]|det|1
+gekend/[8,9]|adj|hd/mod|meest/[7,8]|adj|1
+hoor/[1,2]|verb|hd/ld|bij/[5,6]|prep|1
+hoor/[1,2]|verb|hd/mod|ten/[2,3]|prep|1
+hoor/[1,2]|verb|hd/mod|wellicht/[4,5]|adv|1
+hoor/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+lang/[12,13]|adj|hd/mod|hoe/[11,12]|adj|1
+lang/[12,13]|adj|whd/body|zal/[13,14]|verb|1
+maar/[10,11]|vg|-- / --|? /[16,17]|punct|1
+maar/[10,11]|vg|crd/cnj|hoor/[1,2]|verb|1
+maar/[10,11]|vg|crd/cnj|lang/[12,13]|adj|1
+ten/[2,3]|prep|hd/obj1|dage/[3,4]|noun|1
+top/top|top|top/hd|maar/[10,11]|vg|1
+zal/[13,14]|verb|hd/su|dit/[14,15]|det|1
+zal/[13,14]|verb|hd/vc|duur/[15,16]|verb|1
+zangeres/[9,10]|noun|hd/det|de/[6,7]|det|1
+zangeres/[9,10]|noun|hd/mod|gekend/[8,9]|adj|1
+album/[10,11]|noun|hd/app|19,/[11,12]|num|1
+album/[10,11]|noun|hd/det|haar/[9,10]|det|1
+album/[18,19]|noun|hd/app|21/[19,20]|num|1
+album/[18,19]|noun|hd/det|haar/[16,17]|det|1
+album/[18,19]|noun|hd/mod|tweede/[17,18]|num|1
+in/[0,1]|prep|hd/obj1|2008/[1,2]|noun|1
+jaar/[13,14]|noun|hd/det|twee/[12,13]|num|1
+kom/[2,3]|verb|-- / --|./[20,21]|punct|1
+kom/[2,3]|verb|hd/ld|in/[0,1]|prep|1
+kom/[2,3]|verb|hd/mod|voor/[4,5]|comp|1
+kom/[2,3]|verb|hd/obj2|album/[18,19]|noun|1
+kom/[2,3]|verb|hd/su|ze/[3,4]|pron|1
+laat/[14,15]|adj|hd/me|jaar/[13,14]|noun|1
+met/[8,9]|prep|hd/obj1|album/[10,11]|noun|1
+publiek/[7,8]|noun|hd/det|het/[5,6]|det|1
+publiek/[7,8]|noun|hd/mod|groot/[6,7]|adj|1
+top/top|top|top/hd|kom/[2,3]|verb|1
+verschijn/[15,16]|verb|hd/mod|laat/[14,15]|adj|1
+verschijn/[15,16]|verb|hd/mod|met/[8,9]|prep|1
+verschijn/[15,16]|verb|hd/su|publiek/[7,8]|noun|1
+voor/[4,5]|comp|cmp/body|verschijn/[15,16]|verb|1
+album/[4,5]|noun|hd/det|het/[2,3]|det|1
+album/[4,5]|noun|hd/mod|goed_verkocht/[3,4]|adj|1
+album/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+jaar/[7,8]|noun|hd/det|het/[6,7]|det|1
+top/top|top|top/hd|word/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|jaar/[7,8]|noun|1
+word/[1,2]|verb|-- / --|./[8,9]|punct|1
+word/[1,2]|verb|hd/predc|album/[4,5]|noun|1
+word/[1,2]|verb|hd/su|beide/[0,1]|pron|1
+die/[4,5]|pron|rhd/body|ga/[14,15]|verb|1
+ga/[14,15]|verb|hd/mod|zo goed als/[5,8]|adv|1
+ga/[14,15]|verb|hd/pc|over/[9,10]|prep|1
+ga/[14,15]|verb|hd/predm|allemaal/[8,9]|adv|1
+ga/[14,15]|verb|hd/su|die/[4,5]|pron|1
+lied_DIM/[3,4]|noun|-- / --|./[15,16]|punct|1
+lied_DIM/[3,4]|noun|hd/det|twintig/[2,3]|num|1
+lied_DIM/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+liefdesverdriet/[11,12]|noun|hd/det|het/[10,11]|det|1
+liefdesverdriet/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+over/[9,10]|prep|hd/obj1|liefdesverdriet/[11,12]|noun|1
+top/top|top|top/hd|lied_DIM/[3,4]|noun|1
+twintig/[2,3]|num|hd/mod|meer dan/[0,2]|det|1
+van/[12,13]|prep|hd/obj1|propname/[13,14]|noun|1

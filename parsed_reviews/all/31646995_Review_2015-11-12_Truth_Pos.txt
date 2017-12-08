@@ -1,0 +1,179 @@
+als/[12,13]|comp|cmp/body|genie/[14,15]|noun|1
+film/[7,8]|noun|hd/app|PROPNAME/[8,9]|name|1
+film/[7,8]|noun|hd/det|hun/[5,6]|det|1
+film/[7,8]|noun|hd/mod|nieuw/[6,7]|adj|1
+gebroeders/[1,2]|noun|hd/app|Coen/[2,3]|name|1
+gebroeders/[1,2]|noun|hd/det|de/[0,1]|det|1
+genie/[14,15]|noun|hd/mod|film_kundig/[13,14]|adj|1
+heb/[3,4]|verb|-- / --|./[15,16]|punct|1
+heb/[3,4]|verb|hd/predm|als/[12,13]|comp|1
+heb/[3,4]|verb|hd/su|gebroeders/[1,2]|noun|1
+heb/[3,4]|verb|hd/vc|krijg/[11,12]|verb|1
+krijg/[11,12]|verb|hd/mod|met/[4,5]|prep|1
+krijg/[11,12]|verb|hd/mod|nogmaals/[9,10]|adv|1
+krijg/[11,12]|verb|hd/obj1|bevestiging/[10,11]|noun|1
+krijg/[11,12]|verb|hd/su|gebroeders/[1,2]|noun|1
+met/[4,5]|prep|hd/obj1|film/[7,8]|noun|1
+top/top|top|top/hd|heb/[3,4]|verb|1
+aspect/[6,7]|noun|hd/mod|uit/[7,8]|prep|1
+betref/[1,2]|verb|-- / --|./[12,13]|punct|1
+betref/[1,2]|verb|hd/obj1|meester_werk/[3,4]|noun|1
+betref/[1,2]|verb|hd/su|het/[0,1]|det|1
+combineer/[11,12]|verb|hd/obj1|zowel/[5,6]|vg|1
+combineer/[11,12]|verb|hd/su|dat/[4,5]|pron|1
+dat/[4,5]|pron|rhd/body|combineer/[11,12]|verb|1
+meester_werk/[3,4]|noun|hd/det|een/[2,3]|det|1
+meester_werk/[3,4]|noun|hd/mod|dat/[4,5]|pron|1
+top/top|top|top/hd|betref/[1,2]|verb|1
+uit/[7,8]|prep|hd/obj1|drama/[8,9]|noun|1
+zowel/[5,6]|vg|crd/cnj|aspect/[6,7]|noun|1
+zowel/[5,6]|vg|crd/cnj|comedy/[10,11]|noun|1
+zowel/[5,6]|vg|crd/crd|en/[9,10]|vg|1
+ben/[7,8]|verb|hd/mod|van/[8,9]|prep|1
+ben/[7,8]|verb|hd/predc|persoon/[11,12]|noun|1
+ben/[7,8]|verb|hd/su|folk_muzikant/[3,4]|noun|1
+die/[12,13]|pron|rhd/body|probeer/[15,16]|verb|1
+droom/[14,15]|noun|hd/det|zijn/[13,14]|det|1
+folk_muzikant/[3,4]|noun|hd/app|Llewyn Davis genaamd,/[4,7]|name|1
+folk_muzikant/[3,4]|noun|hd/det|een/[2,3]|det|1
+jaag_na/[18,19]|verb|hd/obj1|droom/[14,15]|noun|1
+jaag_na/[18,19]|verb|hd/su|die/[12,13]|pron|1
+jaag_na/[18,19]|verb|hd/svp|na/[16,17]|part|1
+persoon/[11,12]|noun|hd/det|een/[10,11]|det|1
+persoon/[11,12]|noun|hd/mod|die/[12,13]|pron|1
+probeer/[15,16]|verb|hd/su|die/[12,13]|pron|1
+probeer/[15,16]|verb|hd/vc|te/[17,18]|comp|1
+protagonist,/[1,2]|noun|-- / --|./[19,20]|punct|1
+protagonist,/[1,2]|noun|dp/dp|ben/[7,8]|verb|1
+protagonist,/[1,2]|noun|hd/det|de/[0,1]|det|1
+te/[17,18]|comp|cmp/body|jaag_na/[18,19]|verb|1
+top/top|top|top/hd|protagonist,/[1,2]|noun|1
+van/[8,9]|prep|hd/obj1|nature/[9,10]|noun|1
+alhoewel/[0,1]|comp|cmp/body|ben/[4,5]|verb|1
+als/[9,10]|comp|cmp/body|artiest/[10,11]|noun|1
+ben/[4,5]|verb|hd/predc|overtuigd/[3,4]|adj|1
+ben/[4,5]|verb|hd/su|hij/[1,2]|pron|1
+breek_door/[21,22]|verb|hd/mod|effectief/[20,21]|adj|1
+kwaliteit/[8,9]|noun|hd/det|zijn/[6,7]|det|1
+kwaliteit/[8,9]|noun|hd/mod|als/[9,10]|comp|1
+kwaliteit/[8,9]|noun|hd/mod|eigen/[7,8]|adj|1
+lig/[11,12]|verb|hd/ld|op/[16,17]|prep|1
+lig/[11,12]|verb|hd/mod|alhoewel/[0,1]|comp|1
+lig/[11,12]|verb|hd/mod|toch/[14,15]|adv|1
+lig/[11,12]|verb|hd/su|nadruk/[13,14]|noun|1
+luk/[22,23]|verb|hd/mod|niet/[24,25]|adv|1
+luk/[22,23]|verb|hd/obj2|hem/[23,24]|pron|1
+luk/[22,23]|verb|hd/su|breek_door/[21,22]|verb|1
+nadruk/[13,14]|noun|hd/det|de/[12,13]|det|1
+op/[16,17]|prep|hd/mod|vooral/[15,16]|adv|1
+op/[16,17]|prep|hd/obj1|probeer/[18,19]|verb|1
+overtuigd/[3,4]|adj|hd/mod|zeer/[2,3]|adv|1
+overtuigd/[3,4]|adj|hd/pc|van/[5,6]|prep|1
+probeer/[18,19]|verb|hd/det|het/[17,18]|det|1
+top/top|top|top/hd|want/[19,20]|vg|1
+van/[5,6]|prep|hd/obj1|kwaliteit/[8,9]|noun|1
+want/[19,20]|vg|-- / --|./[25,26]|punct|1
+want/[19,20]|vg|crd/cnj|lig/[11,12]|verb|1
+want/[19,20]|vg|crd/cnj|luk/[22,23]|verb|1
+frustratie/[14,15]|noun|hd/det|wat/[13,14]|det|1
+maak/[7,8]|verb|hd/mod|dan/[4,5]|adv|1
+maak/[7,8]|verb|hd/mod|toch/[5,6]|adv|1
+maak/[7,8]|verb|hd/obj1|het/[3,4]|det|1
+om/[2,3]|comp|cmp/body|te/[6,7]|comp|1
+poging/[1,2]|noun|hd/mod|talloos/[0,1]|adj|1
+poging/[1,2]|noun|hd/vc|om/[2,3]|comp|1
+te/[6,7]|comp|cmp/body|maak/[7,8]|verb|1
+top/top|top|top/hd|zorg/[8,9]|verb|1
+voor/[11,12]|prep|hd/obj1|frustratie/[14,15]|noun|1
+wat/[13,14]|det|hd/mod|heel/[12,13]|adv|1
+zorg/[8,9]|verb|-- / --|./[15,16]|punct|1
+zorg/[8,9]|verb|hd/mod|dan/[9,10]|adv|1
+zorg/[8,9]|verb|hd/mod|ook/[10,11]|adv|1
+zorg/[8,9]|verb|hd/pc|voor/[11,12]|prep|1
+zorg/[8,9]|verb|hd/su|poging/[1,2]|noun|1
+kijker/[1,2]|noun|hd/det|de/[0,1]|det|1
+leef_mee/[2,3]|verb|-- / --|./[10,11]|punct|1
+leef_mee/[2,3]|verb|hd/mod|sterk/[4,5]|adj|1
+leef_mee/[2,3]|verb|hd/pc|met/[6,7]|prep|1
+leef_mee/[2,3]|verb|hd/su|kijker/[1,2]|noun|1
+leef_mee/[2,3]|verb|hd/svp|mee/[5,6]|part|1
+met/[6,7]|prep|hd/obj1|ster/[9,10]|noun|1
+ster/[9,10]|noun|hd/det|de/[7,8]|det|1
+ster/[9,10]|noun|hd/mod|faal/[8,9]|adj|1
+sterk/[4,5]|adj|hd/mod|zeer/[3,4]|adv|1
+top/top|top|top/hd|leef_mee/[2,3]|verb|1
+Aanschouw Llewyn/[0,2]|name|-- / --|!/[14,15]|punct|1
+Aanschouw Llewyn/[0,2]|name|hd/mod|die/[2,3]|pron|1
+balanceer/[5,6]|verb|hd/ld|op/[6,7]|prep|1
+balanceer/[5,6]|verb|hd/mod|weer/[4,5]|adv|1
+balanceer/[5,6]|verb|hd/su|die/[2,3]|pron|1
+die/[2,3]|pron|rhd/body|balanceer/[5,6]|verb|1
+koord/[9,10]|noun|hd/det|de/[7,8]|det|1
+koord/[9,10]|noun|hd/mod|dun/[8,9]|adj|1
+koord/[9,10]|noun|hd/mod|van/[10,11]|prep|1
+op/[6,7]|prep|hd/obj1|koord/[9,10]|noun|1
+top/top|top|top/hd|Aanschouw Llewyn/[0,2]|name|1
+van/[10,11]|prep|hd/obj1|zelfvertrouwen/[13,14]|noun|1
+weer/[4,5]|adv|hd/mod|steeds/[3,4]|adv|1
+zelfvertrouwen/[13,14]|noun|hd/det|zijn/[11,12]|det|1
+zelfvertrouwen/[13,14]|noun|hd/mod|eigen/[12,13]|adj|1
+afgrond/[2,3]|noun|hd/det|de/[1,2]|det|1
+als/[18,19]|comp|cmp/body|smakelijk/[19,20]|adj|1
+beeld/[13,14]|noun|dp/dp|op/[14,15]|adj|1
+beeld/[13,14]|noun|hd/mod|fantastisch/[12,13]|adj|1
+ben/[3,4]|verb|hd/mod|diep/[4,5]|adj|1
+ben/[3,4]|verb|hd/predc|faalangst…/[8,9]|noun|1
+ben/[3,4]|verb|hd/su|afgrond/[2,3]|noun|1
+die/[15,16]|pron|rhd/body|ervaar/[20,21]|verb|1
+en/[6,7]|vg|crd/cnj|donker/[5,6]|adj|1
+en/[6,7]|vg|crd/cnj|vol/[7,8]|adj|1
+ervaar/[20,21]|verb|hd/obj1|filmganger/[17,18]|noun|1
+ervaar/[20,21]|verb|hd/predc|als/[18,19]|comp|1
+ervaar/[20,21]|verb|hd/su|die/[15,16]|pron|1
+faalangst…/[8,9]|noun|hd/mod|en/[6,7]|vg|1
+filmganger/[17,18]|noun|hd/det|de/[16,17]|det|1
+lever/[10,11]|verb|hd/mod|natuurlijk/[11,12]|adj|1
+lever/[10,11]|verb|hd/su|dit/[9,10]|det|1
+maar/[0,1]|comp|-- / --|./[21,22]|punct|1
+maar/[0,1]|comp|dlink/nucl|ben/[3,4]|verb|1
+maar/[0,1]|comp|dp/dp|beeld/[13,14]|noun|1
+maar/[0,1]|comp|dp/dp|die/[15,16]|pron|1
+maar/[0,1]|comp|dp/dp|lever/[10,11]|verb|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+geef_op/[1,2]|verb|hd/mod|eindelijk/[3,4]|adj|1
+geef_op/[1,2]|verb|hd/mod|wanneer/[0,1]|adv|1
+geef_op/[1,2]|verb|hd/su|men/[2,3]|pron|1
+geef_op/[1,2]|verb|hd/svp|op/[4,5]|part|1
+top/top|top|top/hd|wanneer/[0,1]|adv|1
+wanneer/[0,1]|adv|-- / --|? /[5,6]|punct|1
+wanneer/[0,1]|adv|whd/body|geef_op/[1,2]|verb|1
+aan/[10,11]|prep|hd/obj1|en/[12,13]|vg|1
+cocktail/[9,10]|noun|hd/det|de/[7,8]|det|1
+cocktail/[9,10]|noun|hd/mod|aan/[10,11]|prep|1
+cocktail/[9,10]|noun|hd/mod|heerlijk/[8,9]|adj|1
+en/[12,13]|vg|crd/cnj|lach_DIM/[13,14]|noun|1
+en/[12,13]|vg|crd/cnj|traan/[11,12]|noun|1
+in/[4,5]|prep|hd/obj1|PROPNAME/[5,6]|name|1
+top/top|top|top/hd|wek_op/[3,4]|verb|1
+vraag/[2,3]|noun|hd/det|deze/[0,1]|det|1
+vraag/[2,3]|noun|hd/mod|centraal/[1,2]|adj|1
+wek_op/[3,4]|verb|-- / --|./[15,16]|punct|1
+wek_op/[3,4]|verb|hd/mod|in/[4,5]|prep|1
+wek_op/[3,4]|verb|hd/mod|vaak/[6,7]|adj|1
+wek_op/[3,4]|verb|hd/obj1|cocktail/[9,10]|noun|1
+wek_op/[3,4]|verb|hd/su|vraag/[2,3]|noun|1
+wek_op/[3,4]|verb|hd/svp|op/[14,15]|part|1
+als/[0,1]|comp|-- / --|./[15,16]|punct|1
+als/[0,1]|comp|cmp/body|conclusie/[1,2]|noun|1
+als/[0,1]|comp|dp/dp|dat/[7,8]|comp|1
+als/[0,1]|comp|dp/dp|eindelijk/[2,3]|adj|1
+cinematicket overcompenseren/[12,14]|name|hd/det|het/[11,12]|det|1
+dat/[7,8]|comp|cmp/body|kan/[14,15]|verb|1
+eindelijk/[2,3]|adj|dp/dp|film/[6,7]|noun|1
+film/[6,7]|noun|hd/det|een/[5,6]|det|1
+film/[6,7]|noun|hd/mod|nog eens/[3,5]|adv|1
+kan/[14,15]|verb|hd/su|prijs/[9,10]|noun|1
+prijs/[9,10]|noun|hd/det|de/[8,9]|det|1
+prijs/[9,10]|noun|hd/mod|van/[10,11]|prep|1
+top/top|top|top/hd|als/[0,1]|comp|1
+van/[10,11]|prep|hd/obj1|cinematicket overcompenseren/[12,14]|name|1

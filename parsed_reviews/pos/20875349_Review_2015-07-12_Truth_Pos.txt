@@ -1,0 +1,181 @@
+ben/[15,16]|verb|hd/su|film/[12,13]|noun|1
+ben/[15,16]|verb|hd/vc|loop/[16,17]|verb|1
+dat/[2,3]|comp|cmp/body|ben/[15,16]|verb|1
+deel/[6,7]|noun|hd/det|dit/[4,5]|det|1
+deel/[6,7]|noun|hd/mod|tweede/[5,6]|num|1
+deel/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+film/[12,13]|noun|hd/det|de/[11,12]|det|1
+jammer/[1,2]|adj|-- / --|./[17,18]|punct|1
+jammer/[1,2]|adj|dp/dp|dat/[2,3]|comp|1
+jammer/[1,2]|adj|hd/mod|enorm/[0,1]|adj|1
+loop/[16,17]|verb|hd/mod|met/[3,4]|prep|1
+loop/[16,17]|verb|hd/mod|nu/[9,10]|adv|1
+loop/[16,17]|verb|hd/mod|ook/[10,11]|adv|1
+loop/[16,17]|verb|hd/su|film/[12,13]|noun|1
+loop/[16,17]|verb|hd/svp|ten einde/[13,15]|fixed|1
+met/[3,4]|prep|hd/obj1|deel/[6,7]|noun|1
+top/top|top|top/hd|jammer/[1,2]|adj|1
+van/[7,8]|prep|hd/obj1|PROPNAME/[8,9]|name|1
+Harry Potter/[12,14]|name|hd/det|meer/[11,12]|adj|1
+Harry Potter/[12,14]|name|hd/mod|die/[14,15]|pron|1
+boek/[2,3]|noun|hd/det|alle/[1,2]|det|1
+die/[14,15]|pron|rhd/body|word/[16,17]|verb|1
+door/[17,18]|prep|hd/obj1|film/[19,20]|noun|1
+film/[19,20]|noun|hd/det|de/[18,19]|det|1
+heb/[5,6]|verb|hd/vc|lees/[3,4]|verb|1
+honger/[9,10]|noun|hd/det|een/[8,9]|det|1
+honger/[9,10]|noun|hd/mod|naar/[10,11]|prep|1
+lees/[3,4]|verb|hd/mod|na/[0,1]|prep|1
+na/[0,1]|prep|hd/obj1|boek/[2,3]|noun|1
+naar/[10,11]|prep|hd/obj1|Harry Potter/[12,14]|name|1
+ontsta/[6,7]|verb|hd/mod|er/[7,8]|adv|1
+ontsta/[6,7]|verb|hd/su|honger/[9,10]|noun|1
+te/[4,5]|comp|-- / --|./[20,21]|punct|1
+te/[4,5]|comp|cmp/body|heb/[5,6]|verb|1
+te/[4,5]|comp|dp/dp|ontsta/[6,7]|verb|1
+top/top|top|top/hd|te/[4,5]|comp|1
+vul_op/[15,16]|verb|hd/mod|door/[17,18]|prep|1
+vul_op/[15,16]|verb|hd/obj1|die/[14,15]|pron|1
+word/[16,17]|verb|hd/su|die/[14,15]|pron|1
+word/[16,17]|verb|hd/vc|vul_op/[15,16]|verb|1
+en/[0,1]|comp|-- / --|!/[4,5]|punct|1
+en/[0,1]|comp|dlink/nucl|film/[3,4]|noun|1
+film/[3,4]|noun|hd/det|wat voor/[1,3]|det|1
+top/top|top|top/hd|en/[0,1]|comp|1
+Daniel Radcliffe/[9,11]|name|hd/mod|die/[14,15]|pron|1
+Emma PROPNAME,/[12,14]|name|hd/mod|die/[14,15]|pron|1
+acteur/[7,8]|noun|hd/mod|goed/[6,7]|adj|1
+acteur/[7,8]|noun|hd/mod|zoals/[8,9]|comp|1
+acteur/[22,23]|noun|hd/mod|favoriet/[21,22]|adj|1
+blaas_omver/[4,5]|verb|hd/mod|alleen/[3,4]|adj|1
+blaas_omver/[4,5]|verb|hd/mod|door/[5,6]|prep|1
+blaas_omver/[4,5]|verb|hd/mod|maar/[23,24]|vg|1
+blaas_omver/[4,5]|verb|hd/mod|niet/[2,3]|adv|1
+blaas_omver/[4,5]|verb|hd/obj1|ik/[0,1]|pron|1
+die/[14,15]|pron|rhd/body|kom/[19,20]|verb|1
+door/[5,6]|prep|hd/obj1|acteur/[7,8]|noun|1
+door/[25,26]|prep|hd/mod|ook/[24,25]|adv|1
+door/[25,26]|prep|hd/obj1|special effects/[27,29]|noun|1
+en/[11,12]|vg|crd/cnj|Daniel Radcliffe/[9,11]|name|1
+en/[11,12]|vg|crd/cnj|Emma PROPNAME,/[12,14]|name|1
+in/[16,17]|prep|hd/obj1|lijst_DIM/[18,19]|noun|1
+kom/[19,20]|verb|hd/ld|in/[16,17]|prep|1
+kom/[19,20]|verb|hd/predm|beiden/[15,16]|adv|1
+kom/[19,20]|verb|hd/su|die/[14,15]|pron|1
+lijst_DIM/[18,19]|noun|hd/det|het/[17,18]|det|1
+maar/[23,24]|vg|crd/cnj|door/[25,26]|prep|1
+maar/[23,24]|vg|crd/cnj|van/[20,21]|prep|1
+special effects/[27,29]|noun|hd/det|de/[26,27]|det|1
+top/top|top|top/hd|word/[1,2]|verb|1
+van/[20,21]|prep|hd/obj1|acteur/[22,23]|noun|1
+word/[1,2]|verb|-- / --|./[29,30]|punct|1
+word/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+word/[1,2]|verb|hd/vc|blaas_omver/[4,5]|verb|1
+zoals/[8,9]|comp|cmp/body|en/[11,12]|vg|1
+afkeer/[5,6]|noun|hd/det|een/[4,5]|det|1
+afkeer/[5,6]|noun|hd/mod|voor/[7,8]|prep|1
+bij/[25,26]|prep|hd/obj1|en/[28,29]|vg|1
+boek/[19,20]|noun|hd/det|de/[18,19]|det|1
+breng_over/[35,36]|verb|hd/mod|in/[36,37]|prep|1
+breng_over/[35,36]|verb|hd/obj1|scène/[32,33]|noun|1
+breng_over/[35,36]|verb|hd/svp|over/[33,34]|part|1
+en/[13,14]|vg|-- / --|./[39,40]|punct|1
+en/[13,14]|vg|crd/cnj|heb/[1,2]|verb|1
+en/[13,14]|vg|crd/cnj|stel/[20,21]|verb|1
+en/[28,29]|vg|crd/cnj|geloofwaardigheid/[29,30]|noun|1
+en/[28,29]|vg|crd/cnj|mogelijkheid/[27,28]|noun|1
+film/[8,9]|noun|hd/mod|met/[9,10]|prep|1
+film/[38,39]|noun|hd/det|de/[37,38]|det|1
+geloofwaardigheid/[29,30]|noun|hd/det|de/[26,27]|det|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+heb/[1,2]|verb|hd/vc|heb/[6,7]|verb|1
+heb/[6,7]|verb|hd/mod|al/[3,4]|adv|1
+heb/[6,7]|verb|hd/mod|altijd/[2,3]|adv|1
+heb/[6,7]|verb|hd/obj1|afkeer/[5,6]|noun|1
+heb/[6,7]|verb|hd/su|ik/[0,1]|pron|1
+in/[36,37]|prep|hd/obj1|film/[38,39]|noun|1
+lees/[16,17]|verb|hd/det|het/[15,16]|det|1
+lees/[16,17]|verb|hd/mod|van/[17,18]|prep|1
+met/[9,10]|prep|hd/obj1|special effect/[11,13]|noun|1
+mogelijkheid/[27,28]|noun|hd/det|de/[26,27]|det|1
+na/[14,15]|prep|hd/obj1|lees/[16,17]|verb|1
+om/[30,31]|comp|cmp/body|te/[34,35]|comp|1
+scène/[32,33]|noun|hd/mod|bepaald/[31,32]|adj|1
+special effect/[11,13]|noun|hd/mod|slecht/[10,11]|adj|1
+stel/[20,21]|verb|hd/mod|na/[14,15]|prep|1
+stel/[20,21]|verb|hd/mod|vaak/[23,24]|adj|1
+stel/[20,21]|verb|hd/obj1|me/[22,23]|pron|1
+stel/[20,21]|verb|hd/predc|vraag/[24,25]|verb|1
+stel/[20,21]|verb|hd/su|ik/[21,22]|pron|1
+te/[34,35]|comp|cmp/body|breng_over/[35,36]|verb|1
+top/top|top|top/hd|en/[13,14]|vg|1
+van/[17,18]|prep|hd/obj1|boek/[19,20]|noun|1
+voor/[7,8]|prep|hd/obj1|film/[8,9]|noun|1
+vraag/[24,25]|verb|hd/mod|bij/[25,26]|prep|1
+vraag/[24,25]|verb|hd/mod|om/[30,31]|comp|1
+keer/[5,6]|noun|hd/det|enkel/[4,5]|det|1
+keer/[5,6]|noun|hd/det|geen/[3,4]|det|1
+maar/[0,1]|comp|-- / --|./[7,8]|punct|1
+maar/[0,1]|comp|dlink/nucl|word/[2,3]|verb|1
+stel_teleur/[6,7]|verb|hd/mod|keer/[5,6]|noun|1
+stel_teleur/[6,7]|verb|hd/obj1|ik/[1,2]|pron|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+word/[2,3]|verb|hd/su|ik/[1,2]|pron|1
+word/[2,3]|verb|hd/vc|stel_teleur/[6,7]|verb|1
+als/[21,22]|comp|cmp/body|kers/[22,23]|noun|1
+boek/[7,8]|noun|hd/det|het/[6,7]|det|1
+bovendien/[0,1]|adv|-- / --|!/[26,27]|punct|1
+bovendien/[0,1]|adv|dp/dp|kom/[1,2]|verb|1
+en/[19,20]|vg|crd/cnj|Harry/[18,19]|name|1
+en/[19,20]|vg|crd/cnj|Voldemort/[20,21]|name|1
+film/[12,13]|noun|hd/det|de/[11,12]|det|1
+film/[12,13]|noun|hd/mod|met/[13,14]|prep|1
+in/[10,11]|prep|hd/obj1|film/[12,13]|noun|1
+kers/[22,23]|noun|hd/mod|op/[23,24]|prep|1
+kom/[1,2]|verb|hd/mod|in/[10,11]|prep|1
+kom/[1,2]|verb|hd/mod|ook/[8,9]|adv|1
+kom/[1,2]|verb|hd/mod|voor/[9,10]|adj|1
+kom/[1,2]|verb|hd/predm|als/[21,22]|comp|1
+kom/[1,2]|verb|hd/su|passage/[4,5]|noun|1
+met/[13,14]|prep|hd/obj1|strijd/[16,17]|noun|1
+op/[23,24]|prep|hd/obj1|taart/[25,26]|noun|1
+passage/[4,5]|noun|hd/det|alle/[2,3]|det|1
+passage/[4,5]|noun|hd/mod|cruciaal/[3,4]|adj|1
+passage/[4,5]|noun|hd/mod|uit/[5,6]|prep|1
+strijd/[16,17]|noun|hd/det|de/[14,15]|det|1
+strijd/[16,17]|noun|hd/mod|magnifiek/[15,16]|adj|1
+strijd/[16,17]|noun|hd/mod|tussen/[17,18]|prep|1
+taart/[25,26]|noun|hd/det|de/[24,25]|det|1
+top/top|top|top/hd|bovendien/[0,1]|adv|1
+tussen/[17,18]|prep|hd/obj1|en/[19,20]|vg|1
+uit/[5,6]|prep|hd/obj1|boek/[7,8]|noun|1
+Harry Potter_universum/[16,18]|noun|hd/det|het/[15,16]|det|1
+dat/[4,5]|comp|cmp/body|kom/[10,11]|verb|1
+die/[11,12]|pron|rhd/body|speel_af/[13,14]|verb|1
+film/[9,10]|noun|hd/det|een/[7,8]|det|1
+film/[9,10]|noun|hd/mod|die/[11,12]|pron|1
+film/[9,10]|noun|hd/mod|nieuw/[8,9]|adj|1
+heb/[3,4]|verb|hd/su|ik/[1,2]|pron|1
+heb/[3,4]|verb|hd/vc|hoor/[2,3]|verb|1
+hoor/[2,3]|verb|hd/su|ik/[1,2]|pron|1
+hoor/[2,3]|verb|hd/vc|dat/[4,5]|comp|1
+in/[14,15]|prep|hd/obj1|Harry Potter_universum/[16,18]|noun|1
+kan/[18,19]|verb|-- / --|!/[27,28]|punct|1
+kan/[18,19]|verb|hd/su|ik/[19,20]|pron|1
+kan/[18,19]|verb|hd/vc|wacht/[23,24]|verb|1
+kom/[10,11]|verb|hd/mod|er/[5,6]|adv|1
+kom/[10,11]|verb|hd/mod|toch/[6,7]|adv|1
+kom/[10,11]|verb|hd/su|film/[9,10]|noun|1
+kom_uit/[26,27]|verb|hd/su|die/[25,26]|det|1
+niet/[21,22]|adv|hd/mod|meer/[22,23]|adv|1
+nu/[0,1]|comp|cmp/body|heb/[3,4]|verb|1
+speel_af/[13,14]|verb|hd/ld|in/[14,15]|prep|1
+speel_af/[13,14]|verb|hd/se|zich/[12,13]|pron|1
+speel_af/[13,14]|verb|hd/su|die/[11,12]|pron|1
+top/top|top|top/hd|kan/[18,19]|verb|1
+tot/[24,25]|comp|cmp/body|kom_uit/[26,27]|verb|1
+wacht/[23,24]|verb|hd/mod|haast/[20,21]|adv|1
+wacht/[23,24]|verb|hd/mod|niet/[21,22]|adv|1
+wacht/[23,24]|verb|hd/mod|nu/[0,1]|comp|1
+wacht/[23,24]|verb|hd/mod|tot/[24,25]|comp|1
+wacht/[23,24]|verb|hd/su|ik/[19,20]|pron|1

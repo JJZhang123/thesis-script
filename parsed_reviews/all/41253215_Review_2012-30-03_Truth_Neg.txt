@@ -1,0 +1,52 @@
+PROPNAME, neen,/[0,2]|name|-- / --|./[11,12]|punct|1
+PROPNAME, neen,/[0,2]|name|dp/dp|denk/[3,4]|verb|1
+dat/[5,6]|comp|cmp/body|zal/[9,10]|verb|1
+denk/[3,4]|verb|hd/mod|niet/[4,5]|adv|1
+denk/[3,4]|verb|hd/su|ik/[2,3]|pron|1
+denk/[3,4]|verb|hd/vc|dat/[5,6]|comp|1
+top/top|top|top/hd|PROPNAME, neen,/[0,2]|name|1
+word/[10,11]|verb|hd/mod|ooit/[7,8]|adv|1
+word/[10,11]|verb|hd/predc|fan/[8,9]|noun|1
+word/[10,11]|verb|hd/su|ik/[6,7]|pron|1
+zal/[9,10]|verb|hd/su|ik/[6,7]|pron|1
+zal/[9,10]|verb|hd/vc|word/[10,11]|verb|1
+boek/[6,7]|noun|hd/app|PROPNAME/[7,8]|name|1
+boek/[6,7]|noun|hd/det|het/[5,6]|det|1
+die/[4,5]|pron|rhd/body|krijg/[8,9]|verb|1
+krijg/[8,9]|verb|hd/obj1|die/[4,5]|pron|1
+krijg/[8,9]|verb|hd/su|boek/[6,7]|noun|1
+lees/[9,10]|verb|hd/mod|met/[12,13]|prep|1
+lees/[9,10]|verb|hd/mod|na/[0,1]|prep|1
+lees/[9,10]|verb|hd/obj1|het/[11,12]|det|1
+lees/[9,10]|verb|hd/su|ik/[10,11]|pron|1
+los_in/[21,22]|verb|hd/mod|niet/[20,21]|adv|1
+los_in/[21,22]|verb|hd/obj1|verwachting/[17,18]|noun|1
+maar/[15,16]|vg|-- / --|./[22,23]|punct|1
+maar/[15,16]|vg|crd/cnj|lees/[9,10]|verb|1
+maar/[15,16]|vg|crd/cnj|word/[18,19]|verb|1
+met/[12,13]|prep|hd/obj1|verwachting/[14,15]|noun|1
+na/[0,1]|prep|hd/obj1|review/[3,4]|noun|1
+niet/[20,21]|adv|hd/mod|absoluut/[19,20]|adj|1
+review/[3,4]|noun|hd/det|de/[1,2]|det|1
+review/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+review/[3,4]|noun|hd/mod|goed/[2,3]|adj|1
+top/top|top|top/hd|maar/[15,16]|vg|1
+verwachting/[14,15]|noun|hd/mod|hoog/[13,14]|adj|1
+verwachting/[17,18]|noun|hd/det|deze/[16,17]|det|1
+word/[18,19]|verb|hd/su|verwachting/[17,18]|noun|1
+word/[18,19]|verb|hd/vc|los_in/[21,22]|verb|1
+blijf/[9,10]|verb|-- / --|./[13,14]|punct|1
+blijf/[9,10]|verb|dp/dp|raadsel/[12,13]|noun|1
+blijf/[9,10]|verb|hd/predc|mij/[10,11]|pron|1
+blijf/[9,10]|verb|hd/su|wat/[0,1]|pron|1
+boek/[7,8]|noun|hd/det|dit/[6,7]|det|1
+criticus/[2,3]|noun|hd/det|de/[1,2]|det|1
+in/[5,6]|prep|hd/obj1|boek/[7,8]|noun|1
+raadsel/[12,13]|noun|hd/det|een/[11,12]|det|1
+top/top|top|top/hd|blijf/[9,10]|verb|1
+wat/[0,1]|pron|rhd/body|zie/[8,9]|verb|1
+zie/[8,9]|verb|hd/mod|dan/[3,4]|adv|1
+zie/[8,9]|verb|hd/mod|ook/[4,5]|adv|1
+zie/[8,9]|verb|hd/obj1|wat/[0,1]|pron|1
+zie/[8,9]|verb|hd/pc|in/[5,6]|prep|1
+zie/[8,9]|verb|hd/su|criticus/[2,3]|noun|1

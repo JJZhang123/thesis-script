@@ -1,0 +1,147 @@
+Klasse, power, PROPNAME/[0,3]|name|-- / --|./[3,4]|punct|1
+top/top|top|top/hd|Klasse, power, PROPNAME/[0,3]|name|1
+./[3,4]|punct|-- / --|Klasse, power, PROPNAME/[0,3]|name|1
+top/top|top|top/hd|./[3,4]|punct|1
+ben/[7,8]|verb|hd/su|die/[1,2]|pron|1
+ben/[7,8]|verb|hd/vc|verkoop_uit/[6,7]|verb|1
+concert/[0,1]|noun|-- / --|./[21,22]|punct|1
+concert/[0,1]|noun|-- / --|en/[14,15]|vg|1
+concert/[0,1]|noun|dp/dp|persoonlijkheid/[16,17]|noun|1
+concert/[0,1]|noun|dp/dp|wereld_hit/[8,9]|noun|1
+concert/[0,1]|noun|hd/mod|die/[1,2]|pron|1
+die/[1,2]|pron|rhd/body|ben/[7,8]|verb|1
+die/[9,10]|pron|rhd/body|zing_mee/[13,14]|verb|1
+die/[17,18]|pron|rhd/body|laat/[20,21]|verb|1
+laat/[20,21]|verb|hd/obj1|niemand/[18,19]|pron|1
+laat/[20,21]|verb|hd/predc|onberoerd/[19,20]|adj|1
+laat/[20,21]|verb|hd/su|die/[17,18]|pron|1
+minuut/[5,6]|noun|hd/det|10/[4,5]|num|1
+na/[3,4]|prep|hd/mod|al/[2,3]|adv|1
+na/[3,4]|prep|hd/obj1|minuut/[5,6]|noun|1
+persoonlijkheid/[16,17]|noun|hd/det|een/[15,16]|det|1
+persoonlijkheid/[16,17]|noun|hd/mod|die/[17,18]|pron|1
+tiener/[11,12]|noun|hd/det|elk/[10,11]|det|1
+top/top|top|top/hd|concert/[0,1]|noun|1
+verkoop_uit/[6,7]|verb|hd/mod|na/[3,4]|prep|1
+verkoop_uit/[6,7]|verb|hd/obj1|die/[1,2]|pron|1
+wereld_hit/[8,9]|noun|hd/mod|die/[9,10]|pron|1
+zing_mee/[13,14]|verb|hd/mod|luidkeels/[12,13]|adj|1
+zing_mee/[13,14]|verb|hd/obj1|die/[9,10]|pron|1
+zing_mee/[13,14]|verb|hd/su|tiener/[11,12]|noun|1
+bij/[7,8]|prep|hd/obj1|uitstek_miss/[8,10]|noun|1
+heb/[1,2]|verb|-- / --|./[12,13]|punct|1
+heb/[1,2]|verb|hd/mod|natuurlijk/[3,4]|adj|1
+heb/[1,2]|verb|hd/obj1|het/[2,3]|noun|1
+heb/[1,2]|verb|hd/pc|over/[4,5]|prep|1
+heb/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+over/[4,5]|prep|hd/obj1|super_ster/[6,7]|noun|1
+super_ster/[6,7]|noun|hd/det|de/[5,6]|det|1
+super_ster/[6,7]|noun|hd/mod|bij/[7,8]|prep|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+uitstek_miss/[8,10]|noun|hd/app|PROPNAME Knowles/[10,12]|name|1
+1m68,/[6,7]|noun|hd/mod|amper/[5,6]|adv|1
+ben/[2,3]|verb|hd/mod|jaar/[1,2]|noun|1
+ben/[2,3]|verb|hd/su|ze/[3,4]|pron|1
+en/[4,5]|vg|-- / --|./[20,21]|punct|1
+en/[4,5]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[4,5]|vg|crd/cnj|vul/[13,14]|verb|1
+jaar/[1,2]|noun|hd/det|31/[0,1]|num|1
+maar/[7,8]|vg|crd/cnj|1m68,/[6,7]|noun|1
+maar/[7,8]|vg|crd/cnj|power/[9,10]|noun|1
+maar/[7,8]|vg|crd/cnj|stemgeluid/[12,13]|noun|1
+maar/[7,8]|vg|crd/crd|en/[10,11]|vg|1
+moeite/[19,20]|noun|hd/det|enig/[18,19]|det|1
+power/[9,10]|noun|hd/det|haar/[8,9]|det|1
+power/[9,10]|noun|hd/mod|amper/[5,6]|adv|1
+stadium/[16,17]|noun|hd/det|de/[14,15]|det|1
+stadium/[16,17]|noun|hd/mod|groot/[15,16]|adj|1
+stemgeluid/[12,13]|noun|hd/det|haar/[11,12]|det|1
+stemgeluid/[12,13]|noun|hd/mod|amper/[5,6]|adv|1
+top/top|top|top/hd|en/[4,5]|vg|1
+vul/[13,14]|verb|hd/mod|zonder/[17,18]|prep|1
+vul/[13,14]|verb|hd/obj1|stadium/[16,17]|noun|1
+vul/[13,14]|verb|hd/su|maar/[7,8]|vg|1
+zonder/[17,18]|prep|hd/obj1|moeite/[19,20]|noun|1
+ballade/[6,7]|noun|hd/mod|emotioneel/[5,6]|adj|1
+ballade/[6,7]|noun|hd/mod|machtig/[2,3]|adj|1
+en/[4,5]|vg|crd/cnj|ballade/[6,7]|noun|1
+en/[4,5]|vg|crd/cnj|musical_nummer/[3,4]|noun|1
+hip hop/[1,2]|noun|-- / --|./[11,12]|punct|1
+hip hop/[1,2]|noun|dp/dp|en/[4,5]|vg|1
+hip hop/[1,2]|noun|dp/dp|kan/[8,9]|verb|1
+hip hop/[1,2]|noun|hd/mod|zweep_op/[0,1]|adj|1
+kan/[8,9]|verb|hd/obj1|het/[9,10]|det|1
+kan/[8,9]|verb|hd/predm|allemaal/[10,11]|adv|1
+kan/[8,9]|verb|hd/su|ze/[7,8]|pron|1
+musical_nummer/[3,4]|noun|hd/mod|machtig/[2,3]|adj|1
+top/top|top|top/hd|hip hop/[1,2]|noun|1
+ben/[2,3]|verb|-- / --|./[21,22]|punct|1
+ben/[2,3]|verb|dp/dp|en/[13,14]|vg|1
+ben/[2,3]|verb|hd/predc|show/[5,6]|noun|1
+ben/[2,3]|verb|hd/su|concert/[1,2]|noun|1
+concert/[1,2]|noun|hd/det|ieder/[0,1]|det|1
+contact/[9,10]|noun|hd/det|veel/[8,9]|adj|1
+contact/[9,10]|noun|hd/mod|met/[10,11]|prep|1
+en/[13,14]|vg|crd/cnj|geef/[14,15]|verb|1
+en/[13,14]|vg|crd/cnj|heb/[7,8]|verb|1
+geef/[14,15]|verb|hd/mod|opnieuw/[16,17]|adv|1
+geef/[14,15]|verb|hd/mod|telkens/[15,16]|adv|1
+geef/[14,15]|verb|hd/obj1|goed/[18,19]|adj|1
+geef/[14,15]|verb|hd/su|ze/[6,7]|pron|1
+goed/[18,19]|adj|hd/det|het/[17,18]|det|1
+goed/[18,19]|adj|hd/mod|van/[19,20]|prep|1
+heb/[7,8]|verb|hd/obj1|contact/[9,10]|noun|1
+heb/[7,8]|verb|hd/su|ze/[6,7]|pron|1
+met/[10,11]|prep|hd/obj1|publiek/[12,13]|noun|1
+publiek/[12,13]|noun|hd/det|haar/[11,12]|det|1
+show/[5,6]|noun|hd/det|een/[3,4]|det|1
+show/[5,6]|noun|hd/mod|knal/[4,5]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+van/[19,20]|prep|hd/obj1|zichzelf/[20,21]|pron|1
+combineer/[5,6]|verb|hd/obj1|dancemoves/[3,4]|noun|1
+combineer/[5,6]|verb|hd/pc|met/[6,7]|prep|1
+dancemoves/[3,4]|noun|hd/det|de/[0,1]|det|1
+dancemoves/[3,4]|noun|hd/mod|indrukwekkend/[2,3]|adj|1
+hoog/[12,13]|adj|hd/mod|immens/[11,12]|adj|1
+indrukwekkend/[2,3]|adj|hd/mod|meest/[1,2]|adj|1
+met/[6,7]|prep|hd/obj1|zang_prestatie/[8,9]|noun|1
+niveau/[13,14]|noun|hd/det|een/[10,11]|det|1
+niveau/[13,14]|noun|hd/mod|hoog/[12,13]|adj|1
+top/top|top|top/hd|word/[4,5]|verb|1
+van/[9,10]|prep|hd/obj1|niveau/[13,14]|noun|1
+word/[4,5]|verb|-- / --|./[14,15]|punct|1
+word/[4,5]|verb|hd/su|dancemoves/[3,4]|noun|1
+word/[4,5]|verb|hd/vc|combineer/[5,6]|verb|1
+zang_prestatie/[8,9]|noun|hd/det|een/[7,8]|det|1
+zang_prestatie/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+ben/[5,6]|verb|-- / --|./[11,12]|punct|1
+ben/[5,6]|verb|hd/mod|gekleed/[1,2]|adj|1
+ben/[5,6]|verb|hd/predc|en/[9,10]|vg|1
+ben/[5,6]|verb|hd/su|klasse_madam/[7,8]|noun|1
+en/[9,10]|vg|crd/cnj|mooi/[10,11]|adj|1
+en/[9,10]|vg|crd/cnj|sexy/[8,9]|adj|1
+gekleed/[1,2]|adj|hd/mod|zelfs/[0,1]|adv|1
+gekleed/[1,2]|adj|hd/pc|in/[2,3]|prep|1
+in/[2,3]|prep|hd/obj1|juttenzak/[4,5]|noun|1
+juttenzak/[4,5]|noun|hd/det|een/[3,4]|det|1
+klasse_madam/[7,8]|noun|hd/det|deze/[6,7]|det|1
+top/top|top|top/hd|ben/[5,6]|verb|1
+ben/[3,4]|verb|-- / --|./[17,18]|punct|1
+ben/[3,4]|verb|hd/mod|jaar/[13,14]|noun|1
+ben/[3,4]|verb|hd/mod|wat/[0,1]|pron|1
+ben/[3,4]|verb|hd/predc|synoniem/[14,15]|noun|1
+ben/[3,4]|verb|hd/su|en/[5,6]|vg|1
+betref/[2,3]|verb|hd/obj1|mij/[1,2]|pron|1
+betref/[2,3]|verb|hd/su|wat/[0,1]|pron|1
+en/[5,6]|vg|crd/cnj|PROPNAME/[4,5]|name|1
+en/[5,6]|vg|crd/cnj|performer/[7,8]|noun|1
+jaar/[13,14]|noun|hd/det|enkel/[12,13]|det|1
+jaar/[13,14]|noun|hd/mod|al/[11,12]|adv|1
+performer/[7,8]|noun|hd/mod|goed/[6,7]|adj|1
+performer/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+synoniem/[14,15]|noun|hd/mod|van/[15,16]|prep|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+van/[8,9]|prep|hd/obj1|wereld/[10,11]|noun|1
+van/[15,16]|prep|hd/obj1|elkaar/[16,17]|pron|1
+wat/[0,1]|pron|rhd/body|betref/[2,3]|verb|1
+wereld/[10,11]|noun|hd/det|de/[9,10]|det|1

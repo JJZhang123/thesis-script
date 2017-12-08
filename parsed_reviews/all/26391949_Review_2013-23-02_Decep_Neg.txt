@@ -1,0 +1,67 @@
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/obj2|vegetarisch/[3,4]|adj|1
+ben/[1,2]|verb|hd/predc|restaurant/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+hart_DIM/[6,7]|noun|hd/app|Antwerpen/[7,8]|name|1
+in/[5,6]|prep|hd/obj1|hart_DIM/[6,7]|noun|1
+restaurant/[4,5]|noun|hd/mod|in/[5,6]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+vegetarisch/[3,4]|adj|hd/det|een/[2,3]|det|1
+klant/[7,8]|noun|hd/det|de/[5,6]|det|1
+klant/[7,8]|noun|hd/mod|meest/[6,7]|adj|1
+ondanks/[0,1]|prep|hd/obj1|verwachting/[3,4]|noun|1
+stel_teleur/[8,9]|verb|hd/mod|ondanks/[0,1]|prep|1
+stel_teleur/[8,9]|verb|hd/obj1|klant/[7,8]|noun|1
+top/top|top|top/hd|word/[4,5]|verb|1
+verwachting/[3,4]|noun|hd/det|de/[1,2]|det|1
+verwachting/[3,4]|noun|hd/mod|hoog/[2,3]|adj|1
+word/[4,5]|verb|-- / --|./[9,10]|punct|1
+word/[4,5]|verb|hd/su|klant/[7,8]|noun|1
+word/[4,5]|verb|hd/vc|stel_teleur/[8,9]|verb|1
+ben/[8,9]|verb|hd/predc|en/[6,7]|vg|1
+ben/[8,9]|verb|hd/su|keuken/[3,4]|noun|1
+ben/[9,10]|verb|-- / --|./[16,17]|punct|1
+ben/[9,10]|verb|hd/mod|hoewel/[0,1]|comp|1
+ben/[9,10]|verb|hd/predc|beperkt/[15,16]|adj|1
+ben/[9,10]|verb|hd/su|keuze/[11,12]|noun|1
+beperkt/[15,16]|adj|hd/mod|uitermate/[14,15]|adv|1
+bij/[12,13]|prep|hd/obj1|PROPNAME/[13,14]|name|1
+en/[6,7]|vg|crd/cnj|gevarieerd/[7,8]|adj|1
+en/[6,7]|vg|crd/cnj|uitgebreid/[5,6]|adj|1
+gevarieerd/[7,8]|adj|hd/mod|erg/[4,5]|adj|1
+hoewel/[0,1]|comp|cmp/body|ben/[8,9]|verb|1
+keuken/[3,4]|noun|hd/det|de/[1,2]|det|1
+keuken/[3,4]|noun|hd/mod|vegetarisch/[2,3]|adj|1
+keuze/[11,12]|noun|hd/det|de/[10,11]|det|1
+keuze/[11,12]|noun|hd/mod|bij/[12,13]|prep|1
+top/top|top|top/hd|ben/[9,10]|verb|1
+uitgebreid/[5,6]|adj|hd/mod|erg/[4,5]|adj|1
+bediening/[3,4]|noun|hd/det|de/[2,3]|det|1
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/mod|daarnaast/[0,1]|pp|1
+ben/[1,2]|verb|hd/predc|en/[5,6]|vg|1
+ben/[1,2]|verb|hd/su|bediening/[3,4]|noun|1
+en/[5,6]|vg|crd/cnj|onvriendelijk/[7,8]|adj|1
+en/[5,6]|vg|crd/cnj|traag/[4,5]|adj|1
+onvriendelijk/[7,8]|adj|hd/mod|erg/[6,7]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+aantal/[10,11]|noun|hd/det|het/[9,10]|det|1
+aantal/[10,11]|noun|hd/mod|dat/[12,13]|pron|1
+aantal/[10,11]|noun|hd/mod|klant/[11,12]|noun|1
+besta/[5,6]|verb|hd/mod|lang/[3,4]|adj|1
+besta/[5,6]|verb|hd/su|restaurant/[2,3]|noun|1
+dat/[12,13]|pron|rhd/body|heb/[16,17]|verb|1
+hang_af/[7,8]|verb|hd/pc|van/[8,9]|prep|1
+hang_af/[7,8]|verb|hd/su|of/[0,1]|comp|1
+heb/[16,17]|verb|hd/obj1|probleem/[15,16]|noun|1
+heb/[16,17]|verb|hd/pc|hiermee/[13,14]|pp|1
+heb/[16,17]|verb|hd/su|dat/[12,13]|pron|1
+of/[0,1]|comp|cmp/body|zal/[4,5]|verb|1
+probleem/[15,16]|noun|hd/det|geen/[14,15]|det|1
+restaurant/[2,3]|noun|hd/det|dit/[1,2]|det|1
+top/top|top|top/hd|zal/[6,7]|verb|1
+van/[8,9]|prep|hd/obj1|aantal/[10,11]|noun|1
+zal/[4,5]|verb|hd/su|restaurant/[2,3]|noun|1
+zal/[4,5]|verb|hd/vc|besta/[5,6]|verb|1
+zal/[6,7]|verb|-- / --|./[17,18]|punct|1
+zal/[6,7]|verb|hd/vc|hang_af/[7,8]|verb|1

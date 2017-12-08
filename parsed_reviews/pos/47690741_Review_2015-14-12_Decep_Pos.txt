@@ -1,0 +1,108 @@
+ben/[1,2]|verb|-- / --|./[15,16]|punct|1
+ben/[1,2]|verb|hd/predc|en/[5,6]|vg|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+en/[5,6]|vg|crd/cnj|horror_film/[4,5]|noun|1
+en/[5,6]|vg|crd/cnj|klassieker/[7,8]|noun|1
+horror_film/[4,5]|noun|hd/det|een/[2,3]|det|1
+horror_film/[4,5]|noun|hd/mod|fantastisch/[3,4]|adj|1
+horror_film/[4,5]|noun|hd/mod|van/[8,9]|prep|1
+in/[10,11]|prep|hd/obj1|vak/[12,13]|noun|1
+klassieker/[7,8]|noun|hd/det|een/[2,3]|det|1
+klassieker/[7,8]|noun|hd/mod|instant/[6,7]|adj|1
+klassieker/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+meester/[9,10]|noun|hd/mod|in/[10,11]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+vak/[12,13]|noun|hd/app|John Carpenter/[13,15]|name|1
+vak/[12,13]|noun|hd/det|het/[11,12]|det|1
+van/[8,9]|prep|hd/obj1|meester/[9,10]|noun|1
+als/[1,2]|comp|cmp/body|in/[2,3]|prep|1
+als/[1,2]|comp|cmp/mod|net/[0,1]|adv|1
+en/[6,7]|vg|crd/cnj|Friday the 13th/[3,6]|name|1
+en/[6,7]|vg|crd/cnj|Halloween/[7,8]|name|1
+geloofwaardig/[17,18]|adj|hd/mod|ook/[16,17]|adv|1
+in/[2,3]|prep|hd/obj1|en/[6,7]|vg|1
+maar/[15,16]|vg|crd/cnj|afgrijselijk/[14,15]|adj|1
+maar/[15,16]|vg|crd/cnj|geloofwaardig/[17,18]|adj|1
+met/[12,13]|prep|hd/obj1|monster/[18,19]|noun|1
+moet/[8,9]|verb|-- / --|./[19,20]|punct|1
+moet/[8,9]|verb|hd/su|protagonisten/[10,11]|noun|1
+moet/[8,9]|verb|hd/vc|reken_af/[11,12]|verb|1
+monster/[18,19]|noun|hd/det|een/[13,14]|det|1
+monster/[18,19]|noun|hd/mod|maar/[15,16]|vg|1
+protagonisten/[10,11]|noun|hd/det|de/[9,10]|det|1
+reken_af/[11,12]|verb|hd/mod|als/[1,2]|comp|1
+reken_af/[11,12]|verb|hd/pc|met/[12,13]|prep|1
+reken_af/[11,12]|verb|hd/su|protagonisten/[10,11]|noun|1
+top/top|top|top/hd|moet/[8,9]|verb|1
+door/[8,9]|prep|hd/obj1|reeks/[10,11]|noun|1
+dorp_DIM/[5,6]|noun|hd/det|een/[3,4]|det|1
+dorp_DIM/[5,6]|noun|hd/mod|pittoresk/[4,5]|adj|1
+inwoner/[1,2]|noun|hd/det|de/[0,1]|det|1
+inwoner/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+moord/[12,13]|noun|hd/mod|gewelddadig/[11,12]|adj|1
+reeks/[10,11]|noun|hd/det|een/[9,10]|det|1
+reeks/[10,11]|noun|hd/mod|moord/[12,13]|noun|1
+schrik_op/[7,8]|verb|hd/mod|door/[8,9]|prep|1
+schrik_op/[7,8]|verb|hd/obj1|inwoner/[1,2]|noun|1
+top/top|top|top/hd|word/[6,7]|verb|1
+van/[2,3]|prep|hd/obj1|dorp_DIM/[5,6]|noun|1
+word/[6,7]|verb|-- / --|./[13,14]|punct|1
+word/[6,7]|verb|hd/su|inwoner/[1,2]|noun|1
+word/[6,7]|verb|hd/vc|schrik_op/[7,8]|verb|1
+Opmerkelijk,/[0,1]|name|-- / --|./[12,13]|punct|1
+Opmerkelijk,/[0,1]|name|dp/dp|ben/[3,4]|verb|1
+ben/[3,4]|verb|hd/predm|allemaal/[4,5]|adv|1
+ben/[3,4]|verb|hd/su|slachtoffer/[2,3]|noun|1
+ben/[3,4]|verb|hd/vc|kom/[11,12]|verb|1
+kom/[11,12]|verb|hd/mod|op/[5,6]|prep|1
+kom/[11,12]|verb|hd/su|slachtoffer/[2,3]|noun|1
+kom/[11,12]|verb|hd/svp|om het leven/[8,11]|fixed|1
+manier/[7,8]|noun|hd/det|dezelfde/[6,7]|det|1
+op/[5,6]|prep|hd/obj1|manier/[7,8]|noun|1
+slachtoffer/[2,3]|noun|hd/det|de/[1,2]|det|1
+top/top|top|top/hd|Opmerkelijk,/[0,1]|name|1
+baseballbat/[7,8]|noun|hd/det|een/[6,7]|det|1
+ben/[2,3]|verb|-- / --|./[8,9]|punct|1
+ben/[2,3]|verb|hd/su|schedel/[1,2]|noun|1
+ben/[2,3]|verb|hd/vc|sla_in/[4,5]|verb|1
+met/[5,6]|prep|hd/obj1|baseballbat/[7,8]|noun|1
+schedel/[1,2]|noun|hd/det|hun/[0,1]|det|1
+sla_in/[4,5]|verb|hd/mod|met/[5,6]|prep|1
+sla_in/[4,5]|verb|hd/mod|telkens/[3,4]|adv|1
+sla_in/[4,5]|verb|hd/obj1|schedel/[1,2]|noun|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+die/[9,10]|pron|rhd/body|zal/[12,13]|verb|1
+durf/[13,14]|verb|hd/mod|nooit/[11,12]|adv|1
+durf/[13,14]|verb|hd/su|je/[10,11]|pron|1
+durf/[13,14]|verb|hd/vc|vermoed/[14,15]|verb|1
+en/[6,7]|vg|crd/cnj|enscenering/[5,6]|noun|1
+en/[6,7]|vg|crd/cnj|plottwists/[8,9]|noun|1
+enscenering/[5,6]|noun|hd/det|een/[3,4]|det|1
+enscenering/[5,6]|noun|hd/mod|prachtig/[4,5]|adj|1
+film/[1,2]|noun|hd/det|de/[0,1]|det|1
+ken/[2,3]|verb|-- / --|./[15,16]|punct|1
+ken/[2,3]|verb|hd/obj1|en/[6,7]|vg|1
+ken/[2,3]|verb|hd/su|film/[1,2]|noun|1
+plottwists/[8,9]|noun|hd/det|enkel/[7,8]|det|1
+plottwists/[8,9]|noun|hd/mod|die/[9,10]|pron|1
+top/top|top|top/hd|ken/[2,3]|verb|1
+vermoed/[14,15]|verb|hd/obj1|die/[9,10]|pron|1
+vermoed/[14,15]|verb|hd/su|je/[10,11]|pron|1
+zal/[12,13]|verb|hd/su|je/[10,11]|pron|1
+zal/[12,13]|verb|hd/vc|durf/[13,14]|verb|1
+acteer_prestatie/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[2,3]|verb|-- / --|./[5,6]|punct|1
+ben/[2,3]|verb|hd/mod|bovendien/[3,4]|adv|1
+ben/[2,3]|verb|hd/predc|subliem/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|acteer_prestatie/[1,2]|noun|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+jaag/[8,9]|verb|hd/obj2|PROPNAME/[0,1]|name|1
+jaag/[8,9]|verb|hd/su|je/[2,3]|pron|1
+jaag/[8,9]|verb|hd/svp|de stuipen op het lijf/[3,8]|fixed|1
+top/top|top|top/hd|zal/[1,2]|verb|1
+wijs/[9,10]|verb|hd/mod|dus/[10,11]|adv|1
+wijs/[9,10]|verb|hd/predm|gewaarschuwd/[11,12]|adj|1
+zal/[1,2]|verb|-- / --|./[12,13]|punct|1
+zal/[1,2]|verb|dp/dp|wijs/[9,10]|verb|1
+zal/[1,2]|verb|hd/su|je/[2,3]|pron|1
+zal/[1,2]|verb|hd/vc|jaag/[8,9]|verb|1

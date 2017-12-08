@@ -1,0 +1,51 @@
+besta/[4,5]|adj|hd/pc|uit/[5,6]|prep|1
+doe/[16,17]|verb|hd/su|groep_naam/[15,16]|noun|1
+doe/[16,17]|verb|hd/vc|vermoed/[17,18]|verb|1
+en/[8,9]|vg|crd/cnj|Redfoo/[7,8]|name|1
+en/[8,9]|vg|crd/cnj|SkyBlu,/[9,10]|name|1
+fout/[12,13]|adj|hd/mod|even/[11,12]|adj|1
+groep_naam/[15,16]|noun|hd/det|hun/[14,15]|det|1
+klink/[10,11]|verb|-- / --|./[18,19]|punct|1
+klink/[10,11]|verb|dp/dp|doe/[16,17]|verb|1
+klink/[10,11]|verb|hd/mod|dan/[13,14]|adv|1
+klink/[10,11]|verb|hd/mod|fout/[12,13]|adj|1
+klink/[10,11]|verb|hd/su|muziek_duo/[2,3]|noun|1
+lid/[6,7]|noun|hd/app|en/[8,9]|vg|1
+muziek_duo/[2,3]|noun|hd/app|PROPNAME,/[3,4]|name|1
+muziek_duo/[2,3]|noun|hd/det|het/[0,1]|det|1
+muziek_duo/[2,3]|noun|hd/mod|Amerikaans/[1,2]|adj|1
+muziek_duo/[2,3]|noun|hd/mod|besta/[4,5]|adj|1
+top/top|top|top/hd|klink/[10,11]|verb|1
+uit/[5,6]|prep|hd/obj1|lid/[6,7]|noun|1
+als/[1,2]|comp|cmp/body|en/[5,6]|vg|1
+commercieel/[14,15]|adj|hd/mod|plat/[13,14]|adj|1
+en/[5,6]|vg|crd/cnj|Im Sexy And I Know It/[6,12]|name|1
+en/[5,6]|vg|crd/cnj|Party Rock Anthem/[2,5]|name|1
+en/[15,16]|vg|crd/cnj|commercieel/[14,15]|adj|1
+en/[15,16]|vg|crd/cnj|ondoordacht/[16,17]|adj|1
+klink/[12,13]|verb|-- / --|./[17,18]|punct|1
+klink/[12,13]|verb|hd/predc|en/[15,16]|vg|1
+klink/[12,13]|verb|hd/su|nummer/[0,1]|noun|1
+nummer/[0,1]|noun|hd/mod|als/[1,2]|comp|1
+top/top|top|top/hd|klink/[12,13]|verb|1
+bewijs/[5,6]|verb|hd/mod|door/[6,7]|prep|1
+bewijs/[5,6]|verb|hd/mod|eens/[4,5]|adv|1
+bewijs/[5,6]|verb|hd/mod|maar/[3,4]|adv|1
+bewijs/[5,6]|verb|hd/mod|nog/[2,3]|adv|1
+bewijs/[5,6]|verb|hd/obj1|dit/[0,1]|det|1
+door/[6,7]|prep|hd/obj1|outfit/[9,10]|noun|1
+outfit/[9,10]|noun|hd/det|de/[7,8]|det|1
+outfit/[9,10]|noun|hd/mod|bijpassend/[8,9]|adj|1
+top/top|top|top/hd|word/[1,2]|verb|1
+word/[1,2]|verb|-- / --|./[10,11]|punct|1
+word/[1,2]|verb|hd/su|dit/[0,1]|det|1
+word/[1,2]|verb|hd/vc|bewijs/[5,6]|verb|1
+handel/[5,6]|noun|hd/det|de/[4,5]|det|1
+muziek/[7,8]|noun|hd/det|die/[6,7]|det|1
+snel/[1,2]|adj|-- / --|!/[8,9]|punct|1
+snel/[1,2]|adj|dp/dp|uit/[3,4]|prep|1
+snel/[1,2]|adj|hd/mod|zo/[0,1]|adv|1
+top/top|top|top/hd|snel/[1,2]|adj|1
+uit/[3,4]|prep|dp/dp|muziek/[7,8]|noun|1
+uit/[3,4]|prep|hd/obj1|handel/[5,6]|noun|1
+zo/[0,1]|adv|hd/obcomp|mogelijk/[2,3]|adj|1

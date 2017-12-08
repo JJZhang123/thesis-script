@@ -1,0 +1,208 @@
+cowboy/[19,20]|noun|hd/det|een/[17,18]|det|1
+cowboy/[19,20]|noun|hd/mod|klein/[18,19]|adj|1
+dat/[15,16]|comp|cmp/body|schuil/[24,25]|verb|1
+in/[20,21]|prep|hd/obj1|ieder/[21,22]|pron|1
+kas_kraker/[3,4]|noun|hd/app|Django Unchained,/[4,6]|name|1
+kas_kraker/[3,4]|noun|hd/det|de/[1,2]|det|1
+kas_kraker/[3,4]|noun|hd/mod|absoluut/[2,3]|adj|1
+maak_wijs/[14,15]|verb|hd/obj2|het/[13,14]|noun|1
+maak_wijs/[14,15]|verb|hd/vc|dat/[15,16]|comp|1
+na/[0,1]|prep|-- / --|./[25,26]|punct|1
+na/[0,1]|prep|-- / --|aan/[12,13]|fixed|1
+na/[0,1]|prep|-- / --|ben/[6,7]|verb|1
+na/[0,1]|prep|dp/dp|maak_wijs/[14,15]|verb|1
+na/[0,1]|prep|dp/dp|tijd_DIM/[11,12]|noun|1
+na/[0,1]|prep|dp/dp|wel/[7,8]|adj|1
+na/[0,1]|prep|hd/obj1|kas_kraker/[3,4]|noun|1
+schuil/[24,25]|verb|hd/mod|er/[16,17]|adv|1
+schuil/[24,25]|verb|hd/mod|in/[20,21]|prep|1
+schuil/[24,25]|verb|hd/mod|van/[22,23]|prep|1
+schuil/[24,25]|verb|hd/su|cowboy/[19,20]|noun|1
+tijd_DIM/[11,12]|noun|hd/det|een/[10,11]|det|1
+tijd_DIM/[11,12]|noun|hd/mod|al/[9,10]|adv|1
+top/top|top|top/hd|na/[0,1]|prep|1
+van/[22,23]|prep|hd/obj1|ons/[23,24]|pron|1
+wel/[7,8]|adj|dp/dp|onszelf/[8,9]|pron|1
+Billy the Kid/[15,18]|name|hd/det|een/[13,14]|det|1
+Billy the Kid/[15,18]|name|hd/mod|heus/[14,15]|adj|1
+ben/[5,6]|verb|hd/ld|in/[9,10]|prep|1
+ben/[5,6]|verb|hd/su|cowboy_DIM/[8,9]|noun|1
+cowboy_DIM/[8,9]|noun|hd/det|dat/[6,7]|det|1
+cowboy_DIM/[8,9]|noun|hd/mod|klein/[7,8]|adj|1
+na/[0,1]|prep|-- / --|./[19,20]|punct|1
+na/[0,1]|prep|-- / --|elk/[10,11]|det|1
+na/[0,1]|prep|dp/dp|ben/[5,6]|verb|1
+na/[0,1]|prep|dp/dp|word/[18,19]|verb|1
+na/[0,1]|prep|hd/obj1|zie/[2,3]|verb|1
+top/top|top|top/hd|na/[0,1]|prep|1
+van/[3,4]|prep|hd/obj1|PROPNAME,/[4,5]|name|1
+van/[11,12]|prep|hd/obj1|ons/[12,13]|pron|1
+word/[18,19]|verb|hd/mod|van/[11,12]|prep|1
+word/[18,19]|verb|hd/predc|Billy the Kid/[15,18]|name|1
+zie/[2,3]|verb|hd/det|het/[1,2]|det|1
+zie/[2,3]|verb|hd/mod|van/[3,4]|prep|1
+begin/[2,3]|verb|-- / --|./[16,17]|punct|1
+begin/[2,3]|verb|hd/mod|duel/[4,5]|noun|1
+begin/[2,3]|verb|hd/su|film/[1,2]|noun|1
+duel/[4,5]|noun|hd/det|een/[3,4]|det|1
+duel/[4,5]|noun|hd/mod|tussen/[5,6]|prep|1
+en/[9,10]|vg|crd/cnj|hoofd_personage/[7,8]|noun|1
+en/[9,10]|vg|crd/cnj|slechterik/[11,12]|noun|1
+film/[1,2]|noun|hd/det|de/[0,1]|det|1
+hoofd_personage/[7,8]|noun|hd/app|Gerrit/[8,9]|name|1
+hoofd_personage/[7,8]|noun|hd/det|het/[6,7]|det|1
+slechterik/[11,12]|noun|hd/det|de/[10,11]|det|1
+slechterik/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+top/top|top|top/hd|begin/[2,3]|verb|1
+tussen/[5,6]|prep|hd/obj1|en/[9,10]|vg|1
+van/[12,13]|prep|hd/obj1|verhaal/[14,15]|noun|1
+verhaal/[14,15]|noun|hd/app|Piedro/[15,16]|name|1
+verhaal/[14,15]|noun|hd/det|het/[13,14]|det|1
+als/[5,6]|comp|cmp/body|dood/[6,7]|noun|1
+en/[4,5]|vg|crd/cnj|geraak/[3,4]|verb|1
+en/[4,5]|vg|crd/cnj|word/[8,9]|verb|1
+geraak/[3,4]|verb|hd/mod|waarbij/[0,1]|pp|1
+geraak/[3,4]|verb|hd/predm|gewond/[2,3]|adj|1
+geraak/[3,4]|verb|hd/su|Gerrit/[1,2]|name|1
+laat_achter/[7,8]|verb|hd/mod|waarbij/[0,1]|pp|1
+laat_achter/[7,8]|verb|hd/obj1|Gerrit/[1,2]|name|1
+top/top|top|top/hd|waarbij/[0,1]|pp|1
+waarbij/[0,1]|pp|-- / --|./[9,10]|punct|1
+waarbij/[0,1]|pp|rhd/body|en/[4,5]|vg|1
+word/[8,9]|verb|hd/predm|als/[5,6]|comp|1
+word/[8,9]|verb|hd/predm|gewond/[2,3]|adj|1
+word/[8,9]|verb|hd/su|Gerrit/[1,2]|name|1
+word/[8,9]|verb|hd/vc|laat_achter/[7,8]|verb|1
+door/[3,4]|prep|hd/obj1|oma_DIM/[5,6]|noun|1
+oma_DIM/[5,6]|noun|hd/det|een/[4,5]|det|1
+top/top|top|top/hd|word/[1,2]|verb|1
+verzorg/[8,9]|verb|hd/obj1|hem/[7,8]|pron|1
+vind/[2,3]|verb|hd/mod|door/[3,4]|prep|1
+vind/[2,3]|verb|hd/obj1|hij/[0,1]|pron|1
+word/[1,2]|verb|-- / --|./[11,12]|punct|1
+word/[1,2]|verb|-- / --|dat/[6,7]|pron|1
+word/[1,2]|verb|-- / --|en/[9,10]|vg|1
+word/[1,2]|verb|-- / --|lap_op/[10,11]|verb|1
+word/[1,2]|verb|dp/dp|verzorg/[8,9]|verb|1
+word/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+word/[1,2]|verb|hd/vc|vind/[2,3]|verb|1
+hij/[7,8]|pron|hd/mod|naar/[8,9]|prep|1
+naar/[8,9]|prep|hd/obj1|wraak/[9,10]|noun|1
+op/[3,4]|prep|hd/obj1|been is,/[4,6]|name|1
+top/top|top|top/hd|wanneer/[0,1]|comp|1
+wanneer/[0,1]|comp|-- / --|./[10,11]|punct|1
+wanneer/[0,1]|comp|cmp/body|zin/[6,7]|verb|1
+wanneer/[0,1]|comp|dp/dp|hij/[7,8]|pron|1
+zin/[6,7]|verb|hd/mod|terug/[2,3]|adv|1
+zin/[6,7]|verb|hd/pc|op/[3,4]|prep|1
+zin/[6,7]|verb|hd/su|Gerrit/[1,2]|name|1
+bij/[1,2]|prep|-- / --|./[7,8]|punct|1
+bij/[1,2]|prep|hd/mod|al/[0,1]|adv|1
+bij/[1,2]|prep|hd/obj1|verhaal/[6,7]|noun|1
+top/top|top|top/hd|bij/[1,2]|prep|1
+verhaal/[6,7]|noun|hd/det|een/[3,4]|det|1
+verhaal/[6,7]|noun|hd/mod|al/[2,3]|adv|1
+verhaal/[6,7]|noun|hd/mod|doorsnee/[5,6]|adj|1
+verhaal/[6,7]|noun|hd/mod|redelijk/[4,5]|adj|1
+ben/[6,7]|verb|-- / --|./[10,11]|punct|1
+ben/[6,7]|verb|hd/predc|op zijn goed/[7,10]|adj|1
+ben/[6,7]|verb|hd/su|casting/[1,2]|noun|1
+casting/[1,2]|noun|hd/det|de/[0,1]|det|1
+casting/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+top/top|top|top/hd|ben/[6,7]|verb|1
+van/[2,3]|prep|hd/obj1|western/[5,6]|noun|1
+western/[5,6]|noun|hd/det|deze/[3,4]|det|1
+western/[5,6]|noun|hd/mod|nieuw/[4,5]|adj|1
+acteur/[1,2]|noun|hd/app|Mace Kenobi,/[2,4]|name|1
+acteur/[1,2]|noun|hd/det|de/[0,1]|det|1
+acteur/[1,2]|noun|hd/mod|die/[4,5]|pron|1
+ben/[7,8]|verb|hd/predc|Gerrit vertolkt,/[5,7]|name|1
+ben/[7,8]|verb|hd/su|die/[4,5]|pron|1
+die/[4,5]|pron|rhd/body|ben/[7,8]|verb|1
+maak/[11,12]|verb|-- / --|./[17,18]|punct|1
+maak/[11,12]|verb|hd/mod|als het ware/[8,11]|adv|1
+maak/[11,12]|verb|hd/mod|om/[12,13]|comp|1
+maak/[11,12]|verb|hd/obj1|acteur/[1,2]|noun|1
+om/[12,13]|comp|cmp/body|te/[15,16]|comp|1
+personage/[14,15]|noun|hd/det|dit/[13,14]|det|1
+speel/[16,17]|verb|hd/obj1|personage/[14,15]|noun|1
+te/[15,16]|comp|cmp/body|speel/[16,17]|verb|1
+top/top|top|top/hd|maak/[11,12]|verb|1
+Helen Mirren/[3,5]|name|hd/mod|als/[5,6]|comp|1
+als/[5,6]|comp|cmp/body|oma/[7,8]|noun|1
+en/[8,9]|vg|crd/cnj|Helen Mirren/[3,5]|name|1
+en/[8,9]|vg|crd/cnj|Samuel L/[9,11]|name|1
+naam/[1,2]|noun|-- / --|./[11,12]|punct|1
+naam/[1,2]|noun|hd/mod|groot/[0,1]|adj|1
+naam/[1,2]|noun|hd/mod|zoals/[2,3]|comp|1
+oma/[7,8]|noun|hd/det|de/[6,7]|det|1
+top/top|top|top/hd|naam/[1,2]|noun|1
+zoals/[2,3]|comp|cmp/body|en/[8,9]|vg|1
+Jackson/[0,1]|name|-- / --|./[17,18]|punct|1
+Jackson/[0,1]|name|dp/dp|meerwaarde/[7,8]|noun|1
+Jackson/[0,1]|name|hd/mod|als/[1,2]|comp|1
+aan/[8,9]|prep|hd/obj1|verhaal/[10,11]|noun|1
+als/[1,2]|comp|cmp/body|ben/[4,5]|verb|1
+ben/[4,5]|verb|hd/su|slechterik,/[3,4]|noun|1
+ben/[16,17]|verb|hd/mod|op/[12,13]|prep|1
+ben/[16,17]|verb|hd/predc|magertjes/[15,16]|adj|1
+ben/[16,17]|verb|hd/su|wat/[11,12]|pron|1
+magertjes/[15,16]|adj|hd/mod|redelijk/[14,15]|adj|1
+meerwaarde/[7,8]|noun|hd/det|een/[5,6]|det|1
+meerwaarde/[7,8]|noun|hd/mod|aan/[8,9]|prep|1
+meerwaarde/[7,8]|noun|hd/mod|absoluut/[6,7]|adj|1
+op/[12,13]|prep|hd/obj1|zich/[13,14]|pron|1
+slechterik,/[3,4]|noun|hd/det|de/[2,3]|det|1
+top/top|top|top/hd|Jackson/[0,1]|name|1
+verhaal/[10,11]|noun|hd/det|het/[9,10]|det|1
+verhaal/[10,11]|noun|hd/vc|wat/[11,12]|pron|1
+wat/[11,12]|pron|whd/body|ben/[16,17]|verb|1
+heb/[2,3]|verb|-- / --|./[6,7]|punct|1
+heb/[2,3]|verb|dp/dp|verbaas/[5,6]|verb|1
+heb/[2,3]|verb|hd/obj1|ons/[3,4]|pron|1
+heb/[2,3]|verb|hd/su|soundtrack/[1,2]|noun|1
+ons/[3,4]|pron|hd/mod|allen/[4,5]|adv|1
+soundtrack/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|heb/[2,3]|verb|1
+combinatie/[1,2]|noun|hd/det|de/[0,1]|det|1
+combinatie/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+ga_samen/[10,11]|verb|-- / --|./[14,15]|punct|1
+ga_samen/[10,11]|verb|hd/mod|goed/[12,13]|adj|1
+ga_samen/[10,11]|verb|hd/su|combinatie/[1,2]|noun|1
+ga_samen/[10,11]|verb|hd/svp|samen/[13,14]|part|1
+goed/[12,13]|adj|hd/mod|verbazingwekkend/[11,12]|adj|1
+met/[5,6]|prep|hd/obj1|western_setting/[8,10]|noun|1
+muziek/[4,5]|noun|hd/mod|hedendaags/[3,4]|adj|1
+muziek/[4,5]|noun|hd/mod|met/[5,6]|prep|1
+top/top|top|top/hd|ga_samen/[10,11]|verb|1
+van/[2,3]|prep|hd/obj1|muziek/[4,5]|noun|1
+western_setting/[8,10]|noun|hd/det|een/[6,7]|det|1
+western_setting/[8,10]|noun|hd/mod|typisch/[7,8]|adj|1
+ben/[1,2]|verb|-- / --|./[5,6]|punct|1
+ben/[1,2]|verb|hd/mod|zelfs/[2,3]|adv|1
+ben/[1,2]|verb|hd/predc|meerwaarde/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+meerwaarde/[4,5]|noun|hd/det|een/[3,4]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+ben/[1,2]|verb|-- / --|./[19,20]|punct|1
+ben/[1,2]|verb|hd/predc|western/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+cast/[14,15]|noun|hd/det|een/[12,13]|det|1
+cast/[14,15]|noun|hd/mod|ijzersterk/[13,14]|adj|1
+die/[5,6]|pron|rhd/body|kan/[9,10]|verb|1
+door/[11,12]|prep|hd/obj1|en/[15,16]|vg|1
+en/[15,16]|vg|crd/cnj|cast/[14,15]|noun|1
+en/[15,16]|vg|crd/cnj|soundtrack/[18,19]|noun|1
+kan/[9,10]|verb|hd/su|die/[5,6]|pron|1
+kan/[9,10]|verb|hd/vc|werk_weg/[10,11]|verb|1
+soundtrack/[18,19]|noun|hd/det|een/[16,17]|det|1
+soundtrack/[18,19]|noun|hd/mod|goed/[17,18]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+verhaal_lijn/[8,9]|noun|hd/det|de/[6,7]|det|1
+verhaal_lijn/[8,9]|noun|hd/mod|zwak/[7,8]|adj|1
+werk_weg/[10,11]|verb|hd/mod|door/[11,12]|prep|1
+werk_weg/[10,11]|verb|hd/obj1|verhaal_lijn/[8,9]|noun|1
+werk_weg/[10,11]|verb|hd/su|die/[5,6]|pron|1
+western/[4,5]|noun|hd/det|een/[2,3]|det|1
+western/[4,5]|noun|hd/mod|die/[5,6]|pron|1
+western/[4,5]|noun|hd/mod|heus/[3,4]|adj|1

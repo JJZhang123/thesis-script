@@ -1,0 +1,136 @@
+Pizza Restaurant PROPNAME,/[16,19]|name|hd/det|een/[11,12]|det|1
+Pizza Restaurant PROPNAME,/[16,19]|name|hd/mod|intiem/[15,16]|adj|1
+Pizza Restaurant PROPNAME,/[16,19]|name|hd/mod|waar/[19,20]|adv|1
+ben/[24,25]|verb|hd/su|ik/[20,21]|pron|1
+ben/[24,25]|verb|hd/vc|ga/[25,26]|verb|1
+centrum/[4,5]|noun|hd/det|het/[2,3]|det|1
+centrum/[4,5]|noun|hd/mod|historisch/[3,4]|adj|1
+centrum/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+dwaal_rond/[0,1]|adj|hd/mod|in/[1,2]|prep|1
+eet/[26,27]|verb|hd/mod|meteen/[22,23]|adv|1
+eet/[26,27]|verb|hd/mod|ook/[21,22]|adv|1
+eet/[26,27]|verb|hd/mod|waar/[19,20]|adv|1
+eet/[26,27]|verb|hd/obj1|iets/[23,24]|noun|1
+eet/[26,27]|verb|hd/su|ik/[20,21]|pron|1
+en/[13,14]|vg|crd/cnj|erg/[14,15]|adj|1
+en/[13,14]|vg|crd/cnj|klein/[12,13]|adj|1
+ga/[25,26]|verb|hd/su|ik/[20,21]|pron|1
+ga/[25,26]|verb|hd/vc|eet/[26,27]|verb|1
+in/[1,2]|prep|hd/obj1|centrum/[4,5]|noun|1
+intiem/[15,16]|adj|hd/mod|en/[13,14]|vg|1
+op/[10,11]|prep|hd/obj1|Pizza Restaurant PROPNAME,/[16,19]|name|1
+stuit/[7,8]|verb|-- / --|./[27,28]|punct|1
+stuit/[7,8]|verb|hd/mod|toevallig/[9,10]|adj|1
+stuit/[7,8]|verb|hd/pc|op/[10,11]|prep|1
+stuit/[7,8]|verb|hd/predm|dwaal_rond/[0,1]|adj|1
+stuit/[7,8]|verb|hd/su|ik/[8,9]|pron|1
+top/top|top|top/hd|stuit/[7,8]|verb|1
+van/[5,6]|prep|hd/obj1|Antwerpen/[6,7]|name|1
+waar/[19,20]|adv|rhd/body|ben/[24,25]|verb|1
+ben/[16,17]|verb|hd/mod|daarbij/[17,18]|pp|1
+ben/[16,17]|verb|hd/mod|eens/[19,20]|adv|1
+ben/[16,17]|verb|hd/mod|nog/[18,19]|adv|1
+ben/[16,17]|verb|hd/predc|lekker/[21,22]|adj|1
+ben/[16,17]|verb|hd/su|want/[5,6]|vg|1
+blijk/[9,10]|verb|hd/predc|prijs/[14,15]|noun|1
+blijk/[9,10]|verb|hd/predm|van/[10,11]|prep|1
+blijk/[9,10]|verb|hd/su|want/[5,6]|vg|1
+en/[15,16]|vg|crd/cnj|ben/[16,17]|verb|1
+en/[15,16]|vg|crd/cnj|blijk/[9,10]|verb|1
+ingeving/[2,3]|noun|-- / --|./[22,23]|punct|1
+ingeving/[2,3]|noun|dp/dp|en/[15,16]|vg|1
+ingeving/[2,3]|noun|dp/dp|zo/[3,4]|adv|1
+ingeving/[2,3]|noun|hd/det|een/[0,1]|det|1
+ingeving/[2,3]|noun|hd/mod|uitstekend/[1,2]|adj|1
+kwaliteit/[12,13]|noun|hd/mod|prima/[11,12]|adj|1
+lekker/[21,22]|adj|hd/mod|buitengewoon/[20,21]|adj|1
+maaltijd/[8,9]|noun|hd/det|de/[6,7]|det|1
+maaltijd/[8,9]|noun|hd/mod|voorgeschoteld/[7,8]|adj|1
+prijs/[14,15]|noun|hd/mod|schappelijk/[13,14]|adj|1
+top/top|top|top/hd|ingeving/[2,3]|noun|1
+van/[10,11]|prep|hd/obj1|kwaliteit/[12,13]|noun|1
+want/[5,6]|vg|crd/cnj|bleek/[4,5]|noun|1
+want/[5,6]|vg|crd/cnj|maaltijd/[8,9]|noun|1
+gedacht/[3,4]|noun|hd/det|dat/[2,3]|det|1
+hart_DIM/[10,11]|noun|hd/app|Antwerpen/[11,12]|name|1
+heb/[1,2]|verb|hd/obj1|gedacht/[3,4]|noun|1
+heb/[1,2]|verb|hd/su|wie/[0,1]|pron|1
+hier/[8,9]|adv|hd/mod|in/[9,10]|prep|1
+in/[9,10]|prep|hd/obj1|hart_DIM/[10,11]|noun|1
+pizzabakker,/[7,8]|noun|hd/det|een/[4,5]|det|1
+pizzabakker,/[7,8]|noun|hd/mod|Italiaans/[6,7]|adj|1
+pizzabakker,/[7,8]|noun|hd/mod|autentiek/[5,6]|adj|1
+pizzabakker,/[7,8]|noun|hd/mod|hier/[8,9]|adv|1
+top/top|top|top/hd|wie/[0,1]|pron|1
+wie/[0,1]|pron|-- / --|!/[12,13]|punct|1
+wie/[0,1]|pron|dp/dp|pizzabakker,/[7,8]|noun|1
+wie/[0,1]|pron|whd/body|heb/[1,2]|verb|1
+aan/[13,14]|prep|hd/obj1|keuze_mogelijkheid/[14,15]|noun|1
+als/[15,16]|comp|cmp/body|kom_aan/[20,21]|verb|1
+ben/[21,22]|verb|-- / --|./[27,28]|punct|1
+ben/[21,22]|verb|hd/mod|hier/[22,23]|adv|1
+ben/[21,22]|verb|hd/mod|zeker/[23,24]|adj|1
+ben/[21,22]|verb|hd/predc|op/[24,25]|prep|1
+ben/[21,22]|verb|hd/su|wie/[0,1]|pron|1
+en/[4,5]|vg|crd/cnj|dun/[5,6]|adj|1
+en/[4,5]|vg|crd/cnj|knapperig/[3,4]|adj|1
+en/[9,10]|vg|crd/cnj|tomaat_saus/[8,9]|noun|1
+en/[9,10]|vg|crd/cnj|waaier/[12,13]|noun|1
+houd/[1,2]|verb|hd/mod|als/[15,16]|comp|1
+houd/[1,2]|verb|hd/mod|van/[2,3]|prep|1
+houd/[1,2]|verb|hd/su|wie/[0,1]|pron|1
+ingrediënt/[19,20]|noun|hd/mod|extra/[18,19]|adj|1
+kom_aan/[20,21]|verb|hd/pc|op/[17,18]|prep|1
+kom_aan/[20,21]|verb|hd/su|het/[16,17]|det|1
+op/[17,18]|prep|hd/obj1|ingrediënt/[19,20]|noun|1
+op/[24,25]|prep|hd/obj1|plaats/[26,27]|noun|1
+plaats/[26,27]|noun|hd/det|zijn/[25,26]|det|1
+tomaat_saus/[8,9]|noun|hd/mod|en/[4,5]|vg|1
+tomaat_saus/[8,9]|noun|hd/mod|pizzabodems, versbereide/[6,8]|name|1
+top/top|top|top/hd|ben/[21,22]|verb|1
+van/[2,3]|prep|hd/obj1|en/[9,10]|vg|1
+waaier/[12,13]|noun|hd/det|een/[10,11]|det|1
+waaier/[12,13]|noun|hd/mod|aan/[13,14]|prep|1
+waaier/[12,13]|noun|hd/mod|breed/[11,12]|adj|1
+wie/[0,1]|pron|rhd/body|houd/[1,2]|verb|1
+Toscaans/[12,13]|name|hd/det|zijn/[11,12]|det|1
+ben/[1,2]|verb|-- / --|./[13,14]|punct|1
+ben/[1,2]|verb|hd/mod|daarnaast/[0,1]|pp|1
+ben/[1,2]|verb|hd/mod|helemaal/[9,10]|adv|1
+ben/[1,2]|verb|hd/mod|nog eens/[4,6]|adv|1
+ben/[1,2]|verb|hd/mod|ook/[3,4]|adv|1
+ben/[1,2]|verb|hd/mod|op/[10,11]|prep|1
+ben/[1,2]|verb|hd/predc|ingericht/[8,9]|adj|1
+ben/[1,2]|verb|hd/su|het/[2,3]|det|1
+gezellig/[7,8]|adj|hd/mod|erg/[6,7]|adj|1
+ingericht/[8,9]|adj|hd/mod|gezellig/[7,8]|adj|1
+op/[10,11]|prep|hd/obj1|Toscaans/[12,13]|name|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+Italiaans/[14,15]|noun|hd/det|het/[13,14]|det|1
+benadruk/[7,8]|verb|hd/mod|eens/[5,6]|adv|1
+benadruk/[7,8]|verb|hd/mod|extra/[6,7]|adj|1
+benadruk/[7,8]|verb|hd/mod|nog/[4,5]|adv|1
+benadruk/[7,8]|verb|hd/mod|wanneer/[8,9]|comp|1
+benadruk/[7,8]|verb|hd/obj1|charme/[2,3]|noun|1
+charme/[2,3]|noun|hd/det|deze/[0,1]|det|1
+charme/[2,3]|noun|hd/mod|Italiaans/[1,2]|adj|1
+in/[12,13]|prep|hd/obj1|Italiaans/[14,15]|noun|1
+kelner/[10,11]|noun|hd/det|de/[9,10]|det|1
+spreek_aan/[15,16]|verb|hd/mod|in/[12,13]|prep|1
+spreek_aan/[15,16]|verb|hd/obj1|je/[11,12]|pron|1
+spreek_aan/[15,16]|verb|hd/su|kelner/[10,11]|noun|1
+top/top|top|top/hd|word/[3,4]|verb|1
+wanneer/[8,9]|comp|cmp/body|spreek_aan/[15,16]|verb|1
+word/[3,4]|verb|-- / --|./[16,17]|punct|1
+word/[3,4]|verb|hd/su|charme/[2,3]|noun|1
+word/[3,4]|verb|hd/vc|benadruk/[7,8]|verb|1
+Italië_liefhebber/[7,8]|noun|hd/det|alle/[4,5]|det|1
+aanrader/[2,3]|noun|-- / --|!/[8,9]|punct|1
+aanrader/[2,3]|noun|hd/det|een/[1,2]|det|1
+aanrader/[2,3]|noun|hd/mod|voor/[3,4]|prep|1
+aanrader/[2,3]|noun|hd/mod|zeker/[0,1]|adv|1
+en/[6,7]|vg|crd/cnj|Italië_liefhebber/[7,8]|noun|1
+en/[6,7]|vg|crd/cnj|pizza/[5,6]|prefix|1
+pizza/[5,6]|prefix|hd/det|alle/[4,5]|det|1
+top/top|top|top/hd|aanrader/[2,3]|noun|1
+voor/[3,4]|prep|hd/obj1|en/[6,7]|vg|1

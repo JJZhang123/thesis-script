@@ -1,0 +1,205 @@
+geniet/[10,11]|verb|hd/mod|zeker/[9,10]|adj|1
+geniet/[10,11]|verb|hd/pc|van/[11,12]|prep|1
+geniet/[10,11]|verb|hd/su|wie/[0,1]|pron|1
+gouwe ouwe/[2,4]|noun|hd/app|Western/[4,5]|name|1
+gouwe ouwe/[2,4]|noun|hd/det|een/[1,2]|det|1
+kan/[6,7]|verb|hd/su|wie/[0,1]|pron|1
+kan/[6,7]|verb|hd/vc|smaak/[7,8]|verb|1
+smaak/[7,8]|verb|hd/mod|wel/[5,6]|adj|1
+smaak/[7,8]|verb|hd/obj1|gouwe ouwe/[2,4]|noun|1
+smaak/[7,8]|verb|hd/su|wie/[0,1]|pron|1
+top/top|top|top/hd|zal/[8,9]|verb|1
+van/[11,12]|prep|hd/obj1|propname/[12,13]|noun|1
+wie/[0,1]|pron|rhd/body|kan/[6,7]|verb|1
+zal/[8,9]|verb|-- / --|./[13,14]|punct|1
+zal/[8,9]|verb|hd/su|wie/[0,1]|pron|1
+zal/[8,9]|verb|hd/vc|geniet/[10,11]|verb|1
+aan/[11,12]|prep|hd/obj1|klassieker/[13,14]|noun|1
+breng/[5,6]|verb|-- / --|./[17,18]|punct|1
+breng/[5,6]|verb|hd/mod|in/[0,1]|prep|1
+breng/[5,6]|verb|hd/obj1|hommage/[10,11]|noun|1
+breng/[5,6]|verb|hd/obj2|aan/[11,12]|prep|1
+breng/[5,6]|verb|hd/su|Jack Ferguson/[6,8]|name|1
+film/[4,5]|noun|hd/det|zijn/[1,2]|det|1
+film/[4,5]|noun|hd/mod|laat/[2,3]|adj|1
+film/[4,5]|noun|hd/mod|nieuw/[3,4]|adj|1
+hommage/[10,11]|noun|hd/det|een/[8,9]|det|1
+hommage/[10,11]|noun|hd/mod|geslaagd/[9,10]|adj|1
+in/[0,1]|prep|hd/obj1|film/[4,5]|noun|1
+klassieker/[13,14]|noun|hd/det|de/[12,13]|det|1
+klassieker/[13,14]|noun|hd/mod|van/[14,15]|prep|1
+top/top|top|top/hd|breng/[5,6]|verb|1
+van/[14,15]|prep|hd/obj1|John Ford/[15,17]|name|1
+cliché/[12,13]|noun|hd/det|alle/[11,12]|det|1
+dat/[7,8]|comp|cmp/body|maar/[17,18]|vg|1
+erin/[6,7]|pp|hd/vc|dat/[7,8]|comp|1
+film/[4,5]|noun|hd/det|de/[3,4]|det|1
+gooi/[16,17]|verb|hd/ld|op/[13,14]|prep|1
+gooi/[16,17]|verb|hd/mod|niet/[9,10]|adv|1
+gooi/[16,17]|verb|hd/mod|zomaar/[10,11]|adv|1
+gooi/[16,17]|verb|hd/obj1|cliché/[12,13]|noun|1
+gooi/[16,17]|verb|hd/su|hij/[8,9]|pron|1
+hoop_DIM/[15,16]|noun|hd/det|een/[14,15]|det|1
+lig/[5,6]|verb|-- / --|./[23,24]|punct|1
+lig/[5,6]|verb|hd/pc|erin/[6,7]|pp|1
+lig/[5,6]|verb|hd/su|subtiliteit/[1,2]|noun|1
+maar/[17,18]|vg|crd/cnj|gooi/[16,17]|verb|1
+maar/[17,18]|vg|crd/cnj|verwijs/[22,23]|verb|1
+naar/[21,22]|prep|hd/obj1|er/[18,19]|adv|1
+op/[13,14]|prep|hd/obj1|hoop_DIM/[15,16]|noun|1
+subtiliteit/[1,2]|noun|hd/det|de/[0,1]|det|1
+subtiliteit/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+top/top|top|top/hd|lig/[5,6]|verb|1
+van/[2,3]|prep|hd/obj1|film/[4,5]|noun|1
+verwijs/[22,23]|verb|hd/mod|eerder/[19,20]|adj|1
+verwijs/[22,23]|verb|hd/mod|speels/[20,21]|adj|1
+verwijs/[22,23]|verb|hd/pc|naar/[21,22]|prep|1
+verwijs/[22,23]|verb|hd/su|hij/[8,9]|pron|1
+en/[7,8]|vg|crd/cnj|The Frontier/[10,12]|name|1
+en/[7,8]|vg|crd/cnj|beschaving/[6,7]|noun|1
+en/[7,8]|vg|crd/cnj|wildernis/[8,9]|noun|1
+en/[7,8]|vg|crd/crd|oftewel/[9,10]|vg|1
+en/[28,29]|vg|crd/cnj|industrie/[27,28]|noun|1
+en/[28,29]|vg|crd/cnj|platteland/[29,30]|noun|1
+in/[23,24]|prep|hd/obj1|spanning/[25,26]|noun|1
+kom_terug/[22,23]|verb|hd/pc|op/[18,19]|prep|1
+kom_terug/[22,23]|verb|hd/su|spanning_verhouding/[4,5]|noun|1
+manier/[21,22]|noun|hd/det|een/[19,20]|det|1
+manier/[21,22]|noun|hd/mod|hedendaags/[20,21]|adj|1
+naar/[16,17]|prep|hd/obj1|er/[14,15]|adv|1
+op/[18,19]|prep|hd/obj1|manier/[21,22]|noun|1
+spanning/[25,26]|noun|hd/det|de/[24,25]|det|1
+spanning/[25,26]|noun|hd/mod|tussen/[26,27]|prep|1
+spanning_verhouding/[4,5]|noun|hd/det|de/[3,4]|det|1
+top/top|top|top/hd|zie/[1,2]|verb|1
+tussen/[5,6]|prep|hd/obj1|en/[7,8]|vg|1
+tussen/[26,27]|prep|hd/obj1|en/[28,29]|vg|1
+verwijs/[17,18]|verb|hd/mod|graag/[15,16]|adj|1
+verwijs/[17,18]|verb|hd/obj1|Amerikaan/[13,14]|noun|1
+verwijs/[17,18]|verb|hd/pc|naar/[16,17]|prep|1
+zie/[1,2]|verb|-- / --|./[30,31]|punct|1
+zie/[1,2]|verb|hd/mod|in/[23,24]|prep|1
+zie/[1,2]|verb|hd/mod|tussen/[5,6]|prep|1
+zie/[1,2]|verb|hd/mod|zo/[0,1]|adv|1
+zie/[1,2]|verb|hd/mod|zoals/[12,13]|comp|1
+zie/[1,2]|verb|hd/obj1|spanning_verhouding/[4,5]|noun|1
+zie/[1,2]|verb|hd/su|we/[2,3]|pron|1
+zie/[1,2]|verb|hd/vc|kom_terug/[22,23]|verb|1
+zoals/[12,13]|comp|cmp/body|verwijs/[17,18]|verb|1
+Alison Eastwood/[75,77]|name|hd/det|zijn/[73,74]|det|1
+Alison Eastwood/[75,77]|name|hd/mod|daarmee/[71,72]|pp|1
+Alison Eastwood/[75,77]|name|hd/mod|geliefd/[74,75]|adj|1
+Alison Eastwood/[75,77]|name|hd/mod|ook/[72,73]|adv|1
+aan/[29,30]|prep|hd/obj1|tijd/[31,32]|noun|1
+aan/[46,47]|prep|hd/obj1|begin/[48,49]|noun|1
+achter/[77,78]|prep|hd/se|zich/[78,79]|pron|1
+begin/[48,49]|noun|hd/det|het/[47,48]|det|1
+blik/[36,37]|noun|hd/det|een/[35,36]|det|1
+cowboy/[54,55]|noun|hd/app|Hank/[55,56]|name|1
+creëer/[20,21]|verb|-- / --|./[80,81]|punct|1
+creëer/[20,21]|verb|dp/dp|voel/[50,51]|verb|1
+creëer/[20,21]|verb|dp/dp|zal/[58,59]|verb|1
+creëer/[20,21]|verb|hd/mod|door/[0,1]|comp|1
+creëer/[20,21]|verb|hd/obj1|icoon/[25,26]|noun|1
+creëer/[20,21]|verb|hd/su|Ferguson/[21,22]|name|1
+die/[26,27]|pron|rhd/body|maar/[32,33]|vg|1
+door/[0,1]|comp|cmp/body|te/[13,14]|comp|1
+door/[5,6]|prep|hd/obj1|Jeffrey Fray/[6,8]|name|1
+einde/[67,68]|noun|hd/det|het/[66,67]|det|1
+en/[70,71]|vg|crd/cnj|Alison Eastwood/[75,77]|name|1
+en/[70,71]|vg|crd/cnj|stad/[69,70]|noun|1
+gespeeld/[4,5]|adj|hd/mod|door/[5,6]|prep|1
+held/[3,4]|noun|hd/det|zijn/[2,3]|det|1
+held/[3,4]|noun|hd/mod|gespeeld/[4,5]|adj|1
+herinner/[28,29]|verb|hd/obj1|ons/[27,28]|pron|1
+herinner/[28,29]|verb|hd/pc|aan/[29,30]|prep|1
+herinner/[28,29]|verb|hd/su|die/[26,27]|pron|1
+icoon/[25,26]|noun|hd/det|soort/[23,24]|noun|1
+icoon/[25,26]|noun|hd/mod|die/[26,27]|pron|1
+icoon/[25,26]|noun|hd/mod|vervreemd/[24,25]|adj|1
+in/[16,17]|prep|hd/obj1|samenleving/[19,20]|noun|1
+in/[37,38]|prep|hd/obj1|toekomst/[39,40]|noun|1
+laat/[14,15]|verb|hd/mod|echter/[1,2]|adv|1
+laat/[14,15]|verb|hd/mod|nog/[9,10]|adv|1
+laat/[14,15]|verb|hd/mod|op/[10,11]|prep|1
+laat/[14,15]|verb|hd/mod|toch/[8,9]|adv|1
+laat/[14,15]|verb|hd/obj1|held/[3,4]|noun|1
+laat/[14,15]|verb|hd/vc|rijd_rond/[15,16]|verb|1
+laat/[40,41]|verb|hd/mod|ook/[34,35]|adv|1
+laat/[40,41]|verb|hd/mod|tegelijkertijd/[33,34]|adj|1
+laat/[40,41]|verb|hd/su|die/[26,27]|pron|1
+laat/[40,41]|verb|hd/vc|werp/[41,42]|verb|1
+laat/[79,80]|verb|hd/mod|op/[65,66]|prep|1
+laat/[79,80]|verb|hd/obj1|en/[70,71]|vg|1
+laat/[79,80]|verb|hd/pc|achter/[77,78]|prep|1
+laat/[79,80]|verb|hd/su|hij/[64,65]|pron|1
+maar/[32,33]|vg|crd/cnj|herinner/[28,29]|verb|1
+maar/[32,33]|vg|crd/cnj|laat/[40,41]|verb|1
+met/[60,61]|prep|hd/obj1|hem/[61,62]|pron|1
+op/[10,11]|prep|hd/obj1|paard/[12,13]|noun|1
+op/[65,66]|prep|hd/obj1|einde/[67,68]|noun|1
+paard/[12,13]|noun|hd/det|een/[11,12]|det|1
+rijd_rond/[15,16]|verb|hd/ld|in/[16,17]|prep|1
+rijd_rond/[15,16]|verb|hd/su|held/[3,4]|noun|1
+samenleving/[19,20]|noun|hd/det|een/[17,18]|det|1
+samenleving/[19,20]|noun|hd/mod|modern/[18,19]|adj|1
+school/[53,54]|noun|hd/mod|old/[52,53]|name|1
+soort/[23,24]|noun|hd/det|een/[22,23]|det|1
+stad/[69,70]|noun|hd/det|de/[68,69]|det|1
+te/[13,14]|comp|cmp/body|laat/[14,15]|verb|1
+tijd/[31,32]|noun|hd/mod|vervlogen/[30,31]|adj|1
+toekomst/[39,40]|noun|hd/det|de/[38,39]|det|1
+top/top|top|top/hd|creëer/[20,21]|verb|1
+van/[51,52]|prep|hd/obj1|school/[53,54]|noun|1
+verwijder/[49,50]|verb|hd/ld|aan/[46,47]|prep|1
+verwijder/[49,50]|verb|hd/se|je/[45,46]|pron|1
+verwijder/[49,50]|verb|hd/su|je/[44,45]|pron|1
+voel/[50,51]|verb|hd/mod|van/[51,52]|prep|1
+voel/[50,51]|verb|hd/mod|zo/[56,57]|adv|1
+voel/[50,51]|verb|hd/mod|zover/[42,44]|comp|1
+voel/[50,51]|verb|hd/su|cowboy/[54,55]|noun|1
+voel_mee/[62,63]|verb|hd/mod|wanneer/[63,64]|comp|1
+voel_mee/[62,63]|verb|hd/mod|zeer/[57,58]|adv|1
+voel_mee/[62,63]|verb|hd/pc|met/[60,61]|prep|1
+voel_mee/[62,63]|verb|hd/su|je/[59,60]|pron|1
+wanneer/[63,64]|comp|cmp/body|laat/[79,80]|verb|1
+werp/[41,42]|verb|hd/ld|in/[37,38]|prep|1
+werp/[41,42]|verb|hd/obj1|blik/[36,37]|noun|1
+zal/[58,59]|verb|hd/su|je/[59,60]|pron|1
+zal/[58,59]|verb|hd/vc|voel_mee/[62,63]|verb|1
+zover/[42,44]|comp|cmp/body|verwijder/[49,50]|verb|1
+Ferguson_motief/[4,5]|noun|hd/det|twee/[2,3]|num|1
+Ferguson_motief/[4,5]|noun|hd/mod|typisch/[3,4]|adj|1
+als/[10,11]|comp|cmp/body|zaak/[12,13]|noun|1
+en/[7,8]|vg|crd/cnj|identificatie/[6,7]|noun|1
+en/[7,8]|vg|crd/cnj|individu/[9,10]|noun|1
+individu/[9,10]|noun|hd/det|het/[8,9]|det|1
+individu/[9,10]|noun|hd/mod|als/[10,11]|comp|1
+kom_terug/[5,6]|verb|hd/su|Ferguson_motief/[4,5]|noun|1
+top/top|top|top/hd|zie/[1,2]|verb|1
+zaak/[12,13]|noun|hd/mod|verloren/[11,12]|adj|1
+zie/[1,2]|verb|-- / --|./[13,14]|punct|1
+zie/[1,2]|verb|dp/dp|en/[7,8]|vg|1
+zie/[1,2]|verb|hd/obj1|Ferguson_motief/[4,5]|noun|1
+zie/[1,2]|verb|hd/su|we/[0,1]|pron|1
+zie/[1,2]|verb|hd/vc|kom_terug/[5,6]|verb|1
+ben/[8,9]|verb|hd/obj2|lezing/[4,5]|noun|1
+ben/[8,9]|verb|hd/predc|kost/[7,8]|noun|1
+ben/[8,9]|verb|hd/su|wie/[1,2]|pron|1
+bied/[9,10]|verb|-- / --|./[18,19]|punct|1
+bied/[9,10]|verb|hd/mod|ook/[12,13]|adv|1
+bied/[9,10]|verb|hd/mod|voor/[0,1]|prep|1
+bied/[9,10]|verb|hd/obj1|entertainment/[17,18]|noun|1
+bied/[9,10]|verb|hd/su|film/[11,12]|noun|1
+en/[14,15]|vg|crd/cnj|luchtig/[13,14]|adj|1
+en/[14,15]|vg|crd/cnj|makkelijk/[15,16]|adj|1
+entertainment/[17,18]|noun|hd/mod|verteerbaar/[16,17]|adj|1
+film/[11,12]|noun|hd/det|de/[10,11]|det|1
+kost/[7,8]|noun|hd/mod|zwaar/[6,7]|adj|1
+lezing/[4,5]|noun|hd/det|soort/[3,4]|noun|1
+soort/[3,4]|noun|hd/det|dit/[2,3]|det|1
+top/top|top|top/hd|bied/[9,10]|verb|1
+verteerbaar/[16,17]|adj|hd/mod|en/[14,15]|vg|1
+voor/[0,1]|prep|hd/obj1|wie/[1,2]|pron|1
+wie/[1,2]|pron|rhd/body|ben/[8,9]|verb|1
+zwaar/[6,7]|adj|hd/mod|te/[5,6]|adv|1

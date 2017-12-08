@@ -1,0 +1,88 @@
+PROPNAME/[1,2]|name|hd/det|de/[0,1]|det|1
+heb/[2,3]|verb|-- / --|!/[8,9]|punct|1
+heb/[2,3]|verb|hd/su|PROPNAME/[1,2]|name|1
+heb/[2,3]|verb|hd/vc|steel/[7,8]|verb|1
+naam/[5,6]|noun|hd/det|zijn/[4,5]|det|1
+steel/[7,8]|verb|hd/mod|alleszins/[3,4]|adv|1
+steel/[7,8]|verb|hd/mod|niet/[6,7]|adv|1
+steel/[7,8]|verb|hd/obj1|naam/[5,6]|noun|1
+steel/[7,8]|verb|hd/su|PROPNAME/[1,2]|name|1
+top/top|top|top/hd|heb/[2,3]|verb|1
+doe/[10,11]|verb|hd/mod|toch/[11,12]|adv|1
+doe/[10,11]|verb|hd/su|deze/[9,10]|det|1
+doe/[10,11]|verb|hd/vc|verbaas/[13,14]|verb|1
+eerder/[4,5]|adj|hd/mod|al/[3,4]|adv|1
+heb/[2,3]|verb|hd/su|pizza/[0,1]|noun|1
+heb/[2,3]|verb|hd/vc|vind_uit/[7,8]|verb|1
+maar/[8,9]|vg|-- / --|./[14,15]|punct|1
+maar/[8,9]|vg|crd/cnj|doe/[10,11]|verb|1
+maar/[8,9]|vg|crd/cnj|heb/[2,3]|verb|1
+pizza/[0,1]|noun|hd/app|del/[1,2]|name|1
+pizzas/[6,7]|noun|hd/mod|fantastisch/[5,6]|adj|1
+top/top|top|top/hd|maar/[8,9]|vg|1
+verbaas/[13,14]|verb|hd/obj2|iedereen/[12,13]|pron|1
+vind_uit/[7,8]|verb|hd/mod|eerder/[4,5]|adj|1
+vind_uit/[7,8]|verb|hd/obj1|pizzas/[6,7]|noun|1
+vind_uit/[7,8]|verb|hd/su|pizza/[0,1]|noun|1
+basilicum_saus/[12,13]|noun|hd/det|genoeg/[11,12]|det|1
+cheesy crust/[3,5]|name|hd/det|de/[1,2]|det|1
+cheesy crust/[3,5]|name|hd/mod|perfect/[2,3]|adj|1
+en/[5,6]|vg|crd/cnj|cheesy crust/[3,5]|name|1
+en/[5,6]|vg|crd/cnj|top_ping/[7,8]|noun|1
+en/[13,14]|vg|crd/cnj|basilicum_saus/[12,13]|noun|1
+en/[13,14]|vg|crd/cnj|stuk_DIM/[14,15]|noun|1
+er/[9,10]|adv|dp/dp|net/[10,11]|adv|1
+er/[9,10]|adv|hd/mod|waarbij/[8,9]|pp|1
+met/[0,1]|prep|hd/obj1|en/[5,6]|vg|1
+met/[0,1]|prep|hd/predc|en/[13,14]|vg|1
+stuk_DIM/[14,15]|noun|hd/det|genoeg/[11,12]|det|1
+stuk_DIM/[14,15]|noun|hd/mod|hesp_opliggen,/[15,17]|noun|1
+top/top|top|top/hd|waan/[17,18]|verb|1
+top_ping/[7,8]|noun|hd/det|een/[6,7]|det|1
+top_ping/[7,8]|noun|hd/mod|waarbij/[8,9]|pp|1
+waan/[17,18]|verb|-- / --|!/[22,23]|punct|1
+waan/[17,18]|verb|hd/mod|al/[20,21]|adv|1
+waan/[17,18]|verb|hd/mod|met/[0,1]|prep|1
+waan/[17,18]|verb|hd/obj1|je/[19,20]|pron|1
+waan/[17,18]|verb|hd/predc|Italië/[21,22]|name|1
+waan/[17,18]|verb|hd/su|je/[18,19]|pron|1
+waarbij/[8,9]|pp|rhd/body|er/[9,10]|adv|1
+bestel/[26,27]|verb|hd/obj1|pizza/[25,26]|noun|1
+bij/[17,18]|prep|hd/obj1|er/[10,11]|adv|1
+eet/[6,7]|verb|hd/det|het/[5,6]|det|1
+eet/[6,7]|verb|hd/mod|van/[7,8]|prep|1
+en/[0,1]|comp|-- / --|!/[27,28]|punct|1
+en/[0,1]|comp|dlink/nucl|heb/[3,4]|verb|1
+en/[0,1]|comp|dp/dp|bestel/[26,27]|verb|1
+en/[0,1]|comp|dp/dp|wil/[19,20]|verb|1
+heb/[3,4]|verb|hd/mod|even/[13,14]|adj|1
+heb/[3,4]|verb|hd/mod|na/[4,5]|prep|1
+heb/[3,4]|verb|hd/mod|toch/[11,12]|adv|1
+heb/[3,4]|verb|hd/mod|weer/[12,13]|adv|1
+heb/[3,4]|verb|hd/pc|maar/[16,17]|vg|1
+heb/[3,4]|verb|hd/su|mens/[2,3]|noun|1
+heb/[3,4]|verb|hd/svp|genoeg/[14,15]|fixed|1
+maar/[16,17]|vg|crd/cnj|bij/[17,18]|prep|1
+maar/[16,17]|vg|crd/cnj|van/[15,16]|prep|1
+maar/[22,23]|vg|crd/cnj|alleen/[21,22]|adj|1
+maar/[22,23]|vg|crd/cnj|zon/[24,25]|noun|1
+mens/[2,3]|noun|hd/det|veel/[1,2]|adj|1
+na/[4,5]|prep|hd/obj1|eet/[6,7]|verb|1
+pizza/[9,10]|noun|hd/det|een/[8,9]|det|1
+top/top|top|top/hd|en/[0,1]|comp|1
+van/[7,8]|prep|hd/obj1|pizza/[9,10]|noun|1
+van/[15,16]|prep|hd/obj1|er/[10,11]|adv|1
+wil/[19,20]|verb|hd/obj1|deze/[18,19]|det|1
+wil/[19,20]|verb|hd/predc|maar/[22,23]|vg|1
+wil/[19,20]|verb|hd/su|je/[20,21]|pron|1
+zon/[24,25]|noun|hd/mod|nog/[23,24]|adv|1
+aanrader/[2,3]|noun|-- / --|!/[4,5]|punct|1
+aanrader/[2,3]|noun|hd/det|een/[0,1]|det|1
+aanrader/[2,3]|noun|hd/mod|dus/[3,4]|adv|1
+aanrader/[2,3]|noun|hd/mod|echt/[1,2]|adj|1
+top/top|top|top/hd|aanrader/[2,3]|noun|1
+Perfecto/[3,4]|name|hd/mod|effectief/[2,3]|adj|1
+ben/[1,2]|verb|-- / --|!/[4,5]|punct|1
+ben/[1,2]|verb|hd/predc|Perfecto/[3,4]|name|1
+ben/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+top/top|top|top/hd|ben/[1,2]|verb|1

@@ -1,0 +1,53 @@
+avond/[7,8]|noun|hd/det|een/[6,7]|det|1
+avond/[7,8]|noun|hd/mod|onder/[8,9]|prep|1
+ben/[1,2]|verb|-- / --|./[10,11]|punct|1
+ben/[1,2]|verb|hd/predc|film/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+film/[4,5]|noun|hd/det|een/[2,3]|det|1
+film/[4,5]|noun|hd/mod|perfect/[3,4]|adj|1
+film/[4,5]|noun|hd/mod|voor/[5,6]|prep|1
+onder/[8,9]|prep|hd/obj1|vrouw/[9,10]|noun|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+voor/[5,6]|prep|hd/obj1|avond/[7,8]|noun|1
+en/[10,11]|vg|-- / --|./[18,19]|punct|1
+en/[10,11]|vg|crd/cnj|geniet/[11,12]|verb|1
+en/[10,11]|vg|crd/cnj|zet/[0,1]|verb|1
+en/[15,16]|vg|crd/cnj|grappig/[14,15]|adj|1
+en/[15,16]|vg|crd/cnj|romantisch/[16,17]|adj|1
+fles/[8,9]|noun|hd/det|een/[7,8]|det|1
+fles/[8,9]|noun|hd/mod|wijn/[9,10]|noun|1
+geniet/[11,12]|verb|hd/pc|van/[12,13]|prep|1
+in/[3,4]|prep|hd/obj1|zetel/[5,6]|noun|1
+met/[6,7]|prep|hd/obj1|fles/[8,9]|noun|1
+moment/[17,18]|noun|hd/det|de/[13,14]|det|1
+moment/[17,18]|noun|hd/mod|en/[15,16]|vg|1
+top/top|top|top/hd|en/[10,11]|vg|1
+van/[12,13]|prep|hd/obj1|moment/[17,18]|noun|1
+zet/[0,1]|verb|hd/ld|in/[3,4]|prep|1
+zet/[0,1]|verb|hd/mod|lekker/[2,3]|adj|1
+zet/[0,1]|verb|hd/obj1|jullie/[1,2]|pron|1
+zetel/[5,6]|noun|hd/det|de/[4,5]|det|1
+zetel/[5,6]|noun|hd/mod|met/[6,7]|prep|1
+einde/[2,3]|noun|hd/det|het/[0,1]|det|1
+einde/[2,3]|noun|hd/mod|verrassend/[1,2]|adj|1
+hilariteit/[8,9]|noun|hd/det|meer/[7,8]|adj|1
+meer/[7,8]|adj|hd/mod|nog/[6,7]|adv|1
+top/top|top|top/hd|zorg/[3,4]|verb|1
+voor/[5,6]|prep|hd/obj1|hilariteit/[8,9]|noun|1
+zorg/[3,4]|verb|-- / --|!/[9,10]|punct|1
+zorg/[3,4]|verb|hd/mod|zelfs/[4,5]|adv|1
+zorg/[3,4]|verb|hd/pc|voor/[5,6]|prep|1
+zorg/[3,4]|verb|hd/su|einde/[2,3]|noun|1
+avond/[7,8]|noun|hd/det|deze/[6,7]|det|1
+herinner/[10,11]|verb|hd/mod|lang/[9,10]|adj|1
+herinner/[10,11]|verb|hd/mod|nog/[8,9]|adv|1
+herinner/[10,11]|verb|hd/obj1|avond/[7,8]|noun|1
+herinner/[10,11]|verb|hd/se|zich/[5,6]|pron|1
+herinner/[10,11]|verb|hd/su|iedereen/[0,1]|pron|1
+iedereen/[0,1]|pron|hd/mod|van/[1,2]|prep|1
+top/top|top|top/hd|zal/[4,5]|verb|1
+van/[1,2]|prep|hd/obj1|vriendin/[3,4]|noun|1
+vriendin/[3,4]|noun|hd/det|de/[2,3]|det|1
+zal/[4,5]|verb|-- / --|./[11,12]|punct|1
+zal/[4,5]|verb|hd/su|iedereen/[0,1]|pron|1
+zal/[4,5]|verb|hd/vc|herinner/[10,11]|verb|1

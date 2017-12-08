@@ -1,0 +1,104 @@
+ben/[1,2]|verb|-- / --|./[9,10]|punct|1
+ben/[1,2]|verb|hd/predc|komedie/[5,6]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+cinema_zaal/[8,9]|noun|hd/det|de/[7,8]|det|1
+in/[6,7]|prep|hd/obj1|cinema_zaal/[8,9]|noun|1
+komedie/[5,6]|noun|hd/det|de/[2,3]|det|1
+komedie/[5,6]|noun|hd/mod|in/[6,7]|prep|1
+komedie/[5,6]|noun|hd/mod|nieuw/[3,4]|adj|1
+komedie/[5,6]|noun|hd/mod|romantisch/[4,5]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+acteer_prestatie/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[2,3]|verb|-- / --|./[5,6]|punct|1
+ben/[2,3]|verb|hd/mod|ronduit/[3,4]|adv|1
+ben/[2,3]|verb|hd/predc|slaapverwekkend/[4,5]|adj|1
+ben/[2,3]|verb|hd/su|acteer_prestatie/[1,2]|noun|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+ben/[1,2]|verb|-- / --|./[12,13]|punct|1
+ben/[1,2]|verb|-- / --|het/[10,11]|noun|1
+ben/[1,2]|verb|-- / --|of/[9,10]|vg|1
+ben/[1,2]|verb|dp/dp|mannelijk/[11,12]|adj|1
+ben/[1,2]|verb|hd/mod|er/[0,1]|adv|1
+ben/[1,2]|verb|hd/su|chemie/[4,5]|noun|1
+chemie/[4,5]|noun|hd/det|enkel/[3,4]|det|1
+chemie/[4,5]|noun|hd/det|geen/[2,3]|det|1
+chemie/[4,5]|noun|hd/mod|tussen/[5,6]|prep|1
+hoofd_personage/[8,9]|noun|hd/det|het/[6,7]|det|1
+hoofd_personage/[8,9]|noun|hd/mod|vrouwelijk/[7,8]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+tussen/[5,6]|prep|hd/obj1|hoofd_personage/[8,9]|noun|1
+ben/[3,4]|verb|-- / --|./[7,8]|punct|1
+ben/[3,4]|verb|hd/mod|niet/[4,5]|adv|1
+ben/[3,4]|verb|hd/predc|goed/[6,7]|adj|1
+ben/[3,4]|verb|hd/su|verhaal/[2,3]|noun|1
+goed/[6,7]|adj|hd/mod|veel/[5,6]|adj|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+verhaal/[2,3]|noun|hd/det|het/[1,2]|det|1
+verhaal/[2,3]|noun|hd/mod|ook/[0,1]|adv|1
+element/[7,8]|noun|hd/mod|onnodig/[6,7]|adj|1
+en/[5,6]|vg|crd/cnj|cliché/[4,5]|noun|1
+en/[5,6]|vg|crd/cnj|element/[7,8]|noun|1
+met/[3,4]|prep|hd/obj1|en/[5,6]|vg|1
+top/top|top|top/hd|zit/[1,2]|verb|1
+vol/[2,3]|adj|hd/pc|met/[3,4]|prep|1
+zit/[1,2]|verb|-- / --|./[8,9]|punct|1
+zit/[1,2]|verb|hd/predc|vol/[2,3]|adj|1
+zit/[1,2]|verb|hd/su|het/[0,1]|det|1
+breng_op/[15,16]|verb|hd/obj1|conflict/[12,13]|noun|1
+breng_op/[15,16]|verb|hd/su|maker/[8,9]|noun|1
+breng_op/[15,16]|verb|hd/svp|op/[13,14]|part|1
+conflict/[12,13]|noun|hd/det|een/[10,11]|det|1
+conflict/[12,13]|noun|hd/mod|onnodig/[11,12]|adj|1
+duur/[23,24]|verb|hd/me|lang/[21,22]|adj|1
+duur/[23,24]|verb|hd/su|het/[17,18]|det|1
+einde/[2,3]|noun|hd/det|het/[1,2]|det|1
+einde/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+film/[5,6]|noun|hd/det|de/[4,5]|det|1
+kan/[22,23]|verb|hd/su|het/[17,18]|det|1
+kan/[22,23]|verb|hd/vc|duur/[23,24]|verb|1
+lang/[21,22]|adj|hd/me|uur/[20,21]|noun|1
+maker/[8,9]|noun|hd/det|de/[7,8]|det|1
+op/[0,1]|prep|hd/obj1|einde/[2,3]|noun|1
+probeer/[6,7]|verb|-- / --|./[24,25]|punct|1
+probeer/[6,7]|verb|hd/mod|nog/[9,10]|adv|1
+probeer/[6,7]|verb|hd/mod|op/[0,1]|prep|1
+probeer/[6,7]|verb|hd/mod|zodat/[16,17]|comp|1
+probeer/[6,7]|verb|hd/su|maker/[8,9]|noun|1
+probeer/[6,7]|verb|hd/vc|te/[14,15]|comp|1
+te/[14,15]|comp|cmp/body|breng_op/[15,16]|verb|1
+top/top|top|top/hd|probeer/[6,7]|verb|1
+uur/[20,21]|noun|hd/det|een/[18,19]|det|1
+uur/[20,21]|noun|hd/mod|half/[19,20]|adj|1
+van/[3,4]|prep|hd/obj1|film/[5,6]|noun|1
+zodat/[16,17]|comp|cmp/body|kan/[22,23]|verb|1
+acteur/[19,20]|noun|hd/det|de/[18,19]|det|1
+als/[17,18]|comp|cmp/body|zie/[23,24]|verb|1
+bedenk/[15,16]|verb|hd/obj1|element/[13,14]|noun|1
+bedenk/[15,16]|verb|hd/su|ze/[10,11]|pron|1
+dat/[9,10]|comp|cmp/body|kan/[14,15]|verb|1
+element/[13,14]|noun|hd/det|een/[11,12]|det|1
+element/[13,14]|noun|hd/mod|innoveer/[12,13]|adj|1
+in/[22,23]|prep|hd/obj1|er/[20,21]|adv|1
+kan/[1,2]|verb|-- / --|? /[27,28]|punct|1
+kan/[1,2]|verb|hd/su|men/[2,3]|pron|1
+kan/[1,2]|verb|hd/vc|verwacht/[4,5]|verb|1
+kan/[14,15]|verb|hd/su|ze/[10,11]|pron|1
+kan/[14,15]|verb|hd/vc|bedenk/[15,16]|verb|1
+komedie/[8,9]|noun|hd/det|een/[6,7]|det|1
+komedie/[8,9]|noun|hd/mod|romantisch/[7,8]|adj|1
+maar/[16,17]|vg|crd/cnj|als/[17,18]|comp|1
+maar/[16,17]|vg|crd/cnj|dat/[9,10]|comp|1
+niets/[21,22]|noun|hd/mod|waarom/[24,25]|pp|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|komedie/[8,9]|noun|1
+verwacht/[4,5]|verb|hd/mod|dan/[26,27]|adv|1
+verwacht/[4,5]|verb|hd/mod|moeilijk/[3,4]|adj|1
+verwacht/[4,5]|verb|hd/mod|natuurlijk/[0,1]|adj|1
+verwacht/[4,5]|verb|hd/mod|van/[5,6]|prep|1
+verwacht/[4,5]|verb|hd/su|men/[2,3]|pron|1
+verwacht/[4,5]|verb|hd/vc|maar/[16,17]|vg|1
+waarom/[24,25]|pp|rhd/body|wij/[25,26]|pron|1
+wij/[25,26]|pron|hd/mod|waarom/[24,25]|pp|1
+zie/[23,24]|verb|hd/obj1|niets/[21,22]|noun|1
+zie/[23,24]|verb|hd/pc|in/[22,23]|prep|1
+zie/[23,24]|verb|hd/su|acteur/[19,20]|noun|1

@@ -1,0 +1,99 @@
+Meir, PROPNAME/[15,17]|name|hd/det|de/[14,15]|det|1
+aan/[9,10]|prep|hd/obj1|koffierbar/[12,13]|noun|1
+bezoek_DIM/[8,9]|noun|hd/det|een/[7,8]|det|1
+bezoek_DIM/[8,9]|noun|hd/mod|aan/[9,10]|prep|1
+breng/[2,3]|verb|-- / --|./[17,18]|punct|1
+breng/[2,3]|verb|hd/ld|op/[13,14]|prep|1
+breng/[2,3]|verb|hd/mod|met/[4,5]|prep|1
+breng/[2,3]|verb|hd/mod|middag/[1,2]|noun|1
+breng/[2,3]|verb|hd/obj1|bezoek_DIM/[8,9]|noun|1
+breng/[2,3]|verb|hd/su|ik/[3,4]|pron|1
+koffierbar/[12,13]|noun|hd/det|een/[10,11]|det|1
+koffierbar/[12,13]|noun|hd/mod|nieuw/[11,12]|adj|1
+met/[4,5]|prep|hd/obj1|vriendin/[6,7]|noun|1
+middag/[1,2]|noun|hd/det|deze/[0,1]|det|1
+op/[13,14]|prep|hd/obj1|Meir, PROPNAME/[15,17]|name|1
+top/top|top|top/hd|breng/[2,3]|verb|1
+vriendin/[6,7]|noun|hd/det|een/[5,6]|det|1
+ben/[10,11]|verb|hd/mod|lang/[5,6]|adj|1
+ben/[10,11]|verb|hd/predc|open/[8,9]|adj|1
+ben/[10,11]|verb|hd/su|tent/[7,8]|noun|1
+ben/[12,13]|verb|hd/mod|er/[13,14]|adv|1
+ben/[12,13]|verb|hd/predc|minuut/[16,17]|noun|1
+ben/[12,13]|verb|hd/su|ik/[11,12]|pron|1
+ga_terug/[18,19]|verb|hd/mod|nooit/[19,20]|adv|1
+ga_terug/[18,19]|verb|hd/su|ik/[11,12]|pron|1
+ga_terug/[18,19]|verb|hd/svp|terug/[21,22]|part|1
+lang/[5,6]|adj|hd/mod|hoe/[4,5]|adj|1
+lang/[5,6]|adj|whd/body|zal/[9,10]|verb|1
+maar/[17,18]|vg|crd/cnj|ben/[12,13]|verb|1
+maar/[17,18]|vg|crd/cnj|ga_terug/[18,19]|verb|1
+minuut/[16,17]|noun|hd/det|15/[15,16]|num|1
+minuut/[16,17]|noun|hd/mod|slechts/[14,15]|adv|1
+nooit/[19,20]|adv|hd/mod|meer/[20,21]|adv|1
+tent/[7,8]|noun|hd/det|deze/[6,7]|det|1
+top/top|top|top/hd|vraag_af/[1,2]|verb|1
+vraag_af/[1,2]|verb|-- / --|!/[22,23]|punct|1
+vraag_af/[1,2]|verb|dp/dp|maar/[17,18]|vg|1
+vraag_af/[1,2]|verb|hd/se|me/[2,3]|pron|1
+vraag_af/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+vraag_af/[1,2]|verb|hd/svp|af/[3,4]|part|1
+vraag_af/[1,2]|verb|hd/vc|lang/[5,6]|adj|1
+zal/[9,10]|verb|hd/su|tent/[7,8]|noun|1
+zal/[9,10]|verb|hd/vc|ben/[10,11]|verb|1
+ben/[1,2]|verb|-- / --|? /[11,12]|punct|1
+ben/[1,2]|verb|dp/dp|hoezo/[9,10]|adv|1
+ben/[1,2]|verb|dp/dp|sfeer/[10,11]|noun|1
+ben/[1,2]|verb|hd/su|zaak/[3,4]|noun|1
+ben/[1,2]|verb|hd/vc|richt_in/[8,9]|verb|1
+en/[5,6]|vg|crd/cnj|ongezellig/[4,5]|adj|1
+en/[5,6]|vg|crd/cnj|sober/[7,8]|adj|1
+richt_in/[8,9]|verb|hd/mod|allereerst/[0,1]|adv|1
+richt_in/[8,9]|verb|hd/mod|en/[5,6]|vg|1
+richt_in/[8,9]|verb|hd/obj1|zaak/[3,4]|noun|1
+sober/[7,8]|adj|hd/mod|zeer/[6,7]|adv|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+zaak/[3,4]|noun|hd/det|de/[2,3]|det|1
+top/top|top|top/hd|./[0,1]|punct|1
+betaal/[15,16]|verb|hd/mod|in vergelijking met/[17,20]|prep|1
+betaal/[15,16]|verb|hd/pc|voor/[11,12]|prep|1
+betaal/[15,16]|verb|hd/su|je/[16,17]|pron|1
+en/[10,11]|vg|-- / --|./[21,22]|punct|1
+en/[10,11]|vg|crd/cnj|betaal/[15,16]|verb|1
+en/[10,11]|vg|crd/cnj|loop_rond/[1,2]|verb|1
+gezicht/[9,10]|noun|hd/det|een/[7,8]|det|1
+gezicht/[9,10]|noun|hd/mod|zuur/[8,9]|adj|1
+in vergelijking met/[17,20]|prep|hd/obj1|o/[20,21]|noun|1
+koffie/[14,15]|noun|hd/det|de/[12,13]|det|1
+koffie/[14,15]|noun|hd/mod|koud/[13,14]|adj|1
+loop_rond/[1,2]|verb|hd/mod|ook/[0,1]|adv|1
+loop_rond/[1,2]|verb|hd/pc|met/[6,7]|prep|1
+loop_rond/[1,2]|verb|hd/su|personeel/[4,5]|noun|1
+loop_rond/[1,2]|verb|hd/svp|rond/[5,6]|part|1
+met/[6,7]|prep|hd/obj1|gezicht/[9,10]|noun|1
+personeel/[4,5]|noun|hd/det|het/[2,3]|det|1
+personeel/[4,5]|noun|hd/mod|onverzorgd/[3,4]|adj|1
+top/top|top|top/hd|en/[10,11]|vg|1
+voor/[11,12]|prep|hd/obj1|koffie/[14,15]|noun|1
+a/[0,1]|noun|-- / --|./[1,2]|punct|1
+top/top|top|top/hd|a/[0,1]|noun|1
+./[1,2]|punct|-- / --|a/[0,1]|noun|1
+top/top|top|top/hd|./[1,2]|punct|1
+Acco/[5,6]|name|hd/det|de/[4,5]|det|1
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/obj2|t/[2,3]|noun|1
+ben/[1,2]|verb|hd/predc|veel/[7,8]|adj|1
+ben/[1,2]|verb|hd/su|Vandoag/[0,1]|name|1
+t/[2,3]|noun|hd/mod|tegenover/[3,4]|prep|1
+tegenover/[3,4]|prep|hd/obj1|Acco/[5,6]|name|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+veel/[7,8]|adj|hd/mod|belachelijk/[6,7]|adj|1
+ben/[5,6]|verb|-- / --|./[9,10]|punct|1
+ben/[5,6]|verb|hd/mod|nog/[6,7]|adv|1
+ben/[5,6]|verb|hd/predc|lekker/[7,9]|adj|1
+ben/[5,6]|verb|hd/su|koek_DIM/[1,2]|noun|1
+bij/[2,3]|prep|hd/obj1|koffie/[4,5]|noun|1
+koek_DIM/[1,2]|noun|hd/det|het/[0,1]|det|1
+koek_DIM/[1,2]|noun|hd/mod|bij/[2,3]|prep|1
+koffie/[4,5]|noun|hd/det|de/[3,4]|det|1
+top/top|top|top/hd|ben/[5,6]|verb|1

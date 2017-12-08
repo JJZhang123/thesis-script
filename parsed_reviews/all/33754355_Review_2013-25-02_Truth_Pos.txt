@@ -1,0 +1,94 @@
+bereid/[4,5]|adj|hd/mod|vers/[3,4]|adj|1
+bied/[1,2]|verb|-- / --|./[6,7]|punct|1
+bied/[1,2]|verb|hd/obj1|koffie/[5,6]|noun|1
+bied/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+koffie/[5,6]|noun|hd/mod|bereid/[4,5]|adj|1
+koffie/[5,6]|noun|hd/mod|heerlijk/[2,3]|adj|1
+top/top|top|top/hd|bied/[1,2]|verb|1
+en/[6,7]|vg|-- / --|./[19,20]|punct|1
+en/[6,7]|vg|crd/cnj|heb/[1,2]|verb|1
+en/[6,7]|vg|crd/cnj|kan/[10,11]|verb|1
+en/[16,17]|vg|crd/cnj|iced teas/[17,19]|name|1
+en/[16,17]|vg|crd/cnj|thees/[15,16]|noun|1
+heb/[1,2]|verb|hd/obj1|keuze/[2,3]|noun|1
+heb/[1,2]|verb|hd/su|je/[0,1]|pron|1
+kan/[10,11]|verb|hd/su|niet_koffie_drinker/[8,10]|noun|1
+kan/[10,11]|verb|hd/vc|kies/[11,12]|verb|1
+keuze/[2,3]|noun|hd/mod|uit/[3,4]|prep|1
+kies/[11,12]|verb|hd/pc|uit/[12,13]|prep|1
+kies/[11,12]|verb|hd/su|niet_koffie_drinker/[8,10]|noun|1
+niet_koffie_drinker/[8,10]|noun|hd/det|de/[7,8]|det|1
+soort/[5,6]|noun|hd/mod|verschil/[4,5]|adj|1
+thees/[15,16]|noun|hd/mod|lekker/[14,15]|adj|1
+thees/[15,16]|noun|hd/mod|verschil/[13,14]|adj|1
+top/top|top|top/hd|en/[6,7]|vg|1
+uit/[3,4]|prep|hd/obj1|soort/[5,6]|noun|1
+uit/[12,13]|prep|hd/obj1|en/[16,17]|vg|1
+bekend/[7,8]|adj|hd/mod|alom/[6,7]|adv|1
+beker/[9,10]|noun|hd/det|de/[4,5]|det|1
+beker/[9,10]|noun|hd/mod|bekend/[7,8]|adj|1
+beker/[9,10]|noun|hd/mod|leuk/[5,6]|adj|1
+beker/[9,10]|noun|hd/mod|met/[10,11]|prep|1
+beker/[9,10]|noun|hd/mod|wit/[8,9]|adj|1
+ben/[3,4]|verb|-- / --|./[22,23]|punct|1
+ben/[3,4]|verb|hd/predc|wat/[0,1]|pron|1
+ben/[3,4]|verb|hd/su|beker/[9,10]|noun|1
+dat/[14,15]|pron|rhd/body|maak/[21,22]|verb|1
+drink/[17,18]|verb|hd/det|het/[15,16]|det|1
+drink/[17,18]|verb|hd/obj1|koffie/[16,17]|noun|1
+leuk/[20,21]|adj|hd/mod|zo/[19,20]|adv|1
+logo/[13,14]|noun|hd/det|het/[11,12]|det|1
+logo/[13,14]|noun|hd/mod|dat/[14,15]|pron|1
+logo/[13,14]|noun|hd/mod|groen/[12,13]|adj|1
+maak/[21,22]|verb|hd/mod|eens/[18,19]|adv|1
+maak/[21,22]|verb|hd/obj1|drink/[17,18]|verb|1
+maak/[21,22]|verb|hd/predc|leuk/[20,21]|adj|1
+maak/[21,22]|verb|hd/su|dat/[14,15]|pron|1
+met/[10,11]|prep|hd/obj1|logo/[13,14]|noun|1
+speel_mee/[2,3]|verb|hd/mod|ook/[1,2]|adv|1
+speel_mee/[2,3]|verb|hd/su|wat/[0,1]|pron|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+wat/[0,1]|pron|rhd/body|speel_mee/[2,3]|verb|1
+Amerikaans/[1,2]|adj|-- / --|./[2,3]|punct|1
+Amerikaans/[1,2]|adj|hd/mod|lekker/[0,1]|adj|1
+top/top|top|top/hd|Amerikaans/[1,2]|adj|1
+beker/[14,15]|noun|hd/det|je/[13,14]|det|1
+ben/[1,2]|verb|-- / --|./[17,18]|punct|1
+ben/[1,2]|verb|hd/mod|ook/[2,3]|adv|1
+ben/[1,2]|verb|hd/predc|leuk/[4,5]|adj|1
+ben/[1,2]|verb|hd/su|dat/[5,6]|comp|1
+ben/[1,2]|verb|hd/sup|het/[0,1]|noun|1
+dat/[5,6]|comp|cmp/body|vraag/[10,11]|verb|1
+leuk/[4,5]|adj|hd/mod|heel/[3,4]|adv|1
+naam/[9,10]|noun|hd/det|je/[8,9]|det|1
+op/[12,13]|prep|hd/obj1|beker/[14,15]|noun|1
+schrijf/[16,17]|verb|hd/mod|op/[12,13]|prep|1
+schrijf/[16,17]|verb|hd/mod|voor/[11,12]|adj|1
+schrijf/[16,17]|verb|hd/su|naam/[9,10]|noun|1
+te/[15,16]|comp|cmp/body|schrijf/[16,17]|verb|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+vraag/[10,11]|verb|hd/obj2|naam/[9,10]|noun|1
+vraag/[10,11]|verb|hd/su|werknemer/[7,8]|noun|1
+vraag/[10,11]|verb|hd/vc|te/[15,16]|comp|1
+werknemer/[7,8]|noun|hd/det|de/[6,7]|det|1
+en/[7,8]|vg|-- / --|./[20,21]|punct|1
+en/[7,8]|vg|-- / --|als/[9,10]|comp|1
+en/[7,8]|vg|-- / --|je/[10,11]|pron|1
+en/[7,8]|vg|crd/cnj|hoef/[1,2]|verb|1
+en/[7,8]|vg|crd/cnj|ook/[8,9]|adv|1
+en/[7,8]|vg|dp/dp|heb/[15,16]|verb|1
+en/[7,8]|vg|dp/dp|hongertje hebt,/[13,15]|name|1
+heb/[15,16]|verb|hd/obj1|keuze/[19,20]|noun|1
+heb/[15,16]|verb|hd/su|je/[16,17]|pron|1
+hoef/[1,2]|verb|hd/su|je/[0,1]|pron|1
+hoef/[1,2]|verb|hd/vc|te/[5,6]|comp|1
+hongertje hebt,/[13,15]|name|hd/det|een/[11,12]|det|1
+hongertje hebt,/[13,15]|name|hd/mod|klein/[12,13]|adj|1
+keuze/[19,20]|noun|hd/det|een/[17,18]|det|1
+keuze/[19,20]|noun|hd/mod|uitgebreid/[18,19]|adj|1
+te/[5,6]|comp|cmp/body|wacht/[6,7]|verb|1
+top/top|top|top/hd|en/[7,8]|vg|1
+wacht/[6,7]|verb|hd/mod|er/[2,3]|adv|1
+wacht/[6,7]|verb|hd/mod|lang/[4,5]|adj|1
+wacht/[6,7]|verb|hd/mod|nooit/[3,4]|adv|1
+wacht/[6,7]|verb|hd/su|je/[0,1]|pron|1

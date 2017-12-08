@@ -1,0 +1,183 @@
+droom/[14,15]|verb|hd/mod|luidop/[12,13]|adv|1
+droom/[14,15]|verb|hd/pc|van/[13,14]|prep|1
+en/[10,11]|vg|crd/cnj|droom/[14,15]|verb|1
+en/[10,11]|vg|crd/cnj|poster/[7,8]|noun|1
+met/[6,7]|prep|hd/obj1|en/[10,11]|vg|1
+of/[18,19]|vg|crd/cnj|Hawaï/[17,18]|name|1
+of/[18,19]|vg|crd/cnj|zuster_eiland/[20,21]|noun|1
+op/[16,17]|prep|hd/obj1|of/[18,19]|vg|1
+poster/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+resideer/[22,23]|verb|hd/mod|ooit/[15,16]|adv|1
+resideer/[22,23]|verb|hd/mod|op/[16,17]|prep|1
+resideer/[22,23]|verb|hd/obj1|volume_hang/[5,6]|verb|1
+te/[21,22]|comp|cmp/body|resideer/[22,23]|verb|1
+top/top|top|top/hd|voor/[0,1]|prep|1
+van/[8,9]|prep|hd/obj1|surf_icoon/[9,10]|noun|1
+van/[13,14]|prep|hd/obj1|er/[11,12]|adv|1
+volume_hang/[5,6]|verb|hd/det|hun/[3,4]|det|1
+volume_hang/[5,6]|verb|hd/mod|met/[6,7]|prep|1
+volume_hang/[5,6]|verb|hd/obj1|slaap_kamer/[4,5]|noun|1
+voor/[0,1]|prep|-- / --|!/[23,24]|punct|1
+voor/[0,1]|prep|-- / --|die/[2,3]|pron|1
+voor/[0,1]|prep|dp/dp|te/[21,22]|comp|1
+voor/[0,1]|prep|hd/obj1|zij/[1,2]|noun|1
+zuster_eiland/[20,21]|noun|hd/det|een/[19,20]|det|1
+bezit/[14,15]|verb|hd/obj1|golf/[10,11]|noun|1
+bezit/[14,15]|verb|hd/su|kust/[6,7]|noun|1
+dan/[11,12]|comparative|cmp/body|toerist/[13,14]|noun|1
+dat/[4,5]|comp|cmp/body|bezit/[14,15]|verb|1
+geloof/[3,4]|verb|hd/obj2|die/[2,3]|det|1
+geloof/[3,4]|verb|hd/su|zij/[1,2]|pron|1
+geloof/[3,4]|verb|hd/vc|dat/[4,5]|comp|1
+golf/[10,11]|noun|hd/det|meer/[9,10]|adj|1
+kust/[6,7]|noun|hd/det|de/[5,6]|det|1
+kust/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+meer/[9,10]|adj|hd/obcomp|dan/[11,12]|comparative|1
+toerist/[13,14]|noun|hd/mod|baad/[12,13]|adj|1
+top/top|top|top/hd|voor/[0,1]|comp|1
+van/[7,8]|prep|hd/obj1|Australië/[8,9]|name|1
+voor/[0,1]|comp|-- / --|!/[15,16]|punct|1
+voor/[0,1]|comp|cmp/body|geloof/[3,4]|verb|1
+adem_in/[7,8]|verb|hd/obj1|die/[2,3]|det|1
+adem_in/[7,8]|verb|hd/predm|als/[3,4]|comp|1
+adem_in/[7,8]|verb|hd/su|zij/[1,2]|pron|1
+als/[3,4]|comp|cmp/body|water/[6,7]|noun|1
+top/top|top|top/hd|voor/[0,1]|comp|1
+voor/[0,1]|comp|-- / --|!/[8,9]|punct|1
+voor/[0,1]|comp|cmp/body|adem_in/[7,8]|verb|1
+water/[6,7]|noun|hd/det|het/[4,5]|det|1
+water/[6,7]|noun|hd/mod|waar/[5,6]|adj|1
+benodigd_heid/[23,24]|noun|hd/det|alle/[22,23]|det|1
+benodigd_heid/[23,24]|noun|hd/mod|zijnde/[24,25]|prep|1
+beschrijving/[5,6]|noun|hd/det|deze/[4,5]|det|1
+boek_winkel/[12,13]|noun|hd/det|de/[10,11]|det|1
+boek_winkel/[12,13]|noun|hd/mod|dichtstbijzijnd/[11,12]|adj|1
+doe-het-zelf_zaak/[14,15]|noun|hd/det|de/[10,11]|det|1
+doe-het-zelf_zaak/[14,15]|noun|hd/mod|dichtstbijzijnd/[11,12]|adj|1
+en/[30,31]|vg|crd/cnj|lees_bril/[33,34]|noun|1
+en/[30,31]|vg|crd/cnj|pot_DIM/[28,29]|noun|1
+handleiding/[18,19]|noun|hd/det|deze/[17,18]|det|1
+herken/[0,1]|verb|-- / --|./[37,38]|punct|1
+herken/[0,1]|verb|-- / --|en/[15,16]|vg|1
+herken/[0,1]|verb|dp/dp|aan/[19,20]|adj|1
+herken/[0,1]|verb|dp/dp|optioneel/[34,35]|adj|1
+herken/[0,1]|verb|dp/dp|samen/[20,21]|adj|1
+herken/[0,1]|verb|dp/dp|schaf/[16,17]|verb|1
+herken/[0,1]|verb|hd/mod|dan/[7,8]|adv|1
+herken/[0,1]|verb|hd/mod|in/[3,4]|prep|1
+herken/[0,1]|verb|hd/mod|naar/[9,10]|prep|1
+herken/[0,1]|verb|hd/mod|nu/[8,9]|adv|1
+herken/[0,1]|verb|hd/mod|snel/[6,7]|adj|1
+herken/[0,1]|verb|hd/obj1|zich/[2,3]|pron|1
+herken/[0,1]|verb|hd/su|u/[1,2]|pron|1
+in/[3,4]|prep|hd/obj1|beschrijving/[5,6]|noun|1
+lees_bril/[33,34]|noun|hd/det|een/[32,33]|det|1
+lees_bril/[33,34]|noun|hd/mod|eventueel/[31,32]|adj|1
+met/[21,22]|prep|hd/obj1|benodigd_heid/[23,24]|noun|1
+naar/[9,10]|prep|hd/obj1|of/[13,14]|vg|1
+of/[13,14]|vg|crd/cnj|boek_winkel/[12,13]|noun|1
+of/[13,14]|vg|crd/cnj|doe-het-zelf_zaak/[14,15]|noun|1
+optioneel/[34,35]|adj|hd/mod|voor/[35,36]|prep|1
+pot_DIM/[28,29]|noun|hd/app|wax/[29,30]|noun|1
+samen/[20,21]|adj|dp/dp|en/[30,31]|vg|1
+samen/[20,21]|adj|hd/pc|met/[21,22]|prep|1
+schaf/[16,17]|verb|hd/obj1|handleiding/[18,19]|noun|1
+top/top|top|top/hd|herken/[0,1]|verb|1
+voor/[35,36]|prep|hd/obj1|senior/[36,37]|noun|1
+wetsuit, waterboard,/[26,28]|name|hd/det|een/[25,26]|det|1
+zijnde/[24,25]|prep|hd/obj1|wetsuit, waterboard,/[26,28]|name|1
+buurt/[11,12]|noun|hd/det|u/[10,11]|det|1
+in/[9,10]|prep|hd/obj1|buurt/[11,12]|noun|1
+oefen/[13,14]|verb|hd/mod|week_lang/[14,15]|adj|1
+rep/[0,1]|verb|-- / --|./[15,16]|punct|1
+rep/[0,1]|verb|-- / --|en/[12,13]|vg|1
+rep/[0,1]|verb|dp/dp|oefen/[13,14]|verb|1
+rep/[0,1]|verb|dp/dp|water_lijn/[5,6]|noun|1
+rep/[0,1]|verb|hd/ld|naar/[3,4]|prep|1
+rep/[0,1]|verb|hd/se|zich/[2,3]|pron|1
+rep/[0,1]|verb|hd/su|u/[1,2]|pron|1
+top/top|top|top/hd|rep/[0,1]|verb|1
+van/[6,7]|prep|hd/obj1|zee/[8,9]|noun|1
+water_lijn/[5,6]|noun|hd/det|de/[4,5]|det|1
+water_lijn/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+zee/[8,9]|noun|hd/det|een/[7,8]|det|1
+zee/[8,9]|noun|hd/mod|in/[9,10]|prep|1
+Geloof me,/[0,2]|name|-- / --|./[7,8]|punct|1
+Geloof me,/[0,2]|name|dp/dp|zal/[3,4]|verb|1
+spijt/[6,7]|verb|hd/mod|niet/[5,6]|adv|1
+spijt/[6,7]|verb|hd/obj2|u/[4,5]|pron|1
+spijt/[6,7]|verb|hd/su|het/[2,3]|det|1
+top/top|top|top/hd|Geloof me,/[0,2]|name|1
+zal/[3,4]|verb|hd/su|het/[2,3]|det|1
+zal/[3,4]|verb|hd/vc|spijt/[6,7]|verb|1
+dummieboek/[9,10]|noun|hd/det|dit/[8,9]|det|1
+geef/[7,8]|verb|-- / --|./[26,27]|punct|1
+geef/[7,8]|verb|hd/mod|volgens/[0,1]|prep|1
+geef/[7,8]|verb|hd/mod|zodat/[12,13]|comp|1
+geef/[7,8]|verb|hd/obj1|richtlijn/[11,12]|noun|1
+geef/[7,8]|verb|hd/su|dummieboek/[9,10]|noun|1
+hoe/[20,21]|adj|whd/body|te/[24,25]|comp|1
+hoofdstuk/[4,5]|noun|hd/det|vier/[3,4]|num|1
+in/[2,3]|prep|hd/obj1|hoofdstuk/[4,5]|noun|1
+leer/[19,20]|verb|hd/mod|stap voor stap/[14,17]|adv|1
+leer/[19,20]|verb|hd/mod|weg/[18,19]|noun|1
+leer/[19,20]|verb|hd/su|u/[13,14]|pron|1
+leer/[19,20]|verb|hd/vc|hoe/[20,21]|adj|1
+opgedeeld/[5,6]|adj|hd/mod|in/[2,3]|prep|1
+oppervlak/[23,24]|noun|hd/det|het/[21,22]|det|1
+oppervlak/[23,24]|noun|hd/mod|blauw/[22,23]|adj|1
+richtlijn/[11,12]|noun|hd/mod|duidelijk/[10,11]|adj|1
+stap_plan/[6,7]|noun|hd/det|een/[1,2]|det|1
+stap_plan/[6,7]|noun|hd/mod|opgedeeld/[5,6]|adj|1
+te/[24,25]|comp|cmp/body|trotseer/[25,26]|verb|1
+top/top|top|top/hd|geef/[7,8]|verb|1
+trotseer/[25,26]|verb|hd/mod|hoe/[20,21]|adj|1
+trotseer/[25,26]|verb|hd/obj1|oppervlak/[23,24]|noun|1
+volgens/[0,1]|prep|hd/obj1|stap_plan/[6,7]|noun|1
+weg/[18,19]|noun|hd/mod|ga/[17,18]|adj|1
+zodat/[12,13]|comp|cmp/body|leer/[19,20]|verb|1
+bestseller/[5,6]|noun|-- / --|!/[13,14]|punct|1
+bestseller/[5,6]|noun|hd/det|een/[0,1]|det|1
+bestseller/[5,6]|noun|hd/mod|die/[6,7]|pron|1
+bestseller/[5,6]|noun|hd/mod|te/[3,4]|comp|1
+bibliotheek/[9,10]|noun|hd/det|u/[7,8]|det|1
+bibliotheek/[9,10]|noun|hd/mod|persoonlijk/[8,9]|adj|1
+die/[6,7]|pron|rhd/body|mag/[11,12]|verb|1
+mag/[11,12]|verb|hd/su|die/[6,7]|pron|1
+mag/[11,12]|verb|hd/vc|ontbreek/[12,13]|verb|1
+ontbreek/[12,13]|verb|hd/mod|niet/[10,11]|adv|1
+ontbreek/[12,13]|verb|hd/obj2|bibliotheek/[9,10]|noun|1
+ontbreek/[12,13]|verb|hd/su|die/[6,7]|pron|1
+raad_aan/[4,5]|verb|hd/mod|absoluut/[1,2]|adj|1
+raad_aan/[4,5]|verb|hd/svp|aan/[2,3]|part|1
+te/[3,4]|comp|cmp/body|raad_aan/[4,5]|verb|1
+top/top|top|top/hd|bestseller/[5,6]|noun|1
+als/[3,4]|comp|cmp/body|dummie,/[5,6]|noun|1
+beoordeling/[8,9]|noun|hd/det|deze/[7,8]|det|1
+bestel/[15,16]|verb|hd/det|het/[12,13]|det|1
+bestel/[15,16]|verb|hd/mod|van/[16,17]|prep|1
+boek/[18,19]|noun|hd/det|dit/[17,18]|det|1
+dummie,/[5,6]|noun|hd/mod|volslagen/[4,5]|adj|1
+en/[1,2]|comp|dlink/nucl|gelief/[2,3]|verb|1
+gelief/[2,3]|verb|hd/vc|te/[24,25]|comp|1
+indien/[6,7]|comp|cmp/body|zet_aan/[10,11]|verb|1
+koop/[13,14]|verb|hd/det|het/[12,13]|det|1
+koop/[13,14]|verb|hd/mod|van/[16,17]|prep|1
+of/[14,15]|vg|crd/cnj|bestel/[15,16]|verb|1
+of/[14,15]|vg|crd/cnj|koop/[13,14]|verb|1
+oh/[0,1]|tag|-- / --|!/[26,27]|punct|1
+oh/[0,1]|tag|tag/nucl|en/[1,2]|comp|1
+schaf_aan/[25,26]|verb|hd/mod|gelijktijdig/[19,20]|adj|1
+schaf_aan/[25,26]|verb|hd/mod|indien/[6,7]|comp|1
+schaf_aan/[25,26]|verb|hd/obj1|woord_boek/[22,23]|noun|1
+schaf_aan/[25,26]|verb|hd/predm|als/[3,4]|comp|1
+schaf_aan/[25,26]|verb|hd/svp|aan/[23,24]|part|1
+te/[24,25]|comp|cmp/body|schaf_aan/[25,26]|verb|1
+top/top|top|top/hd|oh/[0,1]|tag|1
+tot/[11,12]|prep|hd/obj1|of/[14,15]|vg|1
+van/[16,17]|prep|hd/obj1|boek/[18,19]|noun|1
+woord_boek/[22,23]|noun|hd/det|een/[20,21]|det|1
+woord_boek/[22,23]|noun|hd/mod|verklaar/[21,22]|adj|1
+zet_aan/[10,11]|verb|hd/obj1|u/[9,10]|pron|1
+zet_aan/[10,11]|verb|hd/pc|tot/[11,12]|prep|1
+zet_aan/[10,11]|verb|hd/su|beoordeling/[8,9]|noun|1

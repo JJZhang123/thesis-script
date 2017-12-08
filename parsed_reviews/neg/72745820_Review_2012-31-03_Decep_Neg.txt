@@ -1,0 +1,64 @@
+ben/[3,4]|verb|-- / --|./[10,11]|punct|1
+ben/[3,4]|verb|hd/su|Apple/[4,5]|name|1
+ben/[3,4]|verb|hd/vc|ga_in/[9,10]|verb|1
+ga_in/[9,10]|verb|hd/ld|lucht/[7,8]|noun|1
+ga_in/[9,10]|verb|hd/mod|compleet/[5,6]|adj|1
+ga_in/[9,10]|verb|hd/mod|met/[0,1]|prep|1
+ga_in/[9,10]|verb|hd/su|Apple/[4,5]|name|1
+ga_in/[9,10]|verb|hd/svp|in/[8,9]|part|1
+lucht/[7,8]|noun|hd/det|de/[6,7]|det|1
+met/[0,1]|prep|hd/obj1|smartphone/[2,3]|noun|1
+smartphone/[2,3]|noun|hd/det|deze/[1,2]|det|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+achterkant/[14,15]|noun|hd/det|de/[11,12]|det|1
+ben/[4,5]|verb|-- / --|./[19,20]|punct|1
+ben/[4,5]|verb|-- / --|de/[15,16]|det|1
+ben/[4,5]|verb|dp/dp|breek/[16,17]|verb|1
+ben/[4,5]|verb|hd/mod|naast/[0,1]|prep|1
+ben/[4,5]|verb|hd/su|kans/[6,7]|noun|1
+breek/[16,17]|verb|hd/mod|hoog/[18,19]|adj|1
+design/[3,4]|noun|hd/det|het/[1,2]|det|1
+design/[3,4]|noun|hd/mod|onhandig/[2,3]|adj|1
+en/[13,14]|vg|crd/cnj|achterkant/[14,15]|noun|1
+en/[13,14]|vg|crd/cnj|voor/[12,13]|prefix|1
+hoog/[18,19]|adj|hd/mod|enorm/[17,18]|adj|1
+kans/[6,7]|noun|hd/det|de/[5,6]|det|1
+kans/[6,7]|noun|hd/mod|om/[7,8]|prep|1
+langs/[10,11]|prep|hd/obj1|en/[13,14]|vg|1
+naast/[0,1]|prep|hd/obj1|design/[3,4]|noun|1
+om/[7,8]|prep|hd/obj1|scherm/[9,10]|noun|1
+scherm/[9,10]|noun|hd/det|het/[8,9]|det|1
+scherm/[9,10]|noun|hd/mod|langs/[10,11]|prep|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+voor/[12,13]|prefix|hd/det|de/[11,12]|det|1
+aan/[2,3]|prep|hd/obj1|wacht/[4,5]|verb|1
+ben/[1,2]|verb|-- / --|./[12,13]|punct|1
+ben/[1,2]|verb|hd/mod|aan/[2,3]|prep|1
+ben/[1,2]|verb|hd/predc|video_game/[10,12]|noun|1
+ben/[1,2]|verb|hd/su|niemand/[0,1]|pron|1
+op/[5,6]|prep|hd/obj1|smarthphone/[7,8]|noun|1
+smarthphone/[7,8]|noun|hd/det|een/[6,7]|det|1
+smarthphone/[7,8]|noun|hd/mod|voor/[8,9]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+voor/[8,9]|prep|hd/obj1|multiplayer/[9,10]|noun|1
+wacht/[4,5]|verb|hd/det|het/[3,4]|det|1
+wacht/[4,5]|verb|hd/mod|op/[5,6]|prep|1
+ben/[6,7]|verb|hd/predc|instrument/[5,6]|noun|1
+ben/[6,7]|verb|hd/su|smarthphone/[1,2]|noun|1
+generatie/[14,15]|noun|hd/app|PROPNAME/[15,16]|name|1
+generatie/[14,15]|noun|hd/det|de/[12,13]|det|1
+generatie/[14,15]|noun|hd/mod|oud/[13,14]|adj|1
+instrument/[5,6]|noun|hd/det|een/[3,4]|det|1
+instrument/[5,6]|noun|hd/mod|handig/[4,5]|adj|1
+moet/[2,3]|verb|-- / --|./[17,18]|punct|1
+moet/[2,3]|verb|dp/dp|overtref/[10,11]|verb|1
+moet/[2,3]|verb|hd/su|smarthphone/[1,2]|noun|1
+moet/[2,3]|verb|hd/vc|ben/[6,7]|verb|1
+overtref/[10,11]|verb|hd/mod|niet/[16,17]|adv|1
+overtref/[10,11]|verb|hd/mod|zelfs/[11,12]|adv|1
+overtref/[10,11]|verb|hd/obj1|generatie/[14,15]|noun|1
+overtref/[10,11]|verb|hd/su|propname/[9,10]|noun|1
+propname/[9,10]|noun|hd/det|deze/[7,8]|det|1
+propname/[9,10]|noun|hd/mod|nieuw/[8,9]|adj|1
+smarthphone/[1,2]|noun|hd/det|een/[0,1]|det|1
+top/top|top|top/hd|moet/[2,3]|verb|1

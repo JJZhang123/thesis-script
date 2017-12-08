@@ -1,0 +1,198 @@
+Bacchus/[15,16]|name|hd/det|deze/[14,15]|det|1
+Bacchus/[15,16]|name|hd/mod|van/[16,17]|prep|1
+Lage Landen/[18,20]|name|hd/det|de/[17,18]|det|1
+beeld/[4,5]|noun|hd/mod|mooi/[3,4]|adj|1
+en/[5,6]|vg|crd/cnj|beeld/[4,5]|noun|1
+en/[5,6]|vg|crd/cnj|verhaal/[6,7]|noun|1
+in/[0,1]|prep|hd/obj1|verzameling/[2,3]|noun|1
+portret/[12,13]|noun|hd/det|een/[10,11]|det|1
+portret/[12,13]|noun|hd/mod|levensecht/[11,12]|adj|1
+portret/[12,13]|noun|hd/mod|van/[13,14]|prep|1
+schets/[7,8]|verb|-- / --|./[20,21]|punct|1
+schets/[7,8]|verb|hd/mod|in/[0,1]|prep|1
+schets/[7,8]|verb|hd/obj1|portret/[12,13]|noun|1
+schets/[7,8]|verb|hd/su|Maud Janssens/[8,10]|name|1
+top/top|top|top/hd|schets/[7,8]|verb|1
+van/[13,14]|prep|hd/obj1|Bacchus/[15,16]|name|1
+van/[16,17]|prep|hd/obj1|Lage Landen/[18,20]|name|1
+verhaal/[6,7]|noun|hd/mod|mooi/[3,4]|adj|1
+verzameling/[2,3]|noun|hd/det|deze/[1,2]|det|1
+verzameling/[2,3]|noun|hd/mod|en/[5,6]|vg|1
+aandacht/[4,5]|noun|hd/det|alle/[3,4]|det|1
+in/[0,1]|prep|hd/obj1|PROPNAME/[1,2]|name|1
+op/[6,7]|prep|hd/obj1|verschijning/[8,9]|noun|1
+richt/[2,3]|verb|-- / --|./[10,11]|punct|1
+richt/[2,3]|verb|hd/mod|in/[0,1]|prep|1
+richt/[2,3]|verb|hd/pc|op/[6,7]|prep|1
+richt/[2,3]|verb|hd/se|zich/[5,6]|pron|1
+richt/[2,3]|verb|hd/su|aandacht/[4,5]|noun|1
+top/top|top|top/hd|richt/[2,3]|verb|1
+verschijning/[8,9]|noun|hd/app|Daegeman/[9,10]|name|1
+verschijning/[8,9]|noun|hd/det|de/[7,8]|det|1
+En,/[0,1]|name|-- / --|./[21,22]|punct|1
+En,/[0,1]|name|dp/dp|op/[3,4]|prep|1
+En,/[0,1]|name|dp/dp|uiteraard/[1,2]|adv|1
+en/[8,9]|vg|crd/cnj|egoïsme/[9,10]|noun|1
+en/[8,9]|vg|crd/cnj|misverstand/[7,8]|noun|1
+kenmerkend/[19,20]|adj|hd/obj1|hem/[18,19]|pron|1
+op/[3,4]|prep|hd/mod|ook/[2,3]|adv|1
+op/[3,4]|prep|hd/obj1|wereld/[5,6]|noun|1
+op/[16,17]|prep|hd/obj1|wijze/[20,21]|noun|1
+top/top|top|top/hd|En,/[0,1]|name|1
+van/[6,7]|prep|hd/obj1|en/[8,9]|vg|1
+waarin/[10,11]|pp|rhd/body|zoek/[15,16]|verb|1
+weg/[14,15]|noun|hd/det|een/[13,14]|det|1
+wereld/[5,6]|noun|hd/det|de/[4,5]|det|1
+wereld/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+wereld/[5,6]|noun|hd/mod|waarin/[10,11]|pp|1
+wijze/[20,21]|noun|hd/det|de/[17,18]|det|1
+wijze/[20,21]|noun|hd/mod|kenmerkend/[19,20]|adj|1
+zoek/[15,16]|verb|hd/mod|op/[16,17]|prep|1
+zoek/[15,16]|verb|hd/mod|waarin/[10,11]|pp|1
+zoek/[15,16]|verb|hd/obj1|weg/[14,15]|noun|1
+zoek/[15,16]|verb|hd/se|zich/[12,13]|pron|1
+zoek/[15,16]|verb|hd/su|Daegeman/[11,12]|name|1
+bed/[4,5]|noun|hd/det|het/[3,4]|det|1
+ben/[9,10]|verb|hd/mod|zo/[0,1]|adv|1
+ben/[9,10]|verb|hd/predc|dol/[11,12]|adj|1
+ben/[9,10]|verb|hd/su|Daegeman/[10,11]|name|1
+deel/[1,2]|verb|hd/mod|zo/[0,1]|adv|1
+deel/[1,2]|verb|hd/obj1|bed/[4,5]|noun|1
+deel/[1,2]|verb|hd/pc|met/[5,6]|prep|1
+deel/[1,2]|verb|hd/su|hij/[2,3]|pron|1
+dol/[11,12]|adj|hd/pc|op/[12,13]|prep|1
+en/[8,9]|vg|-- / --|./[14,15]|punct|1
+en/[8,9]|vg|crd/cnj|ben/[9,10]|verb|1
+en/[8,9]|vg|crd/cnj|deel/[1,2]|verb|1
+met/[5,6]|prep|hd/obj1|vrouw/[7,8]|noun|1
+op/[12,13]|prep|hd/obj1|spiritualiën/[13,14]|noun|1
+top/top|top|top/hd|en/[8,9]|vg|1
+vrouw/[7,8]|noun|hd/mod|talrijk/[6,7]|adj|1
+Venetië/[14,15]|name|hd/det|het/[13,14]|det|1
+en/[11,12]|vg|crd/cnj|voor/[8,9]|prep|1
+en/[11,12]|vg|crd/cnj|voor/[12,13]|prep|1
+ga/[1,2]|verb|-- / --|./[18,19]|punct|1
+ga/[1,2]|verb|hd/ld|in/[5,6]|prep|1
+ga/[1,2]|verb|hd/mod|ook/[0,1]|adv|1
+ga/[1,2]|verb|hd/mod|ver/[4,5]|adj|1
+ga/[1,2]|verb|hd/su|hij/[2,3]|pron|1
+in/[5,6]|prep|hd/obj1|liefde/[7,8]|noun|1
+liefde/[7,8]|noun|hd/det|zijn/[6,7]|det|1
+liefde/[7,8]|noun|hd/mod|en/[11,12]|vg|1
+liefde/[7,8]|noun|hd/mod|van/[15,16]|prep|1
+teckel/[10,11]|noun|hd/mod|Cuba/[9,10]|name|1
+top/top|top|top/hd|ga/[1,2]|verb|1
+van/[15,16]|prep|hd/obj1|Thomas Mann/[16,18]|name|1
+ver/[4,5]|adj|hd/mod|heel/[3,4]|adv|1
+voor/[8,9]|prep|hd/obj1|teckel/[10,11]|noun|1
+voor/[12,13]|prep|hd/obj1|Venetië/[14,15]|name|1
+beeld/[7,8]|noun|hd/mod|spreek_aan/[6,7]|adj|1
+beeld/[7,8]|noun|hd/mod|trefzeker/[5,6]|adj|1
+en/[8,9]|vg|crd/cnj|beeld/[7,8]|noun|1
+en/[8,9]|vg|crd/cnj|verhaal/[9,10]|noun|1
+heer/[17,18]|noun|hd/app|Daegeman/[18,19]|name|1
+heer/[17,18]|noun|hd/det|de/[16,17]|det|1
+in/[4,5]|prep|hd/obj1|en/[8,9]|vg|1
+ontsta/[14,15]|verb|hd/su|portret/[13,14]|noun|1
+portret/[13,14]|noun|hd/det|een/[11,12]|det|1
+portret/[13,14]|noun|hd/mod|levensecht/[12,13]|adj|1
+portret/[13,14]|noun|hd/mod|van/[15,16]|prep|1
+schets/[1,2]|verb|-- / --|./[19,20]|punct|1
+schets/[1,2]|verb|hd/mod|in/[4,5]|prep|1
+schets/[1,2]|verb|hd/mod|zodat/[10,11]|comp|1
+schets/[1,2]|verb|hd/obj1|dat/[0,1]|det|1
+schets/[1,2]|verb|hd/su|Maud Janssens/[2,4]|name|1
+top/top|top|top/hd|schets/[1,2]|verb|1
+van/[15,16]|prep|hd/obj1|heer/[17,18]|noun|1
+verhaal/[9,10]|noun|hd/mod|spreek_aan/[6,7]|adj|1
+verhaal/[9,10]|noun|hd/mod|trefzeker/[5,6]|adj|1
+zodat/[10,11]|comp|cmp/body|ontsta/[14,15]|verb|1
+ben/[5,6]|verb|hd/mod|wel/[3,4]|adj|1
+ben/[5,6]|verb|hd/predc|schokkend/[4,5]|adj|1
+ben/[5,6]|verb|hd/su|roman/[1,2]|noun|1
+ben/[16,17]|verb|hd/mod|van/[17,18]|prep|1
+ben/[16,17]|verb|hd/predc|reet/[20,21]|noun|1
+ben/[16,17]|verb|hd/su|houding/[15,16]|noun|1
+dat/[9,10]|comp|cmp/body|speel/[12,13]|verb|1
+denk/[7,8]|verb|hd/mod|toch/[6,7]|adv|1
+denk/[7,8]|verb|hd/su|ik/[8,9]|pron|1
+denk/[7,8]|verb|hd/vc|dat/[9,10]|comp|1
+houding/[15,16]|noun|hd/det|de/[14,15]|det|1
+kan/[2,3]|verb|-- / --|!/[21,22]|punct|1
+kan/[2,3]|verb|dp/dp|ben/[16,17]|verb|1
+kan/[2,3]|verb|dp/dp|concreet/[13,14]|adj|1
+kan/[2,3]|verb|dp/dp|denk/[7,8]|verb|1
+kan/[2,3]|verb|hd/su|roman/[1,2]|noun|1
+kan/[2,3]|verb|hd/vc|ben/[5,6]|verb|1
+reet/[20,21]|noun|hd/det|mijn/[19,20]|det|1
+roman/[1,2]|noun|hd/det|de/[0,1]|det|1
+speel/[12,13]|verb|hd/mod|er/[10,11]|adv|1
+speel/[12,13]|verb|hd/su|meer/[11,12]|noun|1
+top/top|top|top/hd|kan/[2,3]|verb|1
+van/[17,18]|prep|hd/obj1|lik/[18,19]|noun|1
+top/top|top|top/hd|./[0,1]|punct|1
+en/[4,5]|vg|-- / --|./[11,12]|punct|1
+en/[4,5]|vg|crd/cnj|ten opzichte van/[0,3]|prep|1
+en/[4,5]|vg|crd/cnj|ten opzichte van/[7,10]|prep|1
+ten opzichte van/[0,3]|prep|hd/obj1|alles/[3,4]|noun|1
+ten opzichte van/[7,10]|prep|hd/mod|misschien/[5,6]|adv|1
+ten opzichte van/[7,10]|prep|hd/mod|vooral/[6,7]|adv|1
+ten opzichte van/[7,10]|prep|hd/obj1|vrouw/[10,11]|noun|1
+top/top|top|top/hd|en/[4,5]|vg|1
+Maar,/[0,1]|name|hd/mod|door/[1,2]|prep|1
+ben/[5,6]|verb|hd/su|Maar,/[0,1]|name|1
+ben/[5,6]|verb|hd/vc|ben/[8,9]|verb|1
+ben/[8,9]|verb|hd/predc|bevrijd/[7,8]|adj|1
+ben/[8,9]|verb|hd/su|Maar,/[0,1]|name|1
+ben/[11,12]|verb|hd/mod|in/[12,13]|prep|1
+ben/[11,12]|verb|hd/mod|soms/[15,16]|adv|1
+ben/[11,12]|verb|hd/predc|verfrissend/[16,17]|adj|1
+ben/[11,12]|verb|hd/su|dat/[10,11]|det|1
+bevrijd/[7,8]|adj|hd/obj1|dat/[6,7]|det|1
+door/[1,2]|prep|hd/obj1|ongekunsteldheid/[3,4]|noun|1
+en/[9,10]|vg|-- / --|./[17,18]|punct|1
+en/[9,10]|vg|crd/cnj|ben/[5,6]|verb|1
+en/[9,10]|vg|crd/cnj|ben/[11,12]|verb|1
+in/[12,13]|prep|hd/obj1|literatuur/[14,15]|noun|1
+literatuur/[14,15]|noun|hd/det|de/[13,14]|det|1
+ongekunsteldheid/[3,4]|noun|hd/det|de/[2,3]|det|1
+ongekunsteldheid/[3,4]|noun|hd/mod|ervan/[4,5]|pp|1
+top/top|top|top/hd|en/[9,10]|vg|1
+Janssens/[4,5]|name|hd/mod|die/[10,11]|pron|1
+dat/[3,4]|comp|cmp/body|heb/[9,10]|verb|1
+die/[10,11]|pron|rhd/body|lees/[12,13]|verb|1
+heb/[9,10]|verb|hd/obj1|manier/[6,7]|noun|1
+heb/[9,10]|verb|hd/su|Janssens/[4,5]|name|1
+lees/[12,13]|verb|hd/mod|prettig/[11,12]|adj|1
+lees/[12,13]|verb|hd/su|die/[10,11]|pron|1
+manier/[6,7]|noun|hd/det|een/[5,6]|det|1
+manier/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+top/top|top|top/hd|vind/[1,2]|verb|1
+van/[7,8]|prep|hd/obj1|vertel/[8,9]|verb|1
+vind/[1,2]|verb|-- / --|./[13,14]|punct|1
+vind/[1,2]|verb|hd/mod|ook/[0,1]|adv|1
+vind/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+vind/[1,2]|verb|hd/vc|dat/[3,4]|comp|1
+die/[4,5]|pron|rhd/body|en/[8,9]|vg|1
+en/[8,9]|vg|crd/cnj|heb/[6,7]|verb|1
+en/[8,9]|vg|crd/cnj|moet/[11,12]|verb|1
+heb/[6,7]|verb|hd/su|die/[4,5]|pron|1
+heb/[6,7]|verb|hd/vc|maak_mee/[7,8]|verb|1
+kan/[1,2]|verb|-- / --|./[17,18]|punct|1
+kan/[1,2]|verb|hd/su|schrijver/[3,4]|noun|1
+kan/[1,2]|verb|hd/vc|leer/[16,17]|verb|1
+leer/[16,17]|verb|hd/mod|nog/[13,14]|adv|1
+leer/[16,17]|verb|hd/obj1|wat/[14,15]|det|1
+leer/[16,17]|verb|hd/pc|van/[15,16]|prep|1
+leer/[16,17]|verb|hd/su|schrijver/[3,4]|noun|1
+maak_mee/[7,8]|verb|hd/mod|minder/[5,6]|adj|1
+maak_mee/[7,8]|verb|hd/su|die/[4,5]|pron|1
+moet/[11,12]|verb|hd/su|die/[4,5]|pron|1
+moet/[11,12]|verb|hd/vc|verzin/[12,13]|verb|1
+schrijver/[3,4]|noun|hd/det|sommige/[2,3]|det|1
+schrijver/[3,4]|noun|hd/mod|die/[4,5]|pron|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+van/[15,16]|prep|hd/obj1|daar/[0,1]|adv|1
+verzin/[12,13]|verb|hd/mod|dus/[9,10]|adv|1
+verzin/[12,13]|verb|hd/obj1|meer/[10,11]|adj|1
+verzin/[12,13]|verb|hd/su|die/[4,5]|pron|1

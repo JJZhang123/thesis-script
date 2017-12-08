@@ -1,0 +1,62 @@
+Gentse Oorlog,/[14,16]|name|hd/det|de/[13,14]|det|1
+achterflap/[1,2]|noun|hd/det|de/[0,1]|det|1
+achterflap/[1,2]|noun|hd/mod|van/[2,3]|prep|1
+beloof/[4,5]|verb|hd/obj1|drama/[8,9]|noun|1
+beloof/[4,5]|verb|hd/su|achterflap/[1,2]|noun|1
+blijk/[18,19]|verb|hd/mod|eerder/[23,24]|adj|1
+blijk/[18,19]|verb|hd/mod|helaas/[17,18]|adv|1
+blijk/[18,19]|verb|hd/predc|station_roman_DIM/[26,27]|noun|1
+blijk/[18,19]|verb|hd/su|roman/[22,23]|noun|1
+drama/[8,9]|noun|hd/det|een/[5,6]|det|1
+drama/[8,9]|noun|hd/mod|diepgaand/[6,7]|adj|1
+drama/[8,9]|noun|hd/mod|in/[9,10]|prep|1
+drama/[8,9]|noun|hd/mod|persoonlijk/[7,8]|adj|1
+in/[9,10]|prep|hd/obj1|schaduw/[11,12]|noun|1
+maar/[16,17]|vg|-- / --|./[27,28]|punct|1
+maar/[16,17]|vg|crd/cnj|beloof/[4,5]|verb|1
+maar/[16,17]|vg|crd/cnj|blijk/[18,19]|verb|1
+roman/[22,23]|noun|hd/det|deze/[19,20]|det|1
+roman/[22,23]|noun|hd/mod|historisch/[21,22]|adj|1
+roman/[22,23]|noun|hd/mod|zogenaamd/[20,21]|adj|1
+schaduw/[11,12]|noun|hd/det|de/[10,11]|det|1
+schaduw/[11,12]|noun|hd/mod|van/[12,13]|prep|1
+station_roman_DIM/[26,27]|noun|hd/det|een/[24,25]|det|1
+station_roman_DIM/[26,27]|noun|hd/mod|flauw/[25,26]|adj|1
+top/top|top|top/hd|maar/[16,17]|vg|1
+van/[2,3]|prep|hd/obj1|PROPNAME/[3,4]|name|1
+van/[12,13]|prep|hd/obj1|Gentse Oorlog,/[14,16]|name|1
+Gentse Oorlog/[12,14]|name|hd/det|de/[11,12]|det|1
+ben/[2,3]|verb|hd/obj2|verhaal_lijn/[1,2]|noun|1
+ben/[2,3]|verb|hd/predc|diepgang/[9,10]|noun|1
+ben/[2,3]|verb|hd/su|ontbreek/[6,7]|verb|1
+diepgang/[9,10]|noun|hd/det|de/[7,8]|det|1
+diepgang/[9,10]|noun|hd/mod|nodig/[8,9]|adj|1
+en/[10,11]|vg|-- / --|./[19,20]|punct|1
+en/[10,11]|vg|crd/cnj|ben/[2,3]|verb|1
+en/[10,11]|vg|crd/cnj|kom/[14,15]|verb|1
+kom/[14,15]|verb|hd/mod|vaag/[16,17]|adj|1
+kom/[14,15]|verb|hd/su|Gentse Oorlog/[12,14]|name|1
+kom/[14,15]|verb|hd/svp|aan bod/[17,19]|fixed|1
+ontbreek/[6,7]|verb|hd/mod|onrealistisch/[3,4]|adj|1
+ontbreek/[6,7]|verb|hd/obj2|personage/[5,6]|noun|1
+personage/[5,6]|noun|hd/det|de/[4,5]|det|1
+top/top|top|top/hd|en/[10,11]|vg|1
+vaag/[16,17]|adj|hd/mod|slechts/[15,16]|adv|1
+verhaal_lijn/[1,2]|noun|hd/det|de/[0,1]|det|1
+dan/[13,14]|comparative|cmp/body|roman/[15,16]|noun|1
+dat/[7,8]|comp|cmp/body|luister/[12,13]|verb|1
+fout/[6,7]|noun|hd/mod|historisch/[5,6]|adj|1
+fout/[6,7]|noun|hd/mod|zoveel/[4,5]|adj|1
+luister/[12,13]|verb|hd/mod|nauw/[11,12]|adj|1
+luister/[12,13]|verb|hd/su|term/[9,10]|noun|1
+nauw/[11,12]|adj|hd/obcomp|dan/[13,14]|comparative|1
+roman/[15,16]|noun|hd/mod|historisch/[14,15]|adj|1
+tel/[1,2]|verb|-- / --|./[16,17]|punct|1
+tel/[1,2]|verb|hd/mod|bovendien/[0,1]|adv|1
+tel/[1,2]|verb|hd/obj1|fout/[6,7]|noun|1
+tel/[1,2]|verb|hd/su|verhaal/[3,4]|noun|1
+term/[9,10]|noun|hd/app|science fiction/[10,11]|noun|1
+term/[9,10]|noun|hd/det|de/[8,9]|det|1
+top/top|top|top/hd|tel/[1,2]|verb|1
+verhaal/[3,4]|noun|hd/det|het/[2,3]|det|1
+zoveel/[4,5]|adj|hd/obcomp|dat/[7,8]|comp|1

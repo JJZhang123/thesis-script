@@ -1,0 +1,73 @@
+aan/[6,7]|prep|hd/obj1|fastfoodbehoeften/[8,9]|noun|1
+ben/[16,17]|verb|hd/predc|waar/[18,19]|adj|1
+ben/[16,17]|verb|hd/su|niets/[15,16]|noun|1
+fastfoodbehoeften/[8,9]|noun|hd/det|de/[7,8]|det|1
+fastfoodbehoeften/[8,9]|noun|hd/mod|van/[9,10]|prep|1
+kom_tegemoet/[5,6]|verb|hd/mod|eindelijk/[2,3]|adj|1
+kom_tegemoet/[5,6]|verb|hd/obj2|aan/[6,7]|prep|1
+kom_tegemoet/[5,6]|verb|hd/su|PROPNAME/[0,1]|name|1
+kom_tegemoet/[5,6]|verb|hd/svp|tegemoet/[3,4]|part|1
+lijk/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+lijk/[1,2]|verb|hd/vc|te/[4,5]|comp|1
+maar/[14,15]|vg|-- / --|./[19,20]|punct|1
+maar/[14,15]|vg|crd/cnj|ben/[16,17]|verb|1
+maar/[14,15]|vg|crd/cnj|lijk/[1,2]|verb|1
+onder/[12,13]|prep|hd/obj1|ons/[13,14]|pron|1
+te/[4,5]|comp|cmp/body|kom_tegemoet/[5,6]|verb|1
+top/top|top|top/hd|maar/[14,15]|vg|1
+van/[9,10]|prep|hd/obj1|vegetariër/[11,12]|noun|1
+vegetariër/[11,12]|noun|hd/det|de/[10,11]|det|1
+vegetariër/[11,12]|noun|hd/mod|onder/[12,13]|prep|1
+waar/[18,19]|adj|hd/mod|minder/[17,18]|adj|1
+ben/[3,4]|verb|-- / --|./[15,16]|punct|1
+ben/[3,4]|verb|hd/mod|omdat/[10,11]|comp|1
+ben/[3,4]|verb|hd/mod|uit/[8,9]|prep|1
+ben/[3,4]|verb|hd/obj2|smaakloos, de lasagnas/[4,7]|name|1
+ben/[3,4]|verb|hd/predc|val/[7,8]|verb|1
+ben/[3,4]|verb|hd/su|hamburger/[2,3]|noun|1
+ben/[14,15]|verb|hd/predc|droog/[13,14]|adj|1
+ben/[14,15]|verb|hd/su|ze/[11,12]|pron|1
+droog/[13,14]|adj|hd/mod|zo/[12,13]|adv|1
+hamburger/[2,3]|noun|hd/det|de/[0,1]|det|1
+hamburger/[2,3]|noun|hd/mod|vegetarisch/[1,2]|adj|1
+omdat/[10,11]|comp|cmp/body|ben/[14,15]|verb|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+uit/[8,9]|prep|hd/obj1|elkaar/[9,10]|pron|1
+ben/[2,3]|verb|-- / --|./[17,18]|punct|1
+ben/[2,3]|verb|hd/predc|en/[13,14]|vg|1
+ben/[2,3]|verb|hd/su|salade/[1,2]|noun|1
+dezelfde/[4,5]|det|hd/mod|die/[5,6]|pron|1
+dezelfde/[4,5]|det|hd/mod|net/[3,4]|adv|1
+die/[5,6]|pron|rhd/body|kan/[11,12]|verb|1
+en/[13,14]|vg|crd/cnj|dezelfde/[4,5]|det|1
+en/[13,14]|vg|crd/cnj|van/[14,15]|prep|1
+fastfoodrestaurant/[10,11]|noun|hd/det|ieder/[8,9]|det|1
+fastfoodrestaurant/[10,11]|noun|hd/mod|ander/[9,10]|adj|1
+in/[7,8]|prep|hd/obj1|fastfoodrestaurant/[10,11]|noun|1
+kan/[11,12]|verb|hd/su|je/[6,7]|pron|1
+kan/[11,12]|verb|hd/vc|koop/[12,13]|verb|1
+koop/[12,13]|verb|hd/mod|in/[7,8]|prep|1
+koop/[12,13]|verb|hd/obj1|die/[5,6]|pron|1
+koop/[12,13]|verb|hd/su|je/[6,7]|pron|1
+kwaliteit/[16,17]|noun|hd/mod|slecht/[15,16]|adj|1
+salade/[1,2]|noun|hd/det|de/[0,1]|det|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+van/[14,15]|prep|hd/obj1|kwaliteit/[16,17]|noun|1
+Kortom,/[0,1]|name|-- / --|./[17,18]|punct|1
+Kortom,/[0,1]|name|dp/dp|ben/[14,15]|verb|1
+ben/[14,15]|verb|hd/su|poging/[2,3]|noun|1
+ben/[14,15]|verb|hd/vc|misluk/[16,17]|verb|1
+in/[10,11]|prep|hd/obj1|slogan/[12,13]|noun|1
+maak/[8,9]|verb|hd/mod|zoals/[9,10]|comp|1
+maak/[8,9]|verb|hd/obj1|vegetarian food/[4,6]|name|1
+maak/[8,9]|verb|hd/predc|aantrekkelijk/[6,7]|adj|1
+misluk/[16,17]|verb|hd/mod|grandioos/[15,16]|adj|1
+misluk/[16,17]|verb|hd/su|poging/[2,3]|noun|1
+om/[3,4]|comp|cmp/body|te/[7,8]|comp|1
+poging/[2,3]|noun|hd/det|de/[1,2]|det|1
+poging/[2,3]|noun|hd/vc|om/[3,4]|comp|1
+slogan/[12,13]|noun|hd/det|hun/[11,12]|det|1
+sta/[13,14]|verb|hd/ld|in/[10,11]|prep|1
+te/[7,8]|comp|cmp/body|maak/[8,9]|verb|1
+top/top|top|top/hd|Kortom,/[0,1]|name|1
+zoals/[9,10]|comp|cmp/body|sta/[13,14]|verb|1

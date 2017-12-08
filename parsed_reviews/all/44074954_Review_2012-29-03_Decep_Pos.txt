@@ -1,0 +1,49 @@
+ben/[1,2]|verb|-- / --|./[6,7]|punct|1
+ben/[1,2]|verb|hd/predc|roman/[3,4]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+met/[4,5]|prep|hd/obj1|karakter/[5,6]|noun|1
+roman/[3,4]|noun|hd/det|een/[2,3]|det|1
+roman/[3,4]|noun|hd/mod|met/[4,5]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+aan/[10,11]|prep|hd/obj1|einde/[12,13]|noun|1
+bladzij/[7,8]|noun|hd/app|één/[8,9]|num|1
+einde/[12,13]|noun|hd/det|het/[11,12]|det|1
+en/[13,14]|vg|-- / --|./[18,19]|punct|1
+en/[13,14]|vg|crd/cnj|sleep_mee/[2,3]|verb|1
+en/[13,14]|vg|crd/cnj|verveel/[14,15]|verb|1
+lezer/[4,5]|noun|hd/det|zijn/[3,4]|det|1
+moment/[17,18]|noun|hd/det|enkel/[16,17]|det|1
+moment/[17,18]|noun|hd/det|geen/[15,16]|det|1
+sleep_mee/[2,3]|verb|hd/mod|tot/[9,10]|vg|1
+sleep_mee/[2,3]|verb|hd/obj1|lezer/[4,5]|noun|1
+sleep_mee/[2,3]|verb|hd/su|verhaal/[1,2]|noun|1
+sleep_mee/[2,3]|verb|hd/svp|mee/[5,6]|part|1
+top/top|top|top/hd|en/[13,14]|vg|1
+tot/[9,10]|vg|crd/cnj|aan/[10,11]|prep|1
+tot/[9,10]|vg|crd/cnj|vanaf/[6,7]|prep|1
+vanaf/[6,7]|prep|hd/obj1|bladzij/[7,8]|noun|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+verveel/[14,15]|verb|hd/obj1|moment/[17,18]|noun|1
+verveel/[14,15]|verb|hd/su|verhaal/[1,2]|noun|1
+en/[3,4]|vg|crd/cnj|impact/[2,3]|noun|1
+en/[3,4]|vg|crd/cnj|kracht/[4,5]|noun|1
+en/[5,6]|vg|-- / --|./[14,15]|punct|1
+en/[5,6]|vg|crd/cnj|heb/[1,2]|verb|1
+en/[5,6]|vg|crd/cnj|vertel/[7,8]|verb|1
+heb/[1,2]|verb|hd/obj1|en/[3,4]|vg|1
+heb/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+top/top|top|top/hd|en/[5,6]|vg|1
+verhaal/[13,14]|noun|hd/det|een/[10,11]|det|1
+verhaal/[13,14]|noun|hd/mod|mooi/[12,13]|adj|1
+verhaal/[13,14]|noun|hd/mod|wonderbaarlijk/[11,12]|adj|1
+vertel/[7,8]|verb|hd/mod|tegelijkertijd/[6,7]|adj|1
+vertel/[7,8]|verb|hd/obj1|verhaal/[13,14]|noun|1
+vertel/[7,8]|verb|hd/su|werk/[9,10]|noun|1
+werk/[9,10]|noun|hd/det|het/[8,9]|det|1
+Kortom,/[0,1]|name|-- / --|./[6,7]|punct|1
+Kortom,/[0,1]|name|dp/dp|monument/[2,3]|noun|1
+boek/[5,6]|noun|hd/det|een/[4,5]|det|1
+monument/[2,3]|noun|hd/det|een/[1,2]|det|1
+monument/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+top/top|top|top/hd|Kortom,/[0,1]|name|1
+van/[3,4]|prep|hd/obj1|boek/[5,6]|noun|1

@@ -1,0 +1,157 @@
+Foo Fighters/[7,9]|name|hd/det|de/[6,7]|det|1
+ben/[1,2]|verb|-- / --|./[9,10]|punct|1
+ben/[1,2]|verb|hd/predc|fan/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+fan/[4,5]|noun|hd/det|een/[2,3]|det|1
+fan/[4,5]|noun|hd/mod|enorm/[3,4]|adj|1
+fan/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|Foo Fighters/[7,9]|name|1
+combineer/[1,2]|verb|-- / --|./[9,10]|punct|1
+combineer/[1,2]|verb|hd/obj1|rock/[3,4]|noun|1
+combineer/[1,2]|verb|hd/pc|met/[4,5]|prep|1
+combineer/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+met/[4,5]|prep|hd/obj1|poprock feel/[7,9]|name|1
+poprock feel/[7,9]|name|hd/det|een/[5,6]|det|1
+poprock feel/[7,9]|name|hd/mod|zacht/[6,7]|adj|1
+rock/[3,4]|noun|hd/mod|rauw/[2,3]|adj|1
+top/top|top|top/hd|combineer/[1,2]|verb|1
+aan/[6,7]|prep|hd/obj1|frontman,/[8,9]|noun|1
+bekendheid/[1,2]|noun|hd/det|hun/[0,1]|det|1
+ben/[2,3]|verb|-- / --|./[16,17]|punct|1
+ben/[2,3]|verb|dp/dp|figuur/[15,16]|noun|1
+ben/[2,3]|verb|hd/su|bekendheid/[1,2]|noun|1
+ben/[2,3]|verb|hd/vc|te/[4,5]|comp|1
+bruis/[14,15]|adj|hd/mod|van/[12,13]|prep|1
+dank/[5,6]|verb|hd/mod|mede/[3,4]|adv|1
+dank/[5,6]|verb|hd/obj1|bekendheid/[1,2]|noun|1
+dank/[5,6]|verb|hd/pc|aan/[6,7]|prep|1
+figuur/[15,16]|noun|hd/det|een/[11,12]|det|1
+figuur/[15,16]|noun|hd/mod|bruis/[14,15]|adj|1
+frontman,/[8,9]|noun|hd/app|Dave Grohl,/[9,11]|name|1
+frontman,/[8,9]|noun|hd/det|de/[7,8]|det|1
+te/[4,5]|comp|cmp/body|dank/[5,6]|verb|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+van/[12,13]|prep|hd/obj1|energie/[13,14]|noun|1
+niet/[5,6]|adv|hd/mod|zeker/[4,5]|adj|1
+stel_teleur/[1,2]|verb|-- / --|./[7,8]|punct|1
+stel_teleur/[1,2]|verb|hd/mod|niet/[5,6]|adv|1
+stel_teleur/[1,2]|verb|hd/mod|tijdens/[2,3]|prep|1
+stel_teleur/[1,2]|verb|hd/su|dit/[0,1]|det|1
+stel_teleur/[1,2]|verb|hd/svp|teleur/[6,7]|part|1
+tijdens/[2,3]|prep|hd/obj1|live_optreden/[3,4]|noun|1
+top/top|top|top/hd|stel_teleur/[1,2]|verb|1
+als/[4,5]|comp|cmp/body|vader_figuur/[6,7]|noun|1
+als/[12,13]|comp|cmp/body|rock_figuur/[15,16]|noun|1
+als/[12,13]|comp|cmp/mod|daarnaast/[11,12]|pp|1
+die/[16,17]|pron|rhd/body|haal_uit/[20,21]|verb|1
+en/[18,19]|vg|crd/cnj|grap/[17,18]|noun|1
+en/[18,19]|vg|crd/cnj|grol/[19,20]|noun|1
+haal_uit/[20,21]|verb|hd/obj1|en/[18,19]|vg|1
+haal_uit/[20,21]|verb|hd/su|die/[16,17]|pron|1
+maar/[10,11]|vg|crd/cnj|als/[4,5]|comp|1
+maar/[10,11]|vg|crd/cnj|als/[12,13]|comp|1
+publiek/[9,10]|noun|hd/det|het/[8,9]|det|1
+rock_figuur/[15,16]|noun|hd/det|een/[13,14]|det|1
+rock_figuur/[15,16]|noun|hd/mod|die/[16,17]|pron|1
+rock_figuur/[15,16]|noun|hd/mod|onvoorspelbaar/[14,15]|adj|1
+stel_op/[1,2]|verb|-- / --|./[21,22]|punct|1
+stel_op/[1,2]|verb|hd/predc|maar/[10,11]|vg|1
+stel_op/[1,2]|verb|hd/se|zich/[2,3]|pron|1
+stel_op/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+stel_op/[1,2]|verb|hd/svp|op/[3,4]|part|1
+top/top|top|top/hd|stel_op/[1,2]|verb|1
+vader_figuur/[6,7]|noun|hd/det|een/[5,6]|det|1
+vader_figuur/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+van/[7,8]|prep|hd/obj1|publiek/[9,10]|noun|1
+als/[5,6]|comp|cmp/body|en/[10,11]|vg|1
+bekend/[3,4]|adj|hd/mod|alom/[2,3]|adv|1
+en/[10,11]|vg|crd/cnj|The Pretender, My Hero/[6,10]|name|1
+en/[10,11]|vg|crd/cnj|Wheels/[11,12]|name|1
+heb/[12,13]|verb|hd/mod|nog/[14,15]|adv|1
+heb/[12,13]|verb|hd/obj1|reeks/[17,18]|noun|1
+heb/[12,13]|verb|hd/predm|als/[5,6]|comp|1
+heb/[12,13]|verb|hd/su|ze/[13,14]|pron|1
+lied_DIM/[4,5]|noun|hd/det|de/[1,2]|det|1
+lied_DIM/[4,5]|noun|hd/mod|bekend/[3,4]|adj|1
+lied_DIM/[19,20]|noun|hd/mod|ander/[18,19]|adj|1
+naast/[0,1]|prep|-- / --|./[20,21]|punct|1
+naast/[0,1]|prep|dp/dp|heb/[12,13]|verb|1
+naast/[0,1]|prep|hd/obj1|lied_DIM/[4,5]|noun|1
+reeks/[17,18]|noun|hd/det|een/[15,16]|det|1
+reeks/[17,18]|noun|hd/mod|heel/[16,17]|adj|1
+reeks/[17,18]|noun|hd/mod|lied_DIM/[19,20]|noun|1
+top/top|top|top/hd|naast/[0,1]|prep|1
+achtergrond_muziek/[16,17]|noun|hd/mod|zacht/[15,16]|adj|1
+eerder/[10,11]|adj|hd/mod|al/[9,10]|adv|1
+en/[14,15]|vg|crd/cnj|achtergrond_muziek/[16,17]|noun|1
+en/[14,15]|vg|crd/cnj|blues/[13,14]|noun|1
+ga/[2,3]|verb|-- / --|./[17,18]|punct|1
+ga/[2,3]|verb|hd/ld|tot/[12,13]|prep|1
+ga/[2,3]|verb|hd/mod|van/[3,4]|prep|1
+ga/[2,3]|verb|hd/su|lied_DIM/[1,2]|noun|1
+lied_DIM/[1,2]|noun|hd/det|deze/[0,1]|det|1
+rock/[6,7]|noun|hd/det|de/[4,5]|det|1
+rock/[6,7]|noun|hd/mod|rauw/[5,6]|adj|1
+rock/[6,7]|noun|hd/mod|waarover/[7,8]|pp|1
+spreek/[11,12]|verb|hd/mod|eerder/[10,11]|adj|1
+spreek/[11,12]|verb|hd/pc|waarover/[7,8]|pp|1
+spreek/[11,12]|verb|hd/su|ik/[8,9]|pron|1
+top/top|top|top/hd|ga/[2,3]|verb|1
+tot/[12,13]|prep|hd/obj1|en/[14,15]|vg|1
+van/[3,4]|prep|hd/obj1|rock/[6,7]|noun|1
+waarover/[7,8]|pp|rhd/body|spreek/[11,12]|verb|1
+ben/[3,4]|verb|-- / --|./[10,11]|punct|1
+ben/[3,4]|verb|hd/mod|in/[0,1]|prep|1
+ben/[3,4]|verb|hd/mod|in/[4,5]|prep|1
+ben/[3,4]|verb|hd/predc|zichtbaar/[9,10]|adj|1
+ben/[3,4]|verb|hd/su|patroon/[8,9]|noun|1
+geval/[6,7]|noun|hd/det|ieder/[5,6]|det|1
+in/[0,1]|prep|hd/obj1|lied/[2,3]|noun|1
+in/[4,5]|prep|hd/obj1|geval/[6,7]|noun|1
+lied/[2,3]|noun|hd/det|elk/[1,2]|det|1
+patroon/[8,9]|noun|hd/det|hetzelfde/[7,8]|det|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+en/[7,8]|vg|crd/cnj|herhaling/[6,7]|noun|1
+en/[7,8]|vg|crd/cnj|tekst/[10,11]|noun|1
+herhaling/[6,7]|noun|hd/mod|opbouw, meezing-refrein,/[4,6]|name|1
+herhaling/[6,7]|noun|hd/mod|stevig/[3,4]|adj|1
+intro/[2,3]|noun|-- / --|./[11,12]|punct|1
+intro/[2,3]|noun|dp/dp|en/[7,8]|vg|1
+intro/[2,3]|noun|hd/det|een/[0,1]|det|1
+intro/[2,3]|noun|hd/mod|plots/[1,2]|adj|1
+tekst/[10,11]|noun|hd/det|een/[8,9]|det|1
+tekst/[10,11]|noun|hd/mod|duidelijk/[9,10]|adj|1
+top/top|top|top/hd|intro/[2,3]|noun|1
+band/[16,17]|noun|hd/det|de/[14,15]|det|1
+band/[16,17]|noun|hd/mod|die/[17,18]|pron|1
+band/[16,17]|noun|hd/mod|hecht/[15,16]|adj|1
+band/[25,26]|noun|hd/det|een/[23,24]|det|1
+band/[25,26]|noun|hd/mod|favoriet/[24,25]|adj|1
+ben/[26,27]|verb|hd/predc|band/[25,26]|noun|1
+ben/[26,27]|verb|hd/su|die/[17,18]|pron|1
+die/[17,18]|pron|rhd/body|en/[22,23]|vg|1
+dit/[1,2]|det|hd/mod|in combinatie met/[2,5]|prep|1
+drummer/[12,13]|noun|hd/det|de/[11,12]|det|1
+en/[10,11]|vg|crd/cnj|drummer/[12,13]|noun|1
+en/[10,11]|vg|crd/cnj|front_man/[9,10]|noun|1
+en/[13,14]|vg|crd/cnj|band/[16,17]|noun|1
+en/[13,14]|vg|crd/cnj|rock_figuur/[6,7]|noun|1
+en/[22,23]|vg|crd/cnj|ben/[26,27]|verb|1
+en/[22,23]|vg|crd/cnj|hang/[21,22]|verb|1
+front_man/[9,10]|noun|hd/det|de/[8,9]|det|1
+groep/[20,21]|noun|hd/det|de/[19,20]|det|1
+hang/[21,22]|verb|hd/ld|rond/[18,19]|prep|1
+hang/[21,22]|verb|hd/su|die/[17,18]|pron|1
+in combinatie met/[2,5]|prep|hd/obj1|en/[13,14]|vg|1
+neem/[0,1]|verb|-- / --|./[31,32]|punct|1
+neem/[0,1]|verb|hd/mod|er/[27,28]|adv|1
+neem/[0,1]|verb|hd/mod|voor/[28,29]|prep|1
+neem/[0,1]|verb|hd/obj1|dit/[1,2]|det|1
+rock_figuur/[6,7]|noun|hd/det|het/[5,6]|det|1
+rock_figuur/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+rond/[18,19]|prep|hd/obj1|groep/[20,21]|noun|1
+smaak/[30,31]|noun|hd/det|ieder/[29,30]|det|1
+top/top|top|top/hd|neem/[0,1]|verb|1
+van/[7,8]|prep|hd/obj1|en/[10,11]|vg|1
+voor/[28,29]|prep|hd/obj1|smaak/[30,31]|noun|1

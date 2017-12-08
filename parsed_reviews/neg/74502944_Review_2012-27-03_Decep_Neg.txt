@@ -1,0 +1,150 @@
+Trix/[3,4]|name|hd/mod|op/[4,5]|prep|1
+begin/[10,11]|noun|hd/det|het/[9,10]|det|1
+beloof/[7,8]|verb|-- / --|./[30,31]|punct|1
+beloof/[7,8]|verb|dp/dp|laat/[17,18]|verb|1
+beloof/[7,8]|verb|hd/mod|vanaf/[8,9]|prep|1
+beloof/[7,8]|verb|hd/obj1|weinig/[11,12]|noun|1
+beloof/[7,8]|verb|hd/su|treed_op/[1,2]|verb|1
+betreed/[29,30]|verb|hd/mod|dan/[24,25]|adv|1
+betreed/[29,30]|verb|hd/mod|opgefokt/[25,26]|adj|1
+betreed/[29,30]|verb|hd/obj1|podium/[27,28]|noun|1
+in/[2,3]|prep|hd/obj1|Trix/[3,4]|name|1
+laat/[17,18]|verb|hd/mod|minuut/[19,20]|noun|1
+laat/[17,18]|verb|hd/mod|om/[23,24]|comp|1
+laat/[17,18]|verb|hd/pc|op/[20,21]|prep|1
+laat/[17,18]|verb|hd/su|rapper/[14,15]|noun|1
+laat/[17,18]|verb|hd/svp|wacht/[22,23]|verb|1
+minuut/[19,20]|noun|hd/det|twintig/[18,19]|num|1
+om/[23,24]|comp|cmp/body|te/[28,29]|comp|1
+op/[4,5]|prep|hd/obj1|20 maart/[5,7]|noun|1
+op/[20,21]|prep|hd/se|zich/[21,22]|pron|1
+podium/[27,28]|noun|hd/det|het/[26,27]|det|1
+rapper/[14,15]|noun|hd/det|de/[13,14]|det|1
+rapper/[14,15]|noun|hd/mod|uit/[15,16]|prep|1
+te/[28,29]|comp|cmp/body|betreed/[29,30]|verb|1
+top/top|top|top/hd|beloof/[7,8]|verb|1
+treed_op/[1,2]|verb|hd/ld|propname/[0,1]|noun|1
+treed_op/[1,2]|verb|hd/mod|in/[2,3]|prep|1
+uit/[15,16]|prep|hd/obj1|Manchester/[16,17]|name|1
+vanaf/[8,9]|prep|hd/obj1|begin/[10,11]|noun|1
+weinig/[11,12]|noun|hd/mod|goed/[12,13]|adj|1
+adem/[11,12]|noun|hd/mod|bij/[12,13]|prep|1
+ben/[8,9]|verb|hd/ld|buiten/[10,11]|prep|1
+ben/[8,9]|verb|hd/mod|al/[9,10]|adv|1
+ben/[8,9]|verb|hd/su|hij/[0,1]|pron|1
+bij/[12,13]|prep|hd/obj1|song/[15,16]|noun|1
+buiten/[10,11]|prep|hd/obj1|adem/[11,12]|noun|1
+maar/[7,8]|vg|-- / --|./[18,19]|punct|1
+maar/[7,8]|vg|crd/cnj|ben/[8,9]|verb|1
+maar/[7,8]|vg|crd/cnj|start/[1,2]|verb|1
+met/[3,4]|prep|hd/obj1|Grab ur guns,/[4,7]|name|1
+song/[15,16]|noun|hd/app|Swedish girls/[16,18]|name|1
+song/[15,16]|noun|hd/det|zijn/[13,14]|det|1
+song/[15,16]|noun|hd/mod|tweede/[14,15]|num|1
+start/[1,2]|verb|hd/mod|strak/[2,3]|adj|1
+start/[1,2]|verb|hd/pc|met/[3,4]|prep|1
+start/[1,2]|verb|hd/su|hij/[0,1]|pron|1
+top/top|top|top/hd|maar/[7,8]|vg|1
+dat/[4,5]|comp|cmp/body|kan/[16,17]|verb|1
+doe/[1,2]|verb|-- / --|./[18,19]|punct|1
+doe/[1,2]|verb|dp/dp|verwonder/[3,4]|verb|1
+doe/[1,2]|verb|hd/su|het/[0,1]|det|1
+einde/[7,8]|noun|hd/det|het/[6,7]|det|1
+einde/[7,8]|noun|hd/mod|van/[8,9]|prep|1
+kan/[16,17]|verb|hd/su|PROPNAME/[11,12]|name|1
+kan/[16,17]|verb|hd/vc|mompel/[17,18]|verb|1
+mompel/[17,18]|verb|hd/mod|nog/[13,14]|adv|1
+mompel/[17,18]|verb|hd/mod|op/[5,6]|prep|1
+mompel/[17,18]|verb|hd/obj1|woord/[15,16]|noun|1
+mompel/[17,18]|verb|hd/su|PROPNAME/[11,12]|name|1
+nog/[13,14]|adv|hd/mod|enkel/[12,13]|adv|1
+op/[5,6]|prep|hd/obj1|einde/[7,8]|noun|1
+show/[10,11]|noun|hd/det|de/[9,10]|det|1
+top/top|top|top/hd|doe/[1,2]|verb|1
+van/[8,9]|prep|hd/obj1|show/[10,11]|noun|1
+verwonder/[3,4]|verb|hd/mod|niet/[2,3]|adv|1
+verwonder/[3,4]|verb|hd/su|dat/[4,5]|comp|1
+woord/[15,16]|noun|hd/mod|alleenstaand/[14,15]|adj|1
+blijk/[13,14]|verb|-- / --|./[20,21]|punct|1
+blijk/[13,14]|verb|hd/mod|live/[14,15]|adj|1
+blijk/[13,14]|verb|hd/mod|vooral/[15,16]|adv|1
+blijk/[13,14]|verb|hd/predc|bron/[17,18]|noun|1
+blijk/[13,14]|verb|hd/su|sample/[2,3]|noun|1
+bron/[17,18]|noun|hd/det|een/[16,17]|det|1
+bron/[17,18]|noun|hd/mod|van/[18,19]|prep|1
+die/[7,8]|pron|rhd/body|klink/[12,13]|verb|1
+en/[5,6]|vg|crd/cnj|straat_geluid/[6,7]|noun|1
+en/[5,6]|vg|crd/cnj|tv-tunes/[4,5]|noun|1
+klink/[12,13]|verb|hd/mod|op/[8,9]|prep|1
+klink/[12,13]|verb|hd/predc|opwindend/[11,12]|adj|1
+klink/[12,13]|verb|hd/su|die/[7,8]|pron|1
+op/[8,9]|prep|hd/obj1|plaat/[9,10]|noun|1
+opwindend/[11,12]|adj|hd/mod|zo/[10,11]|adv|1
+sample/[2,3]|noun|hd/det|de/[0,1]|det|1
+sample/[2,3]|noun|hd/mod|typisch/[1,2]|adj|1
+sample/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+straat_geluid/[6,7]|noun|hd/mod|die/[7,8]|pron|1
+top/top|top|top/hd|blijk/[13,14]|verb|1
+tv-tunes/[4,5]|noun|hd/mod|die/[7,8]|pron|1
+van/[3,4]|prep|hd/obj1|en/[5,6]|vg|1
+van/[18,19]|prep|hd/obj1|ergernis/[19,20]|noun|1
+Wayne Rooney/[27,29]|name|hd/det|een/[25,26]|det|1
+Wayne Rooney/[27,29]|name|hd/mod|die/[30,31]|pron|1
+Wayne Rooney/[27,29]|name|hd/mod|dronken/[26,27]|adj|1
+ben/[3,4]|verb|-- / --|./[39,40]|punct|1
+ben/[3,4]|verb|dp/dp|heb/[19,20]|verb|1
+ben/[3,4]|verb|dp/dp|heb/[36,37]|verb|1
+ben/[3,4]|verb|hd/mod|halverwege/[4,5]|prep|1
+ben/[3,4]|verb|hd/su|dieptepunt/[1,2]|noun|1
+ben/[29,30]|verb|hd/predc|Wayne Rooney/[27,29]|name|1
+ben/[29,30]|verb|hd/su|het/[24,25]|det|1
+breng/[13,14]|verb|hd/obj1|cover/[10,11]|noun|1
+breng/[13,14]|verb|hd/su|PROPNAME/[8,9]|name|1
+cover/[10,11]|noun|hd/det|een/[9,10]|det|1
+cover/[10,11]|noun|hd/mod|van/[14,15]|prep|1
+dat/[23,24]|comp|cmp/body|ben/[29,30]|verb|1
+die/[30,31]|pron|rhd/body|sta/[34,35]|verb|1
+dieptepunt/[1,2]|noun|hd/det|het/[0,1]|det|1
+dieptepunt/[1,2]|noun|hd/mod|echter/[2,3]|adv|1
+geloof/[38,39]|verb|hd/obj1|je/[37,38]|pron|1
+geloof/[38,39]|verb|hd/su|ik/[35,36]|pron|1
+halverwege/[4,5]|prep|hd/obj1|optreden/[6,7]|noun|1
+heb/[19,20]|verb|hd/su|je/[20,21]|pron|1
+heb/[19,20]|verb|hd/vc|zeg/[22,23]|verb|1
+heb/[36,37]|verb|hd/su|ik/[35,36]|pron|1
+heb/[36,37]|verb|hd/vc|geloof/[38,39]|verb|1
+op/[31,32]|prep|hd/obj1|podium/[33,34]|noun|1
+optreden/[6,7]|noun|hd/det|het/[5,6]|det|1
+podium/[33,34]|noun|hd/det|het/[32,33]|det|1
+sta/[34,35]|verb|hd/ld|op/[31,32]|prep|1
+sta/[34,35]|verb|hd/su|die/[30,31]|pron|1
+te/[12,13]|comp|cmp/body|breng/[13,14]|verb|1
+toen/[7,8]|comp|cmp/body|tracht/[11,12]|verb|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+tracht/[11,12]|verb|hd/su|PROPNAME/[8,9]|name|1
+tracht/[11,12]|verb|hd/vc|te/[12,13]|comp|1
+van/[14,15]|prep|hd/obj1|Marvin Gayes Sexual healing,/[15,19]|name|1
+zeg/[22,23]|verb|hd/mod|toen/[7,8]|comp|1
+zeg/[22,23]|verb|hd/obj2|me/[21,22]|pron|1
+zeg/[22,23]|verb|hd/su|je/[20,21]|pron|1
+zeg/[22,23]|verb|hd/vc|dat/[23,24]|comp|1
+Raad/[3,4]|name|hd/det|de/[2,3]|det|1
+Raad/[3,4]|name|hd/mod|voor/[4,5]|prep|1
+advies/[0,1]|noun|hd/mod|van/[1,2]|prep|1
+houd_weg/[12,13]|verb|hd/mod|van/[15,16]|prep|1
+houd_weg/[12,13]|verb|hd/mod|ver/[14,15]|adj|1
+houd_weg/[12,13]|verb|hd/obj1|je/[13,14]|pron|1
+houd_weg/[12,13]|verb|hd/predm|zelf/[18,19]|adv|1
+houd_weg/[12,13]|verb|hd/svp|weg/[19,20]|part|1
+maar/[11,12]|vg|-- / --|./[20,21]|punct|1
+maar/[11,12]|vg|crd/cnj|houd_weg/[12,13]|verb|1
+maar/[11,12]|vg|crd/cnj|zet/[6,7]|verb|1
+propname_debuut_album/[8,10]|noun|hd/mod|gerust/[7,8]|adj|1
+rapper/[17,18]|noun|hd/det|de/[16,17]|det|1
+top/top|top|top/hd|maar/[11,12]|vg|1
+van/[1,2]|prep|hd/obj1|Raad/[3,4]|name|1
+van/[15,16]|prep|hd/obj1|rapper/[17,18]|noun|1
+voor/[4,5]|prep|hd/obj1|Volksgezondheid/[5,6]|name|1
+zet/[6,7]|verb|hd/obj1|propname_debuut_album/[8,10]|noun|1
+zet/[6,7]|verb|hd/predc|op/[10,11]|adj|1
+zet/[6,7]|verb|hd/su|advies/[0,1]|noun|1

@@ -1,0 +1,71 @@
+PROPNAME_album/[11,12]|noun|hd/app|XY/[12,13]|name|1
+PROPNAME_album/[11,12]|noun|hd/det|mijn/[9,10]|det|1
+PROPNAME_album/[11,12]|noun|hd/mod|eerste/[10,11]|num|1
+ben/[1,2]|verb|-- / --|./[14,15]|punct|1
+ben/[1,2]|verb|hd/mod|in/[2,3]|prep|1
+ben/[1,2]|verb|hd/su|dat/[7,8]|comp|1
+ben/[1,2]|verb|hd/sup|het/[0,1]|noun|1
+dat/[7,8]|comp|cmp/body|koop/[13,14]|verb|1
+in/[2,3]|prep|hd/obj1|zomer/[4,5]|noun|1
+koop/[13,14]|verb|hd/obj1|PROPNAME_album/[11,12]|noun|1
+koop/[13,14]|verb|hd/su|ik/[8,9]|pron|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|2005/[6,7]|noun|1
+zomer/[4,5]|noun|hd/det|de/[3,4]|det|1
+zomer/[4,5]|noun|hd/mod|van/[5,6]|prep|1
+album/[3,4]|noun|hd/det|het/[2,3]|det|1
+beluister/[7,8]|verb|hd/mod|voor het eerst/[4,7]|adj|1
+beluister/[7,8]|verb|hd/obj1|album/[3,4]|noun|1
+beluister/[7,8]|verb|hd/su|ik/[1,2]|pron|1
+ben/[8,9]|verb|-- / --|./[12,13]|punct|1
+ben/[8,9]|verb|hd/su|ik/[9,10]|pron|1
+ben/[8,9]|verb|hd/vc|verkoop/[11,12]|verb|1
+toen/[0,1]|comp|cmp/body|beluister/[7,8]|verb|1
+top/top|top|top/hd|ben/[8,9]|verb|1
+verkoop/[11,12]|verb|hd/mod|meteen/[10,11]|adv|1
+verkoop/[11,12]|verb|hd/mod|toen/[0,1]|comp|1
+verkoop/[11,12]|verb|hd/obj1|ik/[9,10]|pron|1
+door/[11,12]|prep|hd/obj1|muziek/[13,14]|noun|1
+duur/[1,2]|verb|-- / --|./[14,15]|punct|1
+duur/[1,2]|verb|hd/me|lang/[5,6]|adj|1
+duur/[1,2]|verb|hd/mod|dan/[2,3]|adv|1
+duur/[1,2]|verb|hd/mod|niet/[4,5]|adv|1
+duur/[1,2]|verb|hd/mod|ook/[3,4]|adv|1
+duur/[1,2]|verb|hd/mod|voor/[6,7]|comp|1
+duur/[1,2]|verb|hd/su|het/[0,1]|det|1
+geïntrigeerd/[9,10]|adj|hd/mod|meer/[8,9]|adj|1
+muziek/[13,14]|noun|hd/det|hun/[12,13]|det|1
+raak/[10,11]|verb|hd/mod|door/[11,12]|prep|1
+raak/[10,11]|verb|hd/predc|geïntrigeerd/[9,10]|adj|1
+raak/[10,11]|verb|hd/su|ik/[7,8]|pron|1
+top/top|top|top/hd|duur/[1,2]|verb|1
+voor/[6,7]|comp|cmp/body|raak/[10,11]|verb|1
+concert/[17,18]|noun|hd/mod|onvergetelijk/[16,17]|adj|1
+en/[15,16]|vg|crd/cnj|concert/[17,18]|noun|1
+en/[15,16]|vg|crd/cnj|melodie/[14,15]|noun|1
+heb/[2,3]|verb|-- / --|./[18,19]|punct|1
+heb/[2,3]|verb|dp/dp|met/[9,10]|prep|1
+heb/[2,3]|verb|hd/su|ze/[3,4]|pron|1
+heb/[2,3]|verb|hd/vc|weet/[6,7]|verb|1
+melodie/[14,15]|noun|hd/mod|puur/[13,14]|adj|1
+met/[9,10]|prep|dp/dp|en/[15,16]|vg|1
+met/[9,10]|prep|hd/obj1|songteksten,/[12,13]|noun|1
+songteksten,/[12,13]|noun|hd/det|hun/[10,11]|det|1
+songteksten,/[12,13]|noun|hd/mod|poëtisch/[11,12]|adj|1
+te/[7,8]|comp|cmp/body|verras/[8,9]|verb|1
+top/top|top|top/hd|heb/[2,3]|verb|1
+vanaf/[0,1]|prep|hd/obj1|toen/[1,2]|adv|1
+verras/[8,9]|verb|hd/obj1|me/[4,5]|pron|1
+verras/[8,9]|verb|hd/su|ze/[3,4]|pron|1
+weet/[6,7]|verb|hd/mod|altijd/[5,6]|adv|1
+weet/[6,7]|verb|hd/mod|vanaf/[0,1]|prep|1
+weet/[6,7]|verb|hd/su|ze/[3,4]|pron|1
+weet/[6,7]|verb|hd/vc|te/[7,8]|comp|1
+bezorg/[2,3]|verb|-- / --|./[9,10]|punct|1
+bezorg/[2,3]|verb|hd/mod|keer op keer/[4,7]|adv|1
+bezorg/[2,3]|verb|hd/mod|weer/[7,8]|adv|1
+bezorg/[2,3]|verb|hd/obj1|kippenvel_moment/[8,9]|noun|1
+bezorg/[2,3]|verb|hd/obj2|me/[3,4]|pron|1
+bezorg/[2,3]|verb|hd/su|muziek/[1,2]|noun|1
+muziek/[1,2]|noun|hd/det|hun/[0,1]|det|1
+top/top|top|top/hd|bezorg/[2,3]|verb|1

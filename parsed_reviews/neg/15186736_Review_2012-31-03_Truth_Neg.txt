@@ -1,0 +1,62 @@
+RB-stijl,/[8,9]|name|hd/det|die/[7,8]|det|1
+maak/[1,2]|verb|-- / --|./[14,15]|punct|1
+maak/[1,2]|verb|dp/dp|vind/[10,11]|verb|1
+maak/[1,2]|verb|hd/mod|met/[6,7]|prep|1
+maak/[1,2]|verb|hd/mod|oorspronkelijk/[0,1]|adj|1
+maak/[1,2]|verb|hd/mod|zo/[5,6]|adv|1
+maak/[1,2]|verb|hd/obj1|muziek/[4,5]|noun|1
+maak/[1,2]|verb|hd/su|PROPNAME/[2,3]|name|1
+met/[6,7]|prep|hd/obj1|RB-stijl,/[8,9]|name|1
+muziek/[4,5]|noun|hd/mod|leuk/[3,4]|adj|1
+top/top|top|top/hd|maak/[1,2]|verb|1
+vind/[10,11]|verb|hd/mod|wel/[12,13]|adj|1
+vind/[10,11]|verb|hd/obj1|dat/[9,10]|det|1
+vind/[10,11]|verb|hd/predc|goed/[13,14]|adj|1
+vind/[10,11]|verb|hd/su|ik/[11,12]|pron|1
+aan/[14,15]|prep|hd/obj1|er/[11,12]|adv|1
+en/[6,7]|vg|crd/cnj|outfit/[8,9]|noun|1
+en/[6,7]|vg|crd/cnj|stem/[5,6]|noun|1
+maar/[0,1]|comp|-- / --|./[15,16]|punct|1
+maar/[0,1]|comp|dlink/nucl|nu/[1,2]|tag|1
+met/[2,3]|prep|hd/obj1|en/[6,7]|vg|1
+nu/[1,2]|tag|tag/nucl|vind/[9,10]|verb|1
+outfit/[8,9]|noun|hd/det|haar/[3,4]|det|1
+outfit/[8,9]|noun|hd/mod|overdreven/[7,8]|adj|1
+stem/[5,6]|noun|hd/det|haar/[3,4]|det|1
+stem/[5,6]|noun|hd/mod|zagerig/[4,5]|adj|1
+top/top|top|top/hd|maar/[0,1]|comp|1
+vind/[9,10]|verb|hd/mod|meer/[13,14]|adj|1
+vind/[9,10]|verb|hd/mod|met/[2,3]|prep|1
+vind/[9,10]|verb|hd/obj1|niets/[12,13]|noun|1
+vind/[9,10]|verb|hd/pc|aan/[14,15]|prep|1
+vind/[9,10]|verb|hd/su|ik/[10,11]|pron|1
+afgezaagd/[6,7]|adj|hd/mod|zo/[5,6]|adv|1
+ben/[4,5]|verb|-- / --|... /[9,10]|punct|1
+ben/[4,5]|verb|hd/predc|en/[7,8]|vg|1
+ben/[4,5]|verb|hd/su|mainstream/[1,2]|noun|1
+en/[7,8]|vg|crd/cnj|afgezaagd/[6,7]|adj|1
+en/[7,8]|vg|crd/cnj|voorspelbaar/[8,9]|adj|1
+mainstream/[1,2]|noun|hd/app|poppy vibe/[2,4]|name|1
+mainstream/[1,2]|noun|hd/det|die/[0,1]|det|1
+top/top|top|top/hd|ben/[4,5]|verb|1
+voorspelbaar/[8,9]|adj|hd/mod|zo/[5,6]|adv|1
+Nee,/[0,1]|name|-- / --|!/[21,22]|punct|1
+Nee,/[0,1]|name|dp/dp|heb/[2,3]|verb|1
+en/[10,11]|vg|crd/cnj|jeans/[11,12]|noun|1
+en/[10,11]|vg|crd/cnj|sneakers/[9,10]|noun|1
+heb/[2,3]|verb|hd/mod|lief/[4,5]|adj|1
+heb/[2,3]|verb|hd/mod|toen/[5,6]|comp|1
+heb/[2,3]|verb|hd/obj1|haar/[3,4]|pron|1
+heb/[2,3]|verb|hd/su|ik/[1,2]|pron|1
+in/[16,17]|prep|hd/obj1|legging/[18,19]|noun|1
+in plaats van/[13,16]|comp|cmp/body|in/[16,17]|prep|1
+legging/[18,19]|noun|hd/mod|leren/[17,18]|adj|1
+legging/[18,19]|noun|hd/mod|met/[19,20]|prep|1
+loop_rond/[12,13]|verb|hd/mod|in plaats van/[13,16]|comp|1
+loop_rond/[12,13]|verb|hd/mod|nog/[7,8]|adv|1
+loop_rond/[12,13]|verb|hd/pc|met/[8,9]|prep|1
+loop_rond/[12,13]|verb|hd/su|ze/[6,7]|pron|1
+met/[8,9]|prep|hd/obj1|en/[10,11]|vg|1
+met/[19,20]|prep|hd/obj1|stilettos/[20,21]|noun|1
+toen/[5,6]|comp|cmp/body|loop_rond/[12,13]|verb|1
+top/top|top|top/hd|Nee,/[0,1]|name|1

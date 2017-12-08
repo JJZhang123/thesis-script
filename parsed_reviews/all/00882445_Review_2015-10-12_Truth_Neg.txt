@@ -1,0 +1,76 @@
+in/[0,1]|prep|hd/obj1|PROPNAME/[1,2]|name|1
+nooit/[5,6]|adv|hd/mod|meer/[6,7]|adv|1
+top/top|top|top/hd|zie/[2,3]|verb|1
+zie/[2,3]|verb|-- / --|./[7,8]|punct|1
+zie/[2,3]|verb|hd/mod|in/[0,1]|prep|1
+zie/[2,3]|verb|hd/mod|nooit/[5,6]|adv|1
+zie/[2,3]|verb|hd/obj1|mij/[4,5]|pron|1
+zie/[2,3]|verb|hd/su|ze/[3,4]|pron|1
+broodje/[9,10]|noun|hd/det|de/[5,6]|det|1
+broodje/[9,10]|noun|hd/mod|die/[10,11]|pron|1
+broodje/[9,10]|noun|hd/mod|plat/[8,9]|adj|1
+broodje/[9,10]|noun|hd/mod|vettig/[7,8]|adj|1
+die/[10,11]|pron|rhd/body|zal/[13,14]|verb|1
+lever/[3,4]|verb|-- / --|./[15,16]|punct|1
+lever/[3,4]|verb|hd/obj1|broodje/[9,10]|noun|1
+lever/[3,4]|verb|hd/obj2|je/[4,5]|pron|1
+lever/[3,4]|verb|hd/su|personeel/[2,3]|noun|1
+personeel/[2,3]|noun|hd/det|het/[0,1]|det|1
+personeel/[2,3]|noun|hd/mod|onvriendelijk/[1,2]|adj|1
+top/top|top|top/hd|lever/[3,4]|verb|1
+vettig/[7,8]|adj|hd/mod|meest/[6,7]|adj|1
+vind/[14,15]|verb|hd/mod|ooit/[12,13]|adv|1
+vind/[14,15]|verb|hd/obj1|die/[10,11]|pron|1
+vind/[14,15]|verb|hd/su|je/[11,12]|pron|1
+zal/[13,14]|verb|hd/su|je/[11,12]|pron|1
+zal/[13,14]|verb|hd/vc|vind/[14,15]|verb|1
+beleg/[19,20]|noun|hd/mod|ander/[18,19]|adj|1
+beleg/[19,20]|noun|hd/mod|vettig/[14,15]|adj|1
+ben/[8,9]|verb|hd/su|broodje/[4,5]|noun|1
+ben/[8,9]|verb|hd/vc|en/[10,11]|vg|1
+broodje/[4,5]|noun|hd/det|de/[3,4]|det|1
+drenk/[9,10]|verb|hd/mod|eerst/[5,6]|adv|1
+drenk/[9,10]|verb|hd/mod|in/[6,7]|prep|1
+drenk/[9,10]|verb|hd/mod|met/[13,14]|prep|1
+drenk/[9,10]|verb|hd/obj1|broodje/[4,5]|noun|1
+en/[10,11]|vg|crd/cnj|drenk/[9,10]|verb|1
+en/[10,11]|vg|crd/cnj|vul/[12,13]|verb|1
+in/[6,7]|prep|hd/obj1|olie/[7,8]|noun|1
+kip/[16,17]|noun|hd/mod|gebakken/[15,16]|adj|1
+kip/[16,17]|noun|hd/mod|vettig/[14,15]|adj|1
+lijk/[1,2]|verb|-- / --|./[20,21]|punct|1
+lijk/[1,2]|verb|hd/su|of/[2,3]|comp|1
+lijk/[1,2]|verb|hd/sup|het/[0,1]|noun|1
+met/[13,14]|prep|hd/obj1|of/[17,18]|vg|1
+of/[2,3]|comp|cmp/body|ben/[8,9]|verb|1
+of/[17,18]|vg|crd/cnj|beleg/[19,20]|noun|1
+of/[17,18]|vg|crd/cnj|kip/[16,17]|noun|1
+top/top|top|top/hd|lijk/[1,2]|verb|1
+vul/[12,13]|verb|hd/mod|daarna/[11,12]|pp|1
+vul/[12,13]|verb|hd/mod|eerst/[5,6]|adv|1
+vul/[12,13]|verb|hd/mod|in/[6,7]|prep|1
+vul/[12,13]|verb|hd/mod|met/[13,14]|prep|1
+vul/[12,13]|verb|hd/obj1|broodje/[4,5]|noun|1
+belegd/[13,14]|adj|hd/mod|met/[11,12]|prep|1
+broodje/[14,15]|noun|hd/det|een/[7,8]|det|1
+broodje/[14,15]|noun|hd/mod|belegd/[13,14]|adj|1
+broodje/[14,15]|noun|hd/mod|lekker/[8,9]|adj|1
+en/[10,11]|vg|crd/cnj|broodje/[14,15]|noun|1
+en/[10,11]|vg|crd/cnj|krokant/[9,10]|noun|1
+ga/[15,16]|verb|hd/mod|anders/[19,20]|adj|1
+ga/[15,16]|verb|hd/mod|in/[6,7]|prep|1
+ga/[15,16]|verb|hd/mod|maar/[17,18]|vg|1
+in/[6,7]|prep|hd/obj1|en/[10,11]|vg|1
+krokant/[9,10]|noun|hd/det|een/[7,8]|det|1
+krokant/[9,10]|noun|hd/mod|lekker/[8,9]|adj|1
+maar/[17,18]|vg|crd/cnj|dan/[16,17]|adv|1
+maar/[17,18]|vg|crd/cnj|ergens/[18,19]|adv|1
+met/[11,12]|prep|hd/obj1|groente/[12,13]|noun|1
+toch/[2,3]|adv|-- / --|./[20,21]|punct|1
+toch/[2,3]|adv|-- / --|als/[0,1]|comp|1
+toch/[2,3]|adv|-- / --|heb/[5,6]|verb|1
+toch/[2,3]|adv|-- / --|je/[1,2]|pron|1
+toch/[2,3]|adv|dp/dp|ga/[15,16]|verb|1
+toch/[2,3]|adv|dp/dp|zin/[4,5]|noun|1
+toch/[2,3]|adv|dp/dp|zon/[3,4]|noun|1
+top/top|top|top/hd|toch/[2,3]|adv|1

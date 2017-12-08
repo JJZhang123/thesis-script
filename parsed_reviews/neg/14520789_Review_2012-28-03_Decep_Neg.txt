@@ -1,0 +1,65 @@
+afkooksel/[2,3]|noun|-- / --|./[6,7]|punct|1
+afkooksel/[2,3]|noun|hd/det|een/[0,1]|det|1
+afkooksel/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+afkooksel/[2,3]|noun|hd/mod|zoveelste/[1,2]|num|1
+top/top|top|top/hd|afkooksel/[2,3]|noun|1
+van/[3,4]|prep|hd/obj1|Nothing Hill/[4,6]|name|1
+ben/[1,2]|verb|-- / --|./[9,10]|punct|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+ben/[1,2]|verb|hd/vc|slaag/[3,4]|verb|1
+bevestig/[8,9]|verb|hd/obj1|cliché/[6,7]|noun|1
+bevestig/[8,9]|verb|hd/su|PROPNAME/[0,1]|name|1
+cliché/[6,7]|noun|hd/det|alle/[5,6]|det|1
+erin/[2,3]|pp|hd/vc|om/[4,5]|comp|1
+om/[4,5]|comp|cmp/body|te/[7,8]|comp|1
+slaag/[3,4]|verb|hd/pc|erin/[2,3]|pp|1
+slaag/[3,4]|verb|hd/su|PROPNAME/[0,1]|name|1
+te/[7,8]|comp|cmp/body|bevestig/[8,9]|verb|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+film/[5,6]|noun|hd/mod|voorspelbaar/[4,5]|adj|1
+heb/[1,2]|verb|-- / --|./[7,8]|punct|1
+heb/[1,2]|verb|dp/dp|zie/[6,7]|verb|1
+heb/[1,2]|verb|hd/mod|zelden/[0,1]|adj|1
+heb/[1,2]|verb|hd/obj1|zon/[3,4]|noun|1
+heb/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+zie/[6,7]|verb|hd/obj1|film/[5,6]|noun|1
+acteer_prestatie/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[2,3]|verb|-- / --|./[12,13]|punct|1
+ben/[2,3]|verb|hd/mod|niet/[4,5]|adv|1
+ben/[2,3]|verb|hd/mod|ook/[3,4]|adv|1
+ben/[2,3]|verb|hd/predc|om over naar huis te schrijven/[6,12]|adj|1
+ben/[2,3]|verb|hd/su|acteer_prestatie/[1,2]|noun|1
+niet/[4,5]|adv|hd/mod|bepaald/[5,6]|adj|1
+top/top|top|top/hd|ben/[2,3]|verb|1
+als/[5,6]|comp|cmp/body|en/[8,9]|vg|1
+en/[8,9]|vg|crd/cnj|Gwyneth Paltrow/[6,8]|name|1
+en/[8,9]|vg|crd/cnj|Jude Law/[9,11]|name|1
+ras_acteur/[4,5]|noun|hd/mod|als/[5,6]|comp|1
+schande/[2,3]|noun|-- / --|./[11,12]|punct|1
+schande/[2,3]|noun|hd/det|een/[0,1]|det|1
+schande/[2,3]|noun|hd/mod|regelrecht/[1,2]|adj|1
+schande/[2,3]|noun|hd/mod|voor/[3,4]|prep|1
+top/top|top|top/hd|schande/[2,3]|noun|1
+voor/[3,4]|prep|hd/obj1|ras_acteur/[4,5]|noun|1
+draai/[4,5]|verb|-- / --|./[14,15]|punct|1
+draai/[4,5]|verb|hd/mod|na/[0,1]|prep|1
+draai/[4,5]|verb|hd/mod|reeds/[7,8]|adv|1
+draai/[4,5]|verb|hd/obj1|verlies/[9,10]|noun|1
+draai/[4,5]|verb|hd/su|film/[6,7]|noun|1
+film/[6,7]|noun|hd/det|de/[5,6]|det|1
+miljoen/[12,13]|noun|hd/det|2/[11,12]|num|1
+miljoen/[12,13]|noun|hd/mod|dollar/[13,14]|noun|1
+na/[0,1]|prep|hd/obj1|week/[2,3]|noun|1
+top/top|top|top/hd|draai/[4,5]|verb|1
+van/[10,11]|prep|hd/obj1|miljoen/[12,13]|noun|1
+verlies/[9,10]|noun|hd/det|een/[8,9]|det|1
+verlies/[9,10]|noun|hd/mod|van/[10,11]|prep|1
+week/[2,3]|noun|hd/det|2/[1,2]|num|1
+week/[2,3]|noun|hd/mod|bioscoop/[3,4]|noun|1
+kater/[3,4]|noun|hd/det|een/[1,2]|det|1
+kater/[3,4]|noun|hd/mod|financieel/[2,3]|adj|1
+spreek/[4,5]|verb|-- / --|./[5,6]|punct|1
+spreek/[4,5]|verb|hd/pc|van/[0,1]|prep|1
+top/top|top|top/hd|spreek/[4,5]|verb|1
+van/[0,1]|prep|hd/obj1|kater/[3,4]|noun|1

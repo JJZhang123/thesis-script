@@ -1,0 +1,56 @@
+bedien/[11,12]|verb|hd/mod|in/[0,1]|prep|1
+bedien/[11,12]|verb|hd/mod|laatst/[8,9]|adv|1
+bedien/[11,12]|verb|hd/mod|slecht/[10,11]|adj|1
+bedien/[11,12]|verb|hd/obj1|we/[7,8]|pron|1
+in/[0,1]|prep|hd/obj1|vis_restaurant/[2,3]|noun|1
+slecht/[10,11]|adj|hd/mod|erg/[9,10]|adj|1
+top/top|top|top/hd|word/[6,7]|verb|1
+vis_restaurant/[2,3]|noun|hd/app|The Jellyfisch Joker/[3,6]|name|1
+vis_restaurant/[2,3]|noun|hd/det|het/[1,2]|det|1
+word/[6,7]|verb|-- / --|./[12,13]|punct|1
+word/[6,7]|verb|hd/su|we/[7,8]|pron|1
+word/[6,7]|verb|hd/vc|bedien/[11,12]|verb|1
+gerecht_DIM/[6,7]|noun|hd/det|ons/[5,6]|det|1
+moet/[1,2]|verb|-- / --|./[7,8]|punct|1
+moet/[1,2]|verb|hd/su|we/[0,1]|pron|1
+moet/[1,2]|verb|hd/vc|wacht/[3,4]|verb|1
+op/[4,5]|prep|hd/obj1|gerecht_DIM/[6,7]|noun|1
+top/top|top|top/hd|moet/[1,2]|verb|1
+wacht/[3,4]|verb|hd/mod|uur/[2,3]|noun|1
+wacht/[3,4]|verb|hd/pc|op/[4,5]|prep|1
+wacht/[3,4]|verb|hd/su|we/[0,1]|pron|1
+ben/[20,21]|verb|hd/predc|graat_vrij/[18,19]|adj|1
+ben/[20,21]|verb|hd/su|vis/[17,18]|noun|1
+beweer/[14,15]|verb|hd/su|serveerster/[13,14]|noun|1
+beweer/[14,15]|verb|hd/vc|dat/[15,16]|comp|1
+bij/[3,4]|prep|hd/obj1|ieder/[4,5]|pron|1
+dat/[15,16]|comp|cmp/body|zal/[19,20]|verb|1
+in/[8,9]|prep|hd/obj1|vis/[10,11]|noun|1
+serveerster/[13,14]|noun|hd/det|de/[12,13]|det|1
+terwijl/[11,12]|comp|cmp/body|beweer/[14,15]|verb|1
+top/top|top|top/hd|zit/[1,2]|verb|1
+van/[5,6]|prep|hd/obj1|ons/[6,7]|pron|1
+vis/[10,11]|noun|hd/det|de/[9,10]|det|1
+vis/[17,18]|noun|hd/det|alle/[16,17]|det|1
+zal/[19,20]|verb|hd/su|vis/[17,18]|noun|1
+zal/[19,20]|verb|hd/vc|ben/[20,21]|verb|1
+zit/[1,2]|verb|-- / --|./[21,22]|punct|1
+zit/[1,2]|verb|hd/ld|in/[8,9]|prep|1
+zit/[1,2]|verb|hd/mod|bij/[3,4]|prep|1
+zit/[1,2]|verb|hd/mod|bovendien/[0,1]|adv|1
+zit/[1,2]|verb|hd/mod|er/[2,3]|adv|1
+zit/[1,2]|verb|hd/mod|terwijl/[11,12]|comp|1
+zit/[1,2]|verb|hd/mod|van/[5,6]|prep|1
+zit/[1,2]|verb|hd/su|graat/[7,8]|noun|1
+ding/[3,4]|noun|hd/det|één/[2,3]|num|1
+eet/[9,10]|verb|hd/mod|daar/[4,5]|adv|1
+eet/[9,10]|verb|hd/mod|nooit/[7,8]|adv|1
+eet/[9,10]|verb|hd/su|ik/[6,7]|pron|1
+ga/[5,6]|verb|hd/su|ik/[6,7]|pron|1
+ga/[5,6]|verb|hd/vc|eet/[9,10]|verb|1
+nooit/[7,8]|adv|hd/mod|meer/[8,9]|adv|1
+top/top|top|top/hd|weet/[1,2]|verb|1
+weet/[1,2]|verb|-- / --|!/[10,11]|punct|1
+weet/[1,2]|verb|dp/dp|ga/[5,6]|verb|1
+weet/[1,2]|verb|hd/obj1|ding/[3,4]|noun|1
+weet/[1,2]|verb|hd/su|ik/[0,1]|pron|1

@@ -1,0 +1,56 @@
+album/[2,3]|noun|hd/det|Lanas/[0,1]|det|1
+album/[2,3]|noun|hd/mod|nieuw/[1,2]|adj|1
+autobiografisch/[18,19]|adj|hd/mod|meer/[17,18]|adj|1
+autobiografisch/[18,19]|adj|hd/mod|zeer/[16,17]|adv|1
+autobiografisch/[18,19]|adj|hd/mod|zo/[15,16]|adv|1
+ben/[20,21]|verb|hd/mod|niet/[14,15]|adv|1
+ben/[20,21]|verb|hd/predc|autobiografisch/[18,19]|adj|1
+ben/[20,21]|verb|hd/su|verhaal/[12,13]|noun|1
+boeg/[9,10]|noun|hd/det|een/[6,7]|det|1
+boeg/[9,10]|noun|hd/mod|nieuw/[8,9]|adj|1
+gooi/[3,4]|verb|-- / --|./[21,22]|punct|1
+gooi/[3,4]|verb|dp/dp|lijk/[13,14]|verb|1
+gooi/[3,4]|verb|hd/ld|over/[5,6]|prep|1
+gooi/[3,4]|verb|hd/obj1|het/[4,5]|det|1
+gooi/[3,4]|verb|hd/su|album/[2,3]|noun|1
+lijk/[13,14]|verb|hd/su|verhaal/[12,13]|noun|1
+lijk/[13,14]|verb|hd/vc|te/[19,20]|comp|1
+nieuw/[8,9]|adj|hd/mod|heel/[7,8]|adv|1
+over/[5,6]|prep|hd/obj1|boeg/[9,10]|noun|1
+te/[19,20]|comp|cmp/body|ben/[20,21]|verb|1
+top/top|top|top/hd|gooi/[3,4]|verb|1
+verhaal/[12,13]|noun|hd/det|de/[10,11]|det|1
+verhaal/[12,13]|noun|hd/mod|gezongen/[11,12]|adj|1
+historie/[5,6]|noun|hd/det|meer/[4,5]|adj|1
+historie/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+meer/[4,5]|adj|hd/mod|veel/[3,4]|adj|1
+top/top|top|top/hd|vertel/[1,2]|verb|1
+van/[6,7]|prep|hd/obj1|femme fatale/[7,9]|noun|1
+vertel/[1,2]|verb|-- / --|./[9,10]|punct|1
+vertel/[1,2]|verb|hd/mod|nu/[0,1]|adv|1
+vertel/[1,2]|verb|hd/obj1|historie/[5,6]|noun|1
+vertel/[1,2]|verb|hd/su|ze/[2,3]|pron|1
+die/[7,8]|pron|rhd/body|word/[13,14]|verb|1
+hard/[4,5]|adj|hd/mod|heel/[3,4]|adv|1
+lijn/[6,7]|noun|hd/det|de/[5,6]|det|1
+lijn/[6,7]|noun|hd/mod|die/[7,8]|pron|1
+sinds/[9,10]|prep|hd/mod|al/[8,9]|adv|1
+sinds/[9,10]|prep|hd/obj1|Born to Die/[10,13]|name|1
+top/top|top|top/hd|voel/[1,2]|verb|1
+trek_door/[14,15]|verb|hd/mod|sinds/[9,10]|prep|1
+trek_door/[14,15]|verb|hd/obj1|die/[7,8]|pron|1
+voel/[1,2]|verb|-- / --|./[15,16]|punct|1
+voel/[1,2]|verb|hd/mod|desondanks/[0,1]|adv|1
+voel/[1,2]|verb|hd/mod|hard/[4,5]|adj|1
+voel/[1,2]|verb|hd/obj1|lijn/[6,7]|noun|1
+voel/[1,2]|verb|hd/su|je/[2,3]|pron|1
+word/[13,14]|verb|hd/su|die/[7,8]|pron|1
+word/[13,14]|verb|hd/vc|trek_door/[14,15]|verb|1
+helemaal/[5,6]|adv|hd/mod|steeds/[4,5]|adv|1
+maar/[2,3]|vg|-- / --|./[7,8]|punct|1
+maar/[2,3]|vg|crd/cnj|helemaal/[5,6]|adv|1
+maar/[2,3]|vg|crd/cnj|nieuw/[1,2]|adj|1
+maar/[2,3]|vg|dp/dp|Lana/[6,7]|name|1
+nieuw/[1,2]|adj|hd/mod|helemaal/[0,1]|adv|1
+steeds/[4,5]|adv|hd/mod|nog/[3,4]|adv|1
+top/top|top|top/hd|maar/[2,3]|vg|1

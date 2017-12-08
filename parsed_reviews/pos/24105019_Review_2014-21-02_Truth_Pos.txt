@@ -1,0 +1,166 @@
+PROPNAME Giselle Knowles-Carter,/[6,9]|name|hd/det|de/[4,5]|det|1
+PROPNAME Giselle Knowles-Carter,/[6,9]|name|hd/mod|32_jarig/[5,6]|adj|1
+PROPNAME Giselle Knowles-Carter,/[6,9]|name|hd/mod|als/[11,12]|comp|1
+PROPNAME Giselle Knowles-Carter,/[6,9]|name|hd/mod|bekend/[10,11]|adj|1
+als/[11,12]|comp|cmp/body|propname/[12,13]|noun|1
+bekend/[10,11]|adj|hd/mod|goed/[9,10]|adj|1
+ga/[2,3]|verb|-- / --|./[13,14]|punct|1
+ga/[2,3]|verb|hd/pc|over/[3,4]|prep|1
+ga/[2,3]|verb|hd/su|review/[1,2]|noun|1
+over/[3,4]|prep|hd/obj1|PROPNAME Giselle Knowles-Carter,/[6,9]|name|1
+review/[1,2]|noun|hd/det|deze/[0,1]|det|1
+top/top|top|top/hd|ga/[2,3]|verb|1
+ben/[1,2]|verb|-- / --|... /[6,7]|punct|1
+ben/[1,2]|verb|hd/predc|zangeres, actrice,/[4,6]|name|1
+ben/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+zangeres, actrice,/[4,6]|name|hd/det|een/[2,3]|det|1
+zangeres, actrice,/[4,6]|name|hd/mod|Amerikaans/[3,4]|adj|1
+RB_wereld/[9,10]|noun|hd/det|de/[8,9]|det|1
+en/[0,1]|comp|-- / --|./[10,11]|punct|1
+en/[0,1]|comp|dlink/nucl|vind/[2,3]|verb|1
+in/[7,8]|prep|hd/obj1|RB_wereld/[9,10]|noun|1
+talent/[6,7]|noun|hd/det|het/[4,5]|det|1
+talent/[6,7]|noun|hd/mod|groot/[5,6]|adj|1
+talent/[6,7]|noun|hd/mod|in/[7,8]|prep|1
+top/top|top|top/hd|en/[0,1]|comp|1
+vind/[2,3]|verb|hd/obj1|haar/[3,4]|pron|1
+vind/[2,3]|verb|hd/predc|talent/[6,7]|noun|1
+vind/[2,3]|verb|hd/su|ik/[1,2]|pron|1
+ben/[1,2]|verb|-- / --|./[13,14]|punct|1
+ben/[1,2]|verb|hd/predc|één/[2,3]|num|1
+ben/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+groep_DIM/[10,11]|noun|hd/app|Destinys Child/[11,13]|name|1
+groep_DIM/[10,11]|noun|hd/det|het/[8,9]|det|1
+groep_DIM/[10,11]|noun|hd/mod|bekend/[9,10]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+van/[3,4]|prep|hd/obj1|zangeres/[6,7]|noun|1
+van/[7,8]|prep|hd/obj1|groep_DIM/[10,11]|noun|1
+zangeres/[6,7]|noun|hd/det|de/[4,5]|det|1
+zangeres/[6,7]|noun|hd/det|drie/[5,6]|num|1
+zangeres/[6,7]|noun|hd/mod|van/[7,8]|prep|1
+één/[2,3]|num|hd/mod|van/[3,4]|prep|1
+ben/[9,10]|verb|hd/predc|succes/[8,9]|noun|1
+ben/[9,10]|verb|hd/su|wat/[5,6]|pron|1
+heb/[1,2]|verb|-- / --|./[10,11]|punct|1
+heb/[1,2]|verb|hd/mod|nu/[0,1]|adv|1
+heb/[1,2]|verb|hd/mod|wat/[5,6]|pron|1
+heb/[1,2]|verb|hd/obj1|solo_carrière/[4,5]|noun|1
+heb/[1,2]|verb|hd/su|ze/[2,3]|pron|1
+solo_carrière/[4,5]|noun|hd/det|een/[3,4]|det|1
+succes/[8,9]|noun|hd/det|een/[6,7]|det|1
+succes/[8,9]|noun|hd/mod|groot/[7,8]|adj|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+wat/[5,6]|pron|rhd/body|ben/[9,10]|verb|1
+Grammys/[8,9]|name|hd/det|enkel/[7,8]|det|1
+beloon/[5,6]|verb|hd/mod|met/[6,7]|prep|1
+beloon/[5,6]|verb|hd/mod|reeds/[4,5]|adv|1
+beloon/[5,6]|verb|hd/obj1|werk/[2,3]|noun|1
+ben/[3,4]|verb|-- / --|./[9,10]|punct|1
+ben/[3,4]|verb|hd/su|werk/[2,3]|noun|1
+ben/[3,4]|verb|hd/vc|beloon/[5,6]|verb|1
+met/[6,7]|prep|hd/obj1|Grammys/[8,9]|name|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+werk/[2,3]|noun|hd/det|haar/[0,1]|det|1
+werk/[2,3]|noun|hd/mod|hard/[1,2]|adj|1
+Sportpaleis/[21,22]|name|hd/det|het/[20,21]|det|1
+Sportpaleis/[21,22]|name|hd/mod|te/[22,23]|prep|1
+ben/[1,2]|verb|hd/su|ze/[0,1]|pron|1
+ben/[1,2]|verb|hd/vc|ben/[7,8]|verb|1
+ben/[7,8]|verb|hd/ld|in/[5,6]|prep|1
+ben/[7,8]|verb|hd/mod|al/[2,3]|adv|1
+ben/[7,8]|verb|hd/mod|maal/[4,5]|noun|1
+ben/[7,8]|verb|hd/su|ze/[0,1]|pron|1
+ben/[10,11]|verb|hd/su|ik/[9,10]|pron|1
+ben/[10,11]|verb|hd/vc|ga/[17,18]|verb|1
+en/[8,9]|vg|-- / --|./[24,25]|punct|1
+en/[8,9]|vg|crd/cnj|ben/[1,2]|verb|1
+en/[8,9]|vg|crd/cnj|ben/[10,11]|verb|1
+ga/[17,18]|verb|hd/su|ik/[9,10]|pron|1
+ga/[17,18]|verb|hd/vc|kijk/[18,19]|verb|1
+in/[5,6]|prep|hd/obj1|België/[6,7]|name|1
+in/[19,20]|prep|hd/obj1|Sportpaleis/[21,22]|name|1
+keer/[13,14]|noun|hd/det|twee/[12,13]|num|1
+keer/[13,14]|noun|hd/mod|al/[11,12]|adv|1
+kijk/[18,19]|verb|hd/ld|naar/[14,15]|prep|1
+kijk/[18,19]|verb|hd/mod|keer/[13,14]|noun|1
+kijk/[18,19]|verb|hd/su|ik/[9,10]|pron|1
+maal/[4,5]|noun|hd/mod|verschil/[3,4]|adj|1
+naar/[14,15]|prep|hd/obj1|optreden/[16,17]|noun|1
+optreden/[16,17]|noun|hd/det|haar/[15,16]|det|1
+optreden/[16,17]|noun|hd/mod|in/[19,20]|prep|1
+te/[22,23]|prep|hd/obj1|Antwerpen/[23,24]|name|1
+top/top|top|top/hd|en/[8,9]|vg|1
+heb/[1,2]|verb|-- / --|!/[7,8]|punct|1
+heb/[1,2]|verb|hd/mod|zeker/[3,4]|adj|1
+heb/[1,2]|verb|hd/obj1|spijt/[5,6]|noun|1
+heb/[1,2]|verb|hd/pc|van/[6,7]|prep|1
+heb/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+spijt/[5,6]|noun|hd/det|geen/[4,5]|det|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+van/[6,7]|prep|hd/obj1|hier/[0,1]|adv|1
+geef/[4,5]|verb|hd/mod|ook/[8,9]|adv|1
+geef/[4,5]|verb|hd/obj1|show/[11,12]|noun|1
+geef/[4,5]|verb|hd/obj2|toeschouwer/[7,8]|noun|1
+geef/[4,5]|verb|hd/su|ze/[5,6]|pron|1
+show/[11,12]|noun|hd/det|een/[9,10]|det|1
+show/[11,12]|noun|hd/mod|spetter/[10,11]|adj|1
+te/[2,3]|comp|-- / --|./[12,13]|punct|1
+te/[2,3]|comp|cmp/body|zing/[3,4]|verb|1
+te/[2,3]|comp|dp/dp|geef/[4,5]|verb|1
+toeschouwer/[7,8]|noun|hd/det|de/[6,7]|det|1
+top/top|top|top/hd|te/[2,3]|comp|1
+zing/[3,4]|verb|hd/mod|buiten/[0,1]|adv|1
+zing/[3,4]|verb|hd/mod|fantastisch/[1,2]|adj|1
+ik/[7,8]|pron|hd/mod|ook/[6,7]|adv|1
+kijk/[2,3]|verb|-- / --|./[8,9]|punct|1
+kijk/[2,3]|verb|dp/dp|ik/[7,8]|pron|1
+kijk/[2,3]|verb|dp/dp|op/[5,6]|adj|1
+kijk/[2,3]|verb|hd/ld|naar/[3,4]|prep|1
+kijk/[2,3]|verb|hd/su|mens/[1,2]|noun|1
+mens/[1,2]|noun|hd/det|veel/[0,1]|adj|1
+naar/[3,4]|prep|hd/obj1|haar/[4,5]|pron|1
+top/top|top|top/hd|kijk/[2,3]|verb|1
+ben/[1,2]|verb|-- / --|./[8,9]|punct|1
+ben/[1,2]|verb|hd/su|zij/[0,1]|pron|1
+ben/[1,2]|verb|hd/vc|word/[3,4]|verb|1
+door/[4,5]|prep|hd/obj1|stem/[7,8]|noun|1
+stem/[7,8]|noun|hd/det|haar/[5,6]|det|1
+stem/[7,8]|noun|hd/mod|fantastisch/[6,7]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+word/[3,4]|verb|hd/mod|door/[4,5]|prep|1
+word/[3,4]|verb|hd/predc|fameus/[2,3]|adj|1
+word/[3,4]|verb|hd/su|zij/[0,1]|pron|1
+aan/[7,8]|prep|hd/obj1|haar/[8,9]|pron|1
+celebrities/[2,3]|noun|hd/det|veel/[0,1]|adj|1
+celebrities/[2,3]|noun|hd/mod|ander/[1,2]|adj|1
+neem/[9,10]|verb|hd/ld|aan/[7,8]|prep|1
+neem/[9,10]|verb|hd/mod|goed/[4,5]|adj|1
+neem/[9,10]|verb|hd/obj1|voorbeeld/[6,7]|noun|1
+neem/[9,10]|verb|hd/su|celebrities/[2,3]|noun|1
+top/top|top|top/hd|zal/[3,4]|verb|1
+voorbeeld/[6,7]|noun|hd/det|een/[5,6]|det|1
+zal/[3,4]|verb|-- / --|./[10,11]|punct|1
+zal/[3,4]|verb|hd/su|celebrities/[2,3]|noun|1
+zal/[3,4]|verb|hd/vc|neem/[9,10]|verb|1
+dan/[9,10]|comparative|cmp/body|door/[10,11]|prep|1
+door/[7,8]|prep|hd/obj1|schandaal/[8,9]|noun|1
+door/[10,11]|prep|hd/obj1|lied_DIM/[13,14]|noun|1
+in/[4,5]|prep|hd/obj1|medium/[6,7]|noun|1
+kom/[2,3]|verb|-- / --|./[14,15]|punct|1
+kom/[2,3]|verb|hd/ld|in/[4,5]|prep|1
+kom/[2,3]|verb|hd/mod|meer/[3,4]|adj|1
+kom/[2,3]|verb|hd/su|zangeres/[1,2]|noun|1
+lied_DIM/[13,14]|noun|hd/det|hun/[11,12]|det|1
+lied_DIM/[13,14]|noun|hd/mod|geproduceerd/[12,13]|adj|1
+medium/[6,7]|noun|hd/det|de/[5,6]|det|1
+medium/[6,7]|noun|hd/mod|door/[7,8]|prep|1
+meer/[3,4]|adj|hd/obcomp|dan/[9,10]|comparative|1
+top/top|top|top/hd|kom/[2,3]|verb|1
+zangeres/[1,2]|noun|hd/mod|bepaald/[0,1]|adj|1
+ben/[1,2]|verb|-- / --|!/[5,6]|punct|1
+ben/[1,2]|verb|hd/predc|pop_idool/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+pop_idool/[4,5]|noun|hd/det|een/[2,3]|det|1
+pop_idool/[4,5]|noun|hd/mod|echt/[3,4]|adj|1
+top/top|top|top/hd|ben/[1,2]|verb|1

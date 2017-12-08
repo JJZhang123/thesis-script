@@ -1,0 +1,63 @@
+Engels/[29,30]|noun|hd/det|het/[28,29]|det|1
+alleen/[25,26]|adv|hd/mod|maar/[26,27]|adv|1
+ben/[3,4]|verb|-- / --|./[30,31]|punct|1
+ben/[3,4]|verb|dp/dp|maar/[18,19]|vg|1
+ben/[3,4]|verb|hd/predc|toestel/[5,6]|noun|1
+ben/[3,4]|verb|hd/su|propname/[2,3]|noun|1
+ben/[20,21]|verb|hd/ld|in/[27,28]|prep|1
+ben/[20,21]|verb|hd/mod|en/[24,25]|vg|1
+ben/[20,21]|verb|hd/mod|niet/[21,22]|adv|1
+ben/[20,21]|verb|hd/su|deze/[19,20]|det|1
+en/[24,25]|vg|crd/cnj|alleen/[25,26]|adv|1
+en/[24,25]|vg|crd/cnj|ontwikkeld/[23,24]|adj|1
+in/[27,28]|prep|hd/obj1|Engels/[29,30]|noun|1
+kan/[11,12]|verb|hd/su|je/[12,13]|pron|1
+kan/[11,12]|verb|hd/vc|maak/[14,15]|verb|1
+maak/[14,15]|verb|hd/mod|zo/[10,11]|adv|1
+maak/[14,15]|verb|hd/obj1|gebruik/[13,14]|noun|1
+maak/[14,15]|verb|hd/pc|van/[15,16]|prep|1
+maak/[14,15]|verb|hd/su|je/[12,13]|pron|1
+maar/[18,19]|vg|crd/cnj|ben/[20,21]|verb|1
+maar/[18,19]|vg|crd/cnj|kan/[11,12]|verb|1
+met/[6,7]|prep|hd/obj1|technologie/[9,10]|noun|1
+ontwikkeld/[23,24]|adj|hd/mod|goed/[22,23]|adj|1
+propname/[2,3]|noun|hd/det|de/[0,1]|det|1
+propname/[2,3]|noun|hd/mod|nieuw/[1,2]|adj|1
+spraak_technologie/[17,18]|noun|hd/det|de/[16,17]|det|1
+technologie/[9,10]|noun|hd/mod|nieuw/[8,9]|adj|1
+technologie/[9,10]|noun|hd/mod|wonderbaarlijk/[7,8]|adj|1
+toestel/[5,6]|noun|hd/det|een/[4,5]|det|1
+toestel/[5,6]|noun|hd/mod|met/[6,7]|prep|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+van/[15,16]|prep|hd/obj1|spraak_technologie/[17,18]|noun|1
+ben/[9,10]|verb|hd/mod|niet/[5,6]|adv|1
+ben/[9,10]|verb|hd/predc|in gebruik/[7,9]|adj|1
+ben/[9,10]|verb|hd/su|toestel/[4,5]|noun|1
+dat/[2,3]|comp|cmp/body|ben/[9,10]|verb|1
+in gebruik/[7,9]|adj|hd/mod|gemakkelijk/[6,7]|adj|1
+kom/[1,2]|verb|-- / --|./[10,11]|punct|1
+kom/[1,2]|verb|hd/pc|daarbij/[0,1]|pp|1
+kom/[1,2]|verb|hd/su|dat/[2,3]|comp|1
+toestel/[4,5]|noun|hd/det|het/[3,4]|det|1
+top/top|top|top/hd|kom/[1,2]|verb|1
+besef/[17,18]|verb|hd/mod|zonder/[13,14]|prep|1
+besef/[17,18]|verb|hd/obj1|het/[15,16]|det|1
+besef/[17,18]|verb|hd/predm|zelf/[16,17]|adv|1
+honderden/[11,12]|noun|hd/mod|euro_ros/[12,13]|noun|1
+internet/[1,2]|noun|hd/det|het/[0,1]|det|1
+internet/[1,2]|noun|hd/mod|waardoor/[5,6]|pp|1
+kan/[8,9]|verb|hd/su|rekening/[7,8]|noun|1
+kan/[8,9]|verb|hd/vc|loop_op/[9,10]|verb|1
+loop_op/[9,10]|verb|hd/ld|tot/[10,11]|prep|1
+loop_op/[9,10]|verb|hd/mod|waardoor/[5,6]|pp|1
+loop_op/[9,10]|verb|hd/su|rekening/[7,8]|noun|1
+rekening/[7,8]|noun|hd/det|je/[6,7]|det|1
+sla_aan/[2,3]|verb|-- / --|./[18,19]|punct|1
+sla_aan/[2,3]|verb|dp/dp|besef/[17,18]|verb|1
+sla_aan/[2,3]|verb|hd/mod|zomaar/[3,4]|adv|1
+sla_aan/[2,3]|verb|hd/su|internet/[1,2]|noun|1
+sla_aan/[2,3]|verb|hd/svp|aan/[4,5]|part|1
+top/top|top|top/hd|sla_aan/[2,3]|verb|1
+tot/[10,11]|prep|hd/obj1|honderden/[11,12]|noun|1
+waardoor/[5,6]|pp|rhd/body|kan/[8,9]|verb|1
+zonder/[13,14]|prep|hd/obj1|je/[14,15]|pron|1

@@ -1,0 +1,50 @@
+heb/[1,2]|verb|-- / --|./[9,10]|punct|1
+heb/[1,2]|verb|hd/mod|sinds/[2,3]|prep|1
+heb/[1,2]|verb|hd/obj1|pizza/[8,9]|noun|1
+heb/[1,2]|verb|hd/su|PROPNAME/[0,1]|name|1
+pizza/[8,9]|noun|hd/det|een/[4,5]|det|1
+pizza/[8,9]|noun|hd/mod|meat lovers/[6,8]|name|1
+pizza/[8,9]|noun|hd/mod|nieuw/[5,6]|adj|1
+sinds/[2,3]|prep|hd/obj1|kort/[3,4]|adj|1
+top/top|top|top/hd|heb/[1,2]|verb|1
+combinatie/[2,3]|noun|hd/det|de/[0,1]|det|1
+combinatie/[2,3]|noun|hd/mod|heerlijk/[1,2]|adj|1
+combinatie/[2,3]|noun|hd/mod|van/[3,4]|prep|1
+en/[7,8]|vg|crd/cnj|combinatie/[2,3]|noun|1
+en/[7,8]|vg|crd/cnj|saus/[11,12]|noun|1
+saus/[11,12]|noun|hd/det|de/[8,9]|det|1
+saus/[11,12]|noun|hd/mod|kruidig/[10,11]|adj|1
+saus/[11,12]|noun|hd/mod|overbekend/[9,10]|adj|1
+smaak_sensatie/[16,17]|noun|hd/det|een/[14,15]|det|1
+smaak_sensatie/[16,17]|noun|hd/mod|waar/[15,16]|adj|1
+stuk/[5,6]|noun|hd/mod|divers/[4,5]|adj|1
+stuk/[5,6]|noun|hd/mod|vlees/[6,7]|noun|1
+top/top|top|top/hd|zorg/[12,13]|verb|1
+van/[3,4]|prep|hd/obj1|stuk/[5,6]|noun|1
+voor/[13,14]|prep|hd/obj1|smaak_sensatie/[16,17]|noun|1
+zorg/[12,13]|verb|-- / --|!/[17,18]|punct|1
+zorg/[12,13]|verb|hd/pc|voor/[13,14]|prep|1
+zorg/[12,13]|verb|hd/su|en/[7,8]|vg|1
+habbekrats/[7,8]|noun|hd/det|een/[6,7]|det|1
+in het kader van/[9,13]|prep|hd/obj1|restaurant_actie/[15,16]|noun|1
+kan/[1,2]|verb|-- / --|./[16,17]|punct|1
+kan/[1,2]|verb|hd/su|je/[2,3]|pron|1
+kan/[1,2]|verb|hd/vc|proef/[8,9]|verb|1
+pizza/[4,5]|noun|hd/det|deze/[3,4]|det|1
+pizza/[4,5]|noun|hd/mod|voor/[5,6]|prep|1
+proef/[8,9]|verb|hd/mod|in het kader van/[9,13]|prep|1
+proef/[8,9]|verb|hd/mod|momenteel/[0,1]|adj|1
+proef/[8,9]|verb|hd/obj1|pizza/[4,5]|noun|1
+proef/[8,9]|verb|hd/su|je/[2,3]|pron|1
+restaurant_actie/[15,16]|noun|hd/det|een/[13,14]|det|1
+restaurant_actie/[15,16]|noun|hd/mod|speciaal/[14,15]|adj|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+voor/[5,6]|prep|hd/obj1|habbekrats/[7,8]|noun|1
+pizza_liefhebber/[4,5]|noun|hd/det|ieder/[3,4]|det|1
+raad_aan/[1,2]|verb|-- / --|./[7,8]|punct|1
+raad_aan/[1,2]|verb|hd/mod|zeker/[5,6]|adj|1
+raad_aan/[1,2]|verb|hd/obj1|dit/[0,1]|det|1
+raad_aan/[1,2]|verb|hd/obj2|pizza_liefhebber/[4,5]|noun|1
+raad_aan/[1,2]|verb|hd/su|ik/[2,3]|pron|1
+raad_aan/[1,2]|verb|hd/svp|aan/[6,7]|part|1
+top/top|top|top/hd|raad_aan/[1,2]|verb|1

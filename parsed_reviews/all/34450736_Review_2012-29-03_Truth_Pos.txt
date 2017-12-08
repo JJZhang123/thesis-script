@@ -1,0 +1,66 @@
+2/[2,3]|noun|hd/mod|PROPNAME part/[0,2]|name|1
+ander/[16,17]|adj|hd/det|de/[15,16]|det|1
+ben/[3,4]|verb|-- / --|./[34,35]|punct|1
+ben/[3,4]|verb|-- / --|op/[21,22]|part|1
+ben/[3,4]|verb|-- / --|tegen/[20,21]|prep|1
+ben/[3,4]|verb|dp/dp|heb/[10,11]|verb|1
+ben/[3,4]|verb|dp/dp|ik/[7,8]|pron|1
+ben/[3,4]|verb|dp/dp|zie/[22,23]|verb|1
+ben/[3,4]|verb|hd/predc|film/[5,6]|noun|1
+ben/[3,4]|verb|hd/su|2/[2,3]|noun|1
+dat/[27,28]|comp|cmp/body|zal/[32,33]|verb|1
+eindig/[33,34]|verb|hd/su|fenomeen/[31,32]|noun|1
+enorm/[9,10]|adj|hd/mod|lang/[8,9]|adj|1
+fenomeen/[31,32]|noun|hd/det|het/[28,29]|det|1
+fenomeen/[31,32]|noun|hd/mod|Harry Potter/[29,31]|name|1
+film/[5,6]|noun|hd/det|een/[4,5]|det|1
+film/[5,6]|noun|hd/mod|waar/[6,7]|adv|1
+heb/[10,11]|verb|hd/mod|maar/[13,14]|vg|1
+heb/[10,11]|verb|hd/mod|ook/[18,19]|adv|1
+heb/[10,11]|verb|hd/mod|wel/[19,20]|adj|1
+heb/[10,11]|verb|hd/obj1|kant/[17,18]|noun|1
+ik/[7,8]|pron|dp/dp|enorm/[9,10]|adj|1
+langs/[14,15]|prep|hd/obj1|ander/[16,17]|adj|1
+maar/[13,14]|vg|crd/cnj|langs/[14,15]|prep|1
+maar/[13,14]|vg|crd/cnj|uitgekeken/[12,13]|adj|1
+omdat/[23,24]|comp|cmp/body|wil/[26,27]|verb|1
+top/top|top|top/hd|ben/[3,4]|verb|1
+uitgekeken/[12,13]|adj|hd/mod|naar/[11,12]|adj|1
+wil/[26,27]|verb|hd/mod|niet/[25,26]|adv|1
+wil/[26,27]|verb|hd/su|ik/[24,25]|pron|1
+wil/[26,27]|verb|hd/vc|dat/[27,28]|comp|1
+zal/[32,33]|verb|hd/su|fenomeen/[31,32]|noun|1
+zal/[32,33]|verb|hd/vc|eindig/[33,34]|verb|1
+zie/[22,23]|verb|hd/mod|omdat/[23,24]|comp|1
+resultaat/[1,2]|noun|hd/det|het/[0,1]|det|1
+stel_teleur/[2,3]|verb|-- / --|./[5,6]|punct|1
+stel_teleur/[2,3]|verb|hd/mod|niet/[3,4]|adv|1
+stel_teleur/[2,3]|verb|hd/su|resultaat/[1,2]|noun|1
+stel_teleur/[2,3]|verb|hd/svp|teleur/[4,5]|part|1
+top/top|top|top/hd|stel_teleur/[2,3]|verb|1
+ben/[13,14]|verb|hd/predc|mogelijk/[12,13]|adj|1
+ben/[13,14]|verb|hd/su|dat/[11,12]|det|1
+boek/[8,9]|noun|hd/det|het/[7,8]|det|1
+en/[14,15]|vg|crd/cnj|ben/[13,14]|verb|1
+en/[14,15]|vg|crd/cnj|weet/[15,16]|verb|1
+erg/[21,22]|adj|hd/mod|heel/[20,21]|adv|1
+film/[1,2]|noun|hd/det|de/[0,1]|det|1
+moment/[19,20]|noun|hd/mod|verschil/[18,19]|adj|1
+ontroer/[23,24]|verb|hd/mod|erg/[21,22]|adj|1
+ontroer/[23,24]|verb|hd/mod|op/[17,18]|prep|1
+ontroer/[23,24]|verb|hd/obj1|me/[16,17]|pron|1
+ontroer/[23,24]|verb|hd/su|dat/[11,12]|det|1
+op/[17,18]|prep|hd/obj1|moment/[19,20]|noun|1
+te/[22,23]|comp|cmp/body|ontroer/[23,24]|verb|1
+top/top|top|top/hd|volg/[5,6]|verb|1
+vol/[3,4]|prep|hd/obj1|actie/[4,5]|noun|1
+volg/[5,6]|verb|-- / --|./[24,25]|punct|1
+volg/[5,6]|verb|hd/mod|goed/[6,7]|adj|1
+volg/[5,6]|verb|hd/mod|voorzover/[9,11]|comp|1
+volg/[5,6]|verb|hd/predm|zat/[2,3]|adj|1
+volg/[5,6]|verb|hd/su|boek/[8,9]|noun|1
+voorzover/[9,11]|comp|cmp/body|en/[14,15]|vg|1
+weet/[15,16]|verb|hd/su|dat/[11,12]|det|1
+weet/[15,16]|verb|hd/vc|te/[22,23]|comp|1
+zat/[2,3]|adj|hd/mod|vol/[3,4]|prep|1
+zat/[2,3]|adj|hd/obj1|film/[1,2]|noun|1

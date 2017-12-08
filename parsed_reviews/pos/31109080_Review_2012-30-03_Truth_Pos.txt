@@ -1,0 +1,143 @@
+en/[8,9]|vg|crd/cnj|Amir/[7,8]|name|1
+en/[8,9]|vg|crd/cnj|Hassan/[9,10]|name|1
+ga/[3,4]|verb|-- / --|./[10,11]|punct|1
+ga/[3,4]|verb|hd/pc|over/[4,5]|prep|1
+ga/[3,4]|verb|hd/su|verhaal/[2,3]|noun|1
+jongen/[6,7]|noun|hd/app|en/[8,9]|vg|1
+jongen/[6,7]|noun|hd/det|twee/[5,6]|num|1
+over/[4,5]|prep|hd/obj1|jongen/[6,7]|noun|1
+top/top|top|top/hd|ga/[3,4]|verb|1
+verhaal/[2,3]|noun|hd/det|het/[0,1]|det|1
+verhaal/[2,3]|noun|hd/mod|indrukwekkend/[1,2]|adj|1
+arm/[19,20]|adj|hd/det|de/[18,19]|det|1
+behoor/[7,8]|verb|hd/pc|tot/[8,9]|prep|1
+behoor/[7,8]|verb|hd/su|Amir/[6,7]|name|1
+behoor/[21,22]|verb|hd/mod|tot/[17,18]|prep|1
+behoor/[21,22]|verb|hd/obj2|groep/[20,21]|noun|1
+ben/[1,2]|verb|hd/predc|vriendschap/[4,5]|noun|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+bevolking_groep/[11,12]|noun|hd/det|de/[9,10]|det|1
+bevolking_groep/[11,12]|noun|hd/mod|in tegenstelling tot/[12,15]|prep|1
+bevolking_groep/[11,12]|noun|hd/mod|rijk/[10,11]|adj|1
+in tegenstelling tot/[12,15]|prep|hd/obj1|Hassan/[15,16]|name|1
+top/top|top|top/hd|want/[5,6]|vg|1
+tot/[8,9]|prep|hd/obj1|bevolking_groep/[11,12]|noun|1
+tot/[17,18]|prep|hd/obj1|arm/[19,20]|adj|1
+vriendschap/[4,5]|noun|hd/det|een/[2,3]|det|1
+vriendschap/[4,5]|noun|hd/mod|speciaal/[3,4]|adj|1
+want/[5,6]|vg|-- / --|./[22,23]|punct|1
+want/[5,6]|vg|crd/cnj|behoor/[7,8]|verb|1
+want/[5,6]|vg|crd/cnj|ben/[1,2]|verb|1
+want/[5,6]|vg|dp/dp|behoor/[21,22]|verb|1
+want/[5,6]|vg|dp/dp|wie/[16,17]|pron|1
+bij/[5,6]|prep|hd/obj1|vlieger_wedstrijd/[8,9]|noun|1
+top/top|top|top/hd|word/[2,3]|verb|1
+verhouding/[1,2]|noun|hd/det|deze/[0,1]|det|1
+vertolk/[4,5]|verb|hd/mod|bij/[5,6]|prep|1
+vertolk/[4,5]|verb|hd/mod|goed/[3,4]|adj|1
+vertolk/[4,5]|verb|hd/obj1|verhouding/[1,2]|noun|1
+vlieger_wedstrijd/[8,9]|noun|hd/det|een/[6,7]|det|1
+vlieger_wedstrijd/[8,9]|noun|hd/mod|plaatselijk/[7,8]|adj|1
+word/[2,3]|verb|-- / --|./[9,10]|punct|1
+word/[2,3]|verb|hd/su|verhouding/[1,2]|noun|1
+word/[2,3]|verb|hd/vc|vertolk/[4,5]|verb|1
+alles/[18,19]|noun|hd/mod|wat/[19,20]|pron|1
+ben/[1,2]|verb|-- / --|./[31,32]|punct|1
+ben/[1,2]|verb|-- / --|het/[26,27]|noun|1
+ben/[1,2]|verb|-- / --|laat_over/[25,26]|verb|1
+ben/[1,2]|verb|-- / --|over/[30,31]|part|1
+ben/[1,2]|verb|-- / --|te/[28,29]|adv|1
+ben/[1,2]|verb|-- / --|wens/[29,30]|verb|1
+ben/[1,2]|verb|dp/dp|vaak/[27,28]|adj|1
+ben/[1,2]|verb|hd/obj2|methafoor/[4,5]|noun|1
+ben/[1,2]|verb|hd/predc|en/[23,24]|vg|1
+ben/[1,2]|verb|hd/su|het/[0,1]|det|1
+ben/[11,12]|verb|hd/su|rol/[10,11]|noun|1
+ben/[11,12]|verb|hd/vc|verdeel/[12,13]|verb|1
+doe/[15,16]|verb|hd/mod|in/[16,17]|prep|1
+doe/[15,16]|verb|hd/mod|waarop/[8,9]|pp|1
+doe/[15,16]|verb|hd/su|Hassan/[14,15]|name|1
+en/[23,24]|vg|crd/cnj|alles/[18,19]|noun|1
+en/[23,24]|vg|crd/cnj|andersom/[24,25]|adv|1
+heb/[22,23]|verb|hd/obj1|wat/[19,20]|pron|1
+heb/[22,23]|verb|hd/predc|nodig/[21,22]|adj|1
+heb/[22,23]|verb|hd/su|Amir/[20,21]|name|1
+in/[16,17]|prep|hd/obj1|werkelijkheid/[17,18]|noun|1
+methafoor/[4,5]|noun|hd/det|een/[2,3]|det|1
+methafoor/[4,5]|noun|hd/mod|mooi/[3,4]|adj|1
+methafoor/[4,5]|noun|hd/mod|op/[5,6]|prep|1
+op/[5,6]|prep|hd/obj1|wijze/[7,8]|noun|1
+rol/[10,11]|noun|hd/det|de/[9,10]|det|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+verdeel/[12,13]|verb|hd/mod|waarop/[8,9]|pp|1
+verdeel/[12,13]|verb|hd/obj1|rol/[10,11]|noun|1
+waarop/[8,9]|pp|rhd/body|want/[13,14]|vg|1
+want/[13,14]|vg|crd/cnj|ben/[11,12]|verb|1
+want/[13,14]|vg|crd/cnj|doe/[15,16]|verb|1
+wat/[19,20]|pron|rhd/body|heb/[22,23]|verb|1
+wijze/[7,8]|noun|hd/det|de/[6,7]|det|1
+wijze/[7,8]|noun|hd/mod|waarop/[8,9]|pp|1
+top/top|top|top/hd|verlies/[3,4]|verb|1
+verlies/[3,4]|verb|-- / --|./[8,9]|punct|1
+verlies/[3,4]|verb|hd/obj1|elkaar/[4,5]|pron|1
+verlies/[3,4]|verb|hd/su|vriend/[2,3]|noun|1
+verlies/[3,4]|verb|hd/svp|uit het oog/[5,8]|fixed|1
+vriend/[2,3]|noun|hd/det|de/[0,1]|det|1
+vriend/[2,3]|noun|hd/mod|goed/[1,2]|adj|1
+Amerika, Hassan/[8,10]|name|hd/det|het/[6,7]|det|1
+Amerika, Hassan/[8,10]|name|hd/mod|veilig/[7,8]|adj|1
+bij/[16,17]|prep|hd/obj1|breek_los/[18,19]|verb|1
+breek_los/[18,19]|verb|hd/det|het/[17,18]|det|1
+breek_los/[18,19]|verb|hd/mod|van/[19,20]|prep|1
+en/[11,12]|vg|crd/cnj|blijf/[10,11]|verb|1
+en/[11,12]|vg|crd/cnj|heb/[12,13]|verb|1
+familie/[4,5]|noun|hd/det|zijn/[3,4]|det|1
+heb/[12,13]|verb|hd/mod|bij/[16,17]|prep|1
+heb/[12,13]|verb|hd/obj1|tijd/[15,16]|noun|1
+met/[2,3]|prep|hd/obj1|familie/[4,5]|noun|1
+naar/[5,6]|prep|hd/obj1|Amerika, Hassan/[8,10]|name|1
+oorlog/[21,22]|noun|hd/det|de/[20,21]|det|1
+tijd/[15,16]|noun|hd/det|een/[13,14]|det|1
+tijd/[15,16]|noun|hd/mod|moeilijk/[14,15]|adj|1
+top/top|top|top/hd|vertrek/[1,2]|verb|1
+van/[19,20]|prep|hd/obj1|oorlog/[21,22]|noun|1
+vertrek/[1,2]|verb|-- / --|./[22,23]|punct|1
+vertrek/[1,2]|verb|dp/dp|en/[11,12]|vg|1
+vertrek/[1,2]|verb|hd/ld|naar/[5,6]|prep|1
+vertrek/[1,2]|verb|hd/mod|met/[2,3]|prep|1
+vertrek/[1,2]|verb|hd/su|Amir/[0,1]|name|1
+beschrijving/[5,6]|noun|hd/det|een/[3,4]|det|1
+beschrijving/[5,6]|noun|hd/mod|gevoelig/[4,5]|adj|1
+beschrijving/[5,6]|noun|hd/mod|van/[6,7]|prep|1
+boek/[1,2]|noun|hd/det|het/[0,1]|det|1
+en/[9,10]|vg|crd/cnj|sfeer/[10,11]|noun|1
+en/[9,10]|vg|crd/cnj|situatie/[8,9]|noun|1
+en/[15,16]|vg|crd/cnj|na/[16,17]|prep|1
+en/[15,16]|vg|crd/cnj|tijdens/[14,15]|prep|1
+geef/[2,3]|verb|-- / --|./[19,20]|punct|1
+geef/[2,3]|verb|hd/mod|en/[15,16]|vg|1
+geef/[2,3]|verb|hd/mod|voor/[13,14]|adj|1
+geef/[2,3]|verb|hd/obj1|beschrijving/[5,6]|noun|1
+geef/[2,3]|verb|hd/su|boek/[1,2]|noun|1
+in/[11,12]|prep|hd/obj1|afghanistan/[12,13]|name|1
+na/[16,17]|prep|hd/obj1|oorlog/[18,19]|noun|1
+oorlog/[18,19]|noun|hd/det|de/[17,18]|det|1
+sfeer/[10,11]|noun|hd/det|de/[7,8]|det|1
+sfeer/[10,11]|noun|hd/mod|in/[11,12]|prep|1
+situatie/[8,9]|noun|hd/det|de/[7,8]|det|1
+situatie/[8,9]|noun|hd/mod|in/[11,12]|prep|1
+tijdens/[14,15]|prep|hd/obj1|oorlog/[18,19]|noun|1
+top/top|top|top/hd|geef/[2,3]|verb|1
+van/[6,7]|prep|hd/obj1|en/[9,10]|vg|1
+confronteer/[4,5]|verb|hd/mod|ook/[1,2]|adv|1
+confronteer/[4,5]|verb|hd/mod|waarin/[0,1]|pp|1
+confronteer/[4,5]|verb|hd/obj1|lezer/[2,3]|noun|1
+confronteer/[4,5]|verb|hd/pc|met/[5,6]|prep|1
+en/[8,9]|vg|crd/cnj|boosheid/[9,10]|noun|1
+en/[8,9]|vg|crd/cnj|schuld_verdriet/[6,8]|noun|1
+met/[5,6]|prep|hd/obj1|en/[8,9]|vg|1
+top/top|top|top/hd|waarin/[0,1]|pp|1
+waarin/[0,1]|pp|-- / --|./[10,11]|punct|1
+waarin/[0,1]|pp|rhd/body|word/[3,4]|verb|1
+word/[3,4]|verb|hd/su|lezer/[2,3]|noun|1
+word/[3,4]|verb|hd/vc|confronteer/[4,5]|verb|1

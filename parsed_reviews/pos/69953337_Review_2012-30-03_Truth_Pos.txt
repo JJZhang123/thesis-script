@@ -1,0 +1,96 @@
+dat/[10,11]|comp|cmp/body|ga/[17,18]|verb|1
+denk/[8,9]|verb|-- / --|./[19,20]|punct|1
+denk/[8,9]|verb|hd/mod|toen/[0,1]|comp|1
+denk/[8,9]|verb|hd/su|ik/[9,10]|pron|1
+denk/[8,9]|verb|hd/vc|dat/[10,11]|comp|1
+film/[3,4]|noun|hd/det|deze/[2,3]|det|1
+film/[3,4]|noun|hd/mod|van/[4,5]|prep|1
+ga/[17,18]|verb|hd/su|het/[11,12]|det|1
+ga/[17,18]|verb|hd/vc|word/[18,19]|verb|1
+leen/[7,8]|verb|hd/obj1|film/[3,4]|noun|1
+leen/[7,8]|verb|hd/su|ik/[1,2]|pron|1
+toen/[0,1]|comp|cmp/body|leen/[7,8]|verb|1
+top/top|top|top/hd|denk/[8,9]|verb|1
+van/[4,5]|prep|hd/obj1|videotheek/[6,7]|noun|1
+van/[14,15]|prep|hd/obj1|zoveel/[16,17]|adj|1
+videotheek/[6,7]|noun|hd/det|de/[5,6]|det|1
+word/[18,19]|verb|hd/mod|weer/[12,13]|adv|1
+word/[18,19]|verb|hd/predc|één/[13,14]|num|1
+word/[18,19]|verb|hd/su|het/[11,12]|det|1
+zoveel/[16,17]|adj|hd/det|de/[15,16]|det|1
+één/[13,14]|num|hd/mod|van/[14,15]|prep|1
+ben/[1,2]|verb|hd/predc|moe/[2,3]|adj|1
+ben/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+en/[3,4]|vg|-- / --|./[10,11]|punct|1
+en/[3,4]|vg|crd/cnj|ben/[1,2]|verb|1
+en/[3,4]|vg|crd/cnj|heb/[4,5]|verb|1
+film/[9,10]|noun|hd/det|een/[7,8]|det|1
+film/[9,10]|noun|hd/mod|hersenloos/[8,9]|adj|1
+heb/[4,5]|verb|hd/obj1|zin/[5,6]|noun|1
+heb/[4,5]|verb|hd/su|ik/[0,1]|pron|1
+in/[6,7]|prep|hd/obj1|film/[9,10]|noun|1
+top/top|top|top/hd|en/[3,4]|vg|1
+zin/[5,6]|noun|hd/mod|in/[6,7]|prep|1
+ben/[5,6]|verb|-- / --|./[14,15]|punct|1
+ben/[5,6]|verb|hd/predc|nadeel/[1,2]|noun|1
+ben/[5,6]|verb|hd/su|dat/[6,7]|comp|1
+dat/[6,7]|comp|cmp/body|word/[10,11]|verb|1
+met/[2,3]|prep|hd/obj1|zon/[3,4]|noun|1
+met/[2,3]|prep|hd/predc|film/[4,5]|noun|1
+na/[11,12]|prep|hd/obj1|tijd/[13,14]|noun|1
+nadeel/[1,2]|noun|hd/det|het/[0,1]|det|1
+nadeel/[1,2]|noun|hd/mod|met/[2,3]|prep|1
+tijd/[13,14]|noun|hd/det|een/[12,13]|det|1
+top/top|top|top/hd|ben/[5,6]|verb|1
+word/[10,11]|verb|hd/mod|na/[11,12]|prep|1
+word/[10,11]|verb|hd/mod|vaak/[8,9]|adj|1
+word/[10,11]|verb|hd/predc|saai/[9,10]|adj|1
+word/[10,11]|verb|hd/su|die/[7,8]|det|1
+ben/[1,2]|verb|-- / --|./[7,8]|punct|1
+ben/[1,2]|verb|hd/ld|bij/[4,5]|prep|1
+ben/[1,2]|verb|hd/mod|niet/[3,4]|adv|1
+ben/[1,2]|verb|hd/su|dat/[0,1]|det|1
+bij/[4,5]|prep|hd/obj1|film/[6,7]|noun|1
+film/[6,7]|noun|hd/det|deze/[5,6]|det|1
+niet/[3,4]|adv|hd/mod|helemaal/[2,3]|adv|1
+top/top|top|top/hd|ben/[1,2]|verb|1
+en/[16,17]|vg|crd/cnj|Emma Stone/[17,19]|name|1
+en/[16,17]|vg|crd/cnj|hem/[15,16]|pron|1
+goed/[5,6]|adj|hd/mod|echt/[4,5]|adj|1
+heb/[7,8]|verb|hd/su|ik/[8,9]|pron|1
+heb/[7,8]|verb|hd/vc|vind/[10,11]|verb|1
+mooi/[20,21]|adj|hd/mod|heel/[19,20]|adv|1
+top/top|top|top/hd|vind/[1,2]|verb|1
+tussen/[14,15]|prep|hd/obj1|en/[16,17]|vg|1
+verhaal_lijn/[13,14]|noun|dp/dp|mooi/[20,21]|adj|1
+verhaal_lijn/[13,14]|noun|hd/det|de/[12,13]|det|1
+verhaal_lijn/[13,14]|noun|hd/mod|tussen/[14,15]|prep|1
+vind/[1,2]|verb|-- / --|./[21,22]|punct|1
+vind/[1,2]|verb|-- / --|en/[11,12]|vg|1
+vind/[1,2]|verb|dp/dp|heb/[7,8]|verb|1
+vind/[1,2]|verb|dp/dp|verhaal_lijn/[13,14]|noun|1
+vind/[1,2]|verb|hd/obj1|Ryan Gosling/[2,4]|name|1
+vind/[1,2]|verb|hd/predc|goed/[5,6]|adj|1
+vind/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+vind/[10,11]|verb|hd/mod|altijd/[9,10]|adv|1
+vind/[10,11]|verb|hd/obj1|dat/[6,7]|det|1
+vind/[10,11]|verb|hd/su|ik/[8,9]|pron|1
+ben/[8,9]|verb|hd/mod|ook/[9,10]|adv|1
+ben/[8,9]|verb|hd/mod|wel/[10,11]|adj|1
+ben/[8,9]|verb|hd/predc|goed/[11,12]|adj|1
+ben/[8,9]|verb|hd/su|verhaal/[1,2]|noun|1
+bij/[16,17]|prep|hd/obj1|er/[14,15]|adv|1
+en/[5,6]|vg|crd/cnj|Julianne Moore/[6,8]|name|1
+en/[5,6]|vg|crd/cnj|Steve Carell/[3,5]|name|1
+heb/[13,14]|verb|hd/su|verhaal/[1,2]|noun|1
+heb/[13,14]|verb|hd/vc|moet/[17,18]|verb|1
+maar/[12,13]|vg|-- / --|./[18,19]|punct|1
+maar/[12,13]|vg|crd/cnj|ben/[8,9]|verb|1
+maar/[12,13]|vg|crd/cnj|heb/[13,14]|verb|1
+moet/[17,18]|verb|hd/ld|bij/[16,17]|prep|1
+moet/[17,18]|verb|hd/mod|niet/[15,16]|adv|1
+moet/[17,18]|verb|hd/su|verhaal/[1,2]|noun|1
+top/top|top|top/hd|maar/[12,13]|vg|1
+van/[2,3]|prep|hd/obj1|en/[5,6]|vg|1
+verhaal/[1,2]|noun|hd/det|het/[0,1]|det|1
+verhaal/[1,2]|noun|hd/mod|van/[2,3]|prep|1

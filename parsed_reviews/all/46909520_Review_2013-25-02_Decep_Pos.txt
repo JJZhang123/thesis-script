@@ -1,0 +1,56 @@
+gospel_groep/[1,2]|noun|hd/app|PROPNAME/[2,3]|name|1
+gospel_groep/[1,2]|noun|hd/det|de/[0,1]|det|1
+heb/[3,4]|verb|-- / --|./[8,9]|punct|1
+heb/[3,4]|verb|hd/su|gospel_groep/[1,2]|noun|1
+heb/[3,4]|verb|hd/vc|krijg/[7,8]|verb|1
+krijg/[7,8]|verb|hd/obj1|mij/[4,5]|pron|1
+krijg/[7,8]|verb|hd/su|gospel_groep/[1,2]|noun|1
+krijg/[7,8]|verb|hd/svp|te pakken/[5,7]|fixed|1
+top/top|top|top/hd|heb/[3,4]|verb|1
+beat/[7,8]|noun|hd/det|hun/[1,2]|det|1
+beat/[7,8]|noun|hd/mod|stevig/[6,7]|adj|1
+ben/[8,9]|verb|-- / --|./[16,17]|punct|1
+ben/[8,9]|verb|hd/mod|al/[10,11]|adv|1
+ben/[8,9]|verb|hd/mod|met/[0,1]|prep|1
+ben/[8,9]|verb|hd/predc|moeilijk/[11,12]|adj|1
+ben/[8,9]|verb|hd/su|te/[14,15]|comp|1
+ben/[8,9]|verb|hd/sup|het/[9,10]|noun|1
+en/[5,6]|vg|crd/cnj|beat/[7,8]|noun|1
+en/[5,6]|vg|crd/cnj|tekst/[4,5]|noun|1
+loof/[3,4]|adj|hd/obj1|God/[2,3]|noun|1
+met/[0,1]|prep|hd/obj1|en/[5,6]|vg|1
+te/[14,15]|comp|cmp/body|verwacht/[15,16]|verb|1
+tegengestelde/[13,14]|noun|hd/det|het/[12,13]|det|1
+tekst/[4,5]|noun|hd/det|hun/[1,2]|det|1
+tekst/[4,5]|noun|hd/mod|loof/[3,4]|adj|1
+top/top|top|top/hd|ben/[8,9]|verb|1
+verwacht/[15,16]|verb|hd/obj1|tegengestelde/[13,14]|noun|1
+PROPNAME_tour/[1,2]|noun|hd/det|de/[0,1]|det|1
+ben/[9,10]|verb|hd/predc|bereid/[12,13]|adj|1
+ben/[9,10]|verb|hd/su|ik/[8,9]|pron|1
+bereid/[12,13]|adj|hd/mod|meer dan/[10,12]|adv|1
+bereid/[12,13]|adj|hd/vc|om/[13,14]|comp|1
+cent/[16,17]|noun|hd/det|mijn/[15,16]|det|1
+en/[7,8]|vg|-- / --|./[21,22]|punct|1
+en/[7,8]|vg|crd/cnj|ben/[9,10]|verb|1
+en/[7,8]|vg|crd/cnj|zit/[2,3]|verb|1
+om/[13,14]|comp|cmp/body|te/[19,20]|comp|1
+op/[3,4]|prep|hd/obj1|ons/[4,5]|pron|1
+te/[5,6]|comp|cmp/body|wacht/[6,7]|verb|1
+te/[19,20]|comp|cmp/body|tel_neer/[20,21]|verb|1
+tel_neer/[20,21]|verb|hd/obj1|cent/[16,17]|noun|1
+tel_neer/[20,21]|verb|hd/pc|voor/[17,18]|prep|1
+tel_neer/[20,21]|verb|hd/svp|neer/[18,19]|part|1
+top/top|top|top/hd|en/[7,8]|vg|1
+voor/[17,18]|prep|hd/obj1|er/[14,15]|adv|1
+wacht/[6,7]|verb|hd/pc|op/[3,4]|prep|1
+wacht/[6,7]|verb|hd/su|PROPNAME_tour/[1,2]|noun|1
+zit/[2,3]|verb|hd/su|PROPNAME_tour/[1,2]|noun|1
+zit/[2,3]|verb|hd/vc|te/[5,6]|comp|1
+kan/[1,2]|verb|-- / --|!/[5,6]|punct|1
+kan/[1,2]|verb|hd/su|ik/[0,1]|pron|1
+kan/[1,2]|verb|hd/vc|wacht/[4,5]|verb|1
+top/top|top|top/hd|kan/[1,2]|verb|1
+wacht/[4,5]|verb|hd/mod|haast/[2,3]|adv|1
+wacht/[4,5]|verb|hd/mod|niet/[3,4]|adv|1
+wacht/[4,5]|verb|hd/su|ik/[0,1]|pron|1
